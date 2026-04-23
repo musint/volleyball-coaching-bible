@@ -22,17 +22,69 @@ async def run_login() -> int:
 
     try:
         async with async_playwright() as p:
+            # Prefer the user's real Chrome if available; fall back to Playwright's Chromium.
+            # Cloudflare's bot detection trusts real Chrome far more than bundled Chromium.
+            launch_args = [
+                "--disable-blink-features=AutomationControlled",
+                "--disable-features=IsolateOrigins,site-per-process",
+                "--no-sandbox",
+                "--disable-dev-shm-usage",
+            ]
             try:
-                browser = await p.chromium.launch(headless=False)
-            except PlaywrightError as e:
+                browser = await p.chromium.launch(
+                    headless=False,
+                    channel="chrome",
+                    args=launch_args,
+                )
+            except PlaywrightError:
+                # channel="chrome" requires Google Chrome installed on the system.
+                # Fall back to Playwright's bundled Chromium (less stealth but always available).
                 print(
-                    f"[auth] ERROR: failed to launch Chromium: {e}\n"
-                    f"[auth] Did you run `playwright install chromium` inside the venv?",
+                    "[auth] Google Chrome not found; falling back to Playwright Chromium. "
+                    "If Cloudflare blocks you, install Google Chrome and retry.",
                     file=sys.stderr,
                 )
-                return 1
+                try:
+                    browser = await p.chromium.launch(
+                        headless=False,
+                        args=launch_args,
+                    )
+                except PlaywrightError as e:
+                    print(
+                        f"[auth] ERROR: failed to launch Chromium: {e}\n"
+                        f"[auth] Did you run `playwright install chromium` inside the venv?",
+                        file=sys.stderr,
+                    )
+                    return 1
 
-            context = await browser.new_context(user_agent=config.USER_AGENT)
+            context = await browser.new_context(
+                user_agent=config.USER_AGENT,
+                viewport={"width": 1280, "height": 800},
+                locale="en-US",
+                timezone_id="America/New_York",
+            )
+            # Stealth init: hide automation markers before any page loads.
+            await context.add_init_script("""
+                // Hide navigator.webdriver
+                Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+                // Fake window.chrome
+                window.chrome = { runtime: {} };
+                // Fake plugins (some sites check plugin count)
+                Object.defineProperty(navigator, 'plugins', {
+                    get: () => [1, 2, 3, 4, 5]
+                });
+                // Fake languages
+                Object.defineProperty(navigator, 'languages', {
+                    get: () => ['en-US', 'en']
+                });
+                // Hide permission query automation artifact
+                const originalQuery = window.navigator.permissions.query;
+                window.navigator.permissions.query = (parameters) => (
+                    parameters.name === 'notifications'
+                        ? Promise.resolve({ state: Notification.permission })
+                        : originalQuery(parameters)
+                );
+            """)
             page = await context.new_page()
 
             print(f"[auth] Opening {config.AOC_LOGIN_URL} ...")
