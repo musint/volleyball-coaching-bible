@@ -30,8 +30,8 @@ DEFAULT_SEEDS: list[tuple[str, str]] = [
         "https://www.theartofcoachingvolleyball.com/?s=karch",
     ),
     (
-        "live-category-passing",
-        "https://www.theartofcoachingvolleyball.com/category/passing/",
+        "live-category-passing-drills",
+        "https://www.theartofcoachingvolleyball.com/category/drill/passing-drills/",
     ),
 ]
 
