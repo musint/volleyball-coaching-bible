@@ -25,6 +25,8 @@ FIXTURES_DIR = PACKAGE_ROOT / "tests" / "fixtures"
 # HTTP behavior
 DEFAULT_TIMEOUT_S = 30.0
 REQUEST_MIN_INTERVAL_S = 1.0   # rate limit: min spacing between requests
+RETRY_429_BACKOFF_S = 1.0
+RETRY_5XX_BACKOFF_S = 4.0
 
 # Auth timeout
 AUTH_LOGIN_TIMEOUT_S = 300     # user has 5 minutes to log in manually

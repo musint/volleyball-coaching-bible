@@ -23,7 +23,7 @@ _WP_LOGIN_ACTION_RE = re.compile(
     r'action=["\'][^"\']*wp-login\.php', re.IGNORECASE
 )
 _LOGIN_URL_RE = re.compile(
-    r'theartofcoachingvolleyball\.com/(?:wp-login\.php|login)',
+    r'theartofcoachingvolleyball\.com/(?:wp-login\.php|login)(?:/|\?|$)',
     re.IGNORECASE,
 )
 
@@ -107,13 +107,13 @@ class AocClient:
             raise NotFound(url)
 
         if response.status_code == 429:
-            time.sleep(1.0)
+            time.sleep(config.RETRY_429_BACKOFF_S)
             response = self._http.get(url)
             if response.status_code == 429:
                 raise RateLimited(url)
 
         if 500 <= response.status_code < 600 and retry_5xx:
-            time.sleep(4.0)
+            time.sleep(config.RETRY_5XX_BACKOFF_S)
             response = self._http.get(url)
             if 500 <= response.status_code < 600:
                 raise UpstreamError(url, response.status_code)

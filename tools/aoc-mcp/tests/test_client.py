@@ -79,3 +79,11 @@ def test_rate_limit_enforced(tmp_path, monkeypatch):
     client.get("https://example.com/b")
     elapsed = time.monotonic() - start
     assert elapsed >= 0.2, f"rate limit not enforced: elapsed={elapsed}"
+
+
+def test_detect_login_form_does_not_false_positive_on_login_prefixed_slug():
+    """A URL containing /login-xyz (a slug that starts with 'login') must NOT be sniffed as login."""
+    assert detect_login_form(
+        body="<html><body>real article</body></html>",
+        final_url="https://www.theartofcoachingvolleyball.com/login-strategies-for-captains/"
+    ) is False
