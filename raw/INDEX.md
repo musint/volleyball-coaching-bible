@@ -37,7 +37,8 @@ Format: `- <path> — <source-title> — <citation-key>`
 - gms-thank-you-carl-mcgown.md — GMS: Thank You Carl McGown (2017) — gms-2017-thank-you-carl-mcgown
 - mcgown-usav-remembering.md — Remembering Carl McGown (USAV 2017) — mcgown-2017-usav-remembering
 
-### AOC (W1.5)
+### AOC (W1.5 + MCP-driven ingests)
+- aoc-2013-kiraly-4-keys-forearm-pass.md — Karch Kiraly's 4 keys to the forearm pass (AOC Premium, video-backed, 2013) — aoc-2013-kiraly-4-keys-forearm-pass
 - aoc-2017-liskevych-dunning-tribute.md — Liskevych tribute to Dunning (AOC 2017) — aoc-2017-liskevych-dunning-tribute
 - aoc-2017-rose-10-things-learned.md — Russ Rose's "10 things I've learned" (AOC 2017) — aoc-2017-rose-10-things-learned
 - aoc-2018-dunning-serve-warmup.md — Dunning on serve warm-up (AOC 2018) — aoc-2018-dunning-serve-warmup

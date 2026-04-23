@@ -81,6 +81,16 @@ All 3 IG profiles login-walled — profiles captured, no post-specific claims. 2
 captured via public companion articles (no transcripts); 2 items metadata-only stubs.
 USAVlearn Kiraly-on-reading item eligible for tier-2 promotion upon transcript capture.
 
+## [2026-04-23] aoc-mcp-e2e | First MCP-driven Premium ingest (Task 14)
+First end-to-end use of tools/aoc-mcp/. Ingested Kiraly's "4 keys to the forearm pass"
+(AOC Premium, 2013) via `mcp__aoc__fetch_article` tool handler. Confirms auth,
+fetch, extract, and wiki-write all work over the MCP interface.
+Pages touched: raw/articles/aoc-2013-kiraly-4-keys-forearm-pass.md,
+wiki/sources/aoc-2013-kiraly-4-keys-forearm-pass.md, raw/INDEX.md, wiki/log.md.
+Extraction: title/author/date/tags all populated; word_count=169 (video-backed
+article with concise body text). Confirms the full MCP pipeline is live — future
+Wave 2 coach/school profile writing can call `mcp__aoc__*` tools directly.
+
 ## [2026-04-23] wave1-complete | Source library populated
 9 clusters ingested via parallel subagents. Total: 72 source pages across wiki/sources/
 (exceeded ≥30 target by 2.4×). Raw: ~55 files across raw/articles/ (most), raw/transcripts/,
