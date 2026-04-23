@@ -338,6 +338,96 @@ def run_import_from_cookie_header(source: str) -> int:
     return 0
 
 
+def run_import_from_cookie_editor_json(source: str) -> int:
+    """Import cookies from a Cookie-Editor Chrome extension JSON export.
+
+    source: file path (or '-' for stdin) containing a JSON array of cookie dicts
+    in Cookie-Editor's export format: each dict has name, value, domain, path,
+    and optional httpOnly, secure, sameSite, expirationDate.
+    """
+    import json as _json
+
+    if source == "-":
+        raw = sys.stdin.read()
+    else:
+        try:
+            raw = Path(source).read_text(encoding="utf-8")
+        except (FileNotFoundError, OSError) as e:
+            print(f"[auth] Could not read {source}: {e}", file=sys.stderr)
+            return 1
+
+    try:
+        parsed = _json.loads(raw)
+    except _json.JSONDecodeError as e:
+        print(f"[auth] Invalid JSON: {e}", file=sys.stderr)
+        return 1
+
+    if not isinstance(parsed, list):
+        print(
+            f"[auth] Expected a JSON array of cookies (Cookie-Editor format); "
+            f"got {type(parsed).__name__}.",
+            file=sys.stderr,
+        )
+        return 1
+
+    cookies = []
+    for i, c in enumerate(parsed):
+        if not isinstance(c, dict):
+            print(f"[auth] Skipping entry {i}: not a dict", file=sys.stderr)
+            continue
+        name = c.get("name")
+        value = c.get("value")
+        if not name or value is None:
+            print(f"[auth] Skipping entry {i}: missing name/value", file=sys.stderr)
+            continue
+        # Cookie-Editor uses "expirationDate" (Unix seconds, float). Playwright
+        # wants "expires" as int seconds, or -1 for session cookies.
+        exp_date = c.get("expirationDate")
+        if c.get("session") or exp_date is None:
+            expires = -1
+        else:
+            expires = int(exp_date)
+        # Cookie-Editor sameSite values: "lax", "strict", "no_restriction", "unspecified"
+        # Playwright wants "Lax", "Strict", "None".
+        ss = (c.get("sameSite") or "lax").lower()
+        same_site = {
+            "strict": "Strict",
+            "lax": "Lax",
+            "no_restriction": "None",
+            "none": "None",
+            "unspecified": "Lax",
+        }.get(ss, "Lax")
+
+        cookies.append({
+            "name": name,
+            "value": value,
+            "domain": c.get("domain", ".theartofcoachingvolleyball.com"),
+            "path": c.get("path", "/"),
+            "expires": expires,
+            "httpOnly": bool(c.get("httpOnly", False)),
+            "secure": bool(c.get("secure", False)),
+            "sameSite": same_site,
+        })
+
+    if not cookies:
+        print("[auth] No valid cookies parsed from input.", file=sys.stderr)
+        return 1
+
+    has_wp_login = any(c["name"].startswith("wordpress_logged_in_") for c in cookies)
+    if not has_wp_login:
+        print(
+            f"[auth] Warning: no `wordpress_logged_in_*` cookie found. "
+            f"You may have exported from a tab that wasn't on AOC, or not logged in.",
+            file=sys.stderr,
+        )
+
+    storage_state = {"cookies": cookies, "origins": []}
+    config.SESSION_FILE.parent.mkdir(parents=True, exist_ok=True)
+    config.SESSION_FILE.write_text(_json.dumps(storage_state, indent=2))
+    print(f"[auth] Imported {len(cookies)} cookies from Cookie-Editor JSON to {config.SESSION_FILE}")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="AOC auth CLI")
     parser.add_argument(
@@ -354,6 +444,11 @@ def main() -> int:
         help="Import cookies from a Cookie: header string. "
              "PATH is a file containing the header value, or '-' for stdin.",
     )
+    parser.add_argument(
+        "--from-cookie-editor-json", metavar="PATH",
+        help="Import cookies from a Cookie-Editor Chrome extension JSON export. "
+             "PATH is a file containing the JSON, or '-' for stdin.",
+    )
     args = parser.parse_args()
 
     if args.verify:
@@ -363,6 +458,8 @@ def main() -> int:
         return run_import_from_browser(name)
     if args.from_cookie_header:
         return run_import_from_cookie_header(args.from_cookie_header)
+    if args.from_cookie_editor_json:
+        return run_import_from_cookie_editor_json(args.from_cookie_editor_json)
     return asyncio.run(run_login())
 
 
