@@ -16,3 +16,6 @@ desktop.ini
 # Owned book PDFs that shouldn't be committed to shared repos
 # (user may redistribute this repo; copyrighted PDFs stay local)
 raw/books/*.pdf
+
+# Git worktrees (local isolation for feature branches)
+.worktrees/
