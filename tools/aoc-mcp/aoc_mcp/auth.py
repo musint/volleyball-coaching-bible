@@ -10,6 +10,7 @@ import argparse
 import asyncio
 import sys
 import time
+from pathlib import Path
 
 from playwright.async_api import async_playwright
 
@@ -258,6 +259,85 @@ def run_import_from_browser(browser_name: str | None = None) -> int:
     return 0
 
 
+def run_import_from_cookie_header(source: str) -> int:
+    """Import cookies from a captured Cookie: request header.
+
+    source: Either a file path containing the header value, or '-' to read from stdin.
+
+    The Cookie header format is `name1=value1; name2=value2; ...`. HttpOnly cookies
+    (including wordpress_logged_in_*) are present in this header because the browser
+    sends them; the Network tab in DevTools shows them verbatim under Request Headers.
+
+    We treat every cookie as belonging to `.theartofcoachingvolleyball.com` with path
+    `/`, httpOnly+secure=True. That matches how AOC actually sets them and is what
+    httpx needs to resend them on subsequent requests.
+    """
+    import json as _json
+
+    if source == "-":
+        raw = sys.stdin.read().strip()
+    else:
+        try:
+            raw = Path(source).read_text(encoding="utf-8").strip()
+        except (FileNotFoundError, OSError) as e:
+            print(f"[auth] Could not read {source}: {e}", file=sys.stderr)
+            return 1
+
+    # Strip a leading "Cookie:" prefix if the user pasted the whole header line.
+    if raw.lower().startswith("cookie:"):
+        raw = raw.split(":", 1)[1].strip()
+
+    if not raw:
+        print(
+            "[auth] Input is empty. Paste the Cookie: header value from "
+            "Chrome DevTools -> Network -> (main request) -> Request Headers.",
+            file=sys.stderr,
+        )
+        return 1
+
+    # Parse "name1=value1; name2=value2; ..." into cookie dicts.
+    pairs = [p.strip() for p in raw.split(";") if "=" in p]
+    cookies = []
+    for p in pairs:
+        name, _, value = p.partition("=")
+        name = name.strip()
+        value = value.strip()
+        if not name:
+            continue
+        cookies.append({
+            "name": name,
+            "value": value,
+            "domain": ".theartofcoachingvolleyball.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": True,
+            "secure": True,
+            "sameSite": "Lax",
+        })
+
+    if not cookies:
+        print(
+            "[auth] No cookies parsed from input. Expected `name=value; name=value; ...` format.",
+            file=sys.stderr,
+        )
+        return 1
+
+    has_wp_login = any(c["name"].startswith("wordpress_logged_in_") for c in cookies)
+    if not has_wp_login:
+        print(
+            f"[auth] Warning: no `wordpress_logged_in_*` cookie found. "
+            f"You may have copied a non-authenticated request's header. "
+            f"Parsed {len(cookies)} cookies anyway; --verify will tell you if it works.",
+            file=sys.stderr,
+        )
+
+    storage_state = {"cookies": cookies, "origins": []}
+    config.SESSION_FILE.parent.mkdir(parents=True, exist_ok=True)
+    config.SESSION_FILE.write_text(_json.dumps(storage_state, indent=2))
+    print(f"[auth] Imported {len(cookies)} cookies from header to {config.SESSION_FILE}")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="AOC auth CLI")
     parser.add_argument(
@@ -269,6 +349,11 @@ def main() -> int:
         help="Import cookies from an installed browser instead of launching Playwright. "
              "Pass one of: chrome, firefox, edge, brave. With no arg, tries all.",
     )
+    parser.add_argument(
+        "--from-cookie-header", metavar="PATH",
+        help="Import cookies from a Cookie: header string. "
+             "PATH is a file containing the header value, or '-' for stdin.",
+    )
     args = parser.parse_args()
 
     if args.verify:
@@ -276,6 +361,8 @@ def main() -> int:
     if args.from_browser:
         name = None if args.from_browser == "auto" else args.from_browser
         return run_import_from_browser(name)
+    if args.from_cookie_header:
+        return run_import_from_cookie_header(args.from_cookie_header)
     return asyncio.run(run_login())
 
 
