@@ -15,6 +15,18 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ## Entries
 
+### wiki/coaches/mark-barnard.md
+- **Claim:** Specific season-by-season results of Mark Barnard's Oregon State tenure (2005-2022) — Pac-12 finish history, NCAA Tournament appearances, program win-loss record.
+- **Why unsourced:** AOC bylines confirm the "Oregon State 2005-2022" dateline but do not enumerate season-level results; no Oregon State media guide is ingested.
+- **Research hypothesis:** Oregon State athletics media guides (archived); Pac-12 / AVCA historical standings; Oregon State women's volleyball Wikipedia or program-history page.
+- **Added:** 2026-04-24
+
+### wiki/coaches/mark-barnard.md
+- **Claim:** Barnard's role title (head coach vs. assistant) and tenure dates with the Australian Volleyroos men's national team.
+- **Why unsourced:** AOC 2023 feature identifies him as "Australian Volleyroos coach" without a title or year range; no Volleyball Australia primary source is ingested.
+- **Research hypothesis:** Volleyball Australia / Volleyroos official roster and staff pages; FIVB Men's Volleyroos coach-of-record announcements; Barnard interviews on Australian volleyball media.
+- **Added:** 2026-04-24
+
 ### wiki/coaches/mike-lingenfelter.md
 - **Claim:** "Additional career details — years at Munciana, prior coaching roles, playing career, head-coaching assignments at specific Munciana age-group teams — are not documented in the sources on file here."
 - **Why unsourced:** The 5 AOC source pages on file focus on coaching content (tempo, passing, warmup, club-wide alignment) rather than biographical detail; they do not state when Lingenfelter joined Munciana, whether he came up as a Munciana player, or which Munciana team(s) he currently heads.
