@@ -791,3 +791,45 @@ entries. `wiki/index.md` source-count roll-up bumped from 10 to 13 international
 coach sources. 4 new narrowly-scoped queue entries added to
 `wiki/unsourced-queue.md`. Pages touched: 1 coach profile + 3 source pages + 3
 raw articles + 1 INDEX + 1 wiki index + 1 queue + 1 log = **11**.
+
+## [2026-04-24] dispatch-1-complete | Tracks 1+2 content scaffolding
+Parallel dispatch of 24 agents produced:
+- 7 skill hub pages (passing/setting/hitting/blocking/serving/defense/transition; avg 1144 words)
+- 15 secondary-coach profiles (Rockwell, Stone, Flick-Williams, Mike Lingenfelter, Slabe, Eisler, Johnson-Lynch, Beal, Flynn Oldenburg, MacDonald, Schmidt, B. Rosen, Barnard, Rosenthal, Dagenais)
+- 7 institutional school stubs (ohio-state, western-washington, munciana, iowa-state, alberta, illinois, central-florida)
+- Dataview retrofits on 20 pages (7 skill hubs + 3 age-lens + 6 positions + 2 planning hubs + 2 wide hubs)
+- tools/lint.py + pre-commit hook (baseline 181 broken wikilinks)
+- SCHEMA page-type #10 (practice-plan) + Dataview plugin note
+- wiki/index.md expanded
+
+Agent-surfaced factual corrections vs the plan:
+- Munciana coach is MIKE Lingenfelter (not John)
+- Kerry MacDonald is Canadian (Volleyball Canada CSO)
+- Gina Schmidt is Canadian (Simon Fraser)
+- Laurie Eisler is University of Alberta HC (not Illinois)
+- Brian Rosen (Creighton) and Mark Rosen (Michigan) are distinct coaches — only Brian profiled; Mark queued
+
+## [2026-04-24] dispatch-2-complete | Practice plans + unsourced backfill
+Parallel dispatch of 24 agents produced:
+- 15 practice-plan templates (5 × 14U + 5 × HS + 5 × college)
+- 9 unsourced-queue research clusters:
+  - NCAA recruiting calendar: 2/2 cleared (correction: June 15 sophomore / Aug 1 junior / mid-Nov senior are correct D1 volleyball dates, not the old "Sept 1 junior year")
+  - AVCA/Wise: 4/4 cleared (3 Wikipedia tier-2 sources)
+  - Bernardinho/Brazilian: 11/11 cleared, 5 residual refined (6 new sources including Bernardinho book preview)
+  - Velasco: 3/7 cleared, 4 refined (Mark Lebedew canonical quote translations ingested)
+  - Guidetti: 3/3 cleared (Akyildiz 2022 peer-reviewed VakıfBank training-load paper — Tier 1!)
+  - Daimatsu/Japanese: 3/3 cleared (1964 Olympic NHK rating = 66.8% avg, >80% peak)
+  - Hebert thin-source: 5/7 cleared (4 new sources)
+  - USAV CAP: 2/4 cleared (Forman CoachingVB critique), 2 honestly left unsourced
+  - Nakagaichi [unverified]: RESOLVED — 1972 Munich men's gold HC was Yasutaka Matsudaira (1930-2011); new ~2100w coach profile; originator of time-differential attack (jikan-sa kōgeki)
+- 34 new source pages ingested; 1 new coach profile (Matsudaira)
+- Unsourced queue: ~40 → 68 (net honesty gain — new gaps tagged with research hypotheses)
+
+Net whole-wiki state after Dispatches 1+2:
+- 31 coaches, 21 schools, 25 techniques, 6 positions, 18 systems-detail, 50 drills
+- 15 practice plans, 7 skill hubs, 7 context hubs, 3 age-lens
+- 631 sources, 200+ raw articles
+- Broken wikilinks: 181 → 182 (flat; new pages introduced as many new refs as they resolved)
+- Invariants: 0 violations; frontmatter validation clean on real pages (22 warnings are _templates/ examples)
+
+Next: Dispatch 3 cleanup — residual broken links, Munciana ingest, uncommitted AOC pairing, concept-gap stubs, final acceptance walkthrough.
