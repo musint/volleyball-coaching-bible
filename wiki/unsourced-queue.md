@@ -470,3 +470,27 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Why unsourced:** Stub created as bidirectional-link for Hebert; plan spec also suggested Eisler linkage, not corroborated by any on-file source.
 - **Research hypothesis:** University of Illinois athletics media guides; AVCA Illinois program history; Big Ten women's volleyball archives.
 - **Added:** 2026-04-24
+
+### wiki/coaches/doug-beal.md
+- **Claim:** Specific methodology inside the 1978 Dayton / 1981 San Diego national-team training center (practice ratios, block vs. random practice mix, strength-and-conditioning integration) is not spelled out in the sources available.
+- **Why unsourced:** The Wikipedia bio and AOC profile capsule document the existence and geography of the training center but not its day-to-day practice design or S&C framework.
+- **Research hypothesis:** *Spike* (Beal 1985); Beal's Part 2 Chapter 4 contribution in *The Volleyball Coaching Bible* (AVCA, 2009); contemporaneous *Volleyball Magazine* or *Coaching Volleyball* features on the 1984 gold cycle; interviews with 1984 roster members (Kiraly, Timmons, Dvorak, Salmons, etc.) describing the training-center routine.
+- **Added:** 2026-04-24
+
+### wiki/coaches/doug-beal.md
+- **Claim:** Specific content of Beal's 2017 ("state of volleyball in America") and 2018 ("do we need to change the game to grow the game?") AOC pieces on growing the game and the state of U.S. volleyball.
+- **Why unsourced:** The AOC coach-profile page lists these titles but the full article bodies were not ingested for this profile.
+- **Research hypothesis:** Fetch both pieces via aoc-mcp or WebFetch; cross-reference with the USAV 2016 retirement announcement materials and any 2017-2018 VolleyballMag.com coverage of Beal's end-of-CEO interviews.
+- **Added:** 2026-04-24
+
+### wiki/coaches/doug-beal.md
+- **Claim:** Specific policy and programmatic decisions Beal owned as USAV CEO (2005-2017) — e.g., men's-program investment, coach-education architecture changes, High Performance pipeline design, SafeSport adoption, financial / governance milestones.
+- **Why unsourced:** Wikipedia summarizes dates and tenure length only; the existing USAV coach-education source set (Coach Academy, CAP discontinuation, HP Clinic) post-dates the Beal CEO era and doesn't directly credit decisions to his tenure.
+- **Research hypothesis:** USAV annual reports 2005-2017; *Volleyball USA* magazine archives; the 2016 retirement-announcement press materials; Beal's 2017 AOC interview ("state of volleyball in America: Part 1") for first-person retrospective framing; FIVB News archives for his international-federation roles during this period.
+- **Added:** 2026-04-24
+
+### wiki/coaches/doug-beal.md
+- **Claim:** Marv Dunphy mention in doug-beal.md is plain text rather than a wikilink because no marv-dunphy coach page exists yet; multiple existing pages (carl-mcgown, hugh-mccutcheon, doug-beal, schools/gold-medal-squared) also reference Dunphy without a page.
+- **Why unsourced:** Forward reference held off as plain text until a dedicated Marv Dunphy profile is written (GMS co-founder; Pepperdine; 1988 Seoul gold head coach).
+- **Research hypothesis:** Author `wiki/coaches/marv-dunphy.md` in a follow-up coach-profile task — Pepperdine athletics bio, IVHF induction record (1994), USAV 1988 gold retrospective, GMS co-founder account already captured in gms-nd-about-us and mcgown-2017-usav-remembering. When created, convert the plain-text Dunphy mention back to a wikilink.
+- **Added:** 2026-04-24
