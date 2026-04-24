@@ -1,9 +1,9 @@
 # Wiki Lint Report
 
-Generated: 2026-04-24T12:21:34
+Generated: 2026-04-24T12:29:49
 
 ## Broken wikilinks
-Broken wikilinks: 180
+Broken wikilinks: 182
 
 - wiki\log.md: [[wikilinks]]
 - wiki\SCHEMA.md: [[some-new-coach]]
@@ -13,6 +13,8 @@ Broken wikilinks: 180
 - wiki\unsourced-queue.md: [[kirsten-bernthal-booth]]
 - wiki\unsourced-queue.md: [[mark-rosen]]
 - wiki\unsourced-queue.md: [[minnesota-volleyball]]
+- wiki\coaches\bernardinho.md: [[bebeto-de-freitas]]
+- wiki\coaches\bernardinho.md: [[jose-roberto-guimaraes]]
 - wiki\coaches\brian-rosen.md: [[mark-rosen]]
 - wiki\coaches\carl-mcgown.md: [[brigham-young-university]]
 - wiki\coaches\carl-mcgown.md: [[chris-mcgown]]
@@ -28,12 +30,10 @@ Broken wikilinks: 180
 - wiki\coaches\jim-stone.md: [[tod-mattox]]
 - wiki\coaches\john-dunning.md: [[stanford-cardinal]]
 - wiki\coaches\john-dunning.md: [[university-of-pacific]]
-- wiki\coaches\julio-velasco.md: [[sources]]
 - wiki\coaches\karch-kiraly.md: [[aoc-2024-kiraly-expose-best-player]]
 - wiki\coaches\lang-ping.md: [[china-women-national-team]]
 - wiki\coaches\lang-ping.md: [[usa-women-national-team]]
 - wiki\coaches\luka-slabe.md: [[byu]]
-- wiki\coaches\mike-hebert.md: [[mike-hebert-tree]]
 - wiki\coaches\mike-hebert.md: [[minnesota-volleyball]]
 - wiki\coaches\terry-liskevych.md: [[blocking-technique]]
 - wiki\coaches\terry-liskevych.md: [[liskevych-5]]
@@ -45,14 +45,14 @@ Broken wikilinks: 180
 - wiki\schools\gold-medal-squared.md: [[marv-dunphy]]
 - wiki\schools\gold-medal-squared.md: [[minnesota-volleyball]]
 - wiki\schools\italian-school.md: [[andrea-anastasi]]
-- ...and 140 more
+- ...and 142 more
 
 ## Cross-link invariant violations
 Violations: 0
 
 
 ## Frontmatter failures
-Failures: 20
+Failures: 22
 
 - wiki\sources\daimatsu-2000-hall-of-fame.md: invalid enum value 'institutional-biography' for 'source-type'
 - wiki\sources\daimatsu-2017-tough-love.md: invalid enum value 'retrospective-feature' for 'source-type'
@@ -63,6 +63,8 @@ Failures: 20
 - wiki\sources\gms-nd-structure-practice.md: invalid enum value 'coaching-article' for 'source-type'
 - wiki\sources\japan-2016-five-strengths.md: invalid enum value 'coach-observation-article' for 'source-type'
 - wiki\sources\japan-2024-svleague.md: invalid enum value 'feature-article' for 'source-type'
+- wiki\sources\matsudaira-1998-hall-of-fame.md: invalid enum value 'institutional-biography' for 'source-type'
+- wiki\sources\matsudaira-2026-wikipedia-biography.md: invalid enum value 'reference-biography' for 'source-type'
 - wiki\sources\mcgown-2017-usav-remembering.md: invalid enum value 'obituary-article' for 'source-type'
 - wiki\sources\nakagaichi-2020-fivb-feature.md: invalid enum value 'federation-feature' for 'source-type'
 - wiki\sources\nakagaichi-2021-biography.md: invalid enum value 'reference-biography' for 'source-type'
@@ -76,8 +78,10 @@ Failures: 20
 - wiki\_templates\technique.md: invalid enum value '<skill>' for 'skill'
 
 ## Unresolved citation keys
-Unresolved: 63
+Unresolved: 72
 
+- wiki\log.md: [2026-04-24]
+- wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
@@ -114,14 +118,12 @@ Unresolved: 63
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
-- wiki\SCHEMA.md: [citation-key]
-- wiki\SCHEMA.md: [citation-key]
-- wiki\SCHEMA.md: [usa-volleyball-cap]
-- wiki\SCHEMA.md: [carl-mcgown]
-- ...and 23 more
+- wiki\log.md: [2026-04-24]
+- wiki\log.md: [2026-04-24]
+- ...and 32 more
 
 ## Orphan pages
-Orphans: 114
+Orphans: 119
 
 - wiki\schools\alberta-volleyball.md (type=school)
 - wiki\schools\iowa-state-volleyball.md (type=school)
@@ -163,7 +165,7 @@ Orphans: 114
 - wiki\sources\aoc-2019-mashima-6-driveway-drills.md (type=source)
 - wiki\sources\aoc-2019-mattox-hs-practice-plan.md (type=source)
 - wiki\sources\aoc-2019-mclain-game-like-practice.md (type=source)
-- ...and 74 more
+- ...and 79 more
 
 ## Stale methodology pages
 Stale: 1
@@ -175,10 +177,10 @@ Gaps: 14
 
 - [[byu]] (referenced 3x)
 - [[minnesota-volleyball]] (referenced 5x)
+- [[jose-roberto-guimaraes]] (referenced 5x)
 - [[tod-mattox]] (referenced 7x)
-- [[jose-roberto-guimaraes]] (referenced 3x)
-- [[warm-up]] (referenced 15x)
 - [[ball-control]] (referenced 11x)
+- [[warm-up]] (referenced 15x)
 - [[at-home]] (referenced 5x)
 - [[small-group]] (referenced 4x)
 - [[dynamic-warmup]] (referenced 4x)
@@ -189,24 +191,25 @@ Gaps: 14
 - [[heckle-the-server]] (referenced 3x)
 
 ## Unsourced-queue consistency
-Issues: 20
+Issues: 21
 
 - wiki\age-lens-college.md: has [unsourced] tag but no matching queue entry
-- wiki\index.md: has [unsourced] tag but no matching queue entry
 - wiki\log.md: has [unsourced] tag but no matching queue entry
 - wiki\SCHEMA.md: has [unsourced] tag but no matching queue entry
 - wiki\unsourced-queue.md: has [unsourced] tag but no matching queue entry
-- wiki\coaches\giovanni-guidetti.md: has [unsourced] tag but no matching queue entry
-- wiki\coaches\julio-velasco.md: has [unsourced] tag but no matching queue entry
-- wiki\coaches\mike-hebert.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\russ-rose.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\yasutaka-matsudaira.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\yuichi-nakagaichi.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\block-vs-random-practice.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\italian-school.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\japanese-training.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\russian-school.md: has [unsourced] tag but no matching queue entry
+- wiki\sources\bebeto-de-freitas-2026-wikipedia-bio.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\bernardinho-2026-wikipedia-bio.md: has [unsourced] tag but no matching queue entry
+- wiki\sources\dal-zotto-2026-wikipedia-bio.md: has [unsourced] tag but no matching queue entry
+- wiki\sources\fivb-2021-guimaraes-dal-zotto-paris-2024.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\kiraly-2024-vnl-paris-interview.md: has [unsourced] tag but no matching queue entry
+- wiki\sources\matsudaira-2026-wikipedia-biography.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\mccutcheon-2021-volleybrains-ep30.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\nakagaichi-2020-fivb-feature.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\nakagaichi-2021-biography.md: has [unsourced] tag but no matching queue entry

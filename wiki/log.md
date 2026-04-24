@@ -2,6 +2,23 @@
 
 Append-only log of wiki operations. Prefix format: `## [YYYY-MM-DD] <operation> | <short>`.
 
+## [2026-04-24] backfill | Nakagaichi 1972 [unverified] cluster (Task 2.25) | touched 7 pages
+Executed Tracks 1+2 plan Task 2.25 — resolved the inline `[unverified]` tag on the identity of the 1972 Munich Olympic Japan men's gold-medal head coach. WebFetched en.wikipedia.org/wiki/Volleyball_at_the_1972_Summer_Olympics_%E2%80%93_Men%27s_tournament (confirmed Yasutaka Matsudaira), en.wikipedia.org/wiki/Yasutaka_Matsudaira (full biography), and volleyhall.org/yasutaka-matsudaira.html (Tier 1 IVHF induction record, 1998 enshrinement). Ingested two new sources: `matsudaira-1998-hall-of-fame` (Tier 1, IVHF, "multiple quick attack" / "time differential attack" credited innovation; 1964 bronze/1968 silver/1972 gold medal progression; first Japanese IVHF inductee; FIVB First VP 1994-1996; JVA President 1989-1995) and `matsudaira-2026-wikipedia-biography` (Tier 3, full biographical chronology + Soviet-study-trip context for the 9-to-6-player men's-program transition). Authored full ~2,100-word coach profile `wiki/coaches/yasutaka-matsudaira.md` per SCHEMA §3.2 (frontmatter + Overview + Coaching career + Core teaching principles + Contributions + Quotes + Sources). Updated `wiki/coaches/yuichi-nakagaichi.md` — replaced `[unverified]` references with the Matsudaira identification (also corrected a "five years before" typo to "five years after"), added the two Matsudaira sources to frontmatter, updated disambiguation paragraph and Contributions section "1972 Munich correction" framing. Updated `wiki/schools/japanese-training.md` — added Matsudaira to founders/associated-coaches frontmatter, added time-differential-attack to core-principles, added Matsudaira sources; rewrote the speed-first-tempo principle #3 to source the time-differential-attack attribution to Matsudaira directly (replacing the prior `[unsourced]` tag on that claim); replaced the prior `[unverified]` 1972-Munich-architect bullet in Notable Practitioners with a full Matsudaira entry; updated the Nakagaichi entry to link back to Matsudaira on the 1972 reference. Updated `raw/INDEX.md` Japanese-tradition section with both new raw files, `wiki/index.md` International coach listing to add Matsudaira and clean the Nakagaichi annotation (no longer flags [unverified]). No unsourced-queue entry existed for this claim (the tag was inline only); queue unchanged. Pages touched: 7 (matsudaira-1998-hall-of-fame.md, matsudaira-2026-wikipedia-biography.md, yasutaka-matsudaira.md, yuichi-nakagaichi.md, japanese-training.md, index.md, raw/INDEX.md).
+
+## [2026-04-24] backfill | Daimatsu + Japanese historical cluster (Task 2.22) | touched 7 pages
+Resolved 2 unsourced entries on wiki/coaches/daimatsu-hirobumi.md:
+(1) 1953-vs-1954 Nichibo hire-date ambiguity — resolved as two-stage institutional
+chronology: Dai Nippon Spinning approved team November 27, 1953 (Daimatsu hired);
+team officially established at Kaizuka factory March 15, 1954.
+(2) NHK television rating for 1964 Olympic women's final — sourced at 66.8%
+average / peak >80% per Olympics.com citing NHK; still the most-watched sporting
+event in Japanese television history.
+Also added bio detail: 1968 LDP election to House of Councillors.
+New sources: [[daimatsu-wikipedia-biography]], [[witches-of-orient-wikipedia]],
+[[tokyo-1964-women-volleyball-japan-gold-olympics]].
+Pages: 3 raw articles + 3 source pages + wiki/coaches/daimatsu-hirobumi.md +
+wiki/schools/japanese-training.md + wiki/unsourced-queue.md + wiki/log.md.
+
 ## [2026-04-23] bootstrap-start | Wave 0 begin
 Project initialized. Git repo created. Scaffolding in place.
 
@@ -662,3 +679,68 @@ Dunning, Shoji). Cleared 4 of 6 Wise queue entries (tenure-ranking, AVCA COY cou
 editorial and player-impact-as-profession-contribution values claim) are outside
 Task 2.18 scope and kept honest. Pages touched: 9 (3 raw, 3 source pages, 1 coach
 profile, 1 queue, 1 INDEX).
+
+## [2026-04-24] backfill-2.21 | Guidetti methodology cluster | Task 2.21
+Replaced 3 `[unsourced]` tags in `wiki/coaches/giovanni-guidetti.md` (tempo-offense
+principle, defensive organization, sports-science integration) with Tier-1/Tier-2
+citations. Three new source pages + raw files ingested:
+- `akyildiz-2022-within-week-training-load` (**T1 peer-reviewed**, BMC Sports Sci Med
+  Rehabil 2022, DOI 10.1186/s13102-022-00568-1) — Guidetti co-author; affiliation
+  listed as "Vakıfbank Women's Volleyball Team, Istanbul, Turkey"; 14 players over
+  the 2020–21 season (62 matches) instrumented with KINEXON LPS tracking jump count,
+  accelerations/decelerations, HMLD, acute:chronic workload ratio, monotony, strain.
+  Evidences the data-instrumented per-position periodization claim and the
+  MD-4 → MD-1 taper; also reports **middle blockers have notably lower workload**
+  than outsides/opposite/libero — the quantitative anchor for the reframed
+  defensive-organization principle.
+- `guidetti-2014-volleywood-leader-of-2-bands` (T2, Danish Volleyball Magazine Aug
+  2014 reprint on Volleywood) — direct Guidetti quote: "Modern volleyball is 3 times
+  quicker than 20 years ago. Speed (quickness in offense) in modern volleyball
+  remains as the biggest change I have ever seen." Grounds the tempo-offense
+  principle in Guidetti's own stated framing of the game's evolution.
+- `markov-2022-cev-guidetti-secrets-part-2` (T2, CEV feature Apr 19 2022 by Nikolay
+  Markov) — direct Guidetti quotes: "To rest is key to the performance so I like to
+  alternate moments of 110% volleyball to moments of 0% volleyball" (recovery
+  periodization); "a mix of data from the stomach, the eyes and the heart" (data
+  + intuition blend); "Trust is the key" (player autonomy).
+Two residual `[unsourced]` bits retained honestly per SCHEMA §9: (1) specific
+VakıfBank play-call menu (first-tempo middle, 5m-tempo outsides, 31-shoot tempos)
+— needs clinic or match-video breakdown; (2) specific libero-reads-while-OH-plays-
+forward-defense coverage map — peer-reviewed paper quantifies position-load
+asymmetry but does not publish the coverage scheme. Queued with research
+hypotheses. Guidetti page frontmatter `sources:` extended from 1 to 4; `## Quotes
+& representative passages` section expanded from 2 Wikipedia-paraphrase lines to
+7 direct-quote entries. Raw INDEX.md gains a "Modern European women's club —
+Guidetti / VakıfBank" cluster heading under articles + the Akyildiz peer-reviewed
+paper under research/. Pages touched: 1 coach profile + 3 source pages + 2 raw
+articles + 1 raw research paper + 1 INDEX + 1 log = **8**.
+
+## [2026-04-24] task-2-20 | Velasco methodology cluster
+Executed Tracks 1+2 plan Task 2.20. Ingested 3 new sources for the Julio Velasco
+unsourced-queue cluster (7 inline `[unsourced]` tags on `wiki/coaches/julio-velasco.md`):
+`lebedew-2015-velasco-thinker-of-game` (Tier 2 — credentialed coach Mark Lebedew
+re-translating a LA NACION interview with Velasco; substantiates Theory of Alibis,
+method-driven team management, and the English-language publication gap directly),
+`lebedew-2020-velasco-12-quotes` (Tier 2 — Lebedew's English rendering of twelve
+widely-circulated Velasco quotes including the canonical "spikers don't talk about
+the set," "culture of alibis," "he who wins celebrates, he who loses explains,"
+"defence is the thermometer of the soul of a team," and "a leader is more a
+teacher"), and `mokumag-2020-velasco-10-cult-phrases` (Tier 3 — MOK Umag Croatian
+club piece, used strictly as corroboration for the two canonical quotes).
+Cleared 3 of 7 tags (psychological leadership; English-publications limited;
+famous-quotes section) and narrowed 4 others (methodological export beyond
+direct-tenure programs; scouting/match-preparation benchmark; brotherhood-as-
+marketing; jump-serve-plus-floor-defense tactical signature) to narrower residual
+editorial-synthesis claims still tagged and properly queued. Also corrected a
+long-standing mis-rendering on the page: the canonical quote is "spikers don't
+talk about the **set**," not "pass" — Lebedew's translation is authoritative.
+Velasco page frontmatter `sources:` extended from 1 to 4; the `## Core teaching
+principles` and `## Quotes & representative passages` sections rewritten with
+direct-quote citations (seven Velasco quotes now on the page with `[citation-key]`
+attribution instead of the prior "not captured in the Wikipedia source" placeholder).
+`raw/INDEX.md` gains an "Italian tradition (W2.6 + Task 2.20 backfill)" section
+grouping the pre-existing `velasco-wikipedia-bio` capture with the three new
+entries. `wiki/index.md` source-count roll-up bumped from 10 to 13 international
+coach sources. 4 new narrowly-scoped queue entries added to
+`wiki/unsourced-queue.md`. Pages touched: 1 coach profile + 3 source pages + 3
+raw articles + 1 INDEX + 1 wiki index + 1 queue + 1 log = **11**.

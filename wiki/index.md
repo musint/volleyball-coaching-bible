@@ -44,7 +44,8 @@ One-line summary per page; see the page itself for detail.
 
 ### International (W2.3)
 - [[daimatsu-hirobumi]] — 1964 Tokyo Olympic gold (Witches of the Orient), "Devil of Osaka," pioneer of high-intensity women's training
-- [[yuichi-nakagaichi]] — Japan men's outside hitter & NT head coach; 1972 Munich gold architect is [unverified] (NOT Nakagaichi — b. 1967)
+- [[yasutaka-matsudaira]] — 1972 Munich Olympic gold architect, Japan men's NT head coach 1965-1972 (1964 bronze / 1968 silver / 1972 gold); originator of the "multiple quick attack" / "time differential attack"; first Japanese IVHF inductee (1998); FIVB First VP 1994-1996
+- [[yuichi-nakagaichi]] — Japan men's outside hitter 1989-1998 & NT head coach 2017-2021; ended 12-year Olympic drought at Tokyo 2020
 - [[lang-ping]] — "Iron Hammer," first to win Olympic gold in volleyball as both player (1984 LA) and head coach (2016 Rio)
 - [[julio-velasco]] — architect of Italian men's "Generazione di Fenomeni" (2× World Champion 1990/1994); methodology influencer across Europe/South America
 - [[bernardinho]] — Bernardo Rezende, Brazilian men's NT 2001-2017 (Athens 2004 + Rio 2016 gold, 3× World Champion); rare men's + women's NT head coach
@@ -240,7 +241,7 @@ Full catalog auto-derivable by folder listing. Counts by cluster:
 - Hugh McCutcheon (book + bios + interviews): 5
 - GMS / McGown: 6
 - Japanese tradition (Daimatsu, Nakagaichi, JVA, SV.League): 6
-- International coaches (Velasco, Bernardinho, Guidetti, Lang Ping Wikipedia + features): 10
+- International coaches (Velasco, Bernardinho, Guidetti, Lang Ping Wikipedia + features): 13
 - Other major coaches (Rose/Dunning/Hebert/Liskevych/Speraw/Wise non-AOC): ~10
 - Russian-school ingests (Platonov, Karpol, Russia men's NT Wikipedia): 3
 - Brazilian-school ingests (Bernardinho, Guimarães, Brazil men's/women's NT): 4

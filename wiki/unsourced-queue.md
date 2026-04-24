@@ -454,3 +454,39 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Why unsourced:** None of the primary biographical sources now on file (Wikipedia, USAV obituary, Illinois HOF page, AOC tribute, or *Thinking Volleyball* itself) mentions a GMS/McGown collaboration or traces specific citation lines between Hebert and the later schools' teaching vocabularies. Hebert is not on any GMS staff roster. The AOC tribute positions him as a peer-mentor, not a methodology-brand affiliate.
 - **Research hypothesis:** GMS *Thank You Carl McGown* piece and any McGown-era clinic rosters for Hebert appearances; AVCA Convention program archives for joint Hebert/McGown sessions; USAV coach-education archives for Hebert appearances in CAP-era materials; *Thinking Volleyball* full-text scan for McGown/GMS/ecological references. If nothing surfaces, close as "no evidence of formal affiliation" and downgrade the frontmatter `gms-affiliation` tag.
 - **Added:** 2026-04-24
+
+### wiki/coaches/julio-velasco.md
+- **Claim:** Velasco's methodological template has been exported into Brazilian, Polish, and Turkish modern men's programs (beyond his own direct-tenure programs of Italy, Argentina, and Iran).
+- **Why unsourced:** Direct-tenure propagation (Italy, Argentina, Iran) is sourced via `velasco-2026-wikipedia-bio` and Lebedew's 2015 framing of the 1990–2005 "Golden Age." The broader export to Brazil/Poland/Turkey is widely claimed in volleyball-coaching discourse (especially on Mark Lebedew's Polish-PlusLiga-era pieces) but is editorial synthesis at the page level and not enumerated in a single authoritative source.
+- **Research hypothesis:** FIVB or CEV long-form coaching-methodology comparisons; Lebedew's later PlusLiga / German Bundesliga essays tracing Velasco influence; Polish national-team or VakıfBank / Fenerbahçe staff-history write-ups identifying Velasco disciples or assistants on record; a Brazilian coaching-media retrospective comparing Bernardinho and Velasco.
+- **Added:** 2026-04-24
+
+### wiki/coaches/julio-velasco.md
+- **Claim:** The Italy men's 1989-1996 run was built on scouting and match-planning depth that set the 1990s benchmark for the sport — set-by-set tendency maps on every opponent, a staff culture of preparation that became the Italian school's signature.
+- **Why unsourced:** None of the four ingested English-language sources (Wikipedia bio, Lebedew 2015, Lebedew 2020, MOK Umag 2020) describes Velasco's scouting workflow or staff preparation structure. The claim is plausible and is repeated in Italian-language coaching retrospectives but cannot be cited from current material.
+- **Research hypothesis:** FIVB/CEV archival features on 1990s Italian men's preparation; FIPAV (Italian federation) historical accounts; interviews with Velasco-era staff members (e.g., his long-time assistants and video-analysts); Lebedew's podcast episodes on 1990s Italian methodology; any book-length retrospective on the Generazione di Fenomeni era.
+- **Added:** 2026-04-24
+
+### wiki/coaches/julio-velasco.md
+- **Claim:** The "Generazione di Fenomeni" was explicitly marketed and remembered as a brotherhood, and Velasco deliberately leveraged FIVB World League travel cycles to build group identity as rigorously as service-reception systems.
+- **Why unsourced:** The "brotherhood" framing appears in Italian-language retrospectives and documentary coverage of the 1989-1996 era but is not substantiated in the English-language sources ingested here.
+- **Research hypothesis:** RAI / FIPAV documentary features on the Generazione di Fenomeni; player-authored memoirs or long retrospectives from Zorzi, Bernardi, Lucchetta, or Giani; Italian-language biography of Velasco (e.g., *La Generazione dei Fenomeni* title) if a publisher preview exists.
+- **Added:** 2026-04-24
+
+### wiki/coaches/julio-velasco.md
+- **Claim:** Italy under Velasco combined high-risk jump serving and exceptional floor defense; the tempo-disrupting service game became a hallmark of the Italian school now extended by modern Polish, Russian, Turkish, and Brazilian men's programs.
+- **Why unsourced:** The defense-as-culture framing is directly sourced from Lebedew's Velasco quotes ("Defence is the thermometer of the soul of a team"), but the specific tactical-system claim — jump-serving-plus-floor-defense as a Velasco-era signature, and its later export across Eastern-European and Brazilian men's programs — is editorial synthesis and not in the English-language sources currently ingested.
+- **Research hypothesis:** FIVB match reports from Italy men's World Championships 1990 and 1994; VBStats or long-form tactical comparisons of Italian men's 1990s era versus modern Polish/Russian/Turkish national programs; Lebedew's PlusLiga-era tactical essays on service-reception disruption; VolleyballMag historical features on the evolution of the jump-serve as a tactical weapon.
+- **Added:** 2026-04-24
+
+### wiki/coaches/giovanni-guidetti.md
+- **Claim:** VakıfBank under Guidetti runs a specific tempo menu — first-tempo middle, 5m-tempo outsides, and 31 (inside shoot) off good pass.
+- **Why unsourced:** Guidetti publicly names offensive quickness as the defining change in modern volleyball (Volleywood 2014, "3× quicker than 20 years ago"), but the specific play-call menu is not described in the sources on file here. Italian-school tempo vocabulary is consistent with the pattern, but attribution to the specific VakıfBank system still requires a primary source.
+- **Research hypothesis:** VakıfBank match-video tactical breakdowns on YouTube (with set-by-set charting); a CEV or FIVB Champions League technical-study report; any AOC / Volleyball World clinic reels from Guidetti assistants (e.g., Ferhat Akbaş, Marcello Abbondanza, former staff); a Pasta Coach / Volleyball-Source tactical essay; Italian-language Serie A retrospective features on Guidetti's Chieri Volley era that may detail the system he brought to VakıfBank.
+- **Added:** 2026-04-24
+
+### wiki/coaches/giovanni-guidetti.md
+- **Claim:** VakıfBank's defensive coverage map — first libero anchoring the backcourt while outsides play forward defense and the opposite takes deep-cross.
+- **Why unsourced:** The peer-reviewed Akyildiz et al. (2022) paper (Guidetti co-author) establishes that middle blockers carry notably lower external load than outsides/opposite/libero — a quantitative asymmetry — but does not publish the specific tactical coverage assignment. The "libero reads / OH forward / opposite deep-cross" scheme therefore remains a descriptive inference not anchored to a primary coverage-scheme source.
+- **Research hypothesis:** Match-video tactical breakdowns of VakıfBank's defensive alignment against specific rotations; a CEV Champions League technical report on women's defense trends; VolleyballMag or Volleyball World feature pieces on Turkish-national-team / VakıfBank libero Simge Aköz or Gizem Örge's defensive role; Russian-volley.ru or ChampionsLeague.cev.eu tactical essays; interviews with VakıfBank assistant Ferhat Akbaş on defensive philosophy.
+- **Added:** 2026-04-24

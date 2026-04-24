@@ -258,13 +258,15 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - guidetti-2014-volleywood-leader-of-2-bands.md — Volleywood / Danish Volleyball Magazine interview (2014) — guidetti-2014-volleywood-leader-of-2-bands
 - guidetti-2022-cev-secrets-coaching-success-part-2.md — CEV feature: Secrets of Coaching Success, Part 2 (Markov 2022) — markov-2022-cev-guidetti-secrets-part-2
 
-### Japanese tradition (W1.6)
+### Japanese tradition (W1.6 + Task 2.25 backfill)
 - daimatsu-olympians-tough-love.md — Witches of the Orient / Daimatsu (The Olympians 2017) — daimatsu-2017-tough-love
 - daimatsu-volleyhall-biography.md — Daimatsu Hirofumi (Intl Volleyball Hall of Fame) — daimatsu-2000-hall-of-fame
 - japan-jva-five-strengths.md — 5 Strengths of Japanese Volleyball (JVA 2016) — japan-2016-five-strengths
 - japan-svleague-nippon-feature.md — Building a World-class Volleyball League (Nippon.com 2024) — japan-2024-svleague
 - nakagaichi-fivb-olympic-year.md — Yanagida Japan captain Olympic year feature (FIVB) — nakagaichi-2020-fivb-feature
 - nakagaichi-wikipedia-biography.md — Yuichi Nakagaichi (Wikipedia) — nakagaichi-2021-biography
+- matsudaira-volleyhall-biography.md — Yasutaka Matsudaira (Intl Volleyball Hall of Fame, induction 1998) — matsudaira-1998-hall-of-fame
+- matsudaira-wikipedia-biography.md — Yasutaka Matsudaira (Wikipedia biography, 2026 fetch) — matsudaira-2026-wikipedia-biography
 
 ### NCAA recruiting calendar backfill (Task 2.17)
 - ncaa-2025-26-d1-wvb-recruiting-calendar.md — NCAA D1 Women's Volleyball 2025-26 recruiting calendar (NCAA compliance PDF) — ncaa-2025-26-d1-wvb-recruiting-calendar
