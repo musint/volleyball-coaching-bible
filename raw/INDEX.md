@@ -4,6 +4,7 @@ One-line catalog of every file in `raw/`. Updated on every ingest.
 Format: `- <path> — <source-title> — <citation-key>`
 
 ## books/
+- notes-bernardinho-2006-transformando-suor-em-ouro.md — *Transformando Suor em Ouro* (Bernardinho 2006), fair-use notes — bernardinho-2006-transformando-suor-em-ouro
 - notes-hebert-thinking-volleyball-2013.md — *Thinking Volleyball* (Mike Hebert 2013), fair-use notes — hebert-2013-thinking-volleyball
 - notes-kiraly-1997-championship-volleyball.md — *Championship Volleyball* (Kiraly 1997), fair-use notes — kiraly-1997-championship-volleyball
 - notes-kiraly-championship-volleyball.md — *Championship Volleyball* (Kiraly 1997), secondary capture — (same book as above)
@@ -23,6 +24,12 @@ Format: `- <path> — <source-title> — <citation-key>`
 - karch-usav-announcement.md — USAV announcement of Kiraly men's appointment (2024) — kiraly-2024-usav-announcement
 - karch-usav-bio.md — Kiraly USAV coach bio — kiraly-2024-usav-bio
 - karch-wikipedia-bio.md — Karch Kiraly (Wikipedia) — kiraly-wikipedia-bio
+
+### Mike Hebert (W2.2 + Task 2.23 backfill)
+- hebert-wikipedia-bio.md — Mike Hebert (Wikipedia bio capture) — hebert-wikipedia-bio
+- hebert-usav-obituary.md — Coaching Legend Mike Hebert Passes Away (USAV 2019) — hebert-usav-obituary
+- hebert-illinois-hof.md — Mike Hebert, Illinois Athletics Hall of Fame (2023) — hebert-illinois-hof
+- aoc-2019-hebert-a-coach-who-mattered.md — Mike Hebert: A Coach Who Mattered (AOC 2019) — aoc-2019-hebert-a-coach-who-mattered
 
 ### McCutcheon (W1.3)
 - mccutcheon-beijing-2008-gold.md — USA Men's 2008 Olympic gold retrospective (USAV) — mccutcheon-2008-beijing-gold-usav
@@ -225,12 +232,31 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - rose-dignittany-excellence-vs-success.md — Russ Rose on excellence vs success (DigNittany 2016) — rose-2016-dignittany-excellence-vs-success
 - speraw-usav-profile.md — John Speraw USAV coach profile (2024) — speraw-2024-usav-profile
 - wise-characterandleadership-profile.md — Mary Wise character/leadership profile (2023) — wise-2023-characterandleadership-profile
+- wise-wikipedia-bio.md — Mary Wise (Wikipedia biography, 2026 fetch) — wise-wikipedia-bio
+- avca-wikipedia.md — American Volleyball Coaches Association (Wikipedia, 2026 fetch) — avca-wikipedia
+- florida-volleyball-wikipedia.md — Florida Gators women's volleyball (Wikipedia, 2026 fetch) — florida-volleyball-wikipedia
 
-### Brazilian tradition (W2.5)
+### Brazilian tradition (W2.5 + Task 2.19 backfill)
 - bernardinho-wikipedia-bio.md — Bernardo Rezende (Wikipedia) — bernardinho-2026-wikipedia-bio
+- bernardinho-2022-ivhf-induction-bio.md — Bernardinho IVHF Class of 2022 induction bio — bernardinho-2022-ivhf-induction-bio
 - brazil-men-nt-wikipedia.md — Brazil men's national volleyball team (Wikipedia) — brazil-men-nt-2026-wikipedia
 - brazil-women-nt-wikipedia.md — Brazil women's national volleyball team (Wikipedia) — brazil-women-nt-2026-wikipedia
+- bebeto-de-freitas-wikipedia-bio.md — Bebeto de Freitas (Wikipedia biography) — bebeto-de-freitas-2026-wikipedia-bio
+- dal-zotto-wikipedia-bio.md — Renan Dal Zotto (Wikipedia biography) — dal-zotto-2026-wikipedia-bio
+- fivb-2021-guimaraes-dal-zotto-paris-2024.md — FIVB announcement: Ze Roberto & Renan to Paris 2024 — fivb-2021-guimaraes-dal-zotto-paris-2024
 - guimaraes-wikipedia.md — José Roberto Guimarães (Wikipedia biography) — guimaraes-2026-wikipedia
+- theworld-2021-brazil-volleyball-nation.md — "Move over soccer" (The World / PRX 2021) — theworld-2021-brazil-volleyball-nation
+
+### Italian tradition (W2.6 + Task 2.20 backfill)
+- velasco-wikipedia-bio.md — Julio Velasco (Wikipedia) — velasco-2026-wikipedia-bio
+- lebedew-2015-velasco-thinker-of-game.md — Velasco "Thinker of the Game" interview (Lebedew translating LA NACION 2015) — lebedew-2015-velasco-thinker-of-game
+- lebedew-2020-velasco-12-quotes.md — Velasco 12 Quotes (Lebedew 2020) — lebedew-2020-velasco-12-quotes
+- mokumag-2020-velasco-10-cult-phrases.md — The 10 Cult Phrases of Julio Velasco (MOK Umag 2020) — mokumag-2020-velasco-10-cult-phrases
+
+### Modern European women's club — Guidetti / VakıfBank (W2 + Task 2.21 backfill)
+- guidetti-wikipedia-bio.md — Giovanni Guidetti (Wikipedia) — guidetti-2026-wikipedia-bio
+- guidetti-2014-volleywood-leader-of-2-bands.md — Volleywood / Danish Volleyball Magazine interview (2014) — guidetti-2014-volleywood-leader-of-2-bands
+- guidetti-2022-cev-secrets-coaching-success-part-2.md — CEV feature: Secrets of Coaching Success, Part 2 (Markov 2022) — markov-2022-cev-guidetti-secrets-part-2
 
 ### Japanese tradition (W1.6)
 - daimatsu-olympians-tough-love.md — Witches of the Orient / Daimatsu (The Olympians 2017) — daimatsu-2017-tough-love
@@ -239,6 +265,11 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - japan-svleague-nippon-feature.md — Building a World-class Volleyball League (Nippon.com 2024) — japan-2024-svleague
 - nakagaichi-fivb-olympic-year.md — Yanagida Japan captain Olympic year feature (FIVB) — nakagaichi-2020-fivb-feature
 - nakagaichi-wikipedia-biography.md — Yuichi Nakagaichi (Wikipedia) — nakagaichi-2021-biography
+
+### NCAA recruiting calendar backfill (Task 2.17)
+- ncaa-2025-26-d1-wvb-recruiting-calendar.md — NCAA D1 Women's Volleyball 2025-26 recruiting calendar (NCAA compliance PDF) — ncaa-2025-26-d1-wvb-recruiting-calendar
+- usav-nd-college-recruitment-timeline.md — USA Volleyball "College Recruitment Timeline" explainer — usav-nd-college-recruitment-timeline
+- ncaa-2025-26-signing-dates.md — NCAA 2025-26 signing-date calendar (NCAA compliance PDF) — ncaa-2025-26-signing-dates
 
 ## transcripts/
 - aoc-2017-one-big-thing-panel.md — AOC "One Big Thing" panel (2017) — aoc-2017-one-big-thing-panel
@@ -274,6 +305,10 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 ### Doug Beal (Task 1.18)
 - beal-wikipedia-bio.md — Doug Beal Wikipedia biography (2026 fetch) — beal-wikipedia-bio
 - beal-aoc-profile.md — Doug Beal AOC coach profile page (2026 fetch; Triple Crown, 19th-ranked program) — beal-nd-aoc-profile
+
+### USAV CAP editorial backfill (Task 2.24)
+- forman-coaching-continuing-education.md — Forman on coach-education enforcement across federations (CoachingVB.com) — forman-nd-coaching-continuing-education
+- forman-gms-aoc-cap-comparison.md — Forman's GMS / AOC / CAP platform comparison (CoachingVB.com) — forman-nd-gms-aoc-cap-comparison
 
 ## research/
 - afonso-2012-volleyball-perceptual-cognitive.md — Afonso et al. on volleyball perceptual-cognitive skill (2012) — afonso-2012-volleyball-perceptual-cognitive

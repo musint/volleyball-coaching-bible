@@ -172,27 +172,15 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-23
 
 ### wiki/schools/usa-volleyball.md
-- **Claim:** "What the equivalency means for coaches who completed CAP III before the transition is unresolved."
-- **Why unsourced:** The Coach Education page describes the points/badge/leaderboard system in only general terms; specific CAP III → Coach Academy equivalency mapping is not published in the reviewed material.
-- **Research hypothesis:** USAV Coach Education FAQ updates over the next 12-18 months; Region-Coordinator memos; possible AVCA Convention session post-2024 transition.
-- **Added:** 2026-04-23
-
-### wiki/schools/usa-volleyball.md
-- **Claim:** "The tiered CAP exam structure was viewed by some coaches as bureaucratic gate-keeping rather than skill development."
-- **Why unsourced:** Editorial inference reflecting widely-held coach-circle complaint; no Tier 1/2 source in reviewed material critiques CAP this way explicitly (USAV publications would not).
-- **Research hypothesis:** Coach Your Brains Out podcast back-catalog (Madia recommended it as continuing-ed); private-coach blogs (look for posts circa 2020-2024 about CAP frustration); GMS or AOC commentary on the rebuild.
-- **Added:** 2026-04-23
-
-### wiki/schools/usa-volleyball.md
 - **Claim:** "USAV's curricular center of gravity historically tracks the indoor women's collegiate game, with proportionally less coverage of beach, boys' and men's programs … and masters / adult-recreational play."
-- **Why unsourced:** Inferred from the catalog of reviewed USAV pages (heavy women's-NT/Kessel-youth/college focus); a quantitative content-audit would source it cleanly.
-- **Research hypothesis:** Content audit of full Coach Academy module list; comparison of USAV beach- vs. indoor-resource volume; First Point Volleyball founding rationale (Speraw) as corroborating evidence.
+- **Why unsourced:** Inferred from the catalog of reviewed USAV pages (heavy women's-NT/Kessel-youth/college focus); a quantitative content-audit would source it cleanly. Task 2.24 research pass (2026-04-24) searched CoachingVB.com, AOC, and GMS for coverage-slant critique and found none — the claim is plausible and widely-felt among coaches but not substantiated in any Tier 1/2 source on file.
+- **Research hypothesis:** Content audit of full Coach Academy module list; comparison of USAV beach- vs. indoor-resource volume; First Point Volleyball founding rationale (Speraw) as corroborating evidence. USAV's NTDP Academy launch materials (usavolleyball.org/story/usav-launches-ntdp-academy/) describe "financial support for under-represented populations including boys' youth/college men" — an institutional acknowledgment of the imbalance; could be used in combination with a content-audit to source the claim.
 - **Added:** 2026-04-23
 
 ### wiki/schools/usa-volleyball.md
 - **Claim:** "Coaches in less-served regions have had narrower access to high-quality clinic content than the curriculum nominally promises."
-- **Why unsourced:** Reasonable inference about volunteer-network density variance; not directly stated in reviewed USAV materials (which describe the National Faculty / Regional Instructor structure without auditing access equity).
-- **Research hypothesis:** Region-by-region clinic frequency data from USAV; coach surveys; Million Coaches Challenge regional uptake reports.
+- **Why unsourced:** Reasonable inference about volunteer-network density variance; not directly stated in reviewed USAV materials (which describe the National Faculty / Regional Instructor structure without auditing access equity). Task 2.24 research (2026-04-24) reviewed Forman's coachingvb.com continuing-education post and the ERIC comparative-systems paper (EJ1197258); Forman's "disparate set of educational offerings and requirements" frame is cross-national, not USAV-regional-within-U.S., so it does not directly support the claim.
+- **Research hypothesis:** Region-by-region clinic frequency data from USAV; coach surveys; Million Coaches Challenge regional uptake reports. Forman's Talent Zone regional-training-hub concept for Volleyball England implicitly acknowledges the regional-access problem — his writings on that model (coachingvb.com, Volleyball Coaching Wizards) could yield a directly-citable framing if extended to USAV-regional commentary.
 - **Added:** 2026-04-23
 
 ### wiki/schools/brazilian-school.md
@@ -259,18 +247,6 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Claim:** Renan Dal Zotto led the post-Bernardinho Brazil men's NT rebuild cycle.
 - **Why unverified:** The Wikipedia article on Brazil men's NT captured here does not name Dal Zotto in the body text of the excerpt, though the post-peak adjustment era (Tokyo 2020, 2025 NL bronze) is documented. The specific claim that Dal Zotto coached the rebuild cycle is widely known but unverified from the captured sources.
 - **Research hypothesis:** Wikipedia article on Renan Dal Zotto; CBV coach-roster archive; FIVB Brazil men's NT press history 2017–2022.
-- **Added:** 2026-04-23
-
-### wiki/recruiting.md
-- **Claim:** "The NCAA calendar changed significantly in 2018–19, pushing D1 first-permissible contact back to **September 1 of junior year**; NIL, transfer-portal, and dead-period rules continue to shift."
-- **Why unsourced:** Widely documented in college-sports journalism (NCAA.org, AVCA, PrepVolleyball) but no NCAA recruiting-calendar source has been ingested into this wiki. Specifics (which division, which sports, exact window structure) have been revised multiple times since 2018–19.
-- **Research hypothesis:** NCAA.org volleyball recruiting calendar page; AVCA recruiting resources; PrepVolleyball recruiting-rules explainers; NCAA Division I Manual (Bylaw 13). A dedicated ingest of the current NCAA recruiting-calendar publications would resolve this and several timeline-specific claims in one pass.
-- **Added:** 2026-04-23
-
-### wiki/recruiting.md
-- **Claim:** "Under current D1 rules, coaches cannot have recruiting conversations before September 1 of junior year; unofficial visits any time; official visits junior year onward; NLI signing in November (early) and April (regular) of senior year."
-- **Why unsourced:** Same reason — no NCAA recruiting-calendar source ingested. Visit-window and NLI signing-date specifics have also been revised in the 2020–2024 window.
-- **Research hypothesis:** NCAA.org; NLI.org official signing calendar; AVCA; verify against current rules at the time of any family decision.
 - **Added:** 2026-04-23
 
 ### wiki/coaches/salima-rockwell.md
@@ -493,4 +469,16 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Claim:** Marv Dunphy mention in doug-beal.md is plain text rather than a wikilink because no marv-dunphy coach page exists yet; multiple existing pages (carl-mcgown, hugh-mccutcheon, doug-beal, schools/gold-medal-squared) also reference Dunphy without a page.
 - **Why unsourced:** Forward reference held off as plain text until a dedicated Marv Dunphy profile is written (GMS co-founder; Pepperdine; 1988 Seoul gold head coach).
 - **Research hypothesis:** Author `wiki/coaches/marv-dunphy.md` in a follow-up coach-profile task — Pepperdine athletics bio, IVHF induction record (1994), USAV 1988 gold retrospective, GMS co-founder account already captured in gms-nd-about-us and mcgown-2017-usav-remembering. When created, convert the plain-text Dunphy mention back to a wikilink.
+- **Added:** 2026-04-24
+
+### wiki/coaches/mike-hebert.md
+- **Claim:** Full enumeration of Hebert assistants/players who became Division I head coaches (the "Hebert coaching tree"). Kelly Sheffield (Wisconsin) and Scott Swanson (South Carolina) are identifiable from peer tributes but a comprehensive list is absent.
+- **Why unsourced:** None of the four primary biographical sources now on file (Wikipedia, USAV obituary, Illinois HOF page, AOC tribute) publish a staff-history roster or a coaching-tree enumeration. Web searches surface only scattered peer citations rather than a compiled list.
+- **Research hypothesis:** Illinois and Minnesota women's volleyball media-guide archives (staff-history sections); AVCA member-directory historical staff listings; an AVCA or VolleyballMag retrospective on Hebert's coaching tree; personal LinkedIn or biographical tracing of named Minnesota/Illinois assistants from 1983-2010. If an Oral History interview with Hebert exists, check for self-report.
+- **Added:** 2026-04-24
+
+### wiki/coaches/mike-hebert.md
+- **Claim:** Explicit line of influence from Hebert's reading-defense framing in *Thinking Volleyball* (2013) to the reading-oriented defensive teaching later common across [[gold-medal-squared]], Art of Coaching Volleyball, and USA Volleyball materials. Related: whether Hebert had a formal affiliation with GMS (clinics, shared authorship, staff overlap).
+- **Why unsourced:** None of the primary biographical sources now on file (Wikipedia, USAV obituary, Illinois HOF page, AOC tribute, or *Thinking Volleyball* itself) mentions a GMS/McGown collaboration or traces specific citation lines between Hebert and the later schools' teaching vocabularies. Hebert is not on any GMS staff roster. The AOC tribute positions him as a peer-mentor, not a methodology-brand affiliate.
+- **Research hypothesis:** GMS *Thank You Carl McGown* piece and any McGown-era clinic rosters for Hebert appearances; AVCA Convention program archives for joint Hebert/McGown sessions; USAV coach-education archives for Hebert appearances in CAP-era materials; *Thinking Volleyball* full-text scan for McGown/GMS/ecological references. If nothing surfaces, close as "no evidence of formal affiliation" and downgrade the frontmatter `gms-affiliation` tag.
 - **Added:** 2026-04-24

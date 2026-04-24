@@ -606,3 +606,24 @@ Pages touched: 6.
 
 ## [2026-04-24] coach-profile | todd-dagenais (brief, ~1500w) | Task 1.25
 4 sources cited: 3 new (dagenais-ucf-athletics-bio T2, dagenais-2023-ucf-departure T2, dagenais-wikipedia-bio T3) + 1 existing (aoc-2018-coaching-iy-generation T2). 3 raw files under raw/articles/ + 3 source pages under wiki/sources/. New school stub: wiki/schools/central-florida-volleyball.md (bidirectional with todd-dagenais). 3 unsourced-queue entries added (MSU head coach not named, Haley mentorship mechanism inference, AOC paywalled-content gap + editorial "mid-major blueprint" framing). McCutcheon dangling-wikilink queue entry annotated RESOLVED for todd-dagenais. Index updated with new coach entry under USA (additional) + school stub under Institutional-tradition stubs. aoc-2018-coaching-iy-generation source page's "Where it's cited" updated.
+
+## [2026-04-24] backfill | USAV CAP editorial cluster | Task 2.24
+Research pass against 4 unsourced CAP/Coach-Academy critique claims in wiki/schools/usa-volleyball.md. Ingested 2 Forman (coachingvb.com) source pages: forman-nd-coaching-continuing-education (voluntary-enforcement critique across USAV/England/Germany/FIVB) and forman-nd-gms-aoc-cap-comparison (CAP tier-structure pedagogical critique). 2 new raw articles under raw/articles/.
+Resolved 2 of 4 claims:
+- CAP III equivalency unresolved: sourced to existing usav-2026-coach-academy (public page directs legacy coaches to email USAV for individualized verification; no published equivalency table).
+- CAP bureaucratic-gatekeeping: rewritten to match what Forman actually critiques (voluntary enforcement; tier-sequencing front-loading CAP I basics for experienced players). Per SCHEMA §9, the editorial "bureaucratic gatekeeping" phrasing was replaced rather than forced onto a source that does not support it.
+Left 2 claims [unsourced] with sharper research hypotheses:
+- Women's-indoor curricular slant: no Tier 1/2 source makes the claim. Candidate: USAV NTDP Academy launch materials (usavolleyball.org/story/usav-launches-ntdp-academy/) mention under-represented-populations support for boys, implicit acknowledgment of imbalance; combined with a future Coach-Academy-module content audit.
+- USAV regional-access disparity: Forman's "disparate set of educational offerings and requirements" is cross-national, not USAV-intra-regional; his Talent-Zone regional-hub concept for Volleyball England is the closest framing source. Pages touched: 4 (usa-volleyball.md, forman-nd-coaching-continuing-education.md, forman-nd-gms-aoc-cap-comparison.md, unsourced-queue.md) + raw/INDEX.md.
+## [2026-04-24] backfill-2-23 | Mike Hebert thin-source cluster
+Backfilled 5 of 7 `[unsourced]` tags in wiki/coaches/mike-hebert.md via three new Tier 1/2 sources:
+`hebert-wikipedia-bio` (T2), `hebert-usav-obituary` (T1, USA Volleyball 2019 obituary),
+`hebert-illinois-hof` (T1, Illinois Athletics HOF page 2023), and `aoc-2019-hebert-a-coach-who-mattered` (T2 peer tribute).
+Resolved: Pittsburgh/New Mexico dates+records, Illinois 13-year record+titles, Minnesota 15-year
+record+NCAA appearances, Hall-of-Fame induction years (AVCA 2006, USAV Shondell 2011,
+Illinois 2023), AVCA presidency span discrepancy (book 1987-1990 vs Illinois/USAV 1985-1988) — flagged explicitly in-text.
+Remaining unsourced: full coaching-tree enumeration beyond Sheffield/Swanson, and
+explicit influence lines between Hebert's reading-defense framing and GMS/AOC/USAV — queued
+with research hypotheses. 4 raw files + 4 source pages added; raw/INDEX.md + wiki/coaches/mike-hebert.md
+sources frontmatter updated; 2 new unsourced-queue entries appended; existing
+hebert-2013-thinking-volleyball source page "Where it's cited" populated with [[mike-hebert]].
