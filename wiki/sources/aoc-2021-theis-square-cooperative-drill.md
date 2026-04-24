@@ -35,7 +35,7 @@ Ryan Theis (University of Florida) uses a cooperative 4v4 "square" drill to trai
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[warm-up]]` hub, `[[ball-control]]` hub, `[[setting]]`, `[[drills/square-cooperative]]`, and `[[ryan-theis]]` profile.
+Forward-reference — to be cited on ``warm-up`` hub, ``ball-control`` hub, `[[setting]]`, `[[drills/square-cooperative]]`, and `[[ryan-theis]]` profile.
 
 ## Access
 

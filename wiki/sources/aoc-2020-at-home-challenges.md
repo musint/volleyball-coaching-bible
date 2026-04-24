@@ -34,7 +34,7 @@ An AOC Founder's Chat from the early COVID-19 period offering three ways to keep
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[at-home]]` coverage, `[[practice-planning]]` (off-day work), `[[ball-control]]` hub, `[[age-lens-14u]]` (summer/holiday breaks), and `[[season-planning]]` (off-season).
+Forward-reference — to be cited on ``at-home`` coverage, `[[practice-planning]]` (off-day work), ``ball-control`` hub, `[[age-lens-14u]]` (summer/holiday breaks), and `[[season-planning]]` (off-season).
 
 ## Access
 

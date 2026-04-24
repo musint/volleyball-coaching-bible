@@ -34,7 +34,7 @@ John Dunning's 4v4 Columbus cooperative drill. Each side runs three back-row att
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[ball-control]]` hub, `[[warm-up]]`, `[[drills/4v4-columbus-cooperative]]`, `[[back-row-attack]]`, and `[[john-dunning]]` profile.
+Forward-reference — to be cited on ``ball-control`` hub, ``warm-up``, `[[drills/4v4-columbus-cooperative]]`, ``back-row-attack``, and `[[john-dunning]]` profile.
 
 ## Access
 

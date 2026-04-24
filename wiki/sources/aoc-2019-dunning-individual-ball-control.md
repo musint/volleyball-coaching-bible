@@ -33,7 +33,7 @@ John Dunning's (Stanford '01-'16) individual ball-control sequence: pass, set, r
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[ball-control]]` hub, `[[at-home]]`, `[[drills/individual-ball-control-sequence]]`, and `[[john-dunning]]` profile.
+Forward-reference — to be cited on ``ball-control`` hub, ``at-home``, `[[drills/individual-ball-control-sequence]]`, and `[[john-dunning]]` profile.
 
 ## Access
 

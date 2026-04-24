@@ -41,7 +41,7 @@ The principle: warm up "doing the work we're going to do in a game."
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[warm-up]]` hub, `[[dynamic-warmup]]`, `[[footwork]]`, `[[hitter-approach]]`, and `[[tod-mattox]]` profile.
+Forward-reference — to be cited on ``warm-up`` hub, ``dynamic-warmup``, ``footwork``, ``hitter-approach``, and `[[tod-mattox]]` profile.
 
 ## Access
 

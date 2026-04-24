@@ -36,7 +36,7 @@ Kyle Mashima (Palo Alto club/HS coach, SoloStats / Rotate 123) presents six driv
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[at-home]]`, `[[age-lens-14u]]` (individual work), `[[techniques/serving]]`, `[[techniques/setting]]`, `[[techniques/hitting-arm-swing]]`, `[[techniques/blocking-footwork]]`, `[[drills/driveway-*]]` (multiple), and `[[kyle-mashima]]` profile.
+Forward-reference — to be cited on ``at-home``, `[[age-lens-14u]]` (individual work), `[[techniques/serving]]`, `[[techniques/setting]]`, `[[techniques/hitting-arm-swing]]`, `[[techniques/blocking-footwork]]`, `[[drills/driveway-*]]` (multiple), and `**Kyle Mashima**` profile.
 
 ## Access
 

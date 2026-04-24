@@ -34,7 +34,7 @@ Terry Liskevych's earlier six-person pepper formulation — companion to his 202
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[pepper]]` coverage, `[[drills/six-person-pepper]]`, `[[ball-control]]` hub, and `[[terry-liskevych]]` profile. Cross-reference with `[[aoc-2026-liskevych-ultimate-six-person-pepper]]` — the 2026 version is a reworked presentation of the same drill.
+Forward-reference — to be cited on `[[pepper]]` coverage, `[[drills/six-person-pepper]]`, ``ball-control`` hub, and `[[terry-liskevych]]` profile. Cross-reference with `[[aoc-2026-liskevych-ultimate-six-person-pepper]]` — the 2026 version is a reworked presentation of the same drill.
 
 ## Access
 

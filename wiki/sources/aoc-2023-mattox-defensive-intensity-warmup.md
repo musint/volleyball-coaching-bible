@@ -34,7 +34,7 @@ Tod Mattox uses a simple coach-driven toss drill to ignite defensive mindset dur
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[warm-up]]` hub, `[[defense]]` technique page, `[[drills/defense-intensity-warmup]]`, `[[mental]]` hub (mindset work), and `[[tod-mattox]]` profile.
+Forward-reference — to be cited on ``warm-up`` hub, `[[defense]]` technique page, `[[drills/defense-intensity-warmup]]`, `[[mental]]` hub (mindset work), and `[[tod-mattox]]` profile.
 
 ## Access
 

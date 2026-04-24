@@ -34,7 +34,7 @@ Ryan Hofer (Trinity Western University men's program) uses a queen's-court varia
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[tryouts]]` page, `[[team-drill]]`, `[[small-group]]`, `[[drills/tryout-queens-court]]`, and `[[ryan-hofer]]` profile.
+Forward-reference — to be cited on ``tryouts`` page, ``team-drill``, ``small-group``, `[[drills/tryout-queens-court]]`, and `**Ryan Hofer**` profile.
 
 ## Access
 

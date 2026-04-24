@@ -48,7 +48,7 @@ Wikipedia biographical article covering the career of Argentine-Italian coach Ju
 
 ## Access
 
-- Raw file: [[velasco-wikipedia-bio]]
+- Raw file: `velasco-wikipedia-bio`
 - URL: https://en.wikipedia.org/wiki/Julio_Velasco
 - Trust tier: 2 — Wikipedia, corroboration-required
 - Ingested via: webfetch on 2026-04-23

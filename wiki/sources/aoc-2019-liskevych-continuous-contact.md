@@ -34,7 +34,7 @@ Terry Liskevych's 3v3 (or 4v4) cross-court cooperative drill. Each side runs a d
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[ball-control]]` hub, `[[small-group]]`, `[[drills/continuous-contact-ball-control]]`, `[[techniques/blocker-pull-off]]`, and `[[terry-liskevych]]` profile.
+Forward-reference — to be cited on ``ball-control`` hub, ``small-group``, `[[drills/continuous-contact-ball-control]]`, `[[techniques/blocker-pull-off]]`, and `[[terry-liskevych]]` profile.
 
 ## Access
 

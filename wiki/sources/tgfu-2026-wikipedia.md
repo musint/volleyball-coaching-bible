@@ -42,7 +42,7 @@ Trust-tier 3 is assigned because the page is unreviewed community content and ca
 
 ## Access
 
-- Raw file: [[tgfu-wikipedia]]
+- Raw file: `tgfu-wikipedia`
 - URL: https://en.wikipedia.org/wiki/Teaching_games_for_understanding
 - Trust tier: 3 — unreviewed encyclopedic entry with explicit quality-flag notices; corroborated by standard PE-literature references on the school page
 - Ingested via: WebFetch on 2026-04-23

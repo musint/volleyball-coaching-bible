@@ -33,7 +33,7 @@ Mark Rosen describes a high-density alternative to standard hitting lines. Rathe
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[practice-planning]]` (rep density), `[[warm-up]]` hub, and `[[hitting]]` technique/drill coverage.
+Forward-reference — to be cited on `[[practice-planning]]` (rep density), ``warm-up`` hub, and `[[hitting]]` technique/drill coverage.
 
 ## Access
 

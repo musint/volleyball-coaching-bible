@@ -34,7 +34,7 @@ Tod Mattox's 1v1 dynamic warmup splits the team into groups of four per court. T
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[warm-up]]` hub, `[[drills/2-contact-challenge]]`, `[[small-group]]` drill coverage, and `[[tod-mattox]]` profile.
+Forward-reference — to be cited on ``warm-up`` hub, `[[drills/2-contact-challenge]]`, ``small-group`` drill coverage, and `[[tod-mattox]]` profile.
 
 ## Access
 

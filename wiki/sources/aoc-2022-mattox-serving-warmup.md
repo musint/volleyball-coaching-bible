@@ -34,7 +34,7 @@ Tod Mattox opens practice with serving because "serving is important to us." Pla
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[warm-up]]` hub, `[[serving]]` technique, `[[drills/serving-short]]`, and `[[tod-mattox]]` profile.
+Forward-reference — to be cited on ``warm-up`` hub, `[[serving]]` technique, `[[drills/serving-short]]`, and `[[tod-mattox]]` profile.
 
 ## Access
 

@@ -36,7 +36,7 @@ Brian Rosen (Creighton) shares five ball-control drills his program uses to set 
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[ball-control]]` hub, `[[passing-forearm]]`, `[[drills/four-corner-passing]]`, `[[drills/1v1-ladder]]`, `[[drills/serve-receive-relay]]`, and `[[brian-rosen]]` profile.
+Forward-reference — to be cited on ``ball-control`` hub, `[[passing-forearm]]`, `[[drills/four-corner-passing]]`, `[[drills/1v1-ladder]]`, `[[drills/serve-receive-relay]]`, and `[[brian-rosen]]` profile.
 
 ## Access
 

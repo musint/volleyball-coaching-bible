@@ -34,7 +34,7 @@ Terry Liskevych — former Oregon State head coach and USA women's Olympic coach
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[pepper]]` coverage, `[[drills/pepper-variations]]`, `[[terry-liskevych]]` profile, and `[[warm-up]]` hub.
+Forward-reference — to be cited on `[[pepper]]` coverage, `[[drills/pepper-variations]]`, `[[terry-liskevych]]` profile, and ``warm-up`` hub.
 
 ## Access
 

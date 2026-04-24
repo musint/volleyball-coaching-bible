@@ -33,7 +33,7 @@ Tod Mattox frames dynamic warmup as a teaching block, not a warmup block. In a s
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[practice-planning]]` hub, `[[warm-up]]` hub, `[[season-planning]]` and `[[tod-mattox]]` profile.
+Forward-reference — to be cited on `[[practice-planning]]` hub, ``warm-up`` hub, `[[season-planning]]` and `[[tod-mattox]]` profile.
 
 ## Access
 

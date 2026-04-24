@@ -34,7 +34,7 @@ Tod Mattox (The Bishop's School) uses a 3v3 queen-of-the-court variant as a dyna
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[warm-up]]` hub, `[[drills/queen-of-the-court-2-contact]]`, `[[back-row-attack]]`, and `[[tod-mattox]]` profile.
+Forward-reference — to be cited on ``warm-up`` hub, `[[drills/queen-of-the-court-2-contact]]`, ``back-row-attack``, and `[[tod-mattox]]` profile.
 
 ## Access
 

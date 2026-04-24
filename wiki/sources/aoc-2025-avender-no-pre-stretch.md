@@ -33,7 +33,7 @@ Abe Avender — a licensed health and performance specialist — argues that sta
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[warm-up]]` hub, `[[physical]]` / injury prevention coverage, and `[[dynamic-warmup]]` technique/drill pages.
+Forward-reference — to be cited on ``warm-up`` hub, `[[physical]]` / injury prevention coverage, and ``dynamic-warmup`` technique/drill pages.
 
 ## Access
 

@@ -34,7 +34,7 @@ Salima Rockwell's (Notre Dame) whiteboard drill. The coach writes 4-5 specific p
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[team-drill]]`, `[[systems-detail/offense-play-variety]]`, `[[setting]]` (decision-making), `[[blocking]]` (read blocking), `[[drills/whiteboard]]`, and `[[salima-rockwell]]` profile.
+Forward-reference — to be cited on ``team-drill``, `[[systems-detail/offense-play-variety]]`, `[[setting]]` (decision-making), `[[blocking]]` (read blocking), `[[drills/whiteboard]]`, and `[[salima-rockwell]]` profile.
 
 ## Access
 

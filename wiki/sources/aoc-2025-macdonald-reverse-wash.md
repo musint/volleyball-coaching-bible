@@ -34,7 +34,7 @@ Kerry MacDonald (Volleyball Canada CSO, former UBC men's head coach) presents a 
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[team-drill]]`, `[[wash-drill]]`, `[[serving]]`, `[[mental]]` (pressure), `[[drills/reverse-wash]]`, and `[[kerry-macdonald]]` profile.
+Forward-reference — to be cited on ``team-drill``, `[[wash-drill]]`, `[[serving]]`, `[[mental]]` (pressure), `[[drills/reverse-wash]]`, and `[[kerry-macdonald]]` profile.
 
 ## Access
 

@@ -34,7 +34,7 @@ Karch Kiraly's "fire drill" is a chaotic 6v6 team drill that forces every player
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[team-drill]]`, `[[ball-control]]` hub, `[[setting]]` (emergency set), `[[positions/setter]]`, `[[age-lens-14u]]`, and `[[karch-kiraly]]` profile.
+Forward-reference — to be cited on ``team-drill``, ``ball-control`` hub, `[[setting]]` (emergency set), `[[positions/setter]]`, `[[age-lens-14u]]`, and `[[karch-kiraly]]` profile.
 
 ## Access
 

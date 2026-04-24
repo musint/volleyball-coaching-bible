@@ -37,7 +37,7 @@ Marie Zidek — DePaul University coach, CSCS, master's in sports medicine — p
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[warm-up]]` hub, `[[dynamic-warmup]]`, `[[physical]]` hub, `[[injury-prevention]]`, and `[[marie-zidek]]` profile.
+Forward-reference — to be cited on ``warm-up`` hub, ``dynamic-warmup``, `[[physical]]` hub, ``injury-prevention``, and `[[marie-zidek]]` profile.
 
 ## Access
 

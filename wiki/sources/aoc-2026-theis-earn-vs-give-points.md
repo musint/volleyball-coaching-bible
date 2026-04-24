@@ -34,7 +34,7 @@ Ryan Theis's asymmetric-score drill pressures teams to earn points only through 
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[team-drill]]`, `[[mental]]` (pressure + error accountability), `[[practice-planning]]` (competitive scoring systems), `[[drills/earn-vs-give]]`, and `[[ryan-theis]]` profile.
+Forward-reference — to be cited on ``team-drill``, `[[mental]]` (pressure + error accountability), `[[practice-planning]]` (competitive scoring systems), `[[drills/earn-vs-give]]`, and `[[ryan-theis]]` profile.
 
 ## Access
 

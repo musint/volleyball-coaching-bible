@@ -35,7 +35,7 @@ Jen Flynn Oldenburg's Ohio State drill alternates in-system and out-of-system of
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[systems-detail/out-of-system-offense]]`, `[[setting]]` (emergency setting), `[[drills/3-in-3-out]]`, `[[team-drill]]`, and `[[jen-flynn-oldenburg]]` profile.
+Forward-reference — to be cited on `[[systems-detail/out-of-system-offense]]`, `[[setting]]` (emergency setting), `[[drills/3-in-3-out]]`, ``team-drill``, and `[[jen-flynn-oldenburg]]` profile.
 
 ## Access
 

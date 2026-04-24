@@ -34,7 +34,7 @@ Diane Flick-Williams (Western Washington) runs "The Chase" — a sideout drill t
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[systems-detail/sideout]]`, `[[serve-receive]]`, `[[drills/the-chase]]`, `[[team-drill]]`, and `[[diane-flick-williams]]` profile.
+Forward-reference — to be cited on `[[systems-detail/sideout]]`, ``serve-receive``, `[[drills/the-chase]]`, ``team-drill``, and `[[diane-flick-williams]]` profile.
 
 ## Access
 

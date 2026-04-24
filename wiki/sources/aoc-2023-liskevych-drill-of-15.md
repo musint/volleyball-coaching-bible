@@ -35,7 +35,7 @@ Terry Liskevych's "Drill of 15" — adapted from USA National Team practice. 4v4
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[ball-control]]` hub, `[[small-group]]`, `[[mental]]` hub (pressure training), `[[drills/drill-of-15]]`, `[[usa-volleyball-cap]]` school page, and `[[terry-liskevych]]` profile.
+Forward-reference — to be cited on ``ball-control`` hub, ``small-group``, `[[mental]]` hub (pressure training), `[[drills/drill-of-15]]`, ``usa-volleyball-cap`` school page, and `[[terry-liskevych]]` profile.
 
 ## Access
 

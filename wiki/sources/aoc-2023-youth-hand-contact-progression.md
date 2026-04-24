@@ -34,7 +34,7 @@ An AOC-authored three-step progression for teaching youth players proper attacki
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[techniques/hitting-arm-swing]]`, `[[techniques/hitting-hand-contact]]`, `[[at-home]]` drill coverage, and `[[age-lens-14u]]`.
+Forward-reference — to be cited on `[[techniques/hitting-arm-swing]]`, `[[techniques/hitting-hand-contact]]`, ``at-home`` drill coverage, and `[[age-lens-14u]]`.
 
 ## Access
 

@@ -34,7 +34,7 @@ Michael Sopocy (North Park University) upgrades the standard pre-game hitting li
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[warm-up]]` hub, `[[match-prep]]`, `[[hitting]]` (transition hitting), `[[defense]]` pages, and `[[michael-sopocy]]` profile.
+Forward-reference — to be cited on ``warm-up`` hub, `[[match-prep]]`, `[[hitting]]` (transition hitting), `[[defense]]` pages, and `**Michael Sopocy**` profile.
 
 ## Access
 

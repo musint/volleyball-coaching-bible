@@ -34,7 +34,7 @@ trust-tier: 2
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[warm-up]]` hub, `[[age-lens-14u]]` camp section, and any camp-program guidance.
+Forward-reference — to be cited on ``warm-up`` hub, `[[age-lens-14u]]` camp section, and any camp-program guidance.
 
 ## Access
 

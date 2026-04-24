@@ -34,7 +34,7 @@ Terry Liskevych's six-stage ball-control digging sequence for paired players. On
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[pepper]]`, `[[ball-control]]` hub, `[[drills/pepper-progression]]`, `[[techniques/defense-overhead-dig]]`, and `[[terry-liskevych]]` profile.
+Forward-reference — to be cited on `[[pepper]]`, ``ball-control`` hub, `[[drills/pepper-progression]]`, `[[techniques/defense-overhead-dig]]`, and `[[terry-liskevych]]` profile.
 
 ## Access
 

@@ -34,7 +34,7 @@ Brandon Rosenthal (Lipscomb head coach) designs a 6v6 "Volleyball Tug of War" ar
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[team-drill]]`, `[[mental]]` (close-out, momentum), `[[drills/tug-of-war]]`, `[[practice-planning]]` (scoring variety), and `[[brandon-rosenthal]]` profile.
+Forward-reference — to be cited on ``team-drill``, `[[mental]]` (close-out, momentum), `[[drills/tug-of-war]]`, `[[practice-planning]]` (scoring variety), and `[[brandon-rosenthal]]` profile.
 
 ## Access
 

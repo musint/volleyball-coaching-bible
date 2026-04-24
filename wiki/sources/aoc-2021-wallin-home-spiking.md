@@ -37,7 +37,7 @@ Cary Wendell Wallin (Stanford NCAA Player of the Year; club coach, 949 Athletics
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[at-home]]`, `[[techniques/hitting-arm-swing]]`, `[[techniques/hitting-hand-contact]]`, `[[drills/home-spiking]]`, `[[terry-liskevych]]` profile (quoted), and `[[cary-wendell-wallin]]` profile.
+Forward-reference — to be cited on ``at-home``, `[[techniques/hitting-arm-swing]]`, `[[techniques/hitting-hand-contact]]`, `[[drills/home-spiking]]`, `[[terry-liskevych]]` profile (quoted), and `**Cary Wendell Wallin**` profile.
 
 ## Access
 

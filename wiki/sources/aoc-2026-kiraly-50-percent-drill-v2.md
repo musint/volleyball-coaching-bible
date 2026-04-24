@@ -34,7 +34,7 @@ Karch Kiraly's reworked "50% drill" (a 2026 video walkthrough; companion to the 
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[ball-control]]` hub, `[[mental]]` hub (creativity/decision-making), `[[drills/50-percent-drill]]`, `[[team-drill]]`, and `[[karch-kiraly]]` profile. Cross-reference `[[aoc-2024-kiraly-50-percent-drill]]` (the 2024 version of the same drill).
+Forward-reference — to be cited on ``ball-control`` hub, `[[mental]]` hub (creativity/decision-making), `[[drills/50-percent-drill]]`, ``team-drill``, and `[[karch-kiraly]]` profile. Cross-reference `[[aoc-2024-kiraly-50-percent-drill]]` (the 2024 version of the same drill).
 
 ## Access
 

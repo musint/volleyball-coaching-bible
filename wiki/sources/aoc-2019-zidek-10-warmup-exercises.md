@@ -34,7 +34,7 @@ Marie Zidek's compact 10-exercise pre-practice routine. Mark off 10 yards, line 
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[warm-up]]` hub, `[[dynamic-warmup]]`, `[[physical]]` hub, and `[[marie-zidek]]` profile.
+Forward-reference — to be cited on ``warm-up`` hub, ``dynamic-warmup``, `[[physical]]` hub, and `[[marie-zidek]]` profile.
 
 ## Access
 
