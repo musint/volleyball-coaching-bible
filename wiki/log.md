@@ -587,3 +587,6 @@ Executed Tracks 1+2 plan Task 1.14. Created `wiki/coaches/mike-lingenfelter.md` 
 - School stub's `associated-coaches: [mike-lingenfelter]` reciprocates the coach's `schools:` field (§6 bidirectional).
 - Index updated: coach listed under new "Club / specialist" sub-heading within Coaches; school stub added under Institutional-tradition stubs.
 
+
+## [2026-04-24] coach-profile | jen-flynn-oldenburg (brief, ~900w) | Task 1.19
+6 AOC source citations (2 duplicate-ingest pairs counted once substantively); 2 unsourced-queue entries (biographical scope + Stone/Oldenburg lineage framing); no new schools page (ohio-state-volleyball stub already existed from Task 1.12).

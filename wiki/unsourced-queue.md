@@ -405,3 +405,26 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Why unsourced:** The continuity framing between Stone and Oldenburg is editorial — the AOC drill articles do not draw that connection. Stone's tenure dates are asserted from the existing [[ohio-state-volleyball]] stub, which is itself a bidirectional-link stub with no primary source yet.
 - **Research hypothesis:** Ohio State volleyball program history page; Buckeye media guide historical section; AVCA tenure records; Jim Stone profile (Task 1.12) should source Stone's dates and any cross-reference to Oldenburg's appointment.
 - **Added:** 2026-04-24
+### wiki/coaches/brian-rosen.md
+- **Claim:** Task 1.22 spec lists `aoc-2026-swing-blocking-footwork-beginners` and `aoc-2016-rosen-training-transition-in-out-system` as source anchors for a "Brian Rosen" profile, but both sources are authored by **Mark Rosen** (University of Michigan, 1999-2022), a different coach from Brian Rosen (Creighton). The AOC corpus contains nine Rosen sources: eight Mark-Rosen-authored and one Brian-Rosen-authored (`aoc-2025-rosen-creighton-ball-control`). The task's "featured on `blocking-swing.md` and `age-lens-14u.md`" attribution (10-foot-line footwork, in/out-of-system transition) belongs to Mark Rosen, not Brian Rosen.
+- **Why unsourced:** Task-spec attribution error, not a missing citation. The brian-rosen profile was written grounded only in the one genuine Brian-Rosen source.
+- **Research hypothesis:** (a) Author a separate `wiki/coaches/mark-rosen.md` profile covering the Michigan swing-block / transition / competitive-serve-pass / block-OOS / OH-shot-selection catalog; (b) `age-lens-14u.md` already attributes the swing-block footwork progression by source citation-key (no coach name conflation on that page, so no edit required there). Flag the task plan for correction when Wave 3/4 work resumes.
+- **Added:** 2026-04-24
+
+### wiki/coaches/brian-rosen.md
+- **Claim:** Biographical specifics — years at Creighton, prior coaching stops, playing background, Creighton program record (NCAA tournament appearances, Big East conference finishes, All-Americans produced).
+- **Why unsourced:** The sole Brian-Rosen source (`aoc-2025-rosen-creighton-ball-control`) is a drill-teaching session, not a biographical feature. No Creighton athletics bio, long-form profile, or coaching-history article has been ingested.
+- **Research hypothesis:** Creighton Athletics staff bio (gocreighton.com); Big East coach directories; AVCA coaching profiles; any AOC long-form interview with Rosen; Omaha-area sport journalism (Omaha World-Herald) archives; LinkedIn; AOC podcast appearances.
+- **Added:** 2026-04-24
+
+### wiki/coaches/brian-rosen.md
+- **Claim:** Direct-quotation material from Brian Rosen.
+- **Why unsourced:** The AOC article describing his Creighton ball-control session paraphrases his framing rather than quoting him verbatim. Profile includes paraphrased passages tagged to the AOC source but no true verbatim quotes.
+- **Research hypothesis:** Manual transcription of the AOC video session itself; AVCA Convention / JVA Challenge clinic recordings featuring Rosen; podcast appearances (The Net Live, Coach Your Brains Out); Creighton program press conferences; AOC long-form written-interview archive if one exists.
+- **Added:** 2026-04-24
+
+### wiki/coaches/brian-rosen.md
+- **Claim:** Dangling wikilink to [[mark-rosen]] (Michigan head coach 1999-2022) — referenced in the overview disambiguation paragraph but no mark-rosen profile page exists yet.
+- **Why unsourced:** Forward reference. Mark Rosen is a substantial AOC contributor (swing-block, transition, competitive serve-pass, block-OOS, OH shot-selection, efficient hitting lines — eight source pages) whose profile is not yet in the plan as a named task, but the source base is clearly deep enough to warrant one.
+- **Research hypothesis:** Schedule a Task to author `wiki/coaches/mark-rosen.md` — source anchors: aoc-2016-rosen-training-transition-in-out-system, aoc-2016-rosen-transition-drills, aoc-2017-rosen-training-transitions, aoc-2019-rosen-competitive-serve-pass, aoc-2020-rosen-block-oos, aoc-2021-rosen-oh-shots-based-on-block, aoc-2025-rosen-efficient-hitting-lines, aoc-2026-rosen-swing-blocking-footwork, aoc-2026-swing-blocking-footwork-beginners. Likely ~1500w given depth; schools: art-of-coaching-volleyball + michigan (stub needed for michigan-volleyball).
+- **Added:** 2026-04-24

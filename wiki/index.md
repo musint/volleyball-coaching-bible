@@ -46,6 +46,7 @@ One-line summary per page; see the page itself for detail.
 
 ### USA (additional)
 - [[doug-beal]] — USA Men's 1984 LA Olympic gold head coach (first U.S. men's gold); three-time Olympic head coach (1984/2000/2004); USA Volleyball CEO 2005-2017; IVHF 1989
+- [[todd-dagenais]] — UCF head coach 2008-2023 (winningest in program + AAC history, 308-159, 5× AAC title); founding head coach PVF Atlanta Vibe 2024 (regular-season champion); now LOVB Director of League Operations
 
 ## Schools / philosophies
 ### Preferred-school set (W2.4)
@@ -68,6 +69,7 @@ One-line summary per page; see the page itself for detail.
 - [[chinese-volleyball-tradition]] — Chinese volleyball pedagogical tradition (排球精神) from the 1980s women's dynasty through Lang Ping's 2016 Rio gold; stub
 - [[modern-european-club-volleyball]] — 2010s-2020s women's pro-club era (VakıfBank Istanbul, Conegliano, Novara, etc.); Guidetti's operating frame; stub
 - [[munciana-volleyball-club]] — Muncie, Indiana nationally-recognized girls' club; Mike + Alyssa Lingenfelter co-directors; club-wide skill-training alignment from youngest teams through 18U; stub
+- [[central-florida-volleyball]] — UCF women's volleyball program modern identity via Todd Dagenais (2008-2023): winningest coach, 5× AAC title, 6× NCAA Tournament; stub
 
 ## Techniques
 ### Passing (W3.1)
