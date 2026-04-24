@@ -1,51 +1,51 @@
 # Wiki Lint Report
 
-Generated: 2026-04-24T12:34:55
+Generated: 2026-04-24T12:47:38
 
 ## Broken wikilinks
-Broken wikilinks: 182
+Broken wikilinks: 63
 
-- wiki\log.md: [[wikilinks]]
-- wiki\SCHEMA.md: [[some-new-coach]]
 - wiki\SCHEMA.md: [[wikilink]]
-- wiki\SCHEMA.md: [[wikilinks]]
-- wiki\unsourced-queue.md: [[byu]]
-- wiki\unsourced-queue.md: [[kirsten-bernthal-booth]]
-- wiki\unsourced-queue.md: [[mark-rosen]]
-- wiki\unsourced-queue.md: [[minnesota-volleyball]]
-- wiki\coaches\bernardinho.md: [[bebeto-de-freitas]]
-- wiki\coaches\bernardinho.md: [[jose-roberto-guimaraes]]
-- wiki\coaches\brian-rosen.md: [[mark-rosen]]
-- wiki\coaches\carl-mcgown.md: [[brigham-young-university]]
-- wiki\coaches\carl-mcgown.md: [[chris-mcgown]]
-- wiki\coaches\carl-mcgown.md: [[marv-dunphy]]
-- wiki\coaches\carl-mcgown.md: [[minnesota-volleyball]]
-- wiki\coaches\christy-johnson-lynch.md: [[kirsten-bernthal-booth]]
-- wiki\coaches\daimatsu-hirobumi.md: [[nichibo-kaizuka]]
-- wiki\coaches\daimatsu-hirobumi.md: [[witches-of-the-orient]]
-- wiki\coaches\giovanni-guidetti.md: [[vakifbank-istanbul]]
-- wiki\coaches\hugh-mccutcheon.md: [[byu]]
-- wiki\coaches\hugh-mccutcheon.md: [[minnesota-volleyball]]
-- wiki\coaches\hugh-mccutcheon.md: [[university-of-minnesota]]
-- wiki\coaches\jim-stone.md: [[tod-mattox]]
-- wiki\coaches\john-dunning.md: [[stanford-cardinal]]
-- wiki\coaches\john-dunning.md: [[university-of-pacific]]
 - wiki\coaches\karch-kiraly.md: [[aoc-2024-kiraly-expose-best-player]]
-- wiki\coaches\lang-ping.md: [[china-women-national-team]]
-- wiki\coaches\lang-ping.md: [[usa-women-national-team]]
-- wiki\coaches\luka-slabe.md: [[byu]]
-- wiki\coaches\mike-hebert.md: [[minnesota-volleyball]]
 - wiki\coaches\terry-liskevych.md: [[blocking-technique]]
 - wiki\coaches\terry-liskevych.md: [[liskevych-5]]
-- wiki\coaches\yuichi-nakagaichi.md: [[svleague]]
-- wiki\schools\brazilian-school.md: [[bebeto-de-freitas]]
-- wiki\schools\brazilian-school.md: [[jose-roberto-guimaraes]]
-- wiki\schools\brazilian-school.md: [[renan-dal-zotto]]
-- wiki\schools\gold-medal-squared.md: [[chris-mcgown]]
-- wiki\schools\gold-medal-squared.md: [[marv-dunphy]]
-- wiki\schools\gold-medal-squared.md: [[minnesota-volleyball]]
 - wiki\schools\italian-school.md: [[andrea-anastasi]]
-- ...and 142 more
+- wiki\schools\italian-school.md: [[daniele-santarelli]]
+- wiki\schools\italian-school.md: [[davide-mazzanti]]
+- wiki\schools\italian-school.md: [[ferdinando-de-giorgi]]
+- wiki\schools\italian-school.md: [[lorenzo-bernardi-as-coach]]
+- wiki\schools\russian-school.md: [[nikolay-karpol]]
+- wiki\schools\russian-school.md: [[vyacheslav-platonov]]
+- wiki\sources\aoc-2019-mashima-6-driveway-drills.md: [[kyle-mashima]]
+- wiki\sources\aoc-2019-sopocy-better-hitting-lines.md: [[michael-sopocy]]
+- wiki\sources\aoc-2019-zidek-10-warmup-exercises.md: [[marie-zidek]]
+- wiki\sources\aoc-2021-theis-square-cooperative-drill.md: [[ryan-theis]]
+- wiki\sources\aoc-2021-wallin-home-spiking.md: [[cary-wendell-wallin]]
+- wiki\sources\aoc-2021-zidek-20-dynamic-warmups.md: [[marie-zidek]]
+- wiki\sources\aoc-2024-hofer-tryout-queens-court.md: [[ryan-hofer]]
+- wiki\sources\aoc-2026-theis-earn-vs-give-points.md: [[ryan-theis]]
+- wiki\techniques\defense-platform.md: [[partner-pepper]]
+- wiki\techniques\defense-platform.md: [[three-person-defense]]
+- wiki\techniques\defense-pursuit.md: [[run-through-pursuit]]
+- wiki\techniques\defense-pursuit.md: [[sprawl-emergency]]
+- wiki\techniques\defense-reading.md: [[blocker-vs-shadow-hitter]]
+- wiki\techniques\defense-reading.md: [[look-see-decide-reading]]
+- wiki\techniques\hitting-approach.md: [[approach-footwork-no-ball]]
+- wiki\techniques\hitting-approach.md: [[box-approach-jump]]
+- wiki\techniques\hitting-approach.md: [[hitter-vs-defender]]
+- wiki\techniques\hitting-approach.md: [[pass-to-hit-outside]]
+- wiki\techniques\hitting-arm-swing.md: [[box-hit-arm-swing]]
+- wiki\techniques\hitting-arm-swing.md: [[partner-throw-to-hit]]
+- wiki\techniques\hitting-arm-swing.md: [[stationary-jump-swing]]
+- wiki\techniques\hitting-arm-swing.md: [[wall-arm-swing]]
+- wiki\techniques\hitting-back-row-attack.md: [[back-row-shot-variety]]
+- wiki\techniques\hitting-back-row-attack.md: [[back-row-transition-hit]]
+- wiki\techniques\hitting-back-row-attack.md: [[bic-timing]]
+- wiki\techniques\hitting-back-row-attack.md: [[pipe-approach-3m]]
+- wiki\techniques\hitting-shot-selection.md: [[block-read-attack]]
+- wiki\techniques\hitting-shot-selection.md: [[hitter-vs-defender]]
+- wiki\techniques\hitting-shot-selection.md: [[shot-menu-rotation]]
+- ...and 23 more
 
 ## Cross-link invariant violations
 Violations: 0
@@ -78,8 +78,9 @@ Failures: 22
 - wiki\_templates\technique.md: invalid enum value '<skill>' for 'skill'
 
 ## Unresolved citation keys
-Unresolved: 74
+Unresolved: 77
 
+- wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
@@ -119,11 +120,10 @@ Unresolved: 74
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
-- wiki\log.md: [2026-04-24]
-- ...and 34 more
+- ...and 37 more
 
 ## Orphan pages
-Orphans: 116
+Orphans: 109
 
 - wiki\schools\alberta-volleyball.md (type=school)
 - wiki\schools\iowa-state-volleyball.md (type=school)
@@ -132,7 +132,6 @@ Orphans: 116
 - wiki\sources\aoc-2013-dicicco-coping-with-cuts.md (type=source)
 - wiki\sources\aoc-2013-liskevych-base-to-read.md (type=source)
 - wiki\sources\aoc-2014-denney-10-steps-start-club.md (type=source)
-- wiki\sources\aoc-2015-mattox-kamikaze-scrimmage.md (type=source)
 - wiki\sources\aoc-2015-mcpeak-beach-workout-6.md (type=source)
 - wiki\sources\aoc-2015-mcpeak-go-low-bump-setting.md (type=source)
 - wiki\sources\aoc-2015-mcpeak-recovering-bad-pass.md (type=source)
@@ -143,7 +142,6 @@ Orphans: 116
 - wiki\sources\aoc-2017-kiraly-middle-transition-drill.md (type=source)
 - wiki\sources\aoc-2017-kniffin-team-culture-define-it.md (type=source)
 - wiki\sources\aoc-2017-rose-adjusting-hitter-coverage.md (type=source)
-- wiki\sources\aoc-2018-booth-jump-counting-evaluations.md (type=source)
 - wiki\sources\aoc-2018-dechant-5-shoulder-exercises.md (type=source)
 - wiki\sources\aoc-2018-liskevych-types-of-drills.md (type=source)
 - wiki\sources\aoc-2018-moxley-acl-injury-prevention.md (type=source)
@@ -163,9 +161,11 @@ Orphans: 116
 - wiki\sources\aoc-2019-liskevych-process-outcomes.md (type=source)
 - wiki\sources\aoc-2019-long-17-21-siding-out.md (type=source)
 - wiki\sources\aoc-2019-mashima-6-driveway-drills.md (type=source)
-- wiki\sources\aoc-2019-mattox-hs-practice-plan.md (type=source)
 - wiki\sources\aoc-2019-mclain-game-like-practice.md (type=source)
-- ...and 76 more
+- wiki\sources\aoc-2019-music-motivational-force.md (type=source)
+- wiki\sources\aoc-2019-push-superior-players.md (type=source)
+- wiki\sources\aoc-2019-ratkowski-practice-purpose.md (type=source)
+- ...and 69 more
 
 ## Stale methodology pages
 Stale: 1
@@ -173,31 +173,23 @@ Stale: 1
 - wiki\schools\ecological-dynamics.md (newest source year 2020)
 
 ## Concept gaps
-Gaps: 14
+Gaps: 0
 
-- [[byu]] (referenced 3x)
-- [[minnesota-volleyball]] (referenced 5x)
-- [[jose-roberto-guimaraes]] (referenced 5x)
-- [[tod-mattox]] (referenced 7x)
-- [[ball-control]] (referenced 11x)
-- [[warm-up]] (referenced 15x)
-- [[at-home]] (referenced 5x)
-- [[small-group]] (referenced 4x)
-- [[dynamic-warmup]] (referenced 4x)
-- [[team-drill]] (referenced 9x)
-- [[blitz-the-bro]] (referenced 5x)
-- [[neville-pepper]] (referenced 3x)
-- [[wave-serve-receive]] (referenced 3x)
-- [[heckle-the-server]] (referenced 3x)
 
 ## Unsourced-queue consistency
-Issues: 21
+Issues: 27
 
 - wiki\age-lens-college.md: has [unsourced] tag but no matching queue entry
 - wiki\log.md: has [unsourced] tag but no matching queue entry
 - wiki\SCHEMA.md: has [unsourced] tag but no matching queue entry
 - wiki\unsourced-queue.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\bebeto-de-freitas.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\chris-mcgown.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\jose-roberto-guimaraes.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\kirsten-bernthal-booth.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\renan-dal-zotto.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\russ-rose.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\tod-mattox.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\yasutaka-matsudaira.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\yuichi-nakagaichi.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\block-vs-random-practice.md: has [unsourced] tag but no matching queue entry
