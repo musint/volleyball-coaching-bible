@@ -260,3 +260,21 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Why unsourced:** AOC editorial prose summarizes his teaching; the underlying video captions are not ingested as transcripts.
 - **Research hypothesis:** Fetch video captions via AOC's caption endpoint for both pieces; check Rosenthal's Instagram/Twitter for self-authored quotes; AVCA Convention session recordings if he has presented.
 - **Added:** 2026-04-24
+
+### wiki/coaches/jim-stone.md
+- **Claim:** "Book publication as a Human Kinetics author on *Defensive Volleyball Drills* is widely cited in AOC biographical placards but is not substantiated in the AOC-only material available at ingest time."
+- **Why unsourced:** The plan (Task 1.12) and general coaching-community knowledge identify Stone as an author of Human Kinetics titles including *Defensive Volleyball Drills*. The AOC-only source set ingested for the Wave 2 backfill pass does not include a publisher preview, book-review, or table-of-contents citation to substantiate the authorship claim or the book's specific contents. No `stone-*-defensive-volleyball-drills` source page exists under `wiki/sources/`.
+- **Research hypothesis:** Human Kinetics publisher page for *Defensive Volleyball Drills*; WorldCat / Amazon / Google Books listing with year, ISBN, TOC; any Stone-authored volumes in Human Kinetics' coaching library. Ingest as `stone-YYYY-defensive-volleyball-drills.md` under `wiki/sources/` when located.
+- **Added:** 2026-04-24
+
+### wiki/coaches/kerry-macdonald.md
+- **Claim:** Specific transition year from UBC Men's head coach to Volleyball Canada CSO, and the full chronology of MacDonald's earlier coaching stops.
+- **Why unsourced:** AOC author bylines place him as "Volleyball Canada Chief Sports Officer, former Head Coach of UBC Men's Volleyball" across articles from 2021-2025 but do not date the transition or earlier resume.
+- **Research hypothesis:** Volleyball Canada press archive / staff-biography page; UBC Thunderbirds men's volleyball historical-roster listings; U SPORTS coach-of-the-year archives (MacDonald likely earned recognition during UBC tenure); AVCA or Volleyball Canada coach-education clinic rosters.
+- **Added:** 2026-04-24
+
+### wiki/coaches/kerry-macdonald.md
+- **Claim:** Specifics of MacDonald's administrative work as Volleyball Canada Chief Sports Officer (high-performance program direction, national-team pipeline decisions, U SPORTS coordination).
+- **Why unsourced:** AOC corpus is technical/drill-focused; it identifies MacDonald's CSO title without describing the CSO scope or decisions made in that role.
+- **Research hypothesis:** Volleyball Canada annual reports; Canadian sport-governance journalism (Globe and Mail, CBC Sports); VNL / FIVB coverage of Canadian men's/women's NT programming decisions 2020-2025; direct Volleyball Canada press releases.
+- **Added:** 2026-04-24
