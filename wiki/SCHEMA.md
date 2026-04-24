@@ -70,7 +70,7 @@ raw/
 
 ## 3. Page types reference
 
-Nine page types. Basenames are globally unique, so Obsidian `[[wikilinks]]` resolve by basename alone.
+Ten page types. Basenames are globally unique, so Obsidian `[[wikilinks]]` resolve by basename alone.
 
 | Type | Folder | Filename pattern | Example |
 |------|--------|------------------|---------|
@@ -83,6 +83,7 @@ Nine page types. Basenames are globally unique, so Obsidian `[[wikilinks]]` reso
 | Drill | `drills/` | `slug.md` | `butterfly-passing.md` |
 | Source | `sources/` | `author-year-shorttitle.md` | `kiraly-1997-championship-volleyball.md` |
 | Age-lens | `wiki/` root | `age-lens-<label>.md` | `age-lens-14u.md` |
+| Practice plan | `practice-plans/` | `<level>-<duration>-<label>.md` | `14u-90min-serve-receive.md` |
 
 ### 3.1 Hub pages
 - **Folder / filename:** `wiki/<topic>.md`
@@ -160,6 +161,15 @@ Nine page types. Basenames are globally unique, so Obsidian `[[wikilinks]]` reso
 - **Target length:** 1200–1800 words.
 - **Citation weight:** Heavy (age-appropriateness claims must be sourced — USAV age-appropriate guidelines are the strongest anchor).
 - **Cross-link rules:** `## Appropriate techniques & systems` must wikilink to specific technique/system pages. `## NOT appropriate at this level` must name specific systems/techniques with reasons attributed to sources.
+
+### 3.10 Practice-plan pages
+
+- **Folder / filename:** `wiki/practice-plans/<level>-<duration>-<label>.md`. Label is a descriptive kebab-case slug — typically the focus, or the season context when more identifying than the focus. Frontmatter carries the structured enums.
+- **Required frontmatter:** `type: practice-plan`, `level`, `duration-min`, `focus`, `season-phase`, `drills` (≥3 required — each must resolve to a drill page), `sources` (≥1 required).
+- **Required body sections:** `## Context`, `## Learning objectives`, `## Time blocks` (with sub-sections per phase, each naming drills as wikilinks with time allocations), `## Coaching cues`, `## Variations`, `## Adaptations by level`, `## Sources`.
+- **Target length:** 500–800 words.
+- **Citation weight:** Light. No inline citations; `## Sources` at bottom.
+- **Cross-link rules:** Every `drills:` slug must correspond to a real drill page. Plans SHOULD wikilink to the applicable age-lens page.
 
 ---
 
@@ -300,6 +310,17 @@ sources: [usav-age-appropriate-guidelines]
 ---
 ```
 
+### Practice-plan
+---
+type: practice-plan
+level: 14u                          # enum: 14u | hs | college
+duration-min: 90
+focus: serve-receive                # enum (see glossary)
+season-phase: mid-season            # enum (see glossary)
+drills: [butterfly-passing, pass-set-hit, cooperative-25-goal]   # ≥3 required
+sources: [...]                      # ≥1 required
+---
+
 ### Enum glossary
 
 - `phase ∈ {warm-up, skill, strategic, competition, conditioning}`
@@ -310,6 +331,9 @@ sources: [usav-age-appropriate-guidelines]
 - `complexity ∈ {low, medium, high}`
 - `levels / age-appropriateness ∈ {14u, hs, college, professional}`
 - `position ∈ {setter, outside-hitter, middle-blocker, opposite, libero, defensive-specialist}`
+- `focus ∈ {passing, setting, hitting, blocking, serving, defense, transition, serve-receive, out-of-system, match-prep, player-development, composite}`
+- `season-phase ∈ {preseason, mid-season, pre-tournament, taper, tryout, postseason, match-day}`
+- `level ∈ {14u, hs, college}` (same as `levels` array-valued counterpart on drill pages)
 
 ---
 
