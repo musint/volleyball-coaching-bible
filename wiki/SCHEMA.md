@@ -6,7 +6,7 @@
 
 ## 1. Preamble
 
-**What this wiki is.** A persistent, LLM-maintained knowledge base covering volleyball coaching — the "coaching bible." It follows the three-layer LLM-wiki pattern in `Instructions/llm-wiki.md`: immutable raw sources drive LLM-curated, interlinked markdown pages that compound in value as new sources are ingested. The human curates sources and asks questions; the LLM writes pages, maintains cross-references, and enforces the invariants in this document. The wiki is Obsidian-compatible: bodies use `[[wikilink]]` syntax, frontmatter uses bare page slugs for Dataview queries, and folder layout is shallow-nested so the graph view remains legible.
+**What this wiki is.** A persistent, LLM-maintained knowledge base covering volleyball coaching — the "coaching bible." It follows the three-layer LLM-wiki pattern in `Instructions/llm-wiki.md`: immutable raw sources drive LLM-curated, interlinked markdown pages that compound in value as new sources are ingested. The human curates sources and asks questions; the LLM writes pages, maintains cross-references, and enforces the invariants in this document. The wiki is Obsidian-compatible: bodies use `\[\[wikilink\]\]` syntax, frontmatter uses bare page slugs for Dataview queries, and folder layout is shallow-nested so the graph view remains legible.
 
 **Who the user is.** Song Mu, head coach at a nationally recognized club program. Immediate coaching context is **14U girls club, indoor 6s**. The wiki's mastery coverage scales to **HS varsity and college level** coaching — age-lens pages (`age-lens-14u.md`, `age-lens-hs.md`, `age-lens-college.md`) overlay developmentally appropriate guidance on otherwise general technique and systems material. Use-case is hybrid: lifelong mastery base + week-to-week working reference for practice planning, in-match adjustments, and season planning.
 
@@ -72,7 +72,7 @@ raw/
 
 ## 3. Page types reference
 
-Ten page types. Basenames are globally unique, so Obsidian `[[wikilinks]]` resolve by basename alone.
+Ten page types. Basenames are globally unique, so Obsidian `\[\[wikilinks\]\]` resolve by basename alone.
 
 | Type | Folder | Filename pattern | Example |
 |------|--------|------------------|---------|
@@ -177,7 +177,7 @@ Ten page types. Basenames are globally unique, so Obsidian `[[wikilinks]]` resol
 
 ## 4. Frontmatter contracts
 
-All pages open with YAML frontmatter. **Link-field convention:** link fields store bare page slugs (the filename without `.md`). In-body references use `[[wikilink]]` form. Lint validates both.
+All pages open with YAML frontmatter. **Link-field convention:** link fields store bare page slugs (the filename without `.md`). In-body references use `\[\[wikilink\]\]` form. Lint validates both.
 
 ### Hub
 ```yaml
@@ -345,7 +345,7 @@ sources: [...]                      # ≥1 required
 
 | Page type | Citation weight | Format |
 |-----------|-----------------|--------|
-| Philosophy hub, schools, coach profiles, age-lenses, and methodology sections of any page | **Heavy** | Inline `[citation-key]` after each non-generic claim, plus `## Sources` (or `## Bibliography`) section listing all cited source pages via `[[wikilink]]` |
+| Philosophy hub, schools, coach profiles, age-lenses, and methodology sections of any page | **Heavy** | Inline `[citation-key]` after each non-generic claim, plus `## Sources` (or `## Bibliography`) section listing all cited source pages via `\[\[wikilink\]\]` |
 | Technique, drill, position, system pages | **Light** | No inline citations in body. `## Sources` section at bottom listing linked source pages only |
 | Hub pages (navigational) | Light | Claims that must be made should be sourced; otherwise defer to subordinate pages |
 
@@ -431,7 +431,7 @@ Every source page's frontmatter has `trust-tier: 1|2|3`. Lint flags any claim in
 - **Never write content in `index.md` or `log.md`.** `index.md` is a catalog (one-line summaries only); `log.md` is chronological operations only. Substantive content goes in topical pages.
 - **Never cite a source page that doesn't exist.** Create the source page first, then cite it.
 - **Never write inline citations on light-citation pages.** Technique/drill/position/system pages get `## Sources` at bottom only.
-- **Never invent coach or school slugs.** If you're about to link `[[some-new-coach]]` and that page doesn't exist, either create a stub for it or remove the wikilink. Dangling wikilinks fail lint.
+- **Never invent coach or school slugs.** If you're about to link `\[\[some-new-coach\]\]` and that page doesn't exist, either create a stub for it or remove the wikilink. Dangling wikilinks fail lint.
 - **Never modify files under `raw/`.** Those are immutable. Notes, summaries, and interpretations belong on `wiki/` pages.
 - **Never collapse contested positions into a single "consensus view."** When sources disagree, the disagreement IS the content.
 
