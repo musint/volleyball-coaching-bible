@@ -428,3 +428,45 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Why unsourced:** Forward reference. Mark Rosen is a substantial AOC contributor (swing-block, transition, competitive serve-pass, block-OOS, OH shot-selection, efficient hitting lines — eight source pages) whose profile is not yet in the plan as a named task, but the source base is clearly deep enough to warrant one.
 - **Research hypothesis:** Schedule a Task to author `wiki/coaches/mark-rosen.md` — source anchors: aoc-2016-rosen-training-transition-in-out-system, aoc-2016-rosen-transition-drills, aoc-2017-rosen-training-transitions, aoc-2019-rosen-competitive-serve-pass, aoc-2020-rosen-block-oos, aoc-2021-rosen-oh-shots-based-on-block, aoc-2025-rosen-efficient-hitting-lines, aoc-2026-rosen-swing-blocking-footwork, aoc-2026-swing-blocking-footwork-beginners. Likely ~1500w given depth; schools: art-of-coaching-volleyball + michigan (stub needed for michigan-volleyball).
 - **Added:** 2026-04-24
+
+### wiki/coaches/laurie-eisler.md
+- **Claim:** Eisler's specific hire year at Alberta, cumulative record, Canada West championship count, U Sports tournament appearances/medals, and Alberta-to-national-team player pipeline.
+- **Why unsourced:** All three AOC source pages on file only identify her as "University of Alberta" head coach without quantified program history.
+- **Research hypothesis:** University of Alberta Pandas athletics program bio; U Sports / Canada West records archive; Volleyball Canada high-performance roster history; Edmonton-area sports-beat coverage; any CBC or Edmonton Journal profile.
+- **Added:** 2026-04-24
+
+### wiki/coaches/laurie-eisler.md
+- **Claim:** The precise drill scoring, ladder-reset cadence, role-flex rules, and full on-court content of the 2013 Calgary Clinic Q&A with [[hugh-mccutcheon]] on the competitive cauldron.
+- **Why unsourced:** The AOC Calgary Clinic Q&A video is AOC Premium; the scraped raw article contains only headers and no substantive body text.
+- **Research hypothesis:** AOC Premium subscription and transcription of the full video; cross-reference with the 2013 [[aoc-2013-mccutcheon-coopetition]] companion piece; check [[hugh-mccutcheon]]'s *Championship Behaviors* (2022) for any cauldron-mechanic passages that name Eisler directly.
+- **Added:** 2026-04-24
+
+### wiki/coaches/laurie-eisler.md
+- **Claim:** Eisler's specific "one big thing" from the 2017 AOC panel with Dunning, Liskevych, and Hoag.
+- **Why unsourced:** Panel video is AOC Premium; the public landing page only surfaces the general themes (team inspiration, program growth, social media) without the per-coach answers.
+- **Research hypothesis:** AOC Premium video transcription; AVCA Convention panel transcripts from 2017-2018 where Eisler may have repeated the framing; her institutional interviews at Alberta if any surface in local press coverage.
+- **Added:** 2026-04-24
+
+### wiki/coaches/laurie-eisler.md
+- **Claim:** Whether Eisler was ever associated with University of Illinois volleyball or with the [[mike-hebert]] coaching tree.
+- **Why unsourced:** The Track 1 task 1.16 spec grouped her under an Illinois / Hebert lineage, but no source on file corroborates any Eisler-Illinois affiliation; all three AOC sources on file say University of Alberta exclusively. Apparent misattribution.
+- **Research hypothesis:** University of Illinois women's volleyball media guides from the Hebert era (1980s); AVCA Directory historical staff listings for Illinois women's volleyball; if nothing surfaces, close as "no evidence."
+- **Added:** 2026-04-24
+
+### wiki/coaches/laurie-eisler.md
+- **Claim:** Whether Eisler was ever associate head coach at Minnesota during [[hugh-mccutcheon]]'s 2012-2022 tenure (framing present in `wiki/mental.md`).
+- **Why unsourced:** All three AOC source pages on file identify her institutional role as University of Alberta, not Minnesota. No source on file corroborates a Minnesota staff role.
+- **Research hypothesis:** University of Minnesota women's volleyball staff directory historical pages (2012-2022); Big Ten coach directories; McCutcheon's own *Championship Behaviors* acknowledgments; if Minnesota is confirmed nowhere, correct `wiki/mental.md` in a follow-up lint pass.
+- **Added:** 2026-04-24
+
+### wiki/schools/alberta-volleyball.md
+- **Claim:** Anything beyond the bare institutional-stub framing — program record, Canada West title history, post-Eisler roster, coaching-tree downstream.
+- **Why unsourced:** Stub created as bidirectional-link for the Eisler profile; no Alberta-program source ingested into this wiki yet.
+- **Research hypothesis:** University of Alberta Golden Bears & Pandas athletics records; U Sports championship archive; Canada West all-time standings.
+- **Added:** 2026-04-24
+
+### wiki/schools/illinois-volleyball.md
+- **Claim:** Post-Hebert Illinois volleyball history — subsequent head coaches, multi-decade record, NCAA tournament history after the 1980s.
+- **Why unsourced:** Stub created as bidirectional-link for Hebert; plan spec also suggested Eisler linkage, not corroborated by any on-file source.
+- **Research hypothesis:** University of Illinois athletics media guides; AVCA Illinois program history; Big Ten women's volleyball archives.
+- **Added:** 2026-04-24

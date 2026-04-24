@@ -587,6 +587,22 @@ Executed Tracks 1+2 plan Task 1.14. Created `wiki/coaches/mike-lingenfelter.md` 
 - School stub's `associated-coaches: [mike-lingenfelter]` reciprocates the coach's `schools:` field (§6 bidirectional).
 - Index updated: coach listed under new "Club / specialist" sub-heading within Coaches; school stub added under Institutional-tradition stubs.
 
+## [2026-04-24] task-1-18 | Doug Beal coach profile
+Executed Tracks 1+2 plan Task 1.18. Wrote `wiki/coaches/doug-beal.md` (~1,500-word full
+profile per SCHEMA §3.2). Ingested two new sources: `beal-wikipedia-bio` (tier 3, full
+chronology of birth/education/career) and `beal-nd-aoc-profile` (tier 2, "Triple Crown"
+framing + 19th-ranked-program line + AOC content directory). Existing
+`aoc-2025-beal-josephson-dont-train-passing-isolation` carried the single surviving
+Beal-authored methodology claim (pass-with-approach, two-passer seam management);
+`kiraly-1997-championship-volleyball` cross-cited for the 1984 Beal-era lineage.
+Queued 3 `[unsourced]` entries: 1978/1981 training-center day-to-day practice design,
+Beal's 2017/2018 AOC "growing the game" articles (not ingested), and CEO-era
+policy/programmatic specifics. raw/INDEX.md, wiki/index.md, unsourced-queue.md updated.
+Pages touched: 6.
+
 
 ## [2026-04-24] coach-profile | jen-flynn-oldenburg (brief, ~900w) | Task 1.19
 6 AOC source citations (2 duplicate-ingest pairs counted once substantively); 2 unsourced-queue entries (biographical scope + Stone/Oldenburg lineage framing); no new schools page (ohio-state-volleyball stub already existed from Task 1.12).
+
+## [2026-04-24] coach-profile | todd-dagenais (brief, ~1500w) | Task 1.25
+4 sources cited: 3 new (dagenais-ucf-athletics-bio T2, dagenais-2023-ucf-departure T2, dagenais-wikipedia-bio T3) + 1 existing (aoc-2018-coaching-iy-generation T2). 3 raw files under raw/articles/ + 3 source pages under wiki/sources/. New school stub: wiki/schools/central-florida-volleyball.md (bidirectional with todd-dagenais). 3 unsourced-queue entries added (MSU head coach not named, Haley mentorship mechanism inference, AOC paywalled-content gap + editorial "mid-major blueprint" framing). McCutcheon dangling-wikilink queue entry annotated RESOLVED for todd-dagenais. Index updated with new coach entry under USA (additional) + school stub under Institutional-tradition stubs. aoc-2018-coaching-iy-generation source page's "Where it's cited" updated.

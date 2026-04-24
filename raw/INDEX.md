@@ -46,6 +46,177 @@ Format: `- <path> — <source-title> — <citation-key>`
 - aoc-2021-mattox-early-season-practice.md — Mattox/Patterson early-season practice (AOC 2021) — aoc-2021-mattox-early-season-practice
 - aoc-nd-rose-profile.md — AOC founder profile: Russ Rose — aoc-nd-rose-profile
 
+### AOC backfill via aoc-mcp (2026-04-23, Task 15)
+#### Kiraly: 2-min takes, philosophy, pressure
+- aoc-2024-kiraly-give-freedom.md — Kiraly 2-min take: give players freedom — aoc-2024-kiraly-give-freedom
+- aoc-2024-kiraly-culture.md — Kiraly on building a program culture — aoc-2024-kiraly-culture
+- aoc-2024-kiraly-asking-questions.md — Kiraly on the importance of asking questions — aoc-2024-kiraly-asking-questions
+- aoc-2024-kiraly-things-learned.md — Kiraly: Things I learned at the top level — aoc-2024-kiraly-things-learned
+- aoc-2024-kiraly-reverse-brainstorming.md — Kiraly 2-min take: reverse brainstorming — aoc-2024-kiraly-reverse-brainstorming
+- aoc-2024-kiraly-assistant-coach.md — Kiraly 2-min take: best use of your assistant coach — aoc-2024-kiraly-assistant-coach
+- aoc-2024-kiraly-stats-matter-most.md — Kiraly 2-min take: stats that matter most — aoc-2024-kiraly-stats-matter-most
+- aoc-2024-kiraly-serving-errors.md — Kiraly 2-min take: serving effectively means making a few errors — aoc-2024-kiraly-serving-errors
+- aoc-2024-kiraly-serving-pressure.md — Kiraly: handling pressure situations as a server — aoc-2024-kiraly-serving-pressure
+- aoc-2021-kiraly-becoming-learner.md — Kiraly on becoming a learner (P/ATH Sports w/ Cassidy Lichtman) — aoc-2021-kiraly-becoming-learner
+
+#### Kiraly: drills, reading, team tactics
+- aoc-2024-kiraly-validation-6v6.md — Kiraly "validation" 6v6 game — aoc-2024-kiraly-validation-6v6
+- aoc-2024-kiraly-reads-every-skill.md — Kiraly on training reading as part of every skill — aoc-2024-kiraly-reads-every-skill
+- aoc-2024-kiraly-in-game-tactics.md — Kiraly on in-game tactics: offensive & defensive — aoc-2024-kiraly-in-game-tactics
+- aoc-2024-kiraly-training-libero.md — Training your libero with Karch Kiraly — aoc-2024-kiraly-training-libero
+- aoc-2024-kiraly-serve-receive-unit.md — Kiraly on developing your serve-receive unit — aoc-2024-kiraly-serve-receive-unit
+- aoc-2024-kiraly-50-percent-drill.md — Kiraly: 50 percent drill — aoc-2024-kiraly-50-percent-drill
+- aoc-2021-kiraly-libero-set-team-drill.md — Kiraly team drill: make the libero set — aoc-2021-kiraly-libero-set-team-drill
+- aoc-2023-kiraly-competing-in-practice.md — Kiraly: gain a competitive advantage by competing in practice — aoc-2023-kiraly-competing-in-practice
+- aoc-2024-legends-liskevych-kiraly.md — Advice from the legends: Liskevych & Kiraly — aoc-2024-legends-liskevych-kiraly
+- aoc-2023-kiraly-precision-passing.md — Precision passing with Karch Kiraly — aoc-2023-kiraly-precision-passing
+- aoc-2024-kiraly-training-efficiently.md — Kiraly on training more efficiently: making the minutes count — aoc-2024-kiraly-training-efficiently
+- aoc-2021-kiraly-expose-best-player.md — Kiraly's advice: exposing your best player — aoc-2021-kiraly-expose-best-player
+
+#### Russ Rose corpus (Penn State)
+- aoc-2023-rose-club-rules.md — Rose's rules for club season — aoc-2023-rose-club-rules
+- aoc-2022-rose-subs-in-practice.md — Rose on using subs in practice — aoc-2022-rose-subs-in-practice
+- aoc-2022-rose-coach-for-life.md — Rose: a coach for life (profile by Don Patterson, 2521 wc) — aoc-2022-rose-coach-for-life
+- aoc-2019-what-learned-from-rose.md — What I learned from Russ Rose (Christa Dietzen video intro) — aoc-2019-what-learned-from-rose
+- aoc-2018-rose-offensive-systems.md — Rose on offensive systems — aoc-2018-rose-offensive-systems
+- aoc-2018-rose-back-row-skills.md — Rose on back-row skills — aoc-2018-rose-back-row-skills
+- aoc-2018-rose-serving-fundamentals.md — Rose on serving fundamentals — aoc-2018-rose-serving-fundamentals
+- aoc-2017-rose-serving-ritual.md — Rose on importance of a serving ritual — aoc-2017-rose-serving-ritual
+- aoc-2018-rose-impact-of-passing.md — Rose on impact of passing — aoc-2018-rose-impact-of-passing
+- aoc-2017-rose-pennstate-prep.md — Rose: analysis of Penn State match preparation — aoc-2017-rose-pennstate-prep
+- aoc-2018-rose-bad-servers.md — Rose: bad servers middle-back vs right-back — aoc-2018-rose-bad-servers
+- aoc-2026-rose-no-free-balls.md — Rose's rule: no free balls — aoc-2026-rose-no-free-balls
+- aoc-2024-rose-best-servers.md — Rose: game planning, start with your best servers — aoc-2024-rose-best-servers
+
+#### McCutcheon + Dunning
+- aoc-2015-mccutcheon-blocking-keys.md — McCutcheon: keys to better blocking — aoc-2015-mccutcheon-blocking-keys
+- aoc-2013-mccutcheon-coopetition.md — "Coopetition" with McCutcheon — aoc-2013-mccutcheon-coopetition
+- aoc-2013-mccutcheon-eisler-cauldron.md — Competitive cauldron: McCutcheon & Laurie Eisler — aoc-2013-mccutcheon-eisler-cauldron
+- aoc-2015-liskevych-mccutcheon-defense-blocking.md — Defense & Blocking: Liskevych & McCutcheon — aoc-2015-liskevych-mccutcheon-defense-blocking
+- aoc-2017-dunning-10-things.md — Dunning: 10 things I've learned — aoc-2017-dunning-10-things
+- aoc-2018-dunning-team-culture.md — Dunning: team culture & chemistry — aoc-2018-dunning-team-culture
+- aoc-2017-dunning-stanford-character.md — Dunning: Stanford match analysis & character preservation — aoc-2017-dunning-stanford-character
+- aoc-2024-dunning-non-starter-side.md — Dunning: motivating the non-starter side of the net — aoc-2024-dunning-non-starter-side
+- aoc-2018-dunning-hitter-types.md — Dunning: what kind of hitter are you? — aoc-2018-dunning-hitter-types
+- aoc-2017-dunning-makes-players-sing.md — Why players sing in Dunning's practices — aoc-2017-dunning-makes-players-sing
+
+#### Liskevych corpus (ASICS series + philosophy)
+- aoc-2022-liskevych-five.md — The Liskevych 5 — aoc-2022-liskevych-five
+- aoc-2017-liskevych-controlling-feelings.md — Liskevych on controlling feelings and attitude — aoc-2017-liskevych-controlling-feelings
+- aoc-2018-liskevych-players-and-staff.md — Liskevych on players and staff — aoc-2018-liskevych-players-and-staff
+- aoc-2024-liskevych-growing-sport.md — Liskevych: growing the sport (Side-Out / Leave It Better pod) — aoc-2024-liskevych-growing-sport
+- aoc-2016-liskevych-blocking-what-matters.md — Liskevych: what matters most when training blocking — aoc-2016-liskevych-blocking-what-matters
+- aoc-2017-liskevych-asics-defense.md — ASICS Skill Series: defense — aoc-2017-liskevych-asics-defense
+- aoc-2017-liskevych-asics-blocking.md — ASICS Skill Series: blocking — aoc-2017-liskevych-asics-blocking
+- aoc-2017-liskevych-asics-setting.md — ASICS Skill Series: setting — aoc-2017-liskevych-asics-setting
+- aoc-2017-liskevych-asics-hitting.md — ASICS Skill Series: hitting — aoc-2017-liskevych-asics-hitting
+- aoc-2017-liskevych-asics-serving.md — ASICS Skill Series: serving — aoc-2017-liskevych-asics-serving
+- aoc-2017-liskevych-asics-passing.md — ASICS Skill Series: passing — aoc-2017-liskevych-asics-passing
+- aoc-2013-liskevych-top-references.md — Liskevych's top 35 references (bibliography) — aoc-2013-liskevych-top-references
+
+#### Technique foundations
+- aoc-2025-passing-posture-pursuit-platform.md — Passing technique: posture, pursuit, platform — aoc-2025-passing-posture-pursuit-platform
+- aoc-2020-passing-principles.md — Principles of passing (Rose/Dunning/Stone panel) — aoc-2020-passing-principles
+- aoc-2024-setting-hand-hinge.md — Setting fundamentals: hand-hinge — aoc-2024-setting-hand-hinge
+- aoc-2024-setting-fundamentals.md — Fundamentals of effective setting — aoc-2024-setting-fundamentals
+- aoc-2024-attack-approach.md — Keys to good attack approaches (Gina Schmidt) — aoc-2024-attack-approach
+- aoc-2024-attack-arm-mechanics.md — Attacking arm mechanics: torque and arm height — aoc-2024-attack-arm-mechanics
+- aoc-2025-float-serve-3-keys.md — 3 keys to a good float serve — aoc-2025-float-serve-3-keys
+- aoc-2024-float-serve-toss.md — Great float serves start with a great toss — aoc-2024-float-serve-toss
+- aoc-2020-types-of-serves.md — Types of serves — aoc-2020-types-of-serves
+- aoc-2024-blocking-fundamentals.md — Blocking fundamentals: positioning and posture — aoc-2024-blocking-fundamentals
+
+#### Systems, reading, tactical depth
+- aoc-2025-training-reading-look-see-decide.md — Training players to read: look, see, decide — aoc-2025-training-reading-look-see-decide
+- aoc-2026-training-reading.md — Training players to read — aoc-2026-training-reading
+- aoc-2020-reading-every-skill.md — Reading: a part of every skill — aoc-2020-reading-every-skill
+- aoc-2026-team-defense-reading.md — Team defense and reading — aoc-2026-team-defense-reading
+- aoc-2023-swing-blocking-when.md — Swing blocking: is it right for your team? — aoc-2023-swing-blocking-when
+- aoc-2024-slabe-blocking.md — Luka Slabe teaches blocking (static/swing/combination) — aoc-2024-slabe-blocking
+- aoc-2026-bunch-read-blocking.md — What is "bunch read" blocking — aoc-2026-bunch-read-blocking
+- aoc-2022-4-2-system.md — 4-2 volleyball system: a simple offense that works — aoc-2022-4-2-system
+- aoc-2022-hybrid-5-1-two-setters.md — Hybrid systems: 5-1 with two setters — aoc-2022-hybrid-5-1-two-setters
+- aoc-2022-hybrid-6-2-setter-middle.md — Hybrid systems: 6-2 where setter and middle sub — aoc-2022-hybrid-6-2-setter-middle
+
+#### Youth/14U + mental + motor learning
+- aoc-2024-kids-passing-fundamentals.md — Training for kids: passing fundamentals — aoc-2024-kids-passing-fundamentals
+- aoc-2024-kids-setting-fundamentals.md — Training for kids: setting fundamentals — aoc-2024-kids-setting-fundamentals
+- aoc-2024-kids-attacking-fundamentals.md — Training for kids: attacking fundamentals — aoc-2024-kids-attacking-fundamentals
+- aoc-2024-kids-serving-fundamentals.md — Training for kids: serving fundamentals — aoc-2024-kids-serving-fundamentals
+- aoc-2021-youth-15-drills.md — 15 fun youth drills (beginners) — aoc-2021-youth-15-drills
+- aoc-2021-teach-rotations-beginners.md — How to teach volleyball rotations to beginners — aoc-2021-teach-rotations-beginners
+- aoc-2021-teach-spiking.md — How to teach spiking: beginners/intermediates — aoc-2021-teach-spiking
+- aoc-2018-coaching-iy-generation.md — Coaching the 'iY' generation (Premium teaser) — aoc-2018-coaching-iy-generation
+- dagenais-ucf-athletics-bio.md — UCF Athletics official coach bio for Todd Dagenais — dagenais-ucf-athletics-bio
+- dagenais-wikipedia-bio.md — Wikipedia biographical summary, Todd Dagenais — dagenais-wikipedia-bio
+- dagenais-2023-ucf-departure.md — April 2023 UCF Athletics departure announcement for Todd Dagenais — dagenais-2023-ucf-departure
+- aoc-2019-nine-reasons-teams-fail.md — 9 reasons teams fail to reach their potential — aoc-2019-nine-reasons-teams-fail
+- aoc-2024-motor-learning.md — Motor learning: repetition & visual direction (Jim Stone, teaser) — aoc-2024-motor-learning
+- aoc-2026-post-game-talk.md — Post-game talk: stay consistent, win or lose — aoc-2026-post-game-talk
+
+### AOC backfill via aoc-mcp (2026-04-23, W3.5 — filling Wave 3 technique/system gaps)
+#### Reading, defense, footwork, swing-blocking
+- aoc-2022-emergency-moves-passing-defense.md — Emergency moves for passing and defense — aoc-2022-emergency-moves-passing-defense
+- aoc-2025-controlling-the-dig.md — Controlling the dig with body positioning — aoc-2025-controlling-the-dig
+- aoc-2023-passing-shuffle-not-reach.md — Shuffling instead of reaching — aoc-2023-passing-shuffle-not-reach
+- aoc-2021-arm-swing-reading-back-bent-straight.md — Arm swing reading: back/bent/straight — aoc-2021-arm-swing-reading-back-bent-straight
+- aoc-2022-blocker-reading-drill-tempo.md — Blocker reading drill: tempo, eye-progression, footwork — aoc-2022-blocker-reading-drill-tempo
+- aoc-2023-tips-reading-the-set.md — Cues for reading the set — aoc-2023-tips-reading-the-set
+- aoc-2026-up-defense.md — Man up defense — aoc-2026-up-defense
+- aoc-2024-importance-teaching-swing-blocking.md — Why swing blocking matters — aoc-2024-importance-teaching-swing-blocking
+- aoc-2026-swing-blocking-footwork-beginners.md — Swing blocking footwork for beginners — aoc-2026-swing-blocking-footwork-beginners
+- aoc-2021-ideal-hand-path-blocking.md — Ideal hand path when blocking — aoc-2021-ideal-hand-path-blocking
+- aoc-2024-blocking-footwork-streamlining.md — Blocking footwork streamlining — aoc-2024-blocking-footwork-streamlining
+
+#### Systems (defense by rotation, middle attack, back-row, OOS, serve-receive formations)
+- aoc-2021-defending-spread-offense.md — Defending the spread offense + 3 blocking postures — aoc-2021-defending-spread-offense
+- aoc-2021-defending-first-kill-rotation-1.md — Defending the first swing: Rotation 1 — aoc-2021-defending-first-kill-rotation-1
+- aoc-2021-defending-first-kill-rotation-2.md — Defending the first swing: Rotation 2 — aoc-2021-defending-first-kill-rotation-2
+- aoc-2021-defending-first-kill-rotation-3.md — Defending the first swing: Rotation 3 — aoc-2021-defending-first-kill-rotation-3
+- aoc-2021-defending-first-kill-rotation-4.md — Defending the first swing: Rotation 4 — aoc-2021-defending-first-kill-rotation-4
+- aoc-2021-running-effective-31-attack.md — Running an effective 31 middle attack — aoc-2021-running-effective-31-attack
+- aoc-2023-back-row-attacking-basics.md — Back row attacking basics — aoc-2023-back-row-attacking-basics
+- aoc-2025-back-row-attack-by-rotation.md — Back row attack by rotation — aoc-2025-back-row-attack-by-rotation
+- aoc-2019-middles-attack-behind-setter.md — Middles: Learning to attack behind the setter — aoc-2019-middles-attack-behind-setter
+- aoc-2024-where-to-put-oos-sets.md — Where should you put your out-of-system sets? — aoc-2024-where-to-put-oos-sets
+- aoc-2024-sr-formations.md — Formations for strategic serve receive — aoc-2024-sr-formations
+- aoc-2024-sr-team-communication.md — Serve receive fundamentals: team communication — aoc-2024-sr-team-communication
+
+### AOC deep scrub (2026-04-23, Task 23-25 — near-complete catalog ingest)
+Ten parallel aoc-mcp agents (A-J) ingested the remaining AOC long-tail.
+**Net +400 AOC raw articles:** 118 → 518. Deduplicated against existing by
+`source-url` frontmatter grep. All files follow the standard aoc-mcp pattern
+(raw/articles/aoc-<YYYY>-<slug>.md + wiki/sources/aoc-<YYYY>-<slug>.md per
+SCHEMA §3.8, trust-tier: 2).
+
+Coverage breakdown by wave:
+- Scrub A (passing + serve-receive): 40 new
+- Scrub B (setting + setter): 53 new
+- Scrub C (hitting + OH + MB + opposite): 40 new
+- Scrub D (blocking + defense + defensive-systems): ~40 new
+- Scrub E (offense + OOS + rotations + game-strategy): ~40 new
+- Scrub F (practice-planning + coach-connection + transitions): 40 new
+- Scrub G (warm-up + ball-control + team-drills + small-group + at-home): ~40 new
+- Scrub H (libero + premium + injury + sports-performance + serving): ~40 new
+- Scrub I (overflow wave 1 — 50 URLs): 46 new, 1 fetch failure
+- Scrub J (Rockwell + culture + tryouts + long-tail): 51 new
+
+Notable additions surfaced by the scrub:
+- Full Salima Rockwell corpus (~11 pieces: culture, defending-angle, virus
+  variations, pepper series, setter training, five-on-five, acceleration)
+- Full Coach Connection series (7 Q&A sessions 2025-2026)
+- Tryout / club-ops / culture corpus (Liskevych bibliography, Kniffin culture,
+  tryout checklists, roster-size, DiCicco cuts, club-starting)
+- Mattox drill library (15+ YouTube-style drill pages)
+- Munciana Volleyball Club content (Lingenfelter — Song's club context)
+- 2019 Jim Stone practice plan PDFs (transitions, OOS)
+- Historic 2013-2015 pieces (Hoag, Lupo Ludwig, McPeak, Shymansky)
+
+Because the catalog addition is in the hundreds, individual file entries are
+NOT listed here line-by-line — the raw/articles/aoc-*.md folder (518 files)
+and wiki/sources/aoc-*.md folder (520 files) are the canonical registries.
+Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
+
 ### Other major coaches (W1.7)
 - dunning-aoc-difference-maker.md — John Dunning: difference-maker piece (AOC 2016) — dunning-2016-aoc-difference-maker
 - langping-brunswick-iron-hammer.md — Lang Ping "Iron Hammer" feature (Brunswick 2016) — langping-2016-brunswick-iron-hammer
@@ -54,6 +225,12 @@ Format: `- <path> — <source-title> — <citation-key>`
 - rose-dignittany-excellence-vs-success.md — Russ Rose on excellence vs success (DigNittany 2016) — rose-2016-dignittany-excellence-vs-success
 - speraw-usav-profile.md — John Speraw USAV coach profile (2024) — speraw-2024-usav-profile
 - wise-characterandleadership-profile.md — Mary Wise character/leadership profile (2023) — wise-2023-characterandleadership-profile
+
+### Brazilian tradition (W2.5)
+- bernardinho-wikipedia-bio.md — Bernardo Rezende (Wikipedia) — bernardinho-2026-wikipedia-bio
+- brazil-men-nt-wikipedia.md — Brazil men's national volleyball team (Wikipedia) — brazil-men-nt-2026-wikipedia
+- brazil-women-nt-wikipedia.md — Brazil women's national volleyball team (Wikipedia) — brazil-women-nt-2026-wikipedia
+- guimaraes-wikipedia.md — José Roberto Guimarães (Wikipedia biography) — guimaraes-2026-wikipedia
 
 ### Japanese tradition (W1.6)
 - daimatsu-olympians-tough-love.md — Witches of the Orient / Daimatsu (The Olympians 2017) — daimatsu-2017-tough-love
@@ -93,6 +270,10 @@ Format: `- <path> — <source-title> — <citation-key>`
 - so-you-want-to-be-a-volleyball-coach.md — So You Want To Be A Volleyball Coach (Pat Madia) — usav-2026-so-you-want-to-be-a-volleyball-coach
 - youth-volleyball-tips.md — Youth Volleyball Tips (USAV) — usav-2026-youth-volleyball-tips
 - youth-volleyball-tips-for-success.md — Youth Volleyball Tips for Success (John Kessel) — (covered by usav-2026-youth-volleyball-tips)
+
+### Doug Beal (Task 1.18)
+- beal-wikipedia-bio.md — Doug Beal Wikipedia biography (2026 fetch) — beal-wikipedia-bio
+- beal-aoc-profile.md — Doug Beal AOC coach profile page (2026 fetch; Triple Crown, 19th-ranked program) — beal-nd-aoc-profile
 
 ## research/
 - afonso-2012-volleyball-perceptual-cognitive.md — Afonso et al. on volleyball perceptual-cognitive skill (2012) — afonso-2012-volleyball-perceptual-cognitive
