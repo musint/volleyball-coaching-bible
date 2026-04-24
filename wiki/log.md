@@ -715,6 +715,16 @@ Guidetti / VakıfBank" cluster heading under articles + the Akyildiz peer-review
 paper under research/. Pages touched: 1 coach profile + 3 source pages + 2 raw
 articles + 1 raw research paper + 1 INDEX + 1 log = **8**.
 
+## [2026-04-24] task-2-20 commit-trail note
+Velasco backfill (Task 2.20) landed in commit `e7aaf79` (nominal message
+"feat(wiki): backfill Guidetti methodology cluster") because a concurrent batch
+staging in that session swept the Velasco files into the Guidetti commit. The
+intended independent commit message was `feat(wiki): backfill Velasco
+methodology cluster (3 cleared, 4 refined)`. Content integrity verified —
+all 4 Velasco raw articles, 4 source pages, updated coach profile, 4 new
+unsourced-queue entries, and corresponding log + index + raw/INDEX updates
+are present under the e7aaf79 tree. Task is complete.
+
 ## [2026-04-24] task-2-20 | Velasco methodology cluster
 Executed Tracks 1+2 plan Task 2.20. Ingested 3 new sources for the Julio Velasco
 unsourced-queue cluster (7 inline `[unsourced]` tags on `wiki/coaches/julio-velasco.md`):
