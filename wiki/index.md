@@ -19,6 +19,15 @@ One-line summary per page; see the page itself for detail.
 - [[rules]] (W5.4) — USAV + NCAA + scholastic + tournament formats
 - [[recruiting]] (W5.5) — college pathway, NCAA timeline, tournaments, film, camps
 
+## Skill hubs
+- [[passing]] — overview + entry into 4 passing subskills; schools-perspectives meta
+- [[setting]] — overview + entry into 4 setting subskills; hand-hinge era
+- [[hitting]] — overview + entry into 4 hitting subskills
+- [[blocking]] — overview + entry into 4 blocking subskills; swing-vs-shuffle meta
+- [[serving]] — overview + entry into 4 serving subskills
+- [[defense]] — overview + entry into 3 defense subskills; reading-centric
+- [[transition]] — overview + entry into 2 transition subskills
+
 ## Coaches
 ### USA (W2.1)
 - [[karch-kiraly]] — three-time Olympic gold medalist (1984/1988 indoor, 1996 beach), USA Women's NT head coach 2012-2024, transitioning to USA Men's NT for LA 2028
@@ -47,6 +56,23 @@ One-line summary per page; see the page itself for detail.
 ### USA (additional)
 - [[doug-beal]] — USA Men's 1984 LA Olympic gold head coach (first U.S. men's gold); three-time Olympic head coach (1984/2000/2004); USA Volleyball CEO 2005-2017; IVHF 1989
 - [[todd-dagenais]] — UCF head coach 2008-2023 (winningest in program + AAC history, 308-159, 5× AAC title); founding head coach PVF Atlanta Vibe 2024 (regular-season champion); now LOVB Director of League Operations
+
+### Secondary / specialist (W7)
+- [[salima-rockwell]] — Penn State alum → Texas/Louisville assistant → Loyola Marymount/Washington HC; defense + setter training lineage
+- [[jim-stone]] — Ohio State women's HC 1984-2009; author *Defensive Volleyball Drills*; AOC defense/blocking voice
+- [[diane-flick-williams]] — Western Washington HC; Pass for Points AOC flagship
+- [[mike-lingenfelter]] — Munciana Volleyball Club; nationally-recognized 14U-to-18U club pipeline
+- [[luka-slabe]] — AOC static/swing/combo blocking corpus
+- [[laurie-eisler]] — University of Alberta HC; competitive cauldron with McCutcheon
+- [[christy-johnson-lynch]] — Iowa State HC; transition training specialist
+- [[doug-beal]] — USA Men's 1984 LA Olympic gold HC; USAV administrator
+- [[jen-flynn-oldenburg]] — Ohio State HC
+- [[kerry-macdonald]] — Canada (Volleyball Canada CSO); modern attack arm mechanics
+- [[gina-schmidt]] — Canada (Simon Fraser); modern attack approach
+- [[brian-rosen]] — Creighton; ball-control drill focus
+- [[mark-barnard]] — back-row attacking fundamentals
+- [[brandon-rosenthal]] — rapid-fire drill
+- [[todd-dagenais]] — Central Florida HC
 
 ## Schools / philosophies
 ### Preferred-school set (W2.4)
@@ -175,6 +201,28 @@ Total: **50 drills** in `wiki/drills/`; each links ≥1 source + ≥1 technique 
 - [[age-lens-14u]] — 14-and-under club context (Song's primary) — fundamentals/ball-control/reading-introduction; NOT: full swing-block, complex 6-2, jump-topspin
 - [[age-lens-hs]] — HS varsity — specialization onset, swing-blocking default, system execution, match-prep introduction
 - [[age-lens-college]] — NCAA D1/D2/D3 — full systems, position specialization, analytics-driven prep, elite conditioning
+
+## Practice plans
+### 14U
+- [[14u-90min-serve-receive]] — serve-receive focus, mid-season
+- [[14u-120min-pre-tournament]] — competition-heavy, pre-tournament
+- [[14u-90min-transition]] — transition-offense focus, mid-season
+- [[14u-60min-tryout]] — evaluation-oriented, tryout
+- [[14u-90min-first-week]] — team-formation + fundamentals install, preseason
+
+### HS
+- [[hs-120min-preseason-intensity]] — fall preseason intensity
+- [[hs-90min-mid-season-tuesday]] — typical mid-season Tuesday microcycle
+- [[hs-90min-match-prep]] — pre-Friday match-prep
+- [[hs-60min-match-day-activation]] — day-of activation
+- [[hs-120min-postseason-development]] — post-season player development
+
+### College
+- [[college-120min-ncaa-fall-pre-match]] — pre-match preparation
+- [[college-90min-in-season-video]] — video-driven correction
+- [[college-120min-spring-individual]] — spring individual development
+- [[college-120min-conference-week]] — conference-week serve-pass-defend emphasis
+- [[college-90min-taper]] — taper day before a major match
 
 ## Sources
 **~597 source pages** in `wiki/sources/` after the 2026-04-23 AOC deep-scrub.
