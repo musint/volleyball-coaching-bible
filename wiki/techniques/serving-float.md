@@ -56,8 +56,8 @@ A serving **ritual** (bounce the ball a fixed number of times, breath, visualize
 
 ## Related drills
 *(drill pages are populated in Wave 4; slugs below are forward references)*
-- [[lift-step-swing-cue]] — three-word verbal sequencing drill for toss/step/swing tempo
-- [[toss-only-reps]] — isolated toss practice to a floor target, no serving
+- **Lift Step Swing Cue** — three-word verbal sequencing drill for toss/step/swing tempo
+- **Toss Only Reps** — isolated toss practice to a floor target, no serving
 - [[serve-targets]] — serve to named zones (1, 5, 6, short); coach calls zone each rep
 - [[heckle-the-server]] — teammates heckle during serving reps to rehearse pressure
 

@@ -55,8 +55,8 @@ Key teaching point: **pursue with the legs, not the arms.** A defender who reach
 
 - [[neville-pepper]] — USA WNT all-back-row-attack pepper drill; score design penalizes failure to pursue and rewards a dig quality, making pursuit the dominant skill under test.
 - [[blitz-the-bro]] — every serve targets the libero; the libero has to pursue far serves that other formations would cover with a teammate.
-- [[run-through-pursuit]] — coach rolls balls at varying distances, defender pursues and digs through; no stopping at the ball allowed.
-- [[sprawl-emergency]] — isolated sprawl work from a squat start, then integrated into a pursuit-to-sprawl sequence.
+- **Run Through Pursuit** — coach rolls balls at varying distances, defender pursues and digs through; no stopping at the ball allowed.
+- **Sprawl Emergency** — isolated sprawl work from a squat start, then integrated into a pursuit-to-sprawl sequence.
 
 ## Sources
 

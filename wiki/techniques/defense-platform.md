@@ -59,8 +59,8 @@ Overhead digs deserve explicit teaching for back-row players. The technique is a
 
 - [[blitz-the-bro]] — USA WNT 6v6 in which every serve targets the libero; the platform has to survive an entire game's worth of hard-driven serves and attacks.
 - [[neville-pepper]] — all-back-row-attack 6v6 drill from Kiraly's libero corpus; score design rewards good digs and penalizes non-pursuit.
-- [[partner-pepper]] — cooperative two-player pepper scaling hit intensity to warm up platform and legs together.
-- [[three-person-defense]] — three back-row defenders against a live hitter, rotating through positions; builds the platform inside team-defense spacing.
+- **Partner Pepper** — cooperative two-player pepper scaling hit intensity to warm up platform and legs together.
+- **Three Person Defense** — three back-row defenders against a live hitter, rotating through positions; builds the platform inside team-defense spacing.
 
 ## Sources
 

@@ -81,7 +81,7 @@ Traditional / earlier teaching (for contrast, not a first-class school position 
 
 - [[butterfly-passing]] — cooperative serve-pass-shag pattern; scales to competitive with overhead-pass variant
 - [[wave-serve-receive]] — 10-to-target competitive drill; hands-allowed variant for mixed serve types
-- [[overhead-pass-progression]] — hand-shape → tossed ball → served ball → serve-receive context progression for the beginner and intermediate player
+- **Overhead Pass Progression** — hand-shape → tossed ball → served ball → serve-receive context progression for the beginner and intermediate player
 
 ## Sources
 

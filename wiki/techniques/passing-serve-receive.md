@@ -105,7 +105,7 @@ The disagreements are not sharp. Every modern school agrees that serve-receive i
 - [[wave-serve-receive]] — Keeney's 10-to-target competitive drill with server-variety constraint; rotation through zones
 - [[blitz-the-bro]] — USA WNT 6v6 with all serves at the libero; stress-tests the libero zone
 - [[three-person-serve-receive]] — formation-specific rep drill at game speed
-- [[serve-and-pass]] — paired serve-and-pass reps; trains both sides of the exchange together
+- **Serve And Pass** — paired serve-and-pass reps; trains both sides of the exchange together
 
 ## Sources
 

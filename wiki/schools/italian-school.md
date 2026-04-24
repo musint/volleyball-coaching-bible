@@ -59,15 +59,15 @@ The commitments translate into a recognizable practice and competition profile.
 
 - **[[giovanni-guidetti]]** (b. 1972, Modena) — VakıfBank Istanbul head coach since 2008; five CEV Champions League titles, four FIVB Club World Championships [guidetti-2026-wikipedia-bio]. Six national-team postings since 2003 (Bulgaria, Germany, Netherlands, Turkey, Serbia, Canada); 2015 European silver and 4th at Rio 2016 are the peak modern Dutch result [guidetti-2026-wikipedia-bio].
 
-- **[[ferdinando-de-giorgi]]** — former Generazione di Fenomeni setter (on the 1998 Worlds-winning roster), head coach of Italy men since 2021; delivered back-to-back FIVB World Championship gold in 2022 (7-0 in Poland/Slovenia) and 2025 (6-1 in the Philippines) [italy-men-nt-2026-wikipedia]. Forward-referenced.
+- ****Ferdinando De Giorgi**** — former Generazione di Fenomeni setter (on the 1998 Worlds-winning roster), head coach of Italy men since 2021; delivered back-to-back FIVB World Championship gold in 2022 (7-0 in Poland/Slovenia) and 2025 (6-1 in the Philippines) [italy-men-nt-2026-wikipedia]. Forward-referenced.
 
-- **[[davide-mazzanti]]** — Italy women's head coach 2017-2023; 2018 Worlds silver (11-2), 2021 European gold (9-0, 27-4 sets), 2022 Worlds bronze [italy-women-nt-2026-wikipedia]. Architect of the Egonu-Sylla-Danesi-De Gennaro core Velasco inherited for 2024 Olympic gold [italy-women-nt-2026-wikipedia]. Forward-referenced.
+- ****Davide Mazzanti**** — Italy women's head coach 2017-2023; 2018 Worlds silver (11-2), 2021 European gold (9-0, 27-4 sets), 2022 Worlds bronze [italy-women-nt-2026-wikipedia]. Architect of the Egonu-Sylla-Danesi-De Gennaro core Velasco inherited for 2024 Olympic gold [italy-women-nt-2026-wikipedia]. Forward-referenced.
 
-- **[[daniele-santarelli]]** — Italian coach associated with Imoco Conegliano and women's federation postings; part of the cohort exporting Italian-school methodology [unsourced]. Forward-referenced.
+- ****Daniele Santarelli**** — Italian coach associated with Imoco Conegliano and women's federation postings; part of the cohort exporting Italian-school methodology [unsourced]. Forward-referenced.
 
-- **[[andrea-anastasi]]** — former Generazione di Fenomeni outside hitter and post-Velasco Italy men's head coach; continued competitive run in the 2000s before the long pre-2022 plateau [italy-men-nt-2026-wikipedia]. Forward-referenced.
+- ****Andrea Anastasi**** — former Generazione di Fenomeni outside hitter and post-Velasco Italy men's head coach; continued competitive run in the 2000s before the long pre-2022 plateau [italy-men-nt-2026-wikipedia]. Forward-referenced.
 
-- **[[lorenzo-bernardi-as-coach]]** — Generazione di Fenomeni outside hitter, widely cited as one of the greatest male players of the 20th century [unsourced]; later transitioned to Serie A1 and club-level coaching. Coaching tenure is [unsourced] in ingested material. Forward-referenced.
+- ****Lorenzo Bernardi**** — Generazione di Fenomeni outside hitter, widely cited as one of the greatest male players of the 20th century [unsourced]; later transitioned to Serie A1 and club-level coaching. Coaching tenure is [unsourced] in ingested material. Forward-referenced.
 
 - **Generazione di Fenomeni as program identity.** The 1989-1996 Italy men's team — Zorzi, Gardini, Giani, Bernardi, Gravina, Bracci, Tofoli, Lucchetta, Papi, Pasinato, Meoni — is an identifiable entity in Italian volleyball memory distinct from any single coach [velasco-2026-wikipedia-bio] [italy-men-nt-2026-wikipedia]. Several members (De Giorgi, Anastasi, Bernardi, Giani) transitioned to coaching, carrying Velasco-era vocabulary directly into post-Velasco Italian coaching [italy-men-nt-2026-wikipedia].
 

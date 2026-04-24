@@ -59,10 +59,10 @@ Transition attack is not fully contested, but the schools weight it differently.
 
 ## Related drills
 
-- [[block-to-attack]] — middle blocker simulates a block, retreats, and takes a set; trains the block-to-approach transition in isolation.
-- [[dig-to-attack]] — back-row hitter digs a coach-hit ball, clears, and takes a set; scales from single hitter to full team.
-- [[free-ball-transition]] — coach throws a free ball over, team runs full offense off the free; scored on which offensive option was run.
-- [[wash-transition]] — extended-rally drill where attack quality is scored across multiple transition touches, not just on the first contact.
+- **Block To Attack** — middle blocker simulates a block, retreats, and takes a set; trains the block-to-approach transition in isolation.
+- **Dig To Attack** — back-row hitter digs a coach-hit ball, clears, and takes a set; scales from single hitter to full team.
+- **Free Ball Transition** — coach throws a free ball over, team runs full offense off the free; scored on which offensive option was run.
+- **Wash Transition** — extended-rally drill where attack quality is scored across multiple transition touches, not just on the first contact.
 
 ## Sources
 

@@ -58,8 +58,8 @@ A hybrid server is built by adding decisions on top of mechanics, in stages.
 
 ## Related drills
 *(drill pages are populated in Wave 4; slugs below are forward references)*
-- [[serve-plan-by-opponent]] — scouting-in → rotation-by-rotation serve-plan construction exercise
-- [[go-to-plus-changeup]] — forced-mix drill: coach calls serve type on each rep so the server cannot default to one serve
+- **Serve Plan By Opponent** — scouting-in → rotation-by-rotation serve-plan construction exercise
+- **Go To Plus Changeup** — forced-mix drill: coach calls serve type on each rep so the server cannot default to one serve
 - [[serve-targets]] — serve to named zones; coach calls zone each rep
 - [[heckle-the-server]] — teammate heckling during serving reps to rehearse pressure
 

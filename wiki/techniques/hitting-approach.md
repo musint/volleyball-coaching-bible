@@ -136,14 +136,14 @@ sets, straight-line on pin sets, rounded approach on back-row pipes.
 
 ## Related drills
 
-- [[pass-to-hit-outside]] — three passers in left back receive serves,
+- **Pass To Hit Outside** — three passers in left back receive serves,
   transition outside, and hit on a set from the setter. Couples passing
   to approach under a realistic clock.
-- [[approach-footwork-no-ball]] — 2-step, 3-step, and 4-step patterns
+- **Approach Footwork No Ball** — 2-step, 3-step, and 4-step patterns
   drilled without a ball, with a coach calling cadence.
-- [[box-approach-jump]] — hitter jumps over a low box or hurdle to
+- **Box Approach Jump** — hitter jumps over a low box or hurdle to
   reinforce vertical takeoff and discourage broad-jumping.
-- [[hitter-vs-defender]] — cooperative-competitive 1v1 hitting vs. a
+- **Hitter Vs Defender** — cooperative-competitive 1v1 hitting vs. a
   single back-row defender, scaled by approach type.
 
 ## Sources

@@ -70,9 +70,9 @@ Russ Rose's program-level rule — *no free balls go over from my team* — is t
 
 ## Related drills
 
-- [[free-ball-transition]] — coach tosses a free ball over, team executes the full transition from base to pass to set to attack
-- [[six-on-six-wash]] — full-rotation 6v6 with scripted free-ball opportunities; rewards teams that convert free balls to kills
-- [[base-defense-to-free-ball]] — base-defense read drill where the coach signals the attack type (hitting, down-ball, free-ball) and the team responds with the correct transition
+- **Free Ball Transition** — coach tosses a free ball over, team executes the full transition from base to pass to set to attack
+- **Six On Six Wash** — full-rotation 6v6 with scripted free-ball opportunities; rewards teams that convert free balls to kills
+- **Base Defense To Free Ball** — base-defense read drill where the coach signals the attack type (hitting, down-ball, free-ball) and the team responds with the correct transition
 
 ## Sources
 

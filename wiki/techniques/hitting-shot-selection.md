@@ -184,15 +184,15 @@ and about the hitter's default when in doubt.
 
 ## Related drills
 
-- [[hitter-vs-defender]] — cooperative-competitive 1v1 against a
+- **Hitter Vs Defender** — cooperative-competitive 1v1 against a
   single defender; forces shot variety because a single direction is
   predictable.
-- [[target-hitting-cones]] — cones placed in specific court zones
+- **Target Hitting Cones** — cones placed in specific court zones
   (short line, deep cross, high seam); hitter scores by hitting the
   called target.
-- [[block-read-attack]] — three-blocker random front, hitter must
+- **Block Read Attack** — three-blocker random front, hitter must
   choose shot on the read; no "called" shot.
-- [[shot-menu-rotation]] — each hitter cycles through a fixed menu
+- **Shot Menu Rotation** — each hitter cycles through a fixed menu
   (cross, line, tip, roll, tool) across a series of sets.
 
 ## Sources

@@ -58,8 +58,8 @@ Most HS- and college-level programs treat the jump-float as the standard serve a
 
 ## Related drills
 *(drill pages are populated in Wave 4; slugs below are forward references)*
-- [[jump-float-approach]] — isolate the two-step + jump footwork, progressing from no-toss shadow reps to full serves
-- [[toss-on-the-move-reps]] — full approach + toss with no contact, catch the ball to audit toss location
+- **Jump Float Approach** — isolate the two-step + jump footwork, progressing from no-toss shadow reps to full serves
+- **Toss On The Move Reps** — full approach + toss with no contact, catch the ball to audit toss location
 - [[serve-targets]] — serve to named zones; coach calls zone each rep
 - [[heckle-the-server]] — teammate heckling during serving reps to rehearse pressure
 

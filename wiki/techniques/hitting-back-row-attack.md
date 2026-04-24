@@ -143,13 +143,13 @@ a pipe or D. Designing these options is systems-level work — see
 
 ## Related drills
 
-- [[pipe-approach-3m]] — pipe approach from position 6, emphasis on
+- **Pipe Approach 3m** — pipe approach from position 6, emphasis on
   3-meter takeoff. Foundational back-row drill at all levels.
-- [[back-row-transition-hit]] — dig → clear → approach → back-row
+- **Back Row Transition Hit** — dig → clear → approach → back-row
   swing, chains the defensive-to-offensive conversion.
-- [[bic-timing]] — setter delivers quick to middle while back-row
+- **Bic Timing** — setter delivers quick to middle while back-row
   hitter times bic approach; middle is live or a target.
-- [[back-row-shot-variety]] — back-row hitter targets zones 1, 5, and
+- **Back Row Shot Variety** — back-row hitter targets zones 1, 5, and
   deep seam against a simulated block; builds out-of-power-lane
   options.
 

@@ -81,8 +81,8 @@ Practical reconciliation. The four converge more than the rhetoric suggests: all
 
 - [[blitz-the-bro]] — all-serve-at-libero 6v6; the libero reads an entire game's worth of serves and attacks under live conditions.
 - [[neville-pepper]] — all-back-row-attack drill from Kiraly/Slabe; defenders have to read back-row hitters' approach shapes at game tempo.
-- [[look-see-decide-reading]] — isolated look-drill from Josephson's frame; coach calls "back / bent / straight" as hitters approach without a ball.
-- [[blocker-vs-shadow-hitter]] — pair drill where a blocker (or back-row defender) reads a shadow hitter's approach and commits a movement; builds the read-to-move coupling before a ball is added.
+- **Look See Decide Reading** — isolated look-drill from Josephson's frame; coach calls "back / bent / straight" as hitters approach without a ball.
+- **Blocker Vs Shadow Hitter** — pair drill where a blocker (or back-row defender) reads a shadow hitter's approach and commits a movement; builds the read-to-move coupling before a ball is added.
 
 ## Sources
 

@@ -62,10 +62,10 @@ When the pass ends up with a non-setter who is not the libero — a DS, an outsi
 
 ## Related drills
 
-- [[libero-set-team-drill]] — Kiraly's 2021 team drill; winning team fed a hard-driven ball so the setter digs and the libero must set a pin attacker.
-- [[oos-pin-attack]] — isolated setter-bail-to-pin rep with a hitter running the OOS approach; scales from coach-tossed passes to live ones.
-- [[oos-call-and-bail]] — team drill with intentionally compromised first contacts; scored on verbal call speed and attack conversion.
-- [[wash-transition]] — extended-rally drill that scores attack quality on OOS and in-system rallies distinctly, so the team sees the conversion gap.
+- **Libero Set Team Drill** — Kiraly's 2021 team drill; winning team fed a hard-driven ball so the setter digs and the libero must set a pin attacker.
+- **Oos Pin Attack** — isolated setter-bail-to-pin rep with a hitter running the OOS approach; scales from coach-tossed passes to live ones.
+- **Oos Call And Bail** — team drill with intentionally compromised first contacts; scored on verbal call speed and attack conversion.
+- **Wash Transition** — extended-rally drill that scores attack quality on OOS and in-system rallies distinctly, so the team sees the conversion gap.
 
 ## Sources
 

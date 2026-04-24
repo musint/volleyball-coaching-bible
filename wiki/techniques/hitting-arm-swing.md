@@ -136,13 +136,13 @@ Covered on [[hitting-shot-selection]].
 
 ## Related drills
 
-- [[wall-arm-swing]] — daily warm-up rep count; builds the wrist snap and
+- **Wall Arm Swing** — daily warm-up rep count; builds the wrist snap and
   contact-point feel.
-- [[partner-throw-to-hit]] — two-player throw-then-hit progression
+- **Partner Throw To Hit** — two-player throw-then-hit progression
   across the net; shoulder-safe warm-up.
-- [[box-hit-arm-swing]] — box-hit reps isolating swing mechanics from
+- **Box Hit Arm Swing** — box-hit reps isolating swing mechanics from
   the approach.
-- [[stationary-jump-swing]] — two-foot plant + jump + swing on self-toss
+- **Stationary Jump Swing** — two-foot plant + jump + swing on self-toss
   or coach toss.
 
 ## Sources

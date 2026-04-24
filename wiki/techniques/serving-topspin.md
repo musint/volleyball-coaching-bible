@@ -70,9 +70,9 @@ The practical read for a coach: in the women's HS/college/club game (including 1
 
 ## Related drills
 *(drill pages are populated in Wave 4; slugs below are forward references)*
-- [[wrist-snap-reps]] — close-range wrist-roll contact drill, no toss
-- [[standing-topspin-progression]] — stepped progression from wrist-snap to full standing-topspin at the service line
-- [[jump-topspin-approach]] — spike-approach footwork layered onto topspin contact
+- **Wrist Snap Reps** — close-range wrist-roll contact drill, no toss
+- **Standing Topspin Progression** — stepped progression from wrist-snap to full standing-topspin at the service line
+- **Jump Topspin Approach** — spike-approach footwork layered onto topspin contact
 - [[serve-targets]] — serve to named zones; coach calls zone each rep
 
 ## Sources
