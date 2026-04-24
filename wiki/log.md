@@ -643,3 +643,22 @@ unsourced-queue (originally tagged 2026-04-23). Updated recruiting.md frontmatte
 sources: field + body + Sources section; updated raw/INDEX.md + AVCA 404 note logged
 inside usav-nd-college-recruitment-timeline source page. Pages touched: 8 (3 raw, 3
 source pages, 1 hub, 1 queue).
+
+## [2026-04-24] task-2-18 | AVCA awards + Wise tenure cluster
+Executed Tracks 1+2 plan Task 2.18. Ingested 3 Tier-2 sources for the Mary Wise
+unsourced-queue cluster: `wise-wikipedia-bio` (Wikipedia bio), `avca-wikipedia` (AVCA
+Wikipedia overview — Women's D-I COY ledger 1982-2025 + HoF roster), and
+`florida-volleyball-wikipedia` (Florida program page documenting Ryan Theis's
+assistant-tree placement). AVCA's own awards-directory and Florida's official bio
+pages are gated (404 / HTML-shell-only via WebFetch), so Wikipedia compilations
+served as the primary secondary-source anchor. Findings sourced into
+`wiki/coaches/mary-wise.md`: (1) 3x AVCA National Coach of the Year — 1992, 1996,
+2017; (2) AVCA All-Time Great Coach 2006 (Wise is not on the AVCA HoF coaches
+roster); (3) eight Final Fours enumerated with years, 14-year gap 2003→2017 sourced;
+(4) Ryan Theis assistant-tree placement documented (Ohio 6 seasons + Marquette 11
+seasons → Florida HC Feb 2025); (5) longest-tenure peer set referenced (Rose,
+Dunning, Shoji). Cleared 4 of 6 Wise queue entries (tenure-ranking, AVCA COY count,
+14-year gap, assistant-tree); the 2 remaining entries (institutional-relationships
+editorial and player-impact-as-profession-contribution values claim) are outside
+Task 2.18 scope and kept honest. Pages touched: 9 (3 raw, 3 source pages, 1 coach
+profile, 1 queue, 1 INDEX).

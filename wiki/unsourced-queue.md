@@ -99,17 +99,13 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Research hypothesis:** AOC subscription access to the full iY-generation video; UCF assistant-coach or player interviews on practice-level academic support; coaching-profession profiles of mid-major program-building (Volleyball Mag, AVCA features on non-P5 success cases).
 - **Added:** 2026-04-24
 
-### wiki/coaches/daimatsu-hirobumi.md
+### wiki/coaches/daimatsu-hirobumi.md — RESOLVED 2026-04-24
 - **Claim:** Daimatsu was hired by Nichibo Kaizuka in 1953 (some sources give 1954).
-- **Why unsourced:** The Hall of Fame biography says 1953; the raw notes flag a 1954 date in other sources. The available source set does not include the second source to adjudicate.
-- **Research hypothesis:** Period FIVB or JVA institutional records; the 1964 *Sports Illustrated* "Driven Beyond Dignity" article; Japanese-language Nichibo / Unitika company-team history; Roy Tomizawa's *1964 - The Greatest Year in the History of Japan* book; player memoirs (especially Masae Kasai).
-- **Added:** 2026-04-23
+- **Resolution:** Two-stage institutional chronology via Wikipedia on Oriental Witches: Dai Nippon Spinning Co., Ltd. approved the team on November 27, 1953 (when Daimatsu was hired per daimatsu-wikipedia-biography); team officially stood up at the Kaizuka factory on March 15, 1954. Both dates are true at different granularities. Coach page body now resolves the ambiguity explicitly. Sources added: [[daimatsu-wikipedia-biography]], [[witches-of-orient-wikipedia]].
 
-### wiki/coaches/daimatsu-hirobumi.md
+### wiki/coaches/daimatsu-hirobumi.md — RESOLVED 2026-04-24
 - **Claim:** The 1964 women's Olympic final drew an enormous Japanese television audience widely cited in period coverage.
-- **Why unsourced:** Specific NHK ratings figure (commonly cited as ~80% of TV sets in use) is not in the captured sources for this cluster.
-- **Research hypothesis:** NHK ratings archive; period Japanese newspapers (Asahi, Mainichi); Roy Tomizawa's *1964 - The Greatest Year in the History of Japan* book; Helen Macnaughtan's academic work on the 1964 Japan women's volleyball team.
-- **Added:** 2026-04-23
+- **Resolution:** Olympics.com editorial (citing NHK) documents the final at a **66.8% average television rating** with peak ratings **above 80%** during the match — the most-watched sporting event in Japanese television history. 66.8% figure independently corroborated at theolympians.co (Tomizawa, 2019). Coach page and japanese-training school page both updated with the specific figures. Source added: [[tokyo-1964-women-volleyball-japan-gold-olympics]].
 
 ### wiki/coaches/bernardinho.md
 - **Claim:** The Brazilian-school of men's volleyball takes its public identity largely from the teams Bernardinho built between 2001 and 2017 (speed-first offensive tempo, unrelenting work ethic, youth development funneled through professional clubs).
