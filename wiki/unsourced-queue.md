@@ -108,40 +108,10 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Resolution:** Olympics.com editorial (citing NHK) documents the final at a **66.8% average television rating** with peak ratings **above 80%** during the match — the most-watched sporting event in Japanese television history. 66.8% figure independently corroborated at theolympians.co (Tomizawa, 2019). Coach page and japanese-training school page both updated with the specific figures. Source added: [[tokyo-1964-women-volleyball-japan-gold-olympics]].
 
 ### wiki/coaches/bernardinho.md
-- **Claim:** The Brazilian-school of men's volleyball takes its public identity largely from the teams Bernardinho built between 2001 and 2017 (speed-first offensive tempo, unrelenting work ethic, youth development funneled through professional clubs).
-- **Why unsourced:** Wikipedia biography documents results and honors but not methodology / school-identity claims.
-- **Research hypothesis:** Ingest Bernardinho's own books (*Transformando Suor em Ouro* / *Vôlei — Aprendendo a Jogar*) via publisher preview + author interviews; FIVB coaching retrospectives on Brazilian men's NT; AOC or VolleyballMag feature on Brazilian coaching tradition. Resolves alongside Wave 2.4 brazilian-school page creation.
-- **Added:** 2026-04-23
-
-### wiki/coaches/bernardinho.md
-- **Claim:** The 1992 Barcelona Olympic men's gold was coached by Jose Roberto Guimarães (lineage context on the Bernardinho page).
-- **Why unsourced:** Name of 1992 Brazil men's NT head coach is outside the fetched Wikipedia biography of Bernardinho.
-- **Research hypothesis:** Wikipedia article on Brazil men's national volleyball team; FIVB Barcelona 1992 records; dedicated Guimarães biography if he becomes a coach-page subject.
-- **Added:** 2026-04-23
-
-### wiki/coaches/bernardinho.md
-- **Claim:** Methodology principles — work-ethic-first standards, speed-first offensive tempo, psychological pressure management, youth-development-via-club-pipelines, program-identity continuity (the five numbered principles in "Core teaching principles").
-- **Why unsourced:** Wikipedia biography is results-focused; no methodology, quotes, or doctrine content captured. The principles named are widely associated with Bernardinho in Brazilian volleyball media but are asserted here without a Tier 1/2 source.
-- **Research hypothesis:** Primary — Bernardinho's own books (*Transformando Suor em Ouro*, 2006; later titles) via publisher previews and reviews; AOC or FIVB long-form interview; Brazilian journalism features on the 2001–2016 Brazil men's NT; Instituto Compartilhar materials for the youth-development claim.
-- **Added:** 2026-04-23
-
-### wiki/coaches/bernardinho.md
 - **Claim:** 2017–2020 Brazil women's NT second stint.
-- **Why unsourced:** Research brief for this cluster mentioned a 2017–2020 women's NT second stint; the Wikipedia biography as fetched does not document it — it documents a 2021–2022 France men's stint and a 2023-present return to Brazil men's. Treated as [unverified] on the page.
-- **Research hypothesis:** CBV (Confederação Brasileira de Voleibol) coach-roster archive; FIVB Brazil women's NT press history 2017–2020; Brazilian-volleyball journalism archives.
-- **Added:** 2026-04-23
-
-### wiki/coaches/bernardinho.md
-- **Claim:** Quote material (the `## Quotes & representative passages` section is intentionally empty).
-- **Why unsourced:** The Wikipedia biographical source does not contain direct-quote material from Bernardinho. The coach-profile page schema requires a quotes section; it is left as a flagged stub pending an interview or book ingest.
-- **Research hypothesis:** AOC interview archive; FIVB long-form feature; Bernardinho's own published books (translated excerpts acceptable); documentary transcripts from the 2004 Athens / 2016 Rio campaigns.
-- **Added:** 2026-04-23
-
-### wiki/coaches/bernardinho.md
-- **Claim:** Dangling wikilink to [[brazilian-school]] (body + frontmatter `schools:`).
-- **Why unsourced:** Forward reference during bootstrap — the brazilian-school page is scheduled for Wave 2.4.
-- **Research hypothesis:** Resolves when Wave 2.4 creates wiki/schools/brazilian-school.md. The SCHEMA §3.2 cross-link invariant (every coach links ≥1 school) is satisfied via frontmatter.
-- **Added:** 2026-04-23
+- **Why unsourced:** Research brief for this cluster mentioned a 2017–2020 women's NT second stint; the Wikipedia biography as fetched does not document it — it documents a 2021–2022 France men's stint and a 2023-present return to Brazil men's. Treated as [unverified] on the page. (Task 2.19 pass confirmed no corroboration in IVHF Class of 2022 bio, FIVB 2021 announcement, Guimarães Wikipedia, Dal Zotto Wikipedia, or Bebeto Wikipedia. Dal Zotto occupied the men's HC role 2017–2023 per FIVB; no women's-NT second stint is documented in any Tier-1/2/3 source on file.)
+- **Research hypothesis:** CBV (Confederação Brasileira de Voleibol) coach-roster archive; FIVB Brazil women's NT press history 2017–2020; Brazilian-volleyball journalism archives. Most likely resolution is that the brief's "2017–2020 women's second stint" is a confusion with Dal Zotto's 2017-on Brazil *men's* NT tenure; leaving [unverified] on the page is correct.
+- **Added:** 2026-04-23 (re-checked 2026-04-24, still unresolved)
 
 ### wiki/schools/usa-volleyball.md
 - **Claim:** "USAV's curricular center of gravity historically tracks the indoor women's collegiate game, with proportionally less coverage of beach, boys' and men's programs … and masters / adult-recreational play."
@@ -155,71 +125,29 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Research hypothesis:** Region-by-region clinic frequency data from USAV; coach surveys; Million Coaches Challenge regional uptake reports. Forman's Talent Zone regional-training-hub concept for Volleyball England implicitly acknowledges the regional-access problem — his writings on that model (coachingvb.com, Volleyball Coaching Wizards) could yield a directly-citable framing if extended to USAV-regional commentary.
 - **Added:** 2026-04-23
 
-### wiki/schools/brazilian-school.md
-- **Claim:** Methodology cluster — speed-first offensive tempo (fastballs at middle, 1-foot slides, quick outside, pipe/back-row integration, middle-timing-keyed); tactical creativity; psychological resilience in clutch moments; work-ethic-first standards; tactical aggressive serving as the Brazilian men's program's signature weapon; middle-hitter-primary offense.
-- **Why unsourced:** Wikipedia sources ingested for this page substantiate the results record (medals, Olympic finals, World Championships, coaching tenures, club-and-NT lineage) but not the methodology record (tactical systems, serve-and-block strategies, training design, practice profile, coaching pedagogy). All methodology-cluster claims in §Core principles and §Methodology are asserted without Tier 1/2 support.
-- **Research hypothesis:** Primary — Bernardinho's own books (*Transformando Suor em Ouro* 2006 and later titles) via publisher preview + reviews; FIVB long-form interviews; AOC or Volleyball World features on Brazilian NT coaching; CBV coaching-clinic transcripts; José Roberto Guimarães interview material (rarer). Resolves in a dedicated Brazilian-tradition ingest pass post-CP3.
-- **Added:** 2026-04-23
+### wiki/schools/brazilian-school.md — residual tactical-diagram gaps (Task 2.19 aftermath)
+- **Claim:** Specific tactical-system diagrams — fastball timing geometry at middle, 1-foot slide mechanics, pipe-integration timing, aggressive jump-float/topspin serve zone-targeting — for Bernardinho and Guimarães-era Brazil NT offense.
+- **Why unsourced:** Bernardinho's *Transformando Suor em Ouro* articulates methodology at the principle level (preparation, discipline, pressure management, team culture) but not at the tactical-diagram level. Task 2.19 ingest (April 2026) resolved the principle-level cluster but left on-court-system specifics [unsourced].
+- **Research hypothesis:** CBV coaching-clinic transcripts; FIVB technical-analysis documents; VolleyballMag or Volleyball World long-form tactical breakdowns of the 2004/2016 Olympic final tape; Bruno Rezende interview material about setter decision trees.
+- **Added:** 2026-04-23 (reframed 2026-04-24 post-Task-2.19)
 
-### wiki/schools/brazilian-school.md
-- **Claim:** "Volleyball is Brazil's second sport after football" and Brazilian NT volleyballers are household names at a level few other national programs match.
-- **Why unsourced:** Comparative-media-rank claim widely asserted in popular coverage of Brazilian sport; not substantiated in the Wikipedia articles ingested. No comparative survey data captured.
-- **Research hypothesis:** Brazilian IBGE cultural-consumption surveys; Datafolha or Ibope sports-popularity polls; English-language sport-sociology literature on Brazilian media hierarchy (football vs volleyball vs MMA).
-- **Added:** 2026-04-23
-
-### wiki/schools/brazilian-school.md
-- **Claim:** Club-to-NT pipeline is a distinctively Brazilian feature (vs. the US collegiate pipeline); CBV and SuperLiga function together as the primary developmental infrastructure.
-- **Why unsourced:** Comparative-infrastructure claim at the systemic level; the Wikipedia sources substantiate individual club assignments (Bernardinho at Rio de Janeiro VC; Guimarães at BCN/Finasa Osasco and internationally at Pesaro/Fenerbahçe) but not the comparative systemic framing vs. other national traditions.
-- **Research hypothesis:** FIVB development pathways documents; CBV official SuperLiga structure; comparative volleyball-development papers; a dedicated Brazilian-NT-pipeline article.
-- **Added:** 2026-04-23
-
-### wiki/schools/brazilian-school.md
-- **Claim:** Roster continuity across Olympic cycles (Giba/Nalbert/Rodrigão/Serginho-and-later-Bruno-Rezende men's core 2001–2016; parallel women's core 2008–2012 under Guimarães) was a deliberate strategy rather than coincidental.
-- **Why unsourced:** The retention pattern is substantiated by the results record; the framing as deliberate strategy is editorial.
-- **Research hypothesis:** Bernardinho interview material; CBV coach-selection interviews; Brazilian sport-journalism retrospectives on the 2004–2016 men's cycles.
-- **Added:** 2026-04-23
-
-### wiki/schools/brazilian-school.md
-- **Claim:** Italian-Brazilian methodology exchange is bidirectional (modern Italian tempo-and-pressure patterns borrow from Brazilian timing templates; modern Brazilian programs absorb European tactical and conditioning practice via club stints).
-- **Why unsourced:** The club-stint facts are substantiated (Bernardinho at Perugia 1990–1992; Guimarães at Pesaro 2006–2009 and Fenerbahçe 2010–2012). The doctrinal-exchange claim is editorial synthesis of those stints plus the Velasco-page cross-reference.
-- **Research hypothesis:** Long-form coaching-methodology comparisons (FIVB or CEV); Italian and Brazilian federation technical documents; coach interviews about cross-cultural methodological influence.
-- **Added:** 2026-04-23
-
-### wiki/schools/brazilian-school.md
-- **Claim:** The Brazilian tradition is "tactically-creative and media-visibility-driven" whereas the Italian tradition is "tactically methodical and psychologically-leadership-driven."
-- **Why unsourced:** Doctrinal-contrast framing is widely drawn in volleyball-coaching literature but is editorial synthesis here.
-- **Research hypothesis:** CEV / FIVB methodology comparisons; scholarly volleyball-coaching comparative papers; Velasco interview or book material paired with Bernardinho interview material.
-- **Added:** 2026-04-23
-
-### wiki/schools/brazilian-school.md
+### wiki/schools/brazilian-school.md — residual gender-disparity editorial
 - **Claim:** Gender-disparity — media investment, sponsorship, and program visibility in Brazil tilt toward the men's team despite comparable or better women's results (back-to-back Olympic gold 2008/2012, 12 Grand Prix titles).
-- **Why unsourced:** Widely raised in Brazilian sport-media critique and in women's-sport media-disparity literature but not substantiated in the Wikipedia articles ingested. No quantitative investment-disparity data captured.
-- **Research hypothesis:** Brazilian women's-sport investment research; CBV annual reports; sponsorship-data comparisons for men's vs women's Brazil NT volleyball; Brazilian journalism features on women's NT under-investment.
-- **Added:** 2026-04-23
+- **Why unsourced:** Task 2.19 pass (April 2026) added the 2015 Brazilian Ministry of Sport ranking via [theworld-2021-brazil-volleyball-nation], grounding the "volleyball is Brazil's second sport" claim and the household-name phenomenon. But **quantitative men's-vs-women's investment-disparity data for Brazilian NT volleyball specifically is not in any ingested source.** General-sport gender-disparity findings (15% of global coverage is women's; 0.4% of sponsorship) exist in secondary literature (World Economic Forum 2025; UN Women) but are not volleyball-specific or Brazil-specific. The comparative-investment claim remains editorial.
+- **Research hypothesis:** CBV annual reports for men's-vs-women's sponsorship data; Brazilian women's-sport investment research (Pesquisa Sport Marketing surveys); Folha de S.Paulo / Piauí features on women's-NT under-investment; FIVB gender-equity-in-broadcasting studies.
+- **Added:** 2026-04-23 (partially-grounded 2026-04-24)
 
-### wiki/schools/brazilian-school.md
+### wiki/schools/brazilian-school.md — residual hierarchical-culture critique
 - **Claim:** Hierarchical federation-coaching culture has been critiqued in Brazilian sport media.
-- **Why unsourced:** Widely raised in Brazilian sport journalism but not substantiated in the ingested Wikipedia sources. No specific journalistic critique captured as a source.
-- **Research hypothesis:** Brazilian long-form journalism features (Piauí, Folha de S.Paulo sport retrospectives); post-2016 Rio and post-2020 Tokyo critique pieces on the Bernardinho legacy and CBV hierarchy.
-- **Added:** 2026-04-23
+- **Why unsourced:** Widely raised in Brazilian sport journalism but not substantiated in the ingested sources. Task 2.19 (April 2026) did not surface a named Brazilian-journalism critique piece.
+- **Research hypothesis:** Brazilian long-form journalism features (Piauí, Folha de S.Paulo sport retrospectives); post-2016 Rio and post-2020 Tokyo critique pieces on the Bernardinho legacy and CBV hierarchy; a Portuguese-language search rather than English-language.
+- **Added:** 2026-04-23 (unchanged 2026-04-24)
 
-### wiki/schools/brazilian-school.md
-- **Claim:** Structural risk of retention-heavy Brazilian model — over-reliance on a single generational talent core explains post-2016 rebuild difficulty.
-- **Why unsourced:** Rebuild-difficulty results are substantiated (Tokyo 2020 4th-place, 2025 Nations League bronze). The structural-risk-as-causal-mechanism framing is editorial.
-- **Research hypothesis:** Brazilian volleyball-journalism retrospectives on the post-2016 men's program; FIVB or CBV technical analyses of the transition; Renan Dal Zotto interview material if accessible.
-- **Added:** 2026-04-23
-
-### wiki/schools/brazilian-school.md
-- **Claim:** Bebeto de Freitas biographical detail beyond the 1984 LA silver and 1988 Seoul Olympics as Bernardinho's supervisor.
-- **Why unverified:** The Wikipedia articles ingested name Bebeto de Freitas in pass-through references only; no dedicated biographical source is ingested.
-- **Research hypothesis:** Wikipedia article on Bebeto de Freitas (Portuguese or English); CBV coach-roster archive; FIVB 1980s retrospective; obituary coverage (if deceased).
-- **Added:** 2026-04-23
-
-### wiki/schools/brazilian-school.md
-- **Claim:** Renan Dal Zotto led the post-Bernardinho Brazil men's NT rebuild cycle.
-- **Why unverified:** The Wikipedia article on Brazil men's NT captured here does not name Dal Zotto in the body text of the excerpt, though the post-peak adjustment era (Tokyo 2020, 2025 NL bronze) is documented. The specific claim that Dal Zotto coached the rebuild cycle is widely known but unverified from the captured sources.
-- **Research hypothesis:** Wikipedia article on Renan Dal Zotto; CBV coach-roster archive; FIVB Brazil men's NT press history 2017–2022.
-- **Added:** 2026-04-23
+### wiki/schools/brazilian-school.md — residual hypermedia-pressure editorial
+- **Claim:** Brazilian NT volleyball's high public profile places substantial media-and-national-identity pressure on athletes, particularly at home-soil Olympic appearances (Rio 2016).
+- **Why unsourced:** Psychological-load claim. Task 2.19 ingest (April 2026) added [theworld-2021-brazil-volleyball-nation] for the baseline media-visibility framing, but the athlete-pressure-as-psychological-load framing is not directly captured in the sources on file.
+- **Research hypothesis:** Bernardinho's reflective writing (including later books beyond *Transformando Suor em Ouro*); Bruno Rezende interview material on home-soil pressure; sport-psychology literature on Olympic home-advantage vs. pressure tradeoffs; Brazilian journalism features on Rio 2016 athlete perspectives.
+- **Added:** 2026-04-23 (unchanged 2026-04-24)
 
 ### wiki/coaches/salima-rockwell.md
 - **Claim:** Specifics of Rockwell's hire date at Notre Dame, her title there (head coach vs. associate head coach), and intermediate coaching stops between Penn State (through 2018) and Notre Dame (by 2023).

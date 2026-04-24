@@ -2,6 +2,43 @@
 
 Append-only log of wiki operations. Prefix format: `## [YYYY-MM-DD] <operation> | <short>`.
 
+## [2026-04-24] backfill | Bernardinho + Brazilian methodology cluster (Task 2.19) | touched 14 pages
+Executed Tracks 1+2 plan Task 2.19 — the largest unsourced cluster (11 entries
+across `wiki/coaches/bernardinho.md` and `wiki/schools/brazilian-school.md`).
+WebFetched Goodreads + PocketBook4You + SlideShare for Bernardinho's own book
+*Transformando Suor em Ouro* (Sextante 2006, ISBN 9788575422427); Wikipedia
+biographies for José Roberto Guimarães, Renan Dal Zotto, and Bebeto de Freitas;
+IVHF Class of 2022 Bernardinho induction page; FIVB 2021 Guimarães/Dal Zotto
+Paris-2024 announcement; The World (PRX) 2021 Michael Fox feature on Brazilian
+volleyball. Ingested 6 new sources:
+- `bernardinho-2006-transformando-suor-em-ouro` (Tier 1, book) — primary
+  methodology source; Roda da Excelência framework; preparation/discipline/
+  pressure/team-culture principles; 6 direct quotes
+- `bernardinho-2022-ivhf-induction-bio` (Tier 2) — IVHF enshrinement bio;
+  corroborates two Italian club stints (Perugia women + Modena men)
+- `fivb-2021-guimaraes-dal-zotto-paris-2024` (Tier 2) — FIVB announcement
+  confirming Dal Zotto as 2017-on Brazil men's NT HC
+- `theworld-2021-brazil-volleyball-nation` (Tier 2) — "Move over soccer"
+  (Michael Fox, PRX 2021); 2015 Ministry of Sport ranking grounds
+  volleyball-as-second-sport claim
+- `bebeto-de-freitas-2026-wikipedia-bio` (Tier 3) — full Bebeto bio (1950-
+  2018); 1998 FIVB World Championship gold with Italy = Italian-Brazilian
+  exchange at HC level
+- `dal-zotto-2026-wikipedia-bio` (Tier 3) — Dal Zotto playing + HC 2017-2023
+Cleared 11 of 11 entries from unsourced-queue.md: methodology cluster
+(Bernardinho core principles + brazilian-school principles), Italian-Brazilian
+exchange, Guimarães as 1992 Barcelona HC, club-pipeline systemic framing,
+school contrast framing, structural-risk editorial, Bebeto bio, Dal Zotto
+rebuild-cycle leadership, 1992 gold attribution, quote-section stub, bernardinho
+→ brazilian-school dangling-wikilink. Reframed 4 residuals honestly: tactical-
+diagram-level specifics; quantitative gender-disparity data; hierarchical-
+coaching-culture critique; athlete-pressure-as-psychological-load editorial. 1
+kept as [unverified] (the 2017-2020 women's second-stint claim — checked against
+all 9 sources, confirmed absent; most likely a confusion with Dal Zotto's 2017-
+on men's NT tenure).
+Pages touched: 14 (6 raw files + 6 source pages + bernardinho.md +
+brazilian-school.md + raw/INDEX.md + unsourced-queue.md + log.md).
+
 ## [2026-04-24] backfill | Nakagaichi 1972 [unverified] cluster (Task 2.25) | touched 7 pages
 Executed Tracks 1+2 plan Task 2.25 — resolved the inline `[unverified]` tag on the identity of the 1972 Munich Olympic Japan men's gold-medal head coach. WebFetched en.wikipedia.org/wiki/Volleyball_at_the_1972_Summer_Olympics_%E2%80%93_Men%27s_tournament (confirmed Yasutaka Matsudaira), en.wikipedia.org/wiki/Yasutaka_Matsudaira (full biography), and volleyhall.org/yasutaka-matsudaira.html (Tier 1 IVHF induction record, 1998 enshrinement). Ingested two new sources: `matsudaira-1998-hall-of-fame` (Tier 1, IVHF, "multiple quick attack" / "time differential attack" credited innovation; 1964 bronze/1968 silver/1972 gold medal progression; first Japanese IVHF inductee; FIVB First VP 1994-1996; JVA President 1989-1995) and `matsudaira-2026-wikipedia-biography` (Tier 3, full biographical chronology + Soviet-study-trip context for the 9-to-6-player men's-program transition). Authored full ~2,100-word coach profile `wiki/coaches/yasutaka-matsudaira.md` per SCHEMA §3.2 (frontmatter + Overview + Coaching career + Core teaching principles + Contributions + Quotes + Sources). Updated `wiki/coaches/yuichi-nakagaichi.md` — replaced `[unverified]` references with the Matsudaira identification (also corrected a "five years before" typo to "five years after"), added the two Matsudaira sources to frontmatter, updated disambiguation paragraph and Contributions section "1972 Munich correction" framing. Updated `wiki/schools/japanese-training.md` — added Matsudaira to founders/associated-coaches frontmatter, added time-differential-attack to core-principles, added Matsudaira sources; rewrote the speed-first-tempo principle #3 to source the time-differential-attack attribution to Matsudaira directly (replacing the prior `[unsourced]` tag on that claim); replaced the prior `[unverified]` 1972-Munich-architect bullet in Notable Practitioners with a full Matsudaira entry; updated the Nakagaichi entry to link back to Matsudaira on the 1972 reference. Updated `raw/INDEX.md` Japanese-tradition section with both new raw files, `wiki/index.md` International coach listing to add Matsudaira and clean the Nakagaichi annotation (no longer flags [unverified]). No unsourced-queue entry existed for this claim (the tag was inline only); queue unchanged. Pages touched: 7 (matsudaira-1998-hall-of-fame.md, matsudaira-2026-wikipedia-biography.md, yasutaka-matsudaira.md, yuichi-nakagaichi.md, japanese-training.md, index.md, raw/INDEX.md).
 

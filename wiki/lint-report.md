@@ -1,6 +1,6 @@
 # Wiki Lint Report
 
-Generated: 2026-04-24T12:29:49
+Generated: 2026-04-24T12:34:55
 
 ## Broken wikilinks
 Broken wikilinks: 182
@@ -78,8 +78,9 @@ Failures: 22
 - wiki\_templates\technique.md: invalid enum value '<skill>' for 'skill'
 
 ## Unresolved citation keys
-Unresolved: 72
+Unresolved: 74
 
+- wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-23]
@@ -119,11 +120,10 @@ Unresolved: 72
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
-- wiki\log.md: [2026-04-24]
-- ...and 32 more
+- ...and 34 more
 
 ## Orphan pages
-Orphans: 119
+Orphans: 116
 
 - wiki\schools\alberta-volleyball.md (type=school)
 - wiki\schools\iowa-state-volleyball.md (type=school)
@@ -165,7 +165,7 @@ Orphans: 119
 - wiki\sources\aoc-2019-mashima-6-driveway-drills.md (type=source)
 - wiki\sources\aoc-2019-mattox-hs-practice-plan.md (type=source)
 - wiki\sources\aoc-2019-mclain-game-like-practice.md (type=source)
-- ...and 79 more
+- ...and 76 more
 
 ## Stale methodology pages
 Stale: 1
