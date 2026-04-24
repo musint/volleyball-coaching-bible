@@ -102,8 +102,26 @@ this list. Research passes hunt down primary sources and clear entries.
 ### wiki/coaches/hugh-mccutcheon.md
 - **Claim:** Dangling wikilinks to [[laurie-eisler]], [[minnesota-volleyball]], [[mike-hebert]], [[carl-mcgown]], [[byu]], [[todd-dagenais]].
 - **Why unsourced:** Forward refs during bootstrap — will resolve as Wave 2 writes more pages.
-- **Research hypothesis:** Covered by later W2.2 (Hebert, McGown), W2.3 (international) if applicable, and stub pages for Eisler/Dagenais/Minnesota-volleyball when those entities get profiles or stubs.
+- **Research hypothesis:** Covered by later W2.2 (Hebert, McGown), W2.3 (international) if applicable, and stub pages for Eisler/Dagenais/Minnesota-volleyball when those entities get profiles or stubs. RESOLVED for carl-mcgown (page exists) and todd-dagenais (page added 2026-04-24). Remaining: laurie-eisler, minnesota-volleyball, mike-hebert, byu.
 - **Added:** 2026-04-23
+
+### wiki/coaches/todd-dagenais.md
+- **Claim:** The head coach Dagenais served under during his Michigan State associate-head-coach tenure (1998-2003) is not named in the available source set.
+- **Why unsourced:** Neither the UCF bio nor the Wikipedia biography identifies the Michigan State head coach across those years; the UCF bio lists only the program's NCAA Tournament record during Dagenais's stint.
+- **Research hypothesis:** Michigan State volleyball program history; AVCA records of MSU head coaches 1998-2003; interviews with Dagenais in which he names his Big Ten mentor directly.
+- **Added:** 2026-04-24
+
+### wiki/coaches/todd-dagenais.md
+- **Claim:** The direct working relationship between Dagenais (USC associate/assistant) and Mick Haley (USC head coach) is the source-supported connection to Haley's people-management framing visible in Dagenais's teams.
+- **Why unsourced:** Dagenais's UCF bio names Haley as one of three philosophical influences but doesn't attribute specific team practices to that mentorship; the mechanism-of-transfer claim is an editorial inference.
+- **Research hypothesis:** Interviews with Dagenais on coaching-tree influence; AOC or podcast appearances where he elaborates on which Haley practices he carried forward; Haley's own public comments about former assistants.
+- **Added:** 2026-04-24
+
+### wiki/coaches/todd-dagenais.md
+- **Claim:** Specific communication-guideline content from the AOC "iY generation" video beyond the intro paragraph; specific practice-level and recruiting mechanics behind UCF's academic culture; framing of UCF as a repeatable mid-major-to-national-program case study.
+- **Why unsourced:** AOC video body is Premium-gated; UCF sources state the academic outcome but not the practice-level mechanics; the "blueprint for mid-majors" framing is editorial without a secondary source making that case explicitly.
+- **Research hypothesis:** AOC subscription access to the full iY-generation video; UCF assistant-coach or player interviews on practice-level academic support; coaching-profession profiles of mid-major program-building (Volleyball Mag, AVCA features on non-P5 success cases).
+- **Added:** 2026-04-24
 
 ### wiki/coaches/daimatsu-hirobumi.md
 - **Claim:** Daimatsu was hired by Nichibo Kaizuka in 1953 (some sources give 1954).
@@ -356,4 +374,22 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Claim:** [[kirsten-bernthal-booth]] wikilink in Contributions section resolves to a non-existent coach page (Creighton head coach; co-clinician on libero material).
 - **Why unsourced:** Dangling wikilink during bootstrap; Booth is a legitimate co-featured coach in ingested AOC sources but does not yet have her own coach profile.
 - **Research hypothesis:** Stub or full Booth profile will be written in a later coach-profile wave; AOC material already ingested under aoc-2024-johnson-lynch-booth-libero-training + aoc-2024-johnson-lynch-game-changing-liberos provides the initial source base.
+- **Added:** 2026-04-24
+
+### wiki/coaches/luka-slabe.md
+- **Claim:** Full biographical timeline — Ljubljana (Slovenia) birthplace; BYU outside-hitter 2000–2003 under McGown/McCutcheon; 2001 NCAA gold and 2003 silver; European HC seasons 2008–2015 (UKO Kropa, Calcit Kamnik, ACH Volley Ljubljana, Aich Dob with specific results); Slovenian Men's NT HC 2013–2015; BYU assistant 2015–2018 (75–16 record, 2016/2017 NCAA runners-up, 2018 semifinal); USA W-NT assistant defensive/blocking coach 2018–2021 (3x VNL titles + Tokyo 2020 gold); NC State HC 2020–2024; USA Men's NT assistant 2025–present; Omaha Supernovas HC for MLV 2026 inaugural season.
+- **Why unsourced:** The four AOC Slabe articles cover technique and drills but not biography. Biographical facts were verified against en.wikipedia.org/wiki/Luka_Slabe, gopack.com (NC State), usavolleyball.org/coach/luka-slabe, and a provolleyball.com Omaha Supernovas announcement, but none of those have been ingested as source pages yet.
+- **Research hypothesis:** Ingest as sources: (a) Wikipedia bio → `slabe-wikipedia-bio`; (b) USA Volleyball official coach page → `slabe-usav-bio`; (c) NC State bio page → `slabe-ncstate-bio`; (d) MLV Omaha Supernovas 2025 announcement → `slabe-2025-omaha-supernovas-announcement`; (e) BYU men's volleyball assistant bio → `slabe-byu-bio`. A single research pass can clear ~8 biographical [unsourced] tags on this page.
+- **Added:** 2026-04-24
+
+### wiki/coaches/luka-slabe.md
+- **Claim:** "Slabe's blocking teaching carries the European elite-men's emphasis on arm-swing and movement efficiency into the U.S. women's and college coach-education audience, where static blocking was historically the default at sub-elite levels" (the "European-to-US methodology bridge" framing in Contributions).
+- **Why unsourced:** Editorial synthesis of Slabe's Slovenian-club résumé and his AOC blocking corpus. Plausible and consistent with his career arc but not a claim any reviewed source makes directly.
+- **Research hypothesis:** Comparative U.S. vs. European blocking-methodology writeups (AOC long-form interviews, GMS commentary, FIVB coach-development materials); any Slabe interview where he contrasts European and American blocking pedagogy directly.
+- **Added:** 2026-04-24
+
+### wiki/coaches/luka-slabe.md
+- **Claim:** Dangling wikilink to [[byu]].
+- **Why unsourced:** Forward reference during bootstrap — BYU men's volleyball school page does not yet exist.
+- **Research hypothesis:** A future task (analogous to the penn-state / florida / illinois school stubs) should create `wiki/schools/byu.md` capturing the McGown → McCutcheon → Olmstead men's-volleyball lineage and its influence on alums including Slabe.
 - **Added:** 2026-04-24
