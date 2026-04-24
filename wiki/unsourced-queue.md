@@ -15,6 +15,24 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ## Entries
 
+### wiki/coaches/mike-lingenfelter.md
+- **Claim:** "Additional career details — years at Munciana, prior coaching roles, playing career, head-coaching assignments at specific Munciana age-group teams — are not documented in the sources on file here."
+- **Why unsourced:** The 5 AOC source pages on file focus on coaching content (tempo, passing, warmup, club-wide alignment) rather than biographical detail; they do not state when Lingenfelter joined Munciana, whether he came up as a Munciana player, or which Munciana team(s) he currently heads.
+- **Research hypothesis:** Munciana Volleyball Club website staff/coach-bio page; AVCA member directory; JVA club-coach listings; longer-form AOC bio page at theartofcoachingvolleyball.com/profile-mike-lingenfelter/; Muncie Star Press / Ball State local coverage.
+- **Added:** 2026-04-24
+
+### wiki/coaches/mike-lingenfelter.md
+- **Claim:** "The specific Munciana position on [pay-to-practice vs. pay-to-play] is not spelled out in the source on file here."
+- **Why unsourced:** The aoc-2025-cc-skill-training-clubwide source page lists pay-to-practice vs. pay-to-play as a topic addressed in the live session, but the raw article on file is the session landing-page promo (does not contain the session's actual Q&A content — that would require either the AOC paywalled session video or the linked downloadable notes PDF).
+- **Research hypothesis:** Re-ingest aoc-2025-cc-skill-training-clubwide via the linked notes PDF (https://www.theartofcoachingvolleyball.com/wp-content/uploads/2025/09/AOC-JVA-Coach-Connection-Live-9-25-52-Notes.pdf) or by pulling the session video transcript; alternatively, direct JVA articles on club economics.
+- **Added:** 2026-04-24
+
+### wiki/coaches/mike-lingenfelter.md — plan-source name correction
+- **Claim:** The Tracks 1+2 plan and design spec refer to this coach as "John Lingenfelter." All five ingested AOC sources and AOC's own coach-profile URL identify him as Mike Lingenfelter (co-director alongside Alyssa Lingenfelter).
+- **Why unsourced:** Not a wiki claim per se — a plan/spec naming error. Task 1.14 target file was renamed from `john-lingenfelter.md` to `mike-lingenfelter.md` to match sources; tracked here so the plan/spec can be corrected in a subsequent edit pass.
+- **Research hypothesis:** Update `docs/superpowers/plans/2026-04-24-wiki-improvement-tracks-1-2.md` §Task 1.14 (lines 805, 807, 810, 814-815, 1255, 1659) and `docs/superpowers/specs/2026-04-24-wiki-improvement-tracks-1-2-design.md` line 219 to "Mike Lingenfelter." Verified against AOC profile URL (https://www.theartofcoachingvolleyball.com/profile-mike-lingenfelter/).
+- **Added:** 2026-04-24
+
 ### wiki/coaches/john-speraw.md
 - **Claim:** Speraw's specific technical teaching orientation (player-development emphasis, defensive systems, block schemes, dig reads, side-out structure).
 - **Why unsourced:** speraw-2024-usav-profile is biographical/accolades-focused; doesn't spell out technical teaching content.
@@ -277,4 +295,53 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Claim:** Specifics of MacDonald's administrative work as Volleyball Canada Chief Sports Officer (high-performance program direction, national-team pipeline decisions, U SPORTS coordination).
 - **Why unsourced:** AOC corpus is technical/drill-focused; it identifies MacDonald's CSO title without describing the CSO scope or decisions made in that role.
 - **Research hypothesis:** Volleyball Canada annual reports; Canadian sport-governance journalism (Globe and Mail, CBC Sports); VNL / FIVB coverage of Canadian men's/women's NT programming decisions 2020-2025; direct Volleyball Canada press releases.
+- **Added:** 2026-04-24
+
+### wiki/coaches/diane-flick-williams.md
+- **Claim:** Full biographical arc — playing career, prior assistant appointments, and hire year at Western Washington University.
+- **Why unsourced:** The AOC article and video sources ingested for this profile are instructional/technical, not biographical. The "Pass for Points" YouTube page returned only title metadata on WebFetch (no description or captions), and no WWU athletics bio or long-form feature is present in the raw library.
+- **Research hypothesis:** WWU Athletics staff directory / women's volleyball bio page (wwuvikings.com); GNAC conference coach profiles; LinkedIn; any AOC-published long-form coach interview that includes career arc; AVCA D2 coach-of-the-year citations if applicable.
+- **Added:** 2026-04-24
+
+### wiki/coaches/diane-flick-williams.md
+- **Claim:** Direct-quotation material beyond high-level paraphrase of her AOC articles.
+- **Why unsourced:** The AOC articles available were rendered as instructional prose rather than direct-quote transcripts, and the "Pass for Points" video's description and captions were not accessible during ingest.
+- **Research hypothesis:** Manual transcription of the "Pass for Points" video and any other AOC videos with Flick-Williams; clinic recordings from AVCA Convention / regional clinics; podcast appearances (The Net Live, Coach Your Brains Out).
+- **Added:** 2026-04-24
+
+
+### wiki/coaches/christy-johnson-lynch.md
+- **Claim:** Johnson-Lynch played collegiately at Nebraska (framed in the profile as a "former Nebraska player" with lineage inside the Nebraska tradition), with specific role (typically reported as setter), years, and on-court achievements.
+- **Why unsourced:** The ingested AOC source corpus lists her Iowa State affiliation only; no ingested source documents her Nebraska playing years, position, or achievements.
+- **Research hypothesis:** Nebraska volleyball media-guide archive (player all-time roster); Iowa State official head-coach bio; AVCA records; AOC "profile" page at theartofcoachingvolleyball.com/profile-christy-johnson-lynch/; Omaha World-Herald / Lincoln Journal-Star archives.
+- **Added:** 2026-04-24
+
+### wiki/coaches/christy-johnson-lynch.md
+- **Claim:** Iowa State tenure dates (framed as "mid-2000s" start and ~20 years as of mid-2020s), year-by-year records, conference titles, Sweet 16s, Final Fours, and Coach-of-the-Year awards during her tenure.
+- **Why unsourced:** The AOC corpus documents only her continuous Iowa State affiliation across the 2014-2026 byline window; no ingested source provides year-by-year competitive results.
+- **Research hypothesis:** Iowa State athletics media guide (year-by-year records); Big 12 conference records; AVCA national coach of the year / regional coach of the year histories; NCAA tournament bracket archive for Iowa State appearances.
+- **Added:** 2026-04-24
+
+### wiki/coaches/christy-johnson-lynch.md
+- **Claim:** Longest-serving active head coach status within the Big 12 by the mid-2020s.
+- **Why unsourced:** Editorial inference from her continuous affiliation window; no source ranks Big 12 head-coach tenures.
+- **Research hypothesis:** Big 12 volleyball coach-tenure rankings; AVCA tenure comparisons; conference media guides.
+- **Added:** 2026-04-24
+
+### wiki/coaches/christy-johnson-lynch.md
+- **Claim:** Causal line between her Nebraska playing background and her coaching instincts (single-dominant-setter emphasis, precision fundamentals, competitive drill culture recognizable in Nebraska tradition).
+- **Why unsourced:** Editorial pattern-match; no source articulates the lineage claim.
+- **Research hypothesis:** Interviews with Johnson-Lynch (AVCA convention, AOC long-form); comparative analysis against published Nebraska program materials under John Cook; AOC coach-profile interviews if any exist at theartofcoachingvolleyball.com/profile-christy-johnson-lynch/.
+- **Added:** 2026-04-24
+
+### wiki/coaches/christy-johnson-lynch.md
+- **Claim:** Iowa State characterized as "outside the traditional volleyball-elite tier" in contrast to Nebraska, Texas, Penn State, Wisconsin, Stanford; and the career-template framing of non-P5 program elevation.
+- **Why unsourced:** The ranking/tiering claim is conventional but not cited from a specific AVCA or media ranking in the source base.
+- **Research hypothesis:** AVCA preseason/final top-25 multi-year appearances by program (for "traditional elite" definition); longitudinal program-strength studies in volleyball media; Johnson-Lynch interviews addressing the non-P5 program-building angle.
+- **Added:** 2026-04-24
+
+### wiki/coaches/christy-johnson-lynch.md
+- **Claim:** [[kirsten-bernthal-booth]] wikilink in Contributions section resolves to a non-existent coach page (Creighton head coach; co-clinician on libero material).
+- **Why unsourced:** Dangling wikilink during bootstrap; Booth is a legitimate co-featured coach in ingested AOC sources but does not yet have her own coach profile.
+- **Research hypothesis:** Stub or full Booth profile will be written in a later coach-profile wave; AOC material already ingested under aoc-2024-johnson-lynch-booth-libero-training + aoc-2024-johnson-lynch-game-changing-liberos provides the initial source base.
 - **Added:** 2026-04-24
