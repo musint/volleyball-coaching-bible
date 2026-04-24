@@ -62,6 +62,15 @@ For drill entry, the library is catalogued on the technique pages. [[butterfly-p
 - [[age-lens-college]] — full-system serve-receive with true liberos, scouting-informed formations, and the training volume that elite passing demands.
 - [[mental]] — passing under pressure, the "next ball" mindset, recovering from bad passes across a rotation.
 
+## Drill catalog
+
+```dataview
+TABLE phase, levels, duration-min, team-size-min + "-" + team-size-max AS size
+FROM "wiki/drills"
+WHERE primary-skill = "passing" OR contains(techniques, "passing-forearm") OR contains(techniques, "passing-overhead") OR contains(techniques, "passing-serve-receive") OR contains(techniques, "passing-free-ball")
+SORT phase ASC, duration-min ASC
+```
+
 ## Sources
 
 - [[aoc-2013-kiraly-4-keys-forearm-pass]]

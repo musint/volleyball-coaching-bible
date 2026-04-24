@@ -50,6 +50,8 @@ wiki/
   sources/                   One page per major source (book, video series, article)
 ```
 
+**Obsidian plugin requirement:** skill-hub, age-lens, position, and planning pages include `dataview` code blocks that render drill/source catalogs from frontmatter. Install the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) community plugin in Obsidian to render them; without the plugin the queries show as markdown source (harmless but not useful).
+
 ### 2.2 `raw/` — immutable source material (LLM reads, never edits)
 
 ```

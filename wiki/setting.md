@@ -54,6 +54,15 @@ Drill coverage for setting lives under [[setting-hands]]'s `related-drills` and 
 - [[age-lens-14u]], [[age-lens-hs]], [[age-lens-college]] — developmental overlays on jump-setting, OOS toolbox, and backset disguise.
 - [[philosophy]] — where the school-of-thought disagreements sit in the broader methodology landscape.
 
+## Drill catalog
+
+```dataview
+TABLE phase, levels, duration-min, team-size-min + "-" + team-size-max AS size
+FROM "wiki/drills"
+WHERE primary-skill = "setting" OR contains(techniques, "setting-hands") OR contains(techniques, "setting-jump") OR contains(techniques, "setting-backset") OR contains(techniques, "setting-out-of-system")
+SORT phase ASC, duration-min ASC
+```
+
 ## Sources
 
 - [[aoc-2024-setting-hand-hinge]]

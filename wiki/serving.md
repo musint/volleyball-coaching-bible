@@ -50,6 +50,15 @@ Age-lens overlays: [[age-lens-14u]] (toss and standing float are the whole job; 
 - [[match-prep]] — scouting passers' weak zones and weak rotations drives in-match serve selection. See [[serving-hybrid]] for the tactical application.
 - All positions serve: [[setter]], [[outside-hitter]], [[middle-blocker]], [[opposite]], [[libero]], [[defensive-specialist]].
 
+## Drill catalog
+
+```dataview
+TABLE phase, levels, duration-min, team-size-min + "-" + team-size-max AS size
+FROM "wiki/drills"
+WHERE primary-skill = "serving" OR contains(techniques, "serving-float") OR contains(techniques, "serving-topspin") OR contains(techniques, "serving-jump-float") OR contains(techniques, "serving-hybrid")
+SORT phase ASC, duration-min ASC
+```
+
 ## Sources
 
 - [[aoc-2025-float-serve-3-keys]]

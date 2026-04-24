@@ -137,6 +137,15 @@ order:
 - **[[practice-planning]]** — where the training-hours tradeoff lives;
   swing blocking is expensive to install, and that cost is real.
 
+## Drill catalog
+
+```dataview
+TABLE phase, levels, duration-min, team-size-min + "-" + team-size-max AS size
+FROM "wiki/drills"
+WHERE primary-skill = "blocking" OR contains(techniques, "blocking-footwork") OR contains(techniques, "blocking-read") OR contains(techniques, "blocking-swing") OR contains(techniques, "blocking-hand-position")
+SORT phase ASC, duration-min ASC
+```
+
 ## Sources
 
 - [[gms-nd-blocking]]

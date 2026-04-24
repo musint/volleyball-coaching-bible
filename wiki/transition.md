@@ -59,6 +59,15 @@ Drill entry is on the two subskill pages. [[transition-hitting]], [[transition-r
 - [[age-lens-college]] — the standard of transition indistinguishable from first-ball offense.
 - [[mental]] — transition as a composure test; teams that fall apart in long rallies usually lose on transition contacts, not first-ball contacts.
 
+## Drill catalog
+
+```dataview
+TABLE phase, levels, duration-min, team-size-min + "-" + team-size-max AS size
+FROM "wiki/drills"
+WHERE primary-skill = "transition" OR contains(techniques, "transition-attack") OR contains(techniques, "transition-out-of-system")
+SORT phase ASC, duration-min ASC
+```
+
 ## Sources
 
 - [[aoc-2013-hoag-transition-drills]]

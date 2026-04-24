@@ -56,6 +56,15 @@ Drill entry points: [[digging-lines]] and [[six-player-defense]] for foundationa
 - **[[practice-planning]]** — defense belongs in every practice, every day, integrated into hitting and blocking reps rather than siloed.
 - **[[mental]]** — pursuit after fatigue is a mental skill; the dig-everything ethic is a cultural install.
 
+## Drill catalog
+
+```dataview
+TABLE phase, levels, duration-min, team-size-min + "-" + team-size-max AS size
+FROM "wiki/drills"
+WHERE primary-skill = "defense" OR contains(techniques, "defense-platform") OR contains(techniques, "defense-reading") OR contains(techniques, "defense-pursuit")
+SORT phase ASC, duration-min ASC
+```
+
 ## Sources
 
 - [[aoc-2025-training-reading-look-see-decide]]

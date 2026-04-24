@@ -169,6 +169,15 @@ If you are upgrading how you teach hitting, read in this order:
 - [[age-lens-college]] — college hitting (efficiency targets,
   scouting-informed shot selection, back-row tempo integration).
 
+## Drill catalog
+
+```dataview
+TABLE phase, levels, duration-min, team-size-min + "-" + team-size-max AS size
+FROM "wiki/drills"
+WHERE primary-skill = "hitting" OR contains(techniques, "hitting-approach") OR contains(techniques, "hitting-arm-swing") OR contains(techniques, "hitting-shot-selection") OR contains(techniques, "hitting-back-row-attack")
+SORT phase ASC, duration-min ASC
+```
+
 ## Sources
 
 - [[aoc-2024-attack-approach]]
