@@ -2,6 +2,47 @@
 
 Append-only log of wiki operations. Prefix format: `## [YYYY-MM-DD] <operation> | <short>`.
 
+## [2026-04-24] defer | Munciana Drills folder ingest (Task 3.2) | touched 2 pages
+Executed Tracks 1+2 plan Task 3.2 (`docs/superpowers/plans/2026-04-24-wiki-improvement-tracks-1-2.md`)
+to inspect and ingest the uncommitted `Munciana Drills/` folder at repo root.
+
+**Folder contents (1 file):**
+- `2022MuncianaCampDrills.mp4` — single binary video file, 1.35 GB (1,454,161,045 bytes),
+  2022 Munciana Camp drill sessions
+
+**Deferred — not ingested.** Rationale:
+- No ffmpeg on PATH (required to demux audio for transcription)
+- No local whisper / speech-to-text binary on PATH
+- `mcp__aoc__aoc_video_transcript` only serves AOC-hosted Vimeo/Wistia streams;
+  a local MP4 is not addressable by that tool
+- No paired notes, slide deck, session outline, or drill write-up in the folder
+- SCHEMA §9 anti-patterns prohibit fabricating drill content (setup, coaching
+  points, equipment, duration) from a filename alone — doing so would attribute
+  invented material to Munciana and Mike Lingenfelter
+
+**Artifacts produced:**
+- `Munciana Drills/.deferred` — full deferral note with research hypothesis for
+  a future session (transcribe → `raw/transcripts/munciana-2022-camp-drills.md`
+  → source page → per-drill pages → cross-link from `mike-lingenfelter.md` and
+  `munciana-volleyball-club.md`; optional `## Munciana drill cluster` section on
+  the school page if ≥5 drills land)
+- This log entry
+
+**Folder retained** (not removed) so the MP4 remains accessible for a future
+transcription pass. The `.deferred` marker is the only text artifact inside the
+folder.
+
+**Acceptance-criterion status (spec §6.1).** The "Munciana Drills/ folder is
+fully committed or explicitly deferred with a log note" bullet is satisfied by
+this entry + the `.deferred` marker. Drill page count contribution from Task 3.2
+to the Dispatch 3 summary: 0 drills / 0 source pages.
+
+**Lint state after defer:** unchanged from pre-task baseline
+(Broken wikilinks 182; invariants 0; frontmatter 22; citations 76; orphans 116;
+gaps 14). No wiki pages modified; no lint regression possible.
+
+**Pages touched:** 2 (wiki/log.md + Munciana Drills/.deferred).
+
 ## [2026-04-24] backfill | Bernardinho + Brazilian methodology cluster (Task 2.19) | touched 14 pages
 Executed Tracks 1+2 plan Task 2.19 — the largest unsourced cluster (11 entries
 across `wiki/coaches/bernardinho.md` and `wiki/schools/brazilian-school.md`).
@@ -205,7 +246,7 @@ Findings:
     (forward-reference, will be resolved in W2.4 contrasting schools or a
     later follow-up).
   - 0 fabricated citations; every [citation-key] verified against
-    wiki/sources/. Dangling [[wikilinks]] left for W2.2+ targets
+    wiki/sources/. Dangling `\[\[wikilinks\]\]` left for W2.2+ targets
     (mike-hebert, carl-mcgown, gold-medal-squared, laurie-eisler, etc.).
 
 ## [2026-04-23] wave2-w2.2-w2.4 | Methodology coaches, internationals, preferred schools (12 agents)
@@ -542,7 +583,7 @@ some pages (Kiraly, McCutcheon, etc.), which is valid per SCHEMA §4.
 - ~40 entries in unsourced-queue.md with research hypotheses (mostly Velasco/
   Bernardinho/Guidetti methodology + Wise AVCA counts + NCAA recruiting
   calendar + NCAA practice-hours rule)
-- 15 dangling [[wikilinks]] in coach profiles to future coach pages
+- 15 dangling `\[\[wikilinks\]\]` in coach profiles to future coach pages
   (laurie-eisler, minnesota-volleyball, etc.) — not blocking
 - W3.5 backfill sources (23 new AOC pieces) could be additively cited on
   Wave 3 technique/system pages for deeper coverage

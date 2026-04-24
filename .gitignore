@@ -22,5 +22,12 @@ __pycache__/
 # (user may redistribute this repo; copyrighted PDFs stay local)
 raw/books/*.pdf
 
+# Large binary media pending transcription (Task 3.2 deferred assets)
+# The .deferred marker inside such folders IS committed; the binary is not.
+Munciana Drills/*.mp4
+*.mp4
+*.mov
+*.mkv
+
 # Git worktrees (local isolation for feature branches)
 .worktrees/
