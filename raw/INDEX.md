@@ -312,6 +312,7 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 
 ## research/
 - afonso-2012-volleyball-perceptual-cognitive.md — Afonso et al. on volleyball perceptual-cognitive skill (2012) — afonso-2012-volleyball-perceptual-cognitive
+- akyildiz-2022-within-week-training-load-volleyball.md — Akyildiz et al. on within-week LPS training-load differences in elite volleyball (Guidetti co-author, VakıfBank 2020–21), BMC Sports Sci Med Rehabil 2022 — akyildiz-2022-within-week-training-load
 - davids-2013-ecological-dynamics-talent.md — Davids et al. on ecological dynamics & talent (2013) — davids-2013-ecological-dynamics-talent
 - magill-1990-contextual-interference-review.md — Magill & Hall contextual-interference review (1990) — magill-1990-contextual-interference-review
 - pinder-2011-representative-learning-design.md — Pinder et al. on representative learning design (2011) — pinder-2011-representative-learning-design

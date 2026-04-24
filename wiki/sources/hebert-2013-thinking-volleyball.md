@@ -37,7 +37,7 @@ Hebert spent 35 years coaching at Pittsburgh, New Mexico, Illinois, and Minnesot
 - Match coaching and in-game adjustments
 
 ## Where it's cited
-*(later)*
+- [[mike-hebert]]
 
 ## Access
 - Raw file: `raw/books/notes-hebert-thinking-volleyball-2013.md`

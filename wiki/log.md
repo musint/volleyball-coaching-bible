@@ -627,3 +627,19 @@ explicit influence lines between Hebert's reading-defense framing and GMS/AOC/US
 with research hypotheses. 4 raw files + 4 source pages added; raw/INDEX.md + wiki/coaches/mike-hebert.md
 sources frontmatter updated; 2 new unsourced-queue entries appended; existing
 hebert-2013-thinking-volleyball source page "Where it's cited" populated with [[mike-hebert]].
+
+## [2026-04-24] task-2-17 | NCAA recruiting calendar cluster
+Executed Tracks 1+2 plan Task 2.17. Ingested 3 Tier-1 primary sources: NCAA 2025-26
+D1 Women's Volleyball recruiting calendar PDF (`ncaa-2025-26-d1-wvb-recruiting-calendar`),
+NCAA 2025-26 signing-dates PDF (`ncaa-2025-26-signing-dates`), and USA Volleyball's
+"College Recruitment Timeline" page (`usav-nd-college-recruitment-timeline`). Discovered
+and corrected a factual error on `wiki/recruiting.md`: prior text gave D1 first-permissible
+contact as "September 1 of junior year" — the actual D1 women's volleyball floor under
+current Bylaw 13 is **June 15 after sophomore year** for coach-initiated communication
+and **August 1 before junior year** for unofficial/official visits; the November NLI
+signing date survives (Nov 12, 2025 initial for "All Other D1/D2 Sports") but the April
+regular period is basketball-specific. Cleared both `wiki/recruiting.md` entries from
+unsourced-queue (originally tagged 2026-04-23). Updated recruiting.md frontmatter
+sources: field + body + Sources section; updated raw/INDEX.md + AVCA 404 note logged
+inside usav-nd-college-recruitment-timeline source page. Pages touched: 8 (3 raw, 3
+source pages, 1 hub, 1 queue).

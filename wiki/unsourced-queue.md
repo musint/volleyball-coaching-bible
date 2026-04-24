@@ -58,24 +58,6 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-23
 
 ### wiki/coaches/mary-wise.md
-- **Claim:** Wise is among the longest-tenured women's NCAA head coaches at one program (34 seasons 1991-2024).
-- **Why unsourced:** Intuitively accurate; needs a comparative tenure ranking source.
-- **Research hypothesis:** AVCA tenure rankings (cross-reference); USA Today compilations of NCAA coaching longevity; ESPN longform retrospectives from 2024-2025 retirement coverage.
-- **Added:** 2026-04-23
-
-### wiki/coaches/mary-wise.md
-- **Claim:** Wise won AVCA National Coach of the Year multiple times.
-- **Why unsourced:** wise-2023-characterandleadership-profile names SEC Coach of the Year (13×) but does not confirm AVCA-national counts.
-- **Research hypothesis:** AVCA awards history page; Wise's Florida official bio; Hall of Fame induction materials.
-- **Added:** 2026-04-23
-
-### wiki/coaches/mary-wise.md
-- **Claim:** 14-year gap between Florida's 2003 and 2017 Final Four appearances framed as program-durability signal.
-- **Why unsourced:** Editorial inference from factual Final Four list; no source frames the gap this way.
-- **Research hypothesis:** Florida media-guide history; AVCA Final Four archives; Wise retrospective writeups for framing.
-- **Added:** 2026-04-23
-
-### wiki/coaches/mary-wise.md
 - **Claim:** Wise's 34-year tenure benefited Florida's institutional relationships (recruiting pipelines, facilities, etc.).
 - **Why unsourced:** Editorial inference; not a claim made in the available source.
 - **Research hypothesis:** Florida athletic department retrospectives; Gainesville newspaper archive (Gainesville Sun) around the retirement announcement.
@@ -84,13 +66,7 @@ this list. Research passes hunt down primary sources and clear entries.
 ### wiki/coaches/mary-wise.md
 - **Claim:** Measuring success by player impact as a cultural contribution to the profession.
 - **Why unsourced:** Values claim, not a documented profession-wide influence claim.
-- **Research hypothesis:** Wise interviews; AVCA induction speech / lifetime-achievement materials; assistant-tree placement records.
-- **Added:** 2026-04-23
-
-### wiki/coaches/mary-wise.md
-- **Claim:** Wise's assistant tree's placement record as head coaches around the sport.
-- **Why unsourced:** Commonly stated but not in the source on file.
-- **Research hypothesis:** AVCA assistant-placement rosters; Florida coaching-tree infographics; articles profiling Wise's assistants who became head coaches.
+- **Research hypothesis:** Wise interviews; AVCA induction speech / lifetime-achievement materials. Note (2026-04-24): the assistant-tree placement queue entry was resolved via Task 2.18 — Ryan Theis substantiated through [[florida-volleyball-wikipedia]]; a fuller tree inventory remains open.
 - **Added:** 2026-04-23
 
 ### wiki/coaches/karch-kiraly.md
