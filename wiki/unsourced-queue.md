@@ -393,3 +393,15 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Why unsourced:** Forward reference during bootstrap — BYU men's volleyball school page does not yet exist.
 - **Research hypothesis:** A future task (analogous to the penn-state / florida / illinois school stubs) should create `wiki/schools/byu.md` capturing the McGown → McCutcheon → Olmstead men's-volleyball lineage and its influence on alums including Slabe.
 - **Added:** 2026-04-24
+
+### wiki/coaches/jen-flynn-oldenburg.md
+- **Claim:** Broader biographical material — playing career, specific hire date at Ohio State, prior assistant-coaching roles, conference-level results, roster-construction philosophy.
+- **Why unsourced:** The six AOC drill articles in the reviewed source base identify her only as "Ohio State head coach" / "Buckeye coach" and describe drills. They contain no biographical detail beyond that.
+- **Research hypothesis:** Ohio State athletics official coach bio (ohiostatebuckeyes.com); Ohio State volleyball media guide; Big Ten media-day interview transcripts; AVCA awards/profile pages; any long-form coach interviews on AOC or VolleyballMag.
+- **Added:** 2026-04-24
+
+### wiki/coaches/jen-flynn-oldenburg.md
+- **Claim:** Ohio State program lineage framing — "The program sits in the Ohio State lineage that runs through Jim Stone (1982-2007) into her current head-coach tenure."
+- **Why unsourced:** The continuity framing between Stone and Oldenburg is editorial — the AOC drill articles do not draw that connection. Stone's tenure dates are asserted from the existing [[ohio-state-volleyball]] stub, which is itself a bidirectional-link stub with no primary source yet.
+- **Research hypothesis:** Ohio State volleyball program history page; Buckeye media guide historical section; AVCA tenure records; Jim Stone profile (Task 1.12) should source Stone's dates and any cross-reference to Oldenburg's appointment.
+- **Added:** 2026-04-24

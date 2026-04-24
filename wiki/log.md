@@ -569,3 +569,21 @@ research, Tier-3 social. Research corrections surfaced:
   - USAV CAP discontinued → Coach Academy (Bronze/Silver/Gold, Craft/Body/Mind/Heart/Team)
   - Kiraly is moving from USA Women's NT to USA Men's NT for 2028 (announced 2024-10)
 Next: CP2 (user reviews source library), then Wave 2 coach & school profile writing.
+
+## [2026-04-24] task-1-14 | Mike Lingenfelter coach profile + Munciana school stub
+Executed Tracks 1+2 plan Task 1.14. Created `wiki/coaches/mike-lingenfelter.md` (~1,650 words; heavy-citation coach profile per SCHEMA §3.2) and `wiki/schools/munciana-volleyball-club.md` (institutional-tradition stub per penn-state.md pattern, satisfies §6 bidirectional-link invariant).
+
+**Plan-spec naming correction.** The plan (Task 1.14, line 805+) and design spec (line 219) name this coach "John Lingenfelter." All five AOC source pages on file (aoc-2021-lingenfelter-short-ball-long-ball, aoc-2025-cc-skill-training-clubwide, aoc-2026-lingenfelter-accountability-passing, aoc-2026-lingenfelter-middle-attack-tempo, aoc-2026-lingenfelter-middle-tempo) and AOC's own coach-profile URL (theartofcoachingvolleyball.com/profile-mike-lingenfelter/) identify him as **Mike Lingenfelter**, co-director of Munciana alongside Alyssa Lingenfelter. SCHEMA §9 forbids citation fabrication — a "John Lingenfelter" profile citing Mike's work would violate that rule. Resolution: file written under accurate name at `mike-lingenfelter.md`; plan/spec correction queued in `unsourced-queue.md` (three entries added for this page: biographical gaps, pay-to-practice policy gap, plan-name correction). Precedent: same pattern used at Wave 1 for the Nakagaichi 1972 Munich error.
+
+**Munciana methodology highlights captured:**
+- Middle-attack tempo indexed by **left-foot plant timing relative to setter contact** — Tempo 3 (plant after ball leaves), Tempo 2 (plant while ball is in setter's hands), Tempo 1 (in air while ball is in setter's hands). Same three-step approach; only the plant timing varies. Coachable cue set anchored on two observable events.
+- "Reps equal confidence" — rep-based confidence mechanism with progressions controlled-toss → over-net-toss → live-serve.
+- "Every passing drill has a winner and a loser" — accountability designed into the drill structure, not manufactured by coach rhetoric.
+- **Club-wide system alignment** across all Munciana age groups so players never relearn technique — the distinguishing Munciana program choice, published publicly via AOC Coach Connection LIVE Sept 2025 with a downloadable sample practice plan.
+- Decomposable passing micro-skills: balance (pass on one foot), quiet platform (one-armed + moving passes), pass-and-cover (prevent passers from watching their pass), avoiding jammed passes (hop back, take low on platform).
+
+**Cross-link invariants satisfied:**
+- Coach profile links 2 schools (munciana-volleyball-club, art-of-coaching-volleyball) + 5 sources ≥ §6 requirement (≥1 each).
+- School stub's `associated-coaches: [mike-lingenfelter]` reciprocates the coach's `schools:` field (§6 bidirectional).
+- Index updated: coach listed under new "Club / specialist" sub-heading within Coaches; school stub added under Institutional-tradition stubs.
+
