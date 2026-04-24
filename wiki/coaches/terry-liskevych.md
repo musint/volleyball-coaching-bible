@@ -96,7 +96,7 @@ flexibility serves the roster, not the schematic [aoc-2017-liskevych-dunning-tri
 
 **Measurement beats gut feel — with the right window.** Liskevych argues that
 full-match hitting percentages obscure within-match momentum. His named
-heuristic, the [[liskevych-5]], judges a player by her most recent five
+heuristic, the **Liskevych-5**, judges a player by her most recent five
 contacts rather than the cumulative line, revealing who is hot or cold *now*
 and driving substitution and set-distribution decisions [aoc-2022-liskevych-five].
 Rolling-window evaluation is a signature piece of the Liskevych stats
@@ -131,7 +131,7 @@ forearm platform and angle-to-target in [[passing-forearm]]
 in [[setting-hands]] [aoc-2017-liskevych-asics-setting]; approach, armswing,
 and contact in [[hitting-approach]] [aoc-2017-liskevych-asics-hitting]; toss,
 contact, and routine in [[serving-float]] [aoc-2017-liskevych-asics-serving];
-stance, penetration, and hand work at the net in [[blocking-technique]]
+stance, penetration, and hand work at the net in blocking technique
 [aoc-2017-liskevych-asics-blocking]; reads, posture, and pursuit in
 [[defense-platform]] [aoc-2017-liskevych-asics-defense]. In blocking
 specifically, he is explicit: hands are the primary teaching point (block with
@@ -162,7 +162,7 @@ on — were edited by Liskevych [liskevych-2021-volleybrains-no-shortcuts]. As
 editor he gave the sport its canonical multi-author reference, assembling
 contributions from the coaches his generation produced.
 
-**The [[liskevych-5]] heuristic.** A named, portable rolling-evaluation tool
+**The **Liskevych-5** heuristic.** A named, portable rolling-evaluation tool
 for in-match player reads [aoc-2022-liskevych-five]. Used as shorthand by
 coaches who want a last-five-contacts lens without running full stats during
 play.

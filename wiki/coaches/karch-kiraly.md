@@ -37,7 +37,7 @@ sources:
   - aoc-2024-kiraly-serving-pressure
   - aoc-2024-kiraly-validation-6v6
   - aoc-2024-kiraly-in-game-tactics
-  - aoc-2024-kiraly-expose-best-player
+  - aoc-2021-kiraly-expose-best-player
   - aoc-2024-legends-liskevych-kiraly
   - aoc-2021-kiraly-becoming-learner
 ---
@@ -70,7 +70,7 @@ On October 24, 2024, USA Volleyball announced that Kiraly would transition to he
 
 **Tactical specificity in serving and serve-receive.** Kiraly's public tactical voice is most detailed around the serve. His three-part serve plan: target the weakest passer with a hard, flat float; serve Zone 2 toward the setter to tangle the passer-setter connection; and vary depth rather than side-to-side placement, because "if I'm a passer, I can identify (a serve moving) left and right a lot quicker than I can identify depth" [kiraly-2024-serving-placement]. He couples this with a risk-reward position on serving errors — if a team lands every serve, it isn't pressuring enough [aoc-2024-kiraly-serving-errors] — and trains servers to handle big-point pressure via heckle-the-server drills and personal cue words such as Reid Priddy's "Just me and the ball" [aoc-2024-kiraly-serving-pressure]. On serve-receive, his framework is a four-question diagnostic: technique choice, system and passer responsibilities, tactics (2- or 3-person patterns, platform vs. hands), and gamelike rep design [aoc-2024-kiraly-serve-receive-unit].
 
-**Expose your best player.** A rule Kiraly returns to across offense, serve-receive, and defense: put your best specialist in the role and area they are best at. Your best passer covers the largest serve-receive area; your best digger sees the most attacks (with the block shaped to funnel attacks toward them); a single, elite setter runs the offense [aoc-2024-kiraly-expose-best-player]. A single-setter 5-1 offense is the tactical application of the same principle [aoc-2024-kiraly-expose-best-player].
+**Expose your best player.** A rule Kiraly returns to across offense, serve-receive, and defense: put your best specialist in the role and area they are best at. Your best passer covers the largest serve-receive area; your best digger sees the most attacks (with the block shaped to funnel attacks toward them); a single, elite setter runs the offense [aoc-2021-kiraly-expose-best-player]. A single-setter 5-1 offense is the tactical application of the same principle [aoc-2021-kiraly-expose-best-player].
 
 **Give players freedom to decide.** Kiraly's late-career emphasis is that constant coach chatter interferes with real-time decision-making, and that players glancing at the bench after every rally is a symptom of over-coaching, not engagement — the prescription is "let them play" [aoc-2024-kiraly-give-freedom]. A team culture exercise he uses, "reverse brainstorming" (asking "how could we do this as badly as possible?"), surfaces micro-behaviors to eliminate — explicitly including eye-rolling, which he flags as "never a positive action" [aoc-2024-kiraly-reverse-brainstorming].
 
@@ -128,6 +128,6 @@ On public calibration (pre-Tokyo, after a 9-0 VNL run): "Just take it with a gra
 - [[aoc-2024-kiraly-serving-pressure]] — AOC: handling serve pressure
 - [[aoc-2024-kiraly-validation-6v6]] — AOC: the validation 6v6 game
 - [[aoc-2024-kiraly-in-game-tactics]] — AOC: in-game tactical adjustments
-- [[aoc-2024-kiraly-expose-best-player]] — AOC: expose your best player
+- [[aoc-2021-kiraly-expose-best-player]] — AOC: expose your best player
 - [[aoc-2024-legends-liskevych-kiraly]] — AOC: advice with Terry Liskevych
 - [[aoc-2021-kiraly-becoming-learner]] — AOC / P/ATH Sports: becoming a learner
