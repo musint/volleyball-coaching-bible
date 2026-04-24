@@ -236,3 +236,27 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Why unsourced:** The AOC raw-article page for this lecture captures only the title and AOC topic tags; the video content itself is paywalled and not transcribed in the reviewed corpus.
 - **Research hypothesis:** Purchase/access the AOC premium video and transcribe the full lecture; look for overlapping Rockwell clinic appearances (AVCA Convention, JVA Challenge, Region high-performance clinics) that may cover the same material; cross-reference with Rose's program-as-standards framing in [[russ-rose]] for Penn-State-specific competitive-culture anchors.
 - **Added:** 2026-04-24
+
+### wiki/coaches/brandon-rosenthal.md
+- **Claim:** Rosenthal's broader coaching biography — playing background, collegiate pathway, staff lineage, hiring dates at Lipscomb.
+- **Why unsourced:** Both AOC pieces on file identify him only as "head coach of Lipscomb volleyball" as of publication; no biographical source (program bio, conference feature, media-guide excerpt, interview) is ingested.
+- **Research hypothesis:** Lipscomb athletics bio page; ASUN Conference coach directory; local Nashville-area volleyball coverage; AVCA profile if one exists; any AOC podcast episode featuring Rosenthal.
+- **Added:** 2026-04-24
+
+### wiki/coaches/brandon-rosenthal.md
+- **Claim:** Specific dates of Rosenthal's Lipscomb tenure (start year, assistant vs. head-coach arc).
+- **Why unsourced:** AOC sources document a 2015–2024 publication window during which he was already Lipscomb head coach; they do not name the hiring year or any predecessor/successor framing.
+- **Research hypothesis:** Lipscomb athletics archives; ASUN press releases from 2010–2015; regional volleyball-beat reporting.
+- **Added:** 2026-04-24
+
+### wiki/coaches/brandon-rosenthal.md
+- **Claim:** Whether Rosenthal originated, popularized, or inherited the tug-of-war shared-score mechanic used in the 2024 drill.
+- **Why unsourced:** The AOC piece presents the drill under Rosenthal's byline but does not claim authorship of the mechanic; tug-of-war-style scoring is widely used in club coaching.
+- **Research hypothesis:** GMS drill catalog; AOC Premium search for "tug of war"; club-level drill compendia (Kenny Barnes, Cary Wallin, etc.); USAV CAP/Coach Academy drill materials.
+- **Added:** 2026-04-24
+
+### wiki/coaches/brandon-rosenthal.md
+- **Claim:** Direct verbatim quotations from Rosenthal on either the rapid-fire or tug-of-war drill.
+- **Why unsourced:** AOC editorial prose summarizes his teaching; the underlying video captions are not ingested as transcripts.
+- **Research hypothesis:** Fetch video captions via AOC's caption endpoint for both pieces; check Rosenthal's Instagram/Twitter for self-authored quotes; AVCA Convention session recordings if he has presented.
+- **Added:** 2026-04-24
