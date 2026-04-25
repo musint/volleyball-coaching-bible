@@ -12,7 +12,7 @@ levels: [14u, hs, college]
 equipment: [balls]
 sources: [munciana-2022-camp-drills]
 video-url:
-variations: [munciana-juggle-passing]
+variations: []
 ---
 
 # Two-Man Shuffle
@@ -33,7 +33,7 @@ Pair partners off facing each other across the court, each pair holding a ball. 
 
 ## Variations
 - Roll segment can be added or dropped depending on whether the day's plan includes pursuit work.
-- Pair the shuffle with [[munciana-juggle-passing]] as a continuous warm-up sequence the way Munciana runs it.
+- Pair the shuffle with a follow-on juggle-passing warm-up the way Munciana runs it (the juggle-passing drill is named in the camp tape at 00:01:10 but is described too briefly to document responsibly as its own page).
 
 ## Adaptations by level
 - **14U:** shorter shuffle distance (3-4 m); cue "low, lower, lowest" so they actually drop their hips.

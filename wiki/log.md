@@ -963,3 +963,36 @@ Per-drill pages created from the second half of the [[munciana-2022-camp-drills]
 **Frontmatter compliance:** All 28 drills satisfy SCHEMA §6 invariant #1 (≥1 source + ≥1 technique). Verbatim Lingenfelter quotes included with `**[HH:MM:SS]**` timestamps for transcript navigability. Index.md updated with new "Munciana camp library" subsection in `## Drills`. Source page's "Where it's cited" enumerates all 28 new pages.
 
 **Note:** First-half drills (`munciana-two-man-shuffle`, `munciana-three-man-tilt`, `munciana-straddles`, etc. — passing/defense pre-23:54) were already created by a previous session and are present in `wiki/drills/`; they are not part of this ingest.
+
+## [2026-04-25] munciana-camp-ingest-complete | Tracks 1+2 Track 3.2 deferred work resolved
+The Munciana Drills/ folder ingest, deferred 2026-04-24 because it contained only a 1.35 GB MP4 video, has now been resolved.
+
+**Toolchain installed:** `pip install --user faster-whisper` (1.2.1, with PyAV-bundled ffmpeg via `av` 17.0.1; no system ffmpeg required). NVIDIA RTX 500 Ada GPU present but no CUDA runtime — CPU transcription via `small.en` + `int8`.
+
+**Transcription:** `tools/transcribe.py` — generic faster-whisper wrapper writing timestamped markdown. Runtime on CPU: 1373s compute against 3821s of audio = 2.8x realtime. Output at `raw/transcripts/munciana-2022-camp-drills.md` (3306 lines, English language detected at p=1.00).
+
+**Source page:** `wiki/sources/munciana-2022-camp-drills.md` — Tier 1 primary (the program co-director instructing his own staff on his own drills, captured in his own words).
+
+**Drill ingest (parallel agents):** 46 named Munciana drills, every one cited to the camp transcript with verbatim quotes and timestamps preserved:
+- Passing (10): two-man-shuffle, three-man-tilt, rush-and-push, straddles, speed-close, straight-line-passing, directional-pass, two-ball-passing, triangle-passing-box-b, seam-to-attack
+- Defense (8): speedball, three-way-release, physio-reaction, mountain-d, campfire-d, seat-to-seam, figure-eight-defense, go-stay
+- Serving (6): kneel-single-leg-serve, 5-6-seam-noodle, 5-6-seam-strike, 5-6-seam-bounce, no-gut-serving, five-before-ten
+- Out-of-system setting/hitting (4): five-and-five-setting, mia-drill, two-man-out-of-system, team-out-of-system
+- Cooperative ball-control (9): tight-triangles, sam-dixette, samurai-transition, pursuit-attack, usa-33, brazilian-warmup, turn-and-burn, full-corner-pepper, nine-man-pepper
+- Competitive 6v6 (9): biggie-smalls, prove-it, momentum, left-vs-left, net-six, hand-to-hand-combat, 3-2, tug-of-war, finish-strong
+
+**Skipped responsibly:** "juggle passing" — Mike names it once but the transcript description is too thin (single line, "let's go just juggle passing. Go") to write a coherent drill page without fabricating setup/equipment/structure. Kept as a plain-text reference in two-man-shuffle's Variations.
+
+**Cross-link updates:**
+- `wiki/coaches/mike-lingenfelter.md` — added a `### A publicly-documented end-to-end camp drill library` subsection under Contributions to the game; sources frontmatter extended; Camp drill corpus enumerated.
+- `wiki/schools/munciana-volleyball-club.md` — fully rewritten from stub. Core principles section grew from 5 to 9 items. Methodology section, previously an empty placeholder, now documents the 8 cross-cutting Munciana coaching principles surfaced in the camp tape (always run left and right; Three P's of defense; outside foot is high; read-and-run not watch-and-stand; teacher drills; drill volume in tight windows; aggressive-mentality serving; triangles as multi-skill format). Camp drill corpus listed with all 46 drills.
+
+**Net wiki state delta from 2026-04-24 to 2026-04-25:**
+- Drills: 55 → 101 (+46 Munciana drills)
+- Sources: 631 → 632 (+1 Munciana camp transcript Tier 1)
+- Munciana school page: stub → full school page with 9 core principles + 8-element methodology
+- Mike Lingenfelter profile: existing 6-principle profile extended with a Camp drill corpus contribution
+
+**Lint state:** Broken wikilinks remain at 0 (1 transient regression from a stale `[[munciana-juggle-passing]]` reference in two-man-shuffle was caught and repaired immediately). Invariants: 0 violations.
+
+The Munciana .deferred marker is now obsolete; it should be removed in the next commit alongside the gitignored MP4.

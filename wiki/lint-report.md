@@ -1,6 +1,6 @@
 # Wiki Lint Report
 
-Generated: 2026-04-24T12:54:11
+Generated: 2026-04-25T14:41:11
 
 ## Broken wikilinks
 Broken wikilinks: 0
@@ -37,7 +37,7 @@ Failures: 22
 - wiki\_templates\technique.md: invalid enum value '<skill>' for 'skill'
 
 ## Unresolved citation keys
-Unresolved: 75
+Unresolved: 78
 
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
@@ -79,7 +79,7 @@ Unresolved: 75
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
-- ...and 35 more
+- ...and 38 more
 
 ## Orphan pages
 Orphans: 104
@@ -136,7 +136,7 @@ Gaps: 0
 
 
 ## Unsourced-queue consistency
-Issues: 31
+Issues: 32
 
 - wiki\age-lens-college.md: has [unsourced] tag but no matching queue entry
 - wiki\log.md: has [unsourced] tag but no matching queue entry
@@ -158,6 +158,7 @@ Issues: 31
 - wiki\schools\block-vs-random-practice.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\italian-school.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\japanese-training.md: has [unsourced] tag but no matching queue entry
+- wiki\schools\munciana-volleyball-club.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\russian-school.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\bebeto-de-freitas-2026-wikipedia-bio.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\bernardinho-2026-wikipedia-bio.md: has [unsourced] tag but no matching queue entry

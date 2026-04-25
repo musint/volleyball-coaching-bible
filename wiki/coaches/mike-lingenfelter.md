@@ -12,6 +12,7 @@ sources:
   - aoc-2026-lingenfelter-accountability-passing
   - aoc-2026-lingenfelter-middle-attack-tempo
   - aoc-2026-lingenfelter-middle-tempo
+  - munciana-2022-camp-drills
 ---
 
 # Mike Lingenfelter
@@ -83,6 +84,18 @@ The three-tempo framework — indexed by left-foot plant timing relative to sett
 ### Accountability-first passing drill design
 Lingenfelter's "every drill has a winner and a loser" [aoc-2026-lingenfelter-accountability-passing] is one of the cleanest operational expressions of competitive practice at the club level. It pairs naturally with [[practice-planning]] frameworks that emphasize game-like training and ties into age-appropriate practice design for the youngest competitive groups ([[age-lens-14u]]).
 
+### A publicly-documented end-to-end camp drill library
+The 2022 Munciana Camp Drills internal video tutorial — a 64-minute walkthrough of every drill Mike runs in a Munciana youth camp, in the order it would be coached — is on this wiki as a Tier 1 primary source [munciana-2022-camp-drills]. Per-drill pages document 46 named Munciana drills across passing, defense, serving, out-of-system setting/hitting, cooperative ball-control, and competitive 6v6:
+
+- **Passing (10):** [[munciana-two-man-shuffle]], [[munciana-three-man-tilt]], [[munciana-rush-and-push]], [[munciana-straddles]], [[munciana-speed-close]], [[munciana-straight-line-passing]], [[munciana-directional-pass]], [[munciana-two-ball-passing]], [[munciana-triangle-passing-box-b]], [[munciana-seam-to-attack]]
+- **Defense (8):** [[munciana-speedball]], [[munciana-three-way-release]], [[munciana-physio-reaction]], [[munciana-mountain-d]], [[munciana-campfire-d]], [[munciana-seat-to-seam]], [[munciana-figure-eight-defense]], [[munciana-go-stay]]
+- **Serving (6):** [[munciana-kneel-single-leg-serve]], [[munciana-5-6-seam-noodle]], [[munciana-5-6-seam-strike]], [[munciana-5-6-seam-bounce]], [[munciana-no-gut-serving]], [[munciana-five-before-ten]]
+- **Out-of-system setting/hitting (4):** [[munciana-five-and-five-setting]], [[munciana-mia-drill]], [[munciana-two-man-out-of-system]], [[munciana-team-out-of-system]]
+- **Cooperative ball-control (9):** [[munciana-tight-triangles]], [[munciana-sam-dixette]], [[munciana-samurai-transition]], [[munciana-pursuit-attack]], [[munciana-usa-33]], [[munciana-brazilian-warmup]], [[munciana-turn-and-burn]], [[munciana-full-corner-pepper]], [[munciana-nine-man-pepper]]
+- **Competitive 6v6 (9):** [[munciana-biggie-smalls]], [[munciana-prove-it]], [[munciana-momentum]], [[munciana-left-vs-left]], [[munciana-net-six]], [[munciana-hand-to-hand-combat]], [[munciana-3-2]], [[munciana-tug-of-war]], [[munciana-finish-strong]]
+
+This is the most operationally-detailed drill corpus on the wiki for any single coach — the value is that the drills are not isolated demonstrations but stage in the order Mike would coach them, with verbatim cues from the camp tape preserved on each drill page.
+
 ## Quotes & representative passages
 
 On the confidence-reps mechanism:
@@ -106,3 +119,4 @@ On youth warmup targets:
 - [[aoc-2026-lingenfelter-accountability-passing]] — AOC (February 2026): building consistent passers through accountability and reps
 - [[aoc-2026-lingenfelter-middle-attack-tempo]] — AOC (February 2026): training middle-attack tempo
 - [[aoc-2026-lingenfelter-middle-tempo]] — AOC (February 2026): parallel video cut on the same three-tempo framework
+- [[munciana-2022-camp-drills]] — Munciana internal (2022): 64-minute camp-drill library tutorial covering 46 named drills end-to-end (Tier 1 primary)
