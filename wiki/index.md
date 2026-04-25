@@ -198,6 +198,14 @@ Total: **50 drills** in `wiki/drills/`; each links ≥1 source + ≥1 technique 
 - [[dynamic-warmup-volleyball]], [[jump-warmup]], [[partner-pepper-warmup]], [[ball-control-warmup]]
 - [[conditioning-court-sprints]], [[reactive-jumping]], [[arm-care-routine]], [[cool-down-mobility]]
 
+### Munciana camp library (Lingenfelter 2022 transcript ingest)
+Per-drill pages from the [[munciana-2022-camp-drills]] coach-tutorial library, organized in the same flow Mike narrates: pass/defense → serving → out-of-system setting/hitting → cooperative ball-control → competitive 6v6.
+
+- **Serving:** [[munciana-kneel-single-leg-serve]], [[munciana-5-6-seam-noodle]], [[munciana-5-6-seam-strike]], [[munciana-5-6-seam-bounce]], [[munciana-no-gut-serving]], [[munciana-five-before-ten]]
+- **Out-of-system setting + hitting:** [[munciana-five-and-five-setting]], [[munciana-mia-drill]], [[munciana-two-man-out-of-system]], [[munciana-team-out-of-system]]
+- **Cooperative ball-control:** [[munciana-tight-triangles]], [[munciana-sam-dixette]], [[munciana-samurai-transition]], [[munciana-pursuit-attack]], [[munciana-usa-33]], [[munciana-brazilian-warmup]], [[munciana-turn-and-burn]], [[munciana-full-corner-pepper]], [[munciana-nine-man-pepper]]
+- **Competitive 6v6 / game-like:** [[munciana-biggie-smalls]], [[munciana-prove-it]], [[munciana-momentum]], [[munciana-left-vs-left]], [[munciana-net-six]], [[munciana-hand-to-hand-combat]], [[munciana-3-2]], [[munciana-tug-of-war]], [[munciana-finish-strong]]
+
 ## Age-lenses (W5.8)
 - [[age-lens-14u]] — 14-and-under club context (Song's primary) — fundamentals/ball-control/reading-introduction; NOT: full swing-block, complex 6-2, jump-topspin
 - [[age-lens-hs]] — HS varsity — specialization onset, swing-blocking default, system execution, match-prep introduction

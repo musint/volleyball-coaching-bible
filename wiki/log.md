@@ -941,3 +941,25 @@ Additional coach profiles created as side-effects of stub resolution:
 - 104 orphan pages (mostly source pages, which are orphaned by design per SCHEMA §6)
 
 The wiki is a working coaching tool, not just a reference library. Tracks 1 + 2 complete.
+
+## [2026-04-24] ingest | Munciana 2022 camp drills (second half) | touched 30 pages
+
+Per-drill pages created from the second half of the [[munciana-2022-camp-drills]] transcript (~24:00 to end). Mike Lingenfelter narrates serving, out-of-system setting/hitting, cooperative ball-control, and competitive 6v6 / game-like work — the drill flow that mirrors the back half of a Munciana camp practice arc.
+
+**28 new drill pages in `wiki/drills/munciana-*.md`:**
+
+- **Serving (6):** [[munciana-kneel-single-leg-serve]], [[munciana-5-6-seam-noodle]], [[munciana-5-6-seam-strike]], [[munciana-5-6-seam-bounce]], [[munciana-no-gut-serving]], [[munciana-five-before-ten]]
+- **Out-of-system setting + hitting (4):** [[munciana-five-and-five-setting]], [[munciana-mia-drill]], [[munciana-two-man-out-of-system]], [[munciana-team-out-of-system]]
+- **Cooperative ball-control (9):** [[munciana-tight-triangles]], [[munciana-sam-dixette]], [[munciana-samurai-transition]], [[munciana-pursuit-attack]], [[munciana-usa-33]], [[munciana-brazilian-warmup]], [[munciana-turn-and-burn]], [[munciana-full-corner-pepper]], [[munciana-nine-man-pepper]]
+- **Competitive 6v6 / game-like (9):** [[munciana-biggie-smalls]], [[munciana-prove-it]], [[munciana-momentum]], [[munciana-left-vs-left]], [[munciana-net-six]], [[munciana-hand-to-hand-combat]], [[munciana-3-2]], [[munciana-tug-of-war]], [[munciana-finish-strong]]
+
+**Cross-cutting philosophy in this section:**
+- **Aim small, miss small** is the serving framing throughout — every serving drill has a finite target (noodle 18" above tape, box on the line, deep-corner one-hop), not 900-square-foot zones. "All too often in serving we just serve to serve, and it becomes somewhat of a dumpster fire" **[00:26:26]**.
+- **Aggressive-mentality serving** — five-before-ten and no-gut explicitly drill for tough/low/aggressive serves with consequences for safety serves; "harp on errors" because errors are evidence of aggressive intent **[00:31:48]**.
+- **Out-of-system as the default** — Mike's framing: "you're going to be out of system about 80 percent of the time" **[00:35:40]**. The setting/hitting block exclusively trains non-setter setters, defender-becomes-setter dynamics, and team-wide off-system rotations.
+- **Cooperative drills are competitive against the clock** — pursuit-attack 25-in-5, full corner pepper 90-seconds-no-error, USA 33 / Brazilian warm-up no-floor goals. The opponent is time and the team's own count.
+- **6v6 culmination uses scoring chassis to manufacture pressure** — Biggie Smalls (3-in-a-row to bank), Prove It (must serve+score), Momentum (escalating point values), Tug of War (shared scoreboard moves both ways), Finish Strong (19-19 with reset on failure to close). Every game-like drill is a different psychology rehearsal more than a different skill rehearsal.
+
+**Frontmatter compliance:** All 28 drills satisfy SCHEMA §6 invariant #1 (≥1 source + ≥1 technique). Verbatim Lingenfelter quotes included with `**[HH:MM:SS]**` timestamps for transcript navigability. Index.md updated with new "Munciana camp library" subsection in `## Drills`. Source page's "Where it's cited" enumerates all 28 new pages.
+
+**Note:** First-half drills (`munciana-two-man-shuffle`, `munciana-three-man-tilt`, `munciana-straddles`, etc. — passing/defense pre-23:54) were already created by a previous session and are present in `wiki/drills/`; they are not part of this ingest.
