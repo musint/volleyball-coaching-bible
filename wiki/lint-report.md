@@ -1,10 +1,11 @@
 # Wiki Lint Report
 
-Generated: 2026-04-25T14:41:11
+Generated: 2026-04-25T14:41:12
 
 ## Broken wikilinks
-Broken wikilinks: 0
+Broken wikilinks: 1
 
+- wiki\log.md: [[munciana-juggle-passing]]
 
 ## Cross-link invariant violations
 Violations: 0
@@ -37,7 +38,7 @@ Failures: 22
 - wiki\_templates\technique.md: invalid enum value '<skill>' for 'skill'
 
 ## Unresolved citation keys
-Unresolved: 78
+Unresolved: 79
 
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
@@ -79,7 +80,7 @@ Unresolved: 78
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
-- ...and 38 more
+- ...and 39 more
 
 ## Orphan pages
 Orphans: 104
