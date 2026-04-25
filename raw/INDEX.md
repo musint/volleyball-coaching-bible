@@ -284,6 +284,7 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - yt-aoc-20240702-training-libero-karch-kiraly.md — AOC YouTube: Training libero with Kiraly — yt-aoc-20240702-training-libero-karch-kiraly
 - yt-aoc-unknown-pass-for-points-diane-flick.md — AOC YouTube: Pass for Points (Diane Flick) — yt-aoc-unknown-pass-for-points-diane-flick
 - yt-usav-20200526-karch-kiraly-reading-part-1.md — USAVlearn YouTube: Kiraly on reading Part 1 — yt-usav-20200526-karch-kiraly-reading-part-1
+- munciana-2022-camp-drills.md — 2022 Munciana Camp Drills (Mike Lingenfelter, 64-min coach-library video, faster-whisper transcript) — munciana-2022-camp-drills
 
 ## instagram/
 - artofcoachingvb-20260423-profile.md — @artofcoachingvb profile (fetch-blocked, login wall) — ig-artofcoachingvb-20260423
