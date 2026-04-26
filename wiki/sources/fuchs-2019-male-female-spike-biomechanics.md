@@ -8,6 +8,8 @@ citation-key: fuchs-2019-male-female-spike-biomechanics
 raw-file: raw/research/fuchs-2019-male-female-spike-biomechanics.md
 url: https://pubmed.ncbi.nlm.nih.gov/31280702/
 topics: [biomechanics, hitting, spike-jump, sex-differences, approach-mechanics, penultimate-step]
+participants-sex: mixed
+participants-n: 30
 featured-coaches: []
 schools: []
 trust-tier: 1

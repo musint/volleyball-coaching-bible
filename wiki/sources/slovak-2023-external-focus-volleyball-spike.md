@@ -8,6 +8,8 @@ citation-key: slovak-2023-external-focus-volleyball-spike
 raw-file: raw/research/slovak-2023-external-focus-volleyball-spike.md
 url: https://doi.org/10.3389/fpsyg.2022.1041871
 topics: [external-focus, internal-focus, attentional-focus, hitting, spike-velocity, motion-capture, youth-female, coaching-cues]
+participants-sex: female
+participants-n: 12
 featured-coaches: []
 schools: [ecological-dynamics]
 trust-tier: 1

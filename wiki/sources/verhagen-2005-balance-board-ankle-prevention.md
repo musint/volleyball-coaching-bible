@@ -8,6 +8,8 @@ citation-key: verhagen-2005-balance-board-ankle-prevention
 raw-file: raw/research/verhagen-2005-balance-board-ankle-prevention.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1725110/
 topics: [ankle-sprain, injury-prevention, proprioception, balance-training, warm-up, cost-effectiveness, randomized-trial]
+participants-sex: unspecified
+participants-n: 1122
 featured-coaches: []
 schools: []
 trust-tier: 1

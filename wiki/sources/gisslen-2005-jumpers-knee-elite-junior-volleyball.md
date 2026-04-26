@@ -8,6 +8,8 @@ citation-key: gisslen-2005-jumpers-knee-elite-junior-volleyball
 raw-file: raw/research/gisslen-2005-jumpers-knee-elite-junior-volleyball.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1725221/
 topics: [patellar-tendinopathy, jumpers-knee, adolescent-overuse, sonography, neovascularization, junior-elite-volleyball]
+participants-sex: mixed
+participants-n: 57
 featured-coaches: []
 schools: []
 trust-tier: 1

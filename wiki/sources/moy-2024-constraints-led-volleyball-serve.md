@@ -8,6 +8,8 @@ citation-key: moy-2024-constraints-led-volleyball-serve
 raw-file: raw/research/moy-2024-constraints-led-volleyball-serve.md
 url: https://doi.org/10.1080/02640414.2024.2345415
 topics: [constraints-led-approach, ecological-dynamics, serving, jump-topspin-serve, serve-aggression, exploratory-behavior, rule-modification, nonlinear-pedagogy]
+participants-sex: male
+participants-n: 40
 featured-coaches: []
 schools: [ecological-dynamics, constraints-led-approach]
 trust-tier: 1

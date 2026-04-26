@@ -3,6 +3,7 @@ type: practice-plan
 scope: week
 level: hs
 duration-min: 360
+audience: womens-indoor-6s
 focus: composite
 season-phase: postseason
 sessions-per-week: 4

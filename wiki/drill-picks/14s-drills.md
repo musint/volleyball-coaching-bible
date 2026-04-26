@@ -2,6 +2,7 @@
 type: drill-pick-list
 age: 14s
 season-context: composite
+audience: womens-indoor-6s
 drills: [dynamic-warmup-volleyball, jump-warmup, butterfly-passing, two-line-passing, munciana-three-man-tilt, munciana-rush-and-push, target-setting, munciana-five-and-five-setting, approach-and-swing, pass-set-hit, serve-targets, munciana-no-gut-serving, munciana-go-stay, cooperative-25-goal, munciana-mia-drill]
 sources: [munciana-2022-camp-drills, usav-2009-cap-game-like-training, gms-nd-structure-practice, aoc-2021-youth-15-drills]
 ---

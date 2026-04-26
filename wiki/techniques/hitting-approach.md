@@ -33,8 +33,10 @@ the ball. The biomechanical literature confirms this: in 3-D motion-capture
 studies, **approach-phase variables** (horizontal centre-of-mass velocity in
 the approach, knee flexion-extension range at plant) are the strongest
 correlates of spike-jump height, with arm-action contributions secondary
-[wagner-2009-spike-jump-kinematics][oliveira-2020-spike-kinematics-systematic-review].
-Coaching the approach is coaching jump height.
+[wagner-2009-spike-jump-kinematics][oliveira-2020-spike-kinematics-systematic-review]
+(both studies' samples are not sex-disaggregated; the women's-game
+application is anchored by Fuchs-2019's sex-disaggregated comparison
+below). Coaching the approach is coaching jump height.
 
 Modern approach teaching has converged on a **right-left last two steps**
 for right-handed hitters (left-right for left-handers) — the "plant step"

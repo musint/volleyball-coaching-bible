@@ -2,6 +2,7 @@
 type: drill-pick-list
 age: 17s
 season-context: composite
+audience: womens-indoor-6s
 drills:
   - king-of-the-court
   - queen-of-the-court

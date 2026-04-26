@@ -107,6 +107,14 @@ One-line summary per page; see the page itself for detail.
 - [[kim-yeon-koung]] — Korean OH; 2012 London Olympic MVP (first non-medalist OMVP, 207-point Olympic record); 2011-12 first Asian CEV Champions League MVP; long-tenured Korean NT captain through Tokyo 2020
 - [[cesar-hernandez-gonzalez]] — Spanish; Korea women's NT HC 2022-2024 (post-Lavarini); concurrent VakıfBank Istanbul assistant under [[giovanni-guidetti]]
 
+### NCAA D1 women's program builders (Wave 4 — 2026-04-26)
+The five active/recent NCAA D1 women's volleyball head coaches who define the modern collegiate game; foundational for the women's-game pipeline.
+- [[kelly-sheffield]] — Wisconsin Badgers HC since 2013; 2021 NCAA champion; 4 NCAA championship-final appearances; serve-and-pass / back-row-defense identity
+- [[jerritt-elliott]] — Texas Longhorns HC since 2001; 3 NCAA titles (2012, 2022, 2023 back-to-back); 11 Final Fours; pin-hitter recruiting profile; SEC era 2024+
+- [[john-cook]] — Nebraska Cornhuskers HC 2000-2024 (retired); 4 NCAA titles (2000, 2006, 2015, 2017); 92,003 attendance world record at Memorial Stadium 2023; AVCA Hall of Fame 2017
+- [[dan-fisher]] — Pittsburgh Panthers HC since 2013; 5 consecutive NCAA Final Fours; 2024 AVCA Division I National Coach of the Year; program-build-from-nothing model
+- [[erin-virtue]] — USA Women's NT assistant 2017-2024 (Tokyo 2020 gold); Michigan HC since 2023; USAV NTDP Director; setter-development specialist
+
 ## Schools / philosophies
 ### Preferred-school set (W2.4)
 - [[gold-medal-squared]] — US motor-learning methodology house founded by Carl McGown (1985); specificity, random/variable practice, reading-reaction primacy
@@ -136,6 +144,19 @@ One-line summary per page; see the page itself for detail.
 - [[oss-serbia]] — Serbian federation; SuperLiga
 - [[fcv-cuba]] — Cuban federation; current (2025-2028) leadership Osvaldo Idel Martínez president, [[mireya-luis]] vice president
 - [[kva-korea]] — Korea Volleyball Association (national-team / amateur); KOVO operates the V-League
+
+### NCAA D1 women's program traditions (Wave 4 — 2026-04-26)
+Full program-tradition pages for the four NCAA D1 women's programs that define the modern collegiate game. Each ~2000 words, heavy citation; canonical for athlete-pathway and recruiting-fit conversations.
+- [[wisconsin-volleyball]] — Wisconsin Badgers women's volleyball; 2021 NCAA champion under Sheffield; serve-and-pass identity; 17,000-seat UW Field House sellouts
+- [[texas-volleyball]] — Texas Longhorns women's volleyball; 3 NCAA titles under Elliott (2012/2022/2023); back-to-back-titles dynasty; SEC era 2024+
+- [[nebraska-volleyball]] — Nebraska Cornhuskers women's volleyball; 5 NCAA titles (1995/2000/2006/2015/2017); Cook 2000-2024; Volleyball Day in Nebraska 92,003 record; Dani Busboom Kelly successor
+- [[pittsburgh-volleyball]] — Pittsburgh Panthers women's volleyball; rapid ascendance under Fisher 2013-present; 5 consecutive Final Fours 2021-2025; ACC dynasty
+
+### Modern women's professional leagues (Wave 4 — 2026-04-26)
+The post-college women's-volleyball pathway. Three competing US-based pro leagues launched 2021-2025; the post-NCAA exit point your athletes will navigate alongside European pro contracts.
+- [[lovb]] — League One Volleyball; six teams (Atlanta/Austin/Houston/Madison/Omaha/Salt Lake); youth-club + pro hybrid; tour-and-residency format; 2025 inaugural season
+- [[pvf]] — Pro Volleyball Federation; seven teams (Atlanta/Columbus/Grand Rapids/Omaha/Orlando/San Diego/Vegas); season-table format; 6-of-7 inaugural HCs are women
+- [[athletes-unlimited-volleyball]] — Athletes Unlimited Pro Volleyball; player-led weekly-draft format with individual scoring; launched 2021; rebranded to Championship 2025
 
 ### Institutional-tradition stubs (W2.6 reconciliation — to flesh out in later waves)
 - [[penn-state]] — Penn State women's program under Russ Rose (1979-2021), 7 NCAA championships; stub for bidirectional-link compliance

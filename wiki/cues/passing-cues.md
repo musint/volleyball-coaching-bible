@@ -2,6 +2,7 @@
 type: cue-dictionary
 skill: passing
 age-bands: [10s, 11s, 12s, 13s, 14s, 15s, 16s, 17s, 18s]
+audience: womens-indoor-6s
 sources: [aoc-2013-kiraly-4-keys-forearm-pass, aoc-2025-passing-posture-pursuit-platform, aoc-2024-kids-passing-fundamentals, aoc-2017-liskevych-asics-passing, aoc-2024-kiraly-reads-every-skill, aoc-2022-emergency-moves-passing-defense, munciana-2022-camp-drills, kiraly-1997-championship-volleyball]
 ---
 

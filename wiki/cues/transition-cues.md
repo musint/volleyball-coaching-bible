@@ -2,6 +2,7 @@
 type: cue-dictionary
 skill: transition
 age-bands: [10s, 11s, 12s, 13s, 14s, 15s, 16s, 17s, 18s]
+audience: womens-indoor-6s
 sources: [aoc-2016-rosen-training-transition-in-out-system, aoc-2015-shymansky-oh-transition-footwork, aoc-2014-dunning-hitter-setter-connection, aoc-2022-brown-libero-second-ball-setting, aoc-2024-blocking-fundamentals, aoc-2025-controlling-the-dig, munciana-2022-camp-drills, kiraly-1997-championship-volleyball]
 ---
 

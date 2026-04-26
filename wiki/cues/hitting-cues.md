@@ -2,6 +2,7 @@
 type: cue-dictionary
 skill: hitting
 age-bands: [10s, 11s, 12s, 13s, 14s, 15s, 16s, 17s, 18s]
+audience: womens-indoor-6s
 sources: [aoc-2024-attack-approach, aoc-2024-attack-arm-mechanics, aoc-2018-dunning-hitter-types, aoc-2014-dunning-hitter-setter-connection, aoc-2017-liskevych-asics-hitting, aoc-2024-kids-attacking-fundamentals, munciana-2022-camp-drills, kiraly-1997-championship-volleyball]
 ---
 

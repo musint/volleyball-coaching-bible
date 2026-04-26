@@ -3,6 +3,7 @@ type: practice-plan
 level: 14u
 duration-min: 90
 focus: transition
+audience: womens-indoor-6s
 season-phase: mid-season
 drills: [dynamic-warmup-volleyball, pepper, pass-set-hit, transition-rally, free-ball-to-offense, queen-of-the-court]
 sources: [aoc-2013-hoag-transition-drills, aoc-2014-johnson-lynch-passing-setting-transition, aoc-2024-kiraly-validation-6v6, kiraly-2024-volleyballworld-mens-transition]

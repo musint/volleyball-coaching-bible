@@ -8,6 +8,7 @@ citation-key: chandran-2022-ncaa-concussion-epidemiology
 raw-file: raw/research/chandran-2022-ncaa-concussion-epidemiology.md
 url: https://pubmed.ncbi.nlm.nih.gov/34898299/
 topics: [concussion, head-injury, ncaa-injury-surveillance, womens-volleyball, sex-differences, injury-mechanism]
+participants-sex: mixed
 featured-coaches: []
 schools: []
 trust-tier: 1

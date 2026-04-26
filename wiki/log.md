@@ -1372,3 +1372,24 @@ Per plan `docs/superpowers/plans/2026-04-25-tracks-a-b-c.md` Task B.6. SCHEMA §
 **Track B research clusters now complete:** B.2 (biomechanics) ✓, B.3 (injury) ✓, B.4 (conditioning) ✓, B.5 (psychology) ✓, B.6 (motor-learning beyond CI) ✓ — 50 peer-reviewed papers across 5 clusters.
 
 Next on Track B: book-ingest clusters (B.8–B.12), then citation-spread polish (B.13) and B-track lint (B.14).
+
+## [2026-04-26] wave-4-womens-game-pivot | Manual + bible re-centered on women's indoor 6s
+Steering call: bible/manual must center the women's indoor 6s game (Song's club is a girls club; 14U immediate context, mastery scales to HS varsity + college). Three-wave pivot dispatched in parallel via 6 background agents.
+
+**Wave A — Roster fill (12 new entities, ~14,500 words new content):**
+- 5 NCAA D1 women's program HCs: kelly-sheffield, jerritt-elliott, john-cook, dan-fisher, erin-virtue (8 source pages: 5 Wikipedia bios + 3 AOC ingests; 8 raw snapshots; 16 unsourced-queue entries)
+- 4 NCAA D1 women's program traditions: wisconsin-volleyball, texas-volleyball, nebraska-volleyball, pittsburgh-volleyball (4 Wikipedia source pages; 4 raw snapshots; 21 unsourced-queue entries; ~8000 words)
+- 3 women's pro leagues: lovb, pvf, athletes-unlimited-volleyball (6 source pages: 3 Wikipedia + 3 supplemental Volleyball Mag/AU news; 6 raw snapshots; 5 unsourced-queue entries; ~5800 words)
+
+**Wave B — Re-lensing (existing pages reweighted toward women's-game emphasis):**
+- McCutcheon page: reframed Overview to lead with 14 of 17 head-coaching years in women's volleyball; expanded USA Women section (Grand Prix 2010/11/12, world #1, Kiraly handoff narrative); expanded Minnesota section (3 F4s, 2 Big Ten titles, AVCA NCOY 2015, 6 BTPOY, 26 All-Americans); added Contributions callouts on Minnesota sustained-excellence template + USA Women coaching-staff continuity arc; tags reordered to lead women's-program credentials.
+- Federation school pages audit (10 pages): italian-school + polish-school + japanese-training + russian-school + chinese-volleyball-tradition got new women's program coverage / dedicated `## Women's program` sections; brazilian-school + cuban-school + serbian-school + korean-school confirmed already balanced; french-school got a women's-program-gap critique callout. Forward references added for marco-bonitta, massimo-barbolini, yuan-weimin, chen-zhonghe.
+- Manual-layer audience field: 54 pages (9 age-guides, 9 drill-picks, 7 cues, 10 tryout-rubrics, 19 club-flavored practice-plans) tagged `audience: womens-indoor-6s` (or list form `[coach, womens-indoor-6s]` for tryout-rubric ops-doc collision); SCHEMA §3.10/§3.11/§3.12/§3.13/§3.14/§4 updated.
+
+**Wave C — Source caveats:**
+- 45 research source pages tagged `participants-sex` (15 female, 7 male, 6 mixed, 17 unspecified). SCHEMA §3.8 + §4 extended.
+- 5 women's-game caveats added across 3 technique pages (hitting-approach, hitting-arm-swing, serving-topspin) where male-only or unspecified-sex biomech was being applied without a female-cohort backstop.
+
+**Net deliverable:** 12 new wiki pages, 18 new source pages, 18 raw snapshots, 1 substantial existing-page rewrite (McCutcheon), 6 federation pages augmented with women's-program coverage, 54 manual-layer pages frontmatter-tagged, 45 research sources sex-tagged, 3 technique pages with applicability caveats. SCHEMA extended in 6 sections. ~42 unsourced-queue entries flagged for future backfill.
+
+**New memory:** [Women's-game focus](feedback_womens_game_focus.md) saved as project-wide steering rule — manual/bible centers women's indoor 6s; prefer women's-program sources, female-participant biomech, women's-team coach voices.

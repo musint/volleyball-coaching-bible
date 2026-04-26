@@ -2,6 +2,7 @@
 type: drill-pick-list
 age: 15s
 season-context: composite
+audience: womens-indoor-6s
 drills: [dynamic-warmup-volleyball, jump-warmup, butterfly-passing, serve-receive-3v3, target-setting, jump-setting-progression, three-setter-rotation, transition-hitting, pressure-serving, six-player-defense, munciana-figure-eight-defense, wash-drill, queen-of-the-court, reactive-jumping]
 sources: [munciana-2022-camp-drills, usav-2026-coach-academy, aoc-2021-teach-spiking, aoc-2024-setting-fundamentals, aoc-2017-liskevych-asics-hitting, aoc-2015-liskevych-mccutcheon-defense-blocking]
 ---

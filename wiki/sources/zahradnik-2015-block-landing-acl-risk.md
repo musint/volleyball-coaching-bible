@@ -8,6 +8,8 @@ citation-key: zahradnik-2015-block-landing-acl-risk
 raw-file: raw/research/zahradnik-2015-block-landing-acl-risk.md
 url: https://pubmed.ncbi.nlm.nih.gov/24993160/
 topics: [biomechanics, blocking, landing-mechanics, acl-injury, injury-prevention]
+participants-sex: male
+participants-n: 14
 featured-coaches: []
 schools: []
 trust-tier: 1

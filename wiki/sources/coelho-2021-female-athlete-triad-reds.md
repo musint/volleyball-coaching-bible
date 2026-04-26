@@ -8,6 +8,7 @@ citation-key: coelho-2021-female-athlete-triad-reds
 raw-file: raw/research/coelho-2021-female-athlete-triad-reds.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10304901/
 topics: [female-athlete-triad, red-s, low-energy-availability, menstrual-function, bone-health, screening-tools, athlete-nutrition]
+participants-sex: female
 featured-coaches: []
 schools: []
 trust-tier: 1

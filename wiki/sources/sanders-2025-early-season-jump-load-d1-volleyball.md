@@ -8,6 +8,8 @@ citation-key: sanders-2025-early-season-jump-load
 raw-file: raw/research/sanders-2025-early-season-jump-load-d1-volleyball.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11991867/
 topics: [jump-count, jump-intensity, neuromuscular-fatigue, countermovement-jump, force-velocity-power, imu, vert, hawkin-dynamics, early-season, shock-phase, in-season-volume-management]
+participants-sex: female
+participants-n: 9
 featured-coaches: []
 schools: []
 trust-tier: 1

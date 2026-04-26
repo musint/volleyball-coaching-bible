@@ -8,6 +8,8 @@ citation-key: akarcesme-2022-heart-rate-lactate-volleyball-match
 raw-file: raw/research/akarcesme-2022-heart-rate-lactate-volleyball-match.md
 url: https://www.nature.com/articles/s41598-022-19687-3
 topics: [energy-systems, heart-rate, blood-lactate, position-specific-physiology, match-intensity, conditioning-prescription, libero, setter, middle-blocker, spiker]
+participants-sex: female
+participants-n: 24
 featured-coaches: []
 schools: []
 trust-tier: 1

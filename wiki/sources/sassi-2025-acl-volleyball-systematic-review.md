@@ -8,6 +8,7 @@ citation-key: sassi-2025-acl-volleyball-systematic-review
 raw-file: raw/research/sassi-2025-acl-volleyball-systematic-review.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12719452/
 topics: [acl-injury, injury-prevention, spike-landing, neuromuscular-training, female-athletes, outside-hitter-load, adolescent-volleyball]
+participants-sex: mixed
 featured-coaches: []
 schools: []
 trust-tier: 1

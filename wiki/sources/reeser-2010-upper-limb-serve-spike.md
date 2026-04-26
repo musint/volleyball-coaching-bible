@@ -8,6 +8,8 @@ citation-key: reeser-2010-upper-limb-serve-spike
 raw-file: raw/research/reeser-2010-upper-limb-serve-spike.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3445065/
 topics: [biomechanics, hitting, serving, shoulder-kinetics, injury-prevention]
+participants-sex: female
+participants-n: 14
 featured-coaches: []
 schools: []
 trust-tier: 1

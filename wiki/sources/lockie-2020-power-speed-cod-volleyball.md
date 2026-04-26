@@ -8,6 +8,8 @@ citation-key: lockie-2020-power-speed-cod-volleyball
 raw-file: raw/research/lockie-2020-power-speed-cod-volleyball.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7725048/
 topics: [lower-body-power, vertical-jump, broad-jump, linear-speed, change-of-direction, agility, pro-agility-shuttle, ncaa-d1-women-volleyball]
+participants-sex: female
+participants-n: 15
 featured-coaches: []
 schools: []
 trust-tier: 1

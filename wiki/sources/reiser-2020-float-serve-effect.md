@@ -8,6 +8,8 @@ citation-key: reiser-2020-float-serve-effect
 raw-file: raw/research/reiser-2020-float-serve-effect.md
 url: https://www.frontiersin.org/articles/10.3389/fspor.2020.559277/full
 topics: [biomechanics, serving, float-serve, ball-trajectory, aerodynamics]
+participants-sex: unspecified
+participants-n: 12
 featured-coaches: []
 schools: []
 trust-tier: 1

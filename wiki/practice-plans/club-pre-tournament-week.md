@@ -3,6 +3,7 @@ type: practice-plan
 scope: week
 level: 14u
 duration-min: 390
+audience: womens-indoor-6s
 focus: composite
 season-phase: pre-tournament
 sessions-per-week: 4

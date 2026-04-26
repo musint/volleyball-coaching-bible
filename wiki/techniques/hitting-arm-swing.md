@@ -33,10 +33,13 @@ speed (the most-distal segment in a proximal-to-distal sequencing of
 shoulder → elbow → wrist), with **trunk rotation** as the second-largest
 contributor; "hit harder" cues that target the shoulder alone work against
 the kinetic chain
-[oliveira-2020-spike-kinematics-systematic-review][reeser-2010-upper-limb-serve-spike].
-Cross-court spikes specifically demand greater trunk rotation than line
-spikes, so coaching different attack directions means coaching different
-biomechanical patterns
+[oliveira-2020-spike-kinematics-systematic-review][reeser-2010-upper-limb-serve-spike]
+(Reeser's cohort is 14 female collegiate athletes — the kinetic-chain
+finding is female-anchored; Oliveira's review is not sex-disaggregated,
+but the proximal-to-distal sequencing finding is consistent across both
+sexes in the underlying primary studies). Cross-court spikes specifically
+demand greater trunk rotation than line spikes, so coaching different
+attack directions means coaching different biomechanical patterns
 [oliveira-2020-spike-kinematics-systematic-review].
 
 A modern full swing is a two-arm action, not a one-arm action. Both arms
@@ -131,7 +134,11 @@ Covered on [[hitting-shot-selection]].
   symptomatic attackers than in matched-asymptomatic peers, supporting
   posterior-shoulder mobility and rotator-cuff strengthening as
   prevention targets in warm-up and prehab
-  [kugler-1996-shoulder-pain-volleyball-attackers].
+  [kugler-1996-shoulder-pain-volleyball-attackers] (Kugler's 30-attacker
+  cohort is not sex-disaggregated in the source; the imbalance pattern is
+  the consensus overhead-athlete finding across men's and women's-game
+  shoulder literature, but a women's-specific replication of the same
+  scale has not yet been ingested here).
 
 - **Open hand vs. full-fist-then-snap.** Young hitters often contact
   with a flat, fingers-only slap. A crisp swing contacts with the whole

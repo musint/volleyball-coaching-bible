@@ -3,6 +3,7 @@ type: practice-plan
 scope: week
 level: 14u
 duration-min: 180
+audience: womens-indoor-6s
 focus: composite
 season-phase: postseason
 drills: [cool-down-mobility, partner-pepper-warmup, ball-control-warmup, target-setting, arm-care-routine]

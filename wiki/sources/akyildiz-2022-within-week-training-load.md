@@ -8,6 +8,8 @@ citation-key: akyildiz-2022-within-week-training-load
 raw-file: raw/research/akyildiz-2022-within-week-training-load-volleyball.md
 url: https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-022-00568-1
 topics: [sports-science, training-load, periodization, jump-count, microcycle-design, positional-load, lps-tracking, vakifbank]
+participants-sex: female
+participants-n: 14
 featured-coaches: [giovanni-guidetti]
 schools: [modern-european-club-volleyball]
 trust-tier: 1

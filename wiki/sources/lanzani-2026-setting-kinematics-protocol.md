@@ -8,6 +8,8 @@ citation-key: lanzani-2026-setting-kinematics-protocol
 raw-file: raw/research/lanzani-2026-setting-kinematics-protocol.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12821510/
 topics: [biomechanics, setting, hand-mechanics, muscle-synergies, motion-analysis]
+participants-sex: unspecified
+participants-n: 1
 featured-coaches: []
 schools: []
 trust-tier: 1

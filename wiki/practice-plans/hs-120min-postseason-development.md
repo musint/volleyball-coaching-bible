@@ -4,6 +4,7 @@ level: hs
 duration-min: 120
 focus: player-development
 season-phase: postseason
+audience: womens-indoor-6s
 drills: [dynamic-warmup-volleyball, jump-warmup, weave-passing, jump-setting-progression, line-vs-angle-shot, swing-block-shuffle, jump-serve-progression, king-of-the-court, arm-care-routine]
 sources: [usav-2026-coach-academy, aoc-2021-teach-spiking, aoc-2024-kiraly-reads-every-skill, aoc-2023-rose-club-rules]
 ---

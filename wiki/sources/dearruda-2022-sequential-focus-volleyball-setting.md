@@ -8,6 +8,8 @@ citation-key: dearruda-2022-sequential-focus-volleyball-setting
 raw-file: raw/research/dearruda-2022-sequential-focus-volleyball-setting.md
 url: https://doi.org/10.1080/1612197X.2022.2138495
 topics: [sequential-focus-attention, internal-focus, external-focus, setting, inter-joint-coordination, expertise-effect, constrained-action-hypothesis, coaching-cues]
+participants-sex: female
+participants-n: 32
 featured-coaches: []
 schools: []
 trust-tier: 1

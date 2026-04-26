@@ -3,6 +3,7 @@ type: practice-plan
 scope: macrocycle
 level: 14u
 duration-min: 1680
+audience: womens-indoor-6s
 focus: composite
 season-phase: pre-tournament
 drills: [pressure-serving, wash-drill, gold-medal-scrimmage, six-player-defense, serve-targets, transition-rally, queen-of-the-court]

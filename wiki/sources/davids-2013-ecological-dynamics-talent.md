@@ -8,6 +8,7 @@ citation-key: davids-2013-ecological-dynamics-talent
 raw-file: raw/research/davids-2013-ecological-dynamics-talent.md
 url: https://eprints.qut.edu.au/219712/
 topics: [ecological-dynamics, skill-acquisition, constraints-led-approach, talent-development, self-organization, movement-variability, perception-action-coupling]
+participants-sex: unspecified
 featured-coaches: []
 schools: [ecological-dynamics, constraints-led-approach]
 trust-tier: 1

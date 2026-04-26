@@ -2,6 +2,7 @@
 type: drill-pick-list
 age: 16s
 season-context: composite
+audience: womens-indoor-6s
 drills: [pressure-serving, jump-serve-progression, line-vs-angle-shot, gold-medal-scrimmage, munciana-biggie-smalls, munciana-prove-it, munciana-momentum, munciana-finish-strong, wash-drill, king-of-the-court, queen-of-the-court, cooperative-25-goal, serve-receive-competition, transition-rally, hitting-vs-block]
 sources: [aoc-2024-kiraly-serving-pressure, aoc-2024-kiraly-validation-6v6, aoc-2023-kiraly-competing-in-practice, aoc-2022-rose-coach-for-life, munciana-2022-camp-drills, aoc-2018-dunning-hitter-types]
 ---

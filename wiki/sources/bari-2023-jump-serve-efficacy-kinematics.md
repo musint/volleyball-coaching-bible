@@ -8,6 +8,8 @@ citation-key: bari-2023-jump-serve-efficacy-kinematics
 raw-file: raw/research/bari-2023-jump-serve-efficacy-kinematics.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10402994/
 topics: [biomechanics, serving, jump-topspin-serve, age-development, approach-mechanics]
+participants-sex: male
+participants-n: 30
 featured-coaches: []
 schools: []
 trust-tier: 1

@@ -4,7 +4,7 @@ name: Italian Volleyball Tradition
 origin: Italy
 founders: [julio-velasco]
 core-principles: [psychological-leadership, meticulous-match-preparation, tempo-offense, team-brotherhood-culture, pro-league-driven-development, women-club-hegemony]
-associated-coaches: [julio-velasco, giovanni-guidetti, andrea-anastasi, ferdinando-de-giorgi, lorenzo-bernardi-as-coach, davide-mazzanti, daniele-santarelli]
+associated-coaches: [julio-velasco, giovanni-guidetti, andrea-anastasi, ferdinando-de-giorgi, lorenzo-bernardi-as-coach, davide-mazzanti, daniele-santarelli, marco-bonitta, massimo-barbolini]
 related-schools: [brazilian-school, russian-school]
 sources:
   - velasco-2026-wikipedia-bio
@@ -62,6 +62,10 @@ The commitments translate into a recognizable practice and competition profile.
 - ****Ferdinando De Giorgi**** — former Generazione di Fenomeni setter (on the 1998 Worlds-winning roster), head coach of Italy men since 2021; delivered back-to-back FIVB World Championship gold in 2022 (7-0 in Poland/Slovenia) and 2025 (6-1 in the Philippines) [italy-men-nt-2026-wikipedia]. Forward-referenced.
 
 - ****Davide Mazzanti**** — Italy women's head coach 2017-2023; 2018 Worlds silver (11-2), 2021 European gold (9-0, 27-4 sets), 2022 Worlds bronze [italy-women-nt-2026-wikipedia]. Architect of the Egonu-Sylla-Danesi-De Gennaro core Velasco inherited for 2024 Olympic gold [italy-women-nt-2026-wikipedia]. Forward-referenced.
+
+- ****Marco Bonitta**** — coach of Italy's first major global senior title, the **2002 FIVB World Championship gold** in Germany (9-2, 30-9 sets) [italy-women-nt-2026-wikipedia]. The 2002 Worlds breakthrough is the founding result of the modern Italian women's program; Bonitta's tenure preceded the Barbolini and Mazzanti runs that built toward Velasco's 2024 Olympic gold [italy-women-nt-2026-wikipedia]. Forward-referenced.
+
+- ****Massimo Barbolini**** — Italy women's head coach 2007-2011; back-to-back European Championship golds (2007, 2009), back-to-back FIVB World Cup golds (2007, 2011), and the 2009 World Grand Champions Cup [italy-women-nt-2026-wikipedia]. Bridge figure between the 2002 Bonitta-era breakthrough and the Mazzanti / Velasco modern era [italy-women-nt-2026-wikipedia]. Forward-referenced.
 
 - ****Daniele Santarelli**** — Italian coach associated with Imoco Conegliano and women's federation postings; part of the cohort exporting Italian-school methodology [unsourced]. Forward-referenced.
 

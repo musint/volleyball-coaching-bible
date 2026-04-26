@@ -8,6 +8,8 @@ citation-key: wagner-2009-spike-jump-kinematics
 raw-file: raw/research/wagner-2009-spike-jump-kinematics.md
 url: https://pubmed.ncbi.nlm.nih.gov/19585402/
 topics: [biomechanics, hitting, spike-jump, approach-mechanics, vertical-jump]
+participants-sex: unspecified
+participants-n: 16
 featured-coaches: []
 schools: []
 trust-tier: 1

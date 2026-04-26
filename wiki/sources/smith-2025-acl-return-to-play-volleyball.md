@@ -8,6 +8,8 @@ citation-key: smith-2025-acl-return-to-play-volleyball
 raw-file: raw/research/smith-2025-acl-return-to-play-volleyball.md
 url: https://pubmed.ncbi.nlm.nih.gov/38709544/
 topics: [acl-injury, return-to-play, division-i-volleyball, female-athletes, attacker-position, post-rehab-performance]
+participants-sex: female
+participants-n: 99
 featured-coaches: []
 schools: []
 trust-tier: 1

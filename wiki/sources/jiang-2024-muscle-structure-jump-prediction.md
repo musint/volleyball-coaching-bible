@@ -8,6 +8,8 @@ citation-key: jiang-2024-muscle-structure-jump-prediction
 raw-file: raw/research/jiang-2024-muscle-structure-jump-prediction-volleyball.md
 url: https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1427748/full
 topics: [muscle-architecture, ultrasonography, vertical-jump, attack-jump, vastus-lateralis, gastrocnemius, strength-training-transfer, elite-male-volleyball]
+participants-sex: male
+participants-n: 15
 featured-coaches: []
 schools: []
 trust-tier: 1

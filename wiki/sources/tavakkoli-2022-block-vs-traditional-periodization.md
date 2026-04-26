@@ -8,6 +8,8 @@ citation-key: tavakkoli-2022-block-vs-traditional-periodization
 raw-file: raw/research/tavakkoli-2022-block-vs-traditional-periodization-volleyball.md
 url: https://sjsp.aearedo.es/index.php/sjsp/article/view/traditional-periodization-training-factors-volleyball-players
 topics: [periodization, block-periodization, traditional-periodization, vertical-jump, agility, strength, junior-male-volleyball]
+participants-sex: male
+participants-n: 13
 featured-coaches: []
 schools: []
 trust-tier: 1

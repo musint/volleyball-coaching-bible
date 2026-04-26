@@ -8,6 +8,7 @@ citation-key: rebelo-2024-training-stress-fatigue-wellbeing
 raw-file: raw/research/rebelo-2024-training-stress-fatigue-wellbeing-volleyball.md
 url: https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-024-00807-7
 topics: [training-load, monitoring, neuromuscular-fatigue, well-being, srpe, cmj, hooper-index, volleyball-sports-science, position-specific-load]
+participants-sex: unspecified
 featured-coaches: []
 schools: []
 trust-tier: 1

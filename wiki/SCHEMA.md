@@ -150,7 +150,7 @@ Ten page types. Basenames are globally unique, so Obsidian `\[\[wikilinks\]\]` r
   - Organizational: `<org>-<year>-<slug>` (e.g., `usav-2024-coaching-education`)
   - Social posts: `<platform>-<handle>-<YYYYMMDD>` (e.g., `ig-usavolleyball-20260315`)
   - YouTube (non-coach-authored): `yt-<channel-slug>-<YYYYMMDD>-<slug>`
-- **Required frontmatter:** `type: source`, `source-type` (enum), `title`, `author`, `year`, `citation-key` (must match filename), `raw-file` (path under `raw/`), `topics`, `featured-coaches`, `schools`, `trust-tier` (enum 1/2/3). Optional: `url`.
+- **Required frontmatter:** `type: source`, `source-type` (enum), `title`, `author`, `year`, `citation-key` (must match filename), `raw-file` (path under `raw/`), `topics`, `featured-coaches`, `schools`, `trust-tier` (enum 1/2/3). Optional: `url`. **For research / biomechanics / sports-medicine sources, also include `participants-sex` (enum: `female | male | mixed | unspecified`) and optionally `participants-n` (integer).** This lets coaches reading "spike biomechanics show X" know whether X was measured on women, men, or a mix.
 - **Required body sections:** `## Summary`, `## Key claims / ideas`, `## Topics covered`, `## Where it's cited`, `## Access`
 - **Target length:** 400–800 words.
 - **Citation weight:** N/A (sources are the targets of citations, not citers).
@@ -167,7 +167,7 @@ Ten page types. Basenames are globally unique, so Obsidian `\[\[wikilinks\]\]` r
 ### 3.10 Practice-plan pages
 
 - **Folder / filename:** `wiki/practice-plans/<level>-<duration>-<label>.md`. Label is a descriptive kebab-case slug — typically the focus, or the season context when more identifying than the focus. Frontmatter carries the structured enums.
-- **Required frontmatter:** `type: practice-plan`, `level`, `duration-min`, `focus`, `season-phase`, `drills` (≥3 required — each must resolve to a drill page), `sources` (≥1 required).
+- **Required frontmatter:** `type: practice-plan`, `level`, `duration-min`, `focus`, `season-phase`, `drills` (≥3 required — each must resolve to a drill page), `sources` (≥1 required). Optional: `audience` (manual-layer enum, see §4) — present on club-flavored plans (`level: 14u`, `level: hs`); college plans default to NCAA-women context and may omit.
 - **Required body sections:** `## Context`, `## Learning objectives`, `## Time blocks` (with sub-sections per phase, each naming drills as wikilinks with time allocations), `## Coaching cues`, `## Variations`, `## Adaptations by level`, `## Sources`.
 - **Target length:** 500–800 words.
 - **Citation weight:** Light. No inline citations; `## Sources` at bottom.
@@ -186,7 +186,7 @@ Required body sections vary by scope:
 ### 3.11 Ops-doc pages
 
 - **Folder / filename:** `wiki/ops/<kind>-<slug>.md` (e.g., `wiki/ops/match-prep-scouting-form.md`).
-- **Required frontmatter:** `type: ops-doc`, `kind` (enum: `match-prep | tryout-rubric | club-ops`), `sources` (≥1). Optional: `audience` (enum: `coach | parent | club-director | front-office`), `level`.
+- **Required frontmatter:** `type: ops-doc`, `kind` (enum: `match-prep | tryout-rubric | club-ops`), `sources` (≥1). Optional: `audience` (enum: `coach | parent | club-director | front-office`), `level`. **For `kind: tryout-rubric`, `audience` is required and uses the manual-layer enum (`womens-indoor-6s | mens-indoor-6s | mixed-indoor-6s | womens-beach | mens-beach | mixed`); the reader-role audience may also be present (use list form).**
 - **Required body sections (vary by `kind`):**
   - `match-prep`: Purpose / Inputs / Form / Workflow / Sources
   - `tryout-rubric`: Purpose / Evaluation criteria / Scoring / Calibration notes / Sources
@@ -198,7 +198,7 @@ Required body sections vary by scope:
 ### 3.12 Age-guide pages
 
 - **Folder / filename:** `wiki/age-guides/<age>.md` (e.g., `12s.md`).
-- **Required frontmatter:** `type: age-guide`, `age` (enum: 10s | 11s | 12s | 13s | 14s | 15s | 16s | 17s | 18s), `phase` (enum: introduction | fundamentals | late-fundamentals | specialization | advanced | college-bridge), `sources` (≥3).
+- **Required frontmatter:** `type: age-guide`, `age` (enum: 10s | 11s | 12s | 13s | 14s | 15s | 16s | 17s | 18s), `phase` (enum: introduction | fundamentals | late-fundamentals | specialization | advanced | college-bridge), `audience` (manual-layer enum, see §4), `sources` (≥3).
 - **Required body sections:** `## Overview & development phase`, `## Skill milestones` (with subsections per skill), `## Systems repertoire`, `## Athletic profile`, `## Mental & coachability markers`, `## Promotion criteria`, `## Common coaching corrections`, `## Recommended drills`, `## Recommended cues`, `## Sources`.
 - **Target length:** 2500–3000 words.
 - **Citation weight:** Heavy.
@@ -207,7 +207,7 @@ Required body sections vary by scope:
 ### 3.13 Cue-dictionary pages
 
 - **Folder / filename:** `wiki/cues/<skill>-cues.md` (e.g., `passing-cues.md`).
-- **Required frontmatter:** `type: cue-dictionary`, `skill` (enum from existing skill set), `age-bands` (list of age enum values), `sources` (≥3).
+- **Required frontmatter:** `type: cue-dictionary`, `skill` (enum from existing skill set), `age-bands` (list of age enum values), `audience` (manual-layer enum, see §4), `sources` (≥3).
 - **Required body sections:** `## Overview`, `## Per-subskill canonical cues`, `## Anti-cues`, `## Voice consistency notes`, `## Sources`.
 - **Target length:** 1200–1800 words.
 - **Citation weight:** Heavy.
@@ -216,7 +216,7 @@ Required body sections vary by scope:
 ### 3.14 Drill-pick-list pages
 
 - **Folder / filename:** `wiki/drill-picks/<age>-drills.md` (e.g., `12s-drills.md`).
-- **Required frontmatter:** `type: drill-pick-list`, `age` (enum), `season-context` (enum: composite | preseason | mid-season | pre-tournament | taper | tryout | postseason | match-day), `drills` (list, ≥10 real drill slugs from `wiki/drills/`), `sources` (≥1).
+- **Required frontmatter:** `type: drill-pick-list`, `age` (enum), `season-context` (enum: composite | preseason | mid-season | pre-tournament | taper | tryout | postseason | match-day), `drills` (list, ≥10 real drill slugs from `wiki/drills/`), `audience` (manual-layer enum, see §4), `sources` (≥1).
 - **Required body sections:** `## Purpose`, `## Must-do drill list`, `## When-in-season-to-use mapping`, `## Adaptations`, `## Sources`.
 - **Target length:** 600–900 words.
 - **Citation weight:** Light.
@@ -387,10 +387,12 @@ sources: [...]                      # ≥1 required
 - `level ∈ {14u, hs, college}` (same as `levels` array-valued counterpart on drill pages)
 - `scope ∈ {single-session, week, macrocycle}` (practice-plan)
 - `kind ∈ {match-prep, tryout-rubric, club-ops}` (ops-doc)
-- `audience ∈ {coach, parent, club-director, front-office}` (ops-doc, optional)
+- `audience ∈ {coach, parent, club-director, front-office}` (ops-doc reader-role, optional)
+- `audience ∈ {womens-indoor-6s, mens-indoor-6s, mixed-indoor-6s, womens-beach, mens-beach, mixed}` (manual-layer pages — required on age-guide / drill-pick-list / cue-dictionary / ops-doc tryout-rubric / club practice-plans)
 - `age ∈ {10s, 11s, 12s, 13s, 14s, 15s, 16s, 17s, 18s}` (age-guide / drill-pick-list / tryout-rubric)
 - `phase ∈ {introduction, fundamentals, late-fundamentals, specialization, advanced, college-bridge}` (age-guide)
 - `season-context ∈ {composite, preseason, mid-season, pre-tournament, taper, tryout, postseason, match-day}` (drill-pick-list)
+- `participants-sex ∈ {female, male, mixed, unspecified}` (research source pages only — required when `source-type: research` and topics include biomechanics / motor-learning / sports-medicine / training-load / injury-prevention; optional companion field `participants-n` is the integer cohort size)
 
 ---
 

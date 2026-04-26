@@ -4,6 +4,7 @@ level: 14u
 duration-min: 90
 focus: composite
 season-phase: preseason
+audience: womens-indoor-6s
 drills: [dynamic-warmup-volleyball, ball-control-warmup, butterfly-passing, target-setting, serve-targets, cooperative-25-goal]
 sources: [usav-2026-simplified-youth-rules, usav-2009-cap-game-like-training, aoc-2023-rose-club-rules, aoc-2021-teach-rotations-beginners, gms-nd-structure-practice]
 ---

@@ -1,7 +1,7 @@
 ---
 type: ops-doc
 kind: tryout-rubric
-audience: coach
+audience: [coach, womens-indoor-6s]
 level: college
 sources: [age-lens-college, recruiting, mccutcheon-2022-championship-behaviors, smith-2025-acl-return-to-play-volleyball, sassi-2025-acl-volleyball-systematic-review, lockie-2020-power-speed-cod-volleyball, bari-2023-jump-serve-efficacy-kinematics, mesagno-2017-choking-models-interventions, usav-nd-college-recruitment-timeline, aoc-2026-bunch-read-blocking]
 ---

@@ -3,6 +3,7 @@ type: practice-plan
 level: 14u
 duration-min: 90
 focus: serve-receive
+audience: womens-indoor-6s
 season-phase: mid-season
 drills: [butterfly-passing, serve-receive-3v3, two-line-passing, serve-receive-competition, cooperative-25-goal, dynamic-warmup-volleyball]
 sources: [aoc-2013-kiraly-4-keys-forearm-pass, aoc-2024-kiraly-serve-receive-unit, aoc-2020-stone-organizing-serve-receive, aoc-2024-kids-passing-fundamentals]

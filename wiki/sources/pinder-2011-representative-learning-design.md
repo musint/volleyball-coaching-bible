@@ -8,6 +8,7 @@ citation-key: pinder-2011-representative-learning-design
 raw-file: raw/research/pinder-2011-representative-learning-design.md
 url: https://doi.org/10.1123/jsep.33.1.146
 topics: [representative-learning-design, ecological-dynamics, perception-action-coupling, practice-design, action-fidelity, brunswik]
+participants-sex: unspecified
 featured-coaches: []
 schools: [ecological-dynamics, constraints-led-approach]
 trust-tier: 1

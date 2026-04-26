@@ -3,6 +3,7 @@ type: practice-plan
 scope: week
 level: 14u
 duration-min: 240
+audience: womens-indoor-6s
 focus: composite
 season-phase: mid-season
 sessions-per-week: 2-3

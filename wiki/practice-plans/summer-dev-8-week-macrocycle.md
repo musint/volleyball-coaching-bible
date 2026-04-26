@@ -3,6 +3,7 @@ type: practice-plan
 scope: macrocycle
 level: 14u
 duration-min: 90
+audience: womens-indoor-6s
 focus: composite
 season-phase: postseason
 drills: [jump-warmup, jump-setting-progression, jump-serve-progression, line-vs-angle-shot, reactive-jumping, arm-care-routine, dynamic-warmup-volleyball]

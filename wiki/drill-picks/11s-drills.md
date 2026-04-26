@@ -2,6 +2,7 @@
 type: drill-pick-list
 age: 11s
 season-context: composite
+audience: womens-indoor-6s
 drills:
   - dynamic-warmup-volleyball
   - ball-control-warmup

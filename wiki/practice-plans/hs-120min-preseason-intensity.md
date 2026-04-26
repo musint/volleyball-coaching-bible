@@ -4,6 +4,7 @@ level: hs
 duration-min: 120
 focus: composite
 season-phase: preseason
+audience: womens-indoor-6s
 drills: [dynamic-warmup-volleyball, jump-warmup, weave-passing, three-setter-rotation, hitting-vs-block, swing-block-shuffle, pressure-serving, wash-drill, conditioning-court-sprints, arm-care-routine]
 sources: [usav-2026-coach-academy, usav-2009-cap-game-like-training, aoc-2023-kiraly-competing-in-practice, aoc-2021-teach-spiking]
 ---

@@ -8,6 +8,7 @@ citation-key: woods-2020-sport-ecology-designers
 raw-file: raw/research/woods-2020-sport-ecology-designers.md
 url: https://doi.org/10.3389/fpsyg.2020.00654
 topics: [ecological-dynamics, skill-adaptation, sport-ecology, constraints-led-approach, representative-learning-design, movement-variability, coach-role]
+participants-sex: unspecified
 featured-coaches: []
 schools: [ecological-dynamics, constraints-led-approach]
 trust-tier: 1

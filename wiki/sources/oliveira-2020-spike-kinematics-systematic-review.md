@@ -8,6 +8,7 @@ citation-key: oliveira-2020-spike-kinematics-systematic-review
 raw-file: raw/research/oliveira-2020-spike-kinematics-systematic-review.md
 url: https://journals.sagepub.com/doi/abs/10.1177/1747954119899881
 topics: [biomechanics, hitting, spike-jump, systematic-review, ball-velocity, trunk-rotation]
+participants-sex: unspecified
 featured-coaches: []
 schools: []
 trust-tier: 1

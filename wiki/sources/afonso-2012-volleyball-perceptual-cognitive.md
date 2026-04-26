@@ -8,6 +8,8 @@ citation-key: afonso-2012-volleyball-perceptual-cognitive
 raw-file: raw/research/afonso-2012-volleyball-perceptual-cognitive.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3737875/
 topics: [perception-action-coupling, anticipation, visual-search, volleyball-defense, expertise, representative-learning-design, eye-tracking]
+participants-sex: female
+participants-n: 27
 featured-coaches: []
 schools: [ecological-dynamics]
 trust-tier: 1

@@ -8,6 +8,7 @@ citation-key: keoliya-2024-volleyball-training-interventions
 raw-file: raw/research/keoliya-2024-volleyball-training-interventions-review.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10905049/
 topics: [strength-training, cluster-sets, agility-training, plyometrics, core-training, sand-training, fifa-11-plus, transfer-of-training]
+participants-sex: unspecified
 featured-coaches: []
 schools: []
 trust-tier: 1

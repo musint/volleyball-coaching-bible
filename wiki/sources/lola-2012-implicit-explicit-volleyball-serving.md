@@ -8,6 +8,8 @@ citation-key: lola-2012-implicit-explicit-volleyball-serving
 raw-file: raw/research/lola-2012-implicit-explicit-volleyball-serving.md
 url: https://doi.org/10.2466/05.23.25.PMS.114.2.665-678
 topics: [implicit-learning, explicit-learning, decision-making, serving, skill-acquisition, youth-female, instructional-sequencing]
+participants-sex: female
+participants-n: 60
 featured-coaches: []
 schools: [ecological-dynamics]
 trust-tier: 1

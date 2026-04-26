@@ -8,6 +8,7 @@ citation-key: rydberg-2011-self-controlled-forearm-passing
 raw-file: raw/research/rydberg-2011-self-controlled-forearm-passing.md
 url: https://oasis.library.unlv.edu/thesesdissertations/1045/
 topics: [self-controlled-practice, autonomy, optimal-theory, forearm-passing, intrinsic-motivation, null-result]
+participants-sex: female
 featured-coaches: []
 schools: []
 trust-tier: 1

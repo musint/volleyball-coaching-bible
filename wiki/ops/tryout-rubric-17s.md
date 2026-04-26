@@ -1,7 +1,7 @@
 ---
 type: ops-doc
 kind: tryout-rubric
-audience: coach
+audience: [coach, womens-indoor-6s]
 level: hs
 sources: [17s, age-lens-hs, age-lens-college, recruiting, munciana-2022-camp-drills, mccutcheon-2022-championship-behaviors, aoc-2025-cc-tryouts, aoc-2025-cc-playing-time-roles, aoc-2024-kiraly-stats-matter-most]
 ---

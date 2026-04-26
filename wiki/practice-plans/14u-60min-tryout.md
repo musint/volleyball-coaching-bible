@@ -4,6 +4,7 @@ level: 14u
 duration-min: 60
 focus: player-development
 season-phase: tryout
+audience: womens-indoor-6s
 drills: [dynamic-warmup-volleyball, two-line-passing, target-setting, approach-and-swing, serve-targets, queen-of-the-court]
 sources: [aoc-2021-tryout-checklist, aoc-2024-hofer-tryout-queens-court, aoc-2019-mattox-tryout-server-vs-passer, aoc-2021-15-things-run-great-tryout]
 ---

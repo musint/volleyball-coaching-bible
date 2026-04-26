@@ -3,6 +3,7 @@ type: practice-plan
 level: hs
 duration-min: 90
 focus: match-prep
+audience: womens-indoor-6s
 season-phase: mid-season
 drills: [dynamic-warmup-volleyball, pass-set-hit, three-setter-rotation, read-blocking-progression, zone-serving, serve-receive-competition, six-player-defense]
 sources: [aoc-2024-kiraly-stats-matter-most, aoc-2017-rose-pennstate-prep, aoc-2024-rose-best-servers, aoc-2024-kiraly-in-game-tactics, aoc-2026-bunch-read-blocking]

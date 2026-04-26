@@ -4,6 +4,7 @@ level: hs
 duration-min: 60
 focus: composite
 season-phase: match-day
+audience: womens-indoor-6s
 drills: [dynamic-warmup-volleyball, ball-control-warmup, partner-pepper-warmup, target-setting, serve-targets, jump-serve-progression, cool-down-mobility]
 sources: [aoc-2017-rose-serving-ritual, aoc-2024-kiraly-in-game-tactics, aoc-2024-kiraly-serving-pressure, aoc-2015-kiraly-process-vs-result]
 ---

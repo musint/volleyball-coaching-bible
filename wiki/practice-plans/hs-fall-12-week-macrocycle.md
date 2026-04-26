@@ -3,6 +3,7 @@ type: practice-plan
 scope: macrocycle
 level: hs
 duration-min: 1440
+audience: womens-indoor-6s
 focus: composite
 season-phase: composite
 drills: [butterfly-passing, three-setter-rotation, transition-rally, swing-block-shuffle, gold-medal-scrimmage, pressure-serving, wash-drill, hitting-vs-block, arm-care-routine, jump-warmup]

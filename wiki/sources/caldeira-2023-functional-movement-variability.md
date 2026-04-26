@@ -8,6 +8,7 @@ citation-key: caldeira-2023-functional-movement-variability
 raw-file: raw/research/caldeira-2023-functional-movement-variability.md
 url: https://doi.org/10.1177/17479541231168012
 topics: [functional-movement-variability, constraints-led-approach, ecological-dynamics, hitting, attack-approach, com-kinematics, blocking-opposition, traditional-vs-cla]
+participants-sex: male
 featured-coaches: []
 schools: [ecological-dynamics, constraints-led-approach]
 trust-tier: 1

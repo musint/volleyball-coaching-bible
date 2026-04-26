@@ -8,6 +8,8 @@ citation-key: prieske-2017-fatigue-instability-jump
 raw-file: raw/research/prieske-2017-fatigue-instability-jump.md
 url: https://pubmed.ncbi.nlm.nih.gov/28768338/
 topics: [biomechanics, fatigue, jump-mechanics, injury-prevention, sex-differences]
+participants-sex: mixed
+participants-n: 20
 featured-coaches: []
 schools: []
 trust-tier: 1

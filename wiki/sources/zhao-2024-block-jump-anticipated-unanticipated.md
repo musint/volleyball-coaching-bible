@@ -8,6 +8,8 @@ citation-key: zhao-2024-block-jump-anticipated-unanticipated
 raw-file: raw/research/zhao-2024-block-jump-anticipated-unanticipated.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11595254/
 topics: [biomechanics, blocking, injury-prevention, knee-valgus, reaction-time]
+participants-sex: male
+participants-n: 15
 featured-coaches: []
 schools: []
 trust-tier: 1

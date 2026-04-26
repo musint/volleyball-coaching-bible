@@ -3,6 +3,7 @@ type: practice-plan
 scope: macrocycle
 level: 14u
 duration-min: 1620
+audience: womens-indoor-6s
 focus: composite
 season-phase: preseason
 drills: [butterfly-passing, target-setting, approach-and-swing, serve-targets, queen-of-the-court, dynamic-warmup-volleyball]

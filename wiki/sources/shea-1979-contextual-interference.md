@@ -8,6 +8,7 @@ citation-key: shea-1979-contextual-interference
 raw-file: raw/research/shea-1979-contextual-interference.md
 url: https://doi.org/10.1037/0278-7393.5.2.179
 topics: [motor-learning, contextual-interference, random-vs-blocked-practice, skill-acquisition, practice-design]
+participants-sex: unspecified
 featured-coaches: []
 schools: [ecological-dynamics, constraints-led-approach]
 trust-tier: 1

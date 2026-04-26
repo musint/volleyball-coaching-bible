@@ -4,6 +4,7 @@ level: hs
 duration-min: 90
 focus: composite
 season-phase: mid-season
+audience: womens-indoor-6s
 drills: [dynamic-warmup-volleyball, shuttle-passing, out-of-system-setting, transition-hitting, block-touch-drill, serve-receive-competition, wash-drill]
 sources: [usav-2009-cap-game-like-training, aoc-2023-kiraly-competing-in-practice, aoc-2026-rose-no-free-balls]
 ---

@@ -1,7 +1,7 @@
 ---
 type: ops-doc
 kind: tryout-rubric
-audience: coach
+audience: [coach, womens-indoor-6s]
 level: hs
 sources: [age-lens-hs, munciana-2022-camp-drills, sassi-2025-acl-volleyball-systematic-review, aoc-2026-bunch-read-blocking, aoc-2024-setting-hand-hinge, aoc-2025-float-serve-3-keys, aoc-2026-lingenfelter-accountability-passing]
 ---

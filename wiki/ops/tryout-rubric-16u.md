@@ -1,7 +1,7 @@
 ---
 type: ops-doc
 kind: tryout-rubric
-audience: coach
+audience: [coach, womens-indoor-6s]
 level: hs
 sources:
   - aoc-2024-kiraly-stats-matter-most

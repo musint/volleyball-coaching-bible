@@ -8,6 +8,8 @@ citation-key: zahradnik-2014-block-landing-grf-valgus
 raw-file: raw/research/zahradnik-2014-block-landing-grf-valgus.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4096083/
 topics: [biomechanics, blocking, landing-mechanics, ground-reaction-forces, acl-injury, female-specific]
+participants-sex: female
+participants-n: 14
 featured-coaches: []
 schools: []
 trust-tier: 1

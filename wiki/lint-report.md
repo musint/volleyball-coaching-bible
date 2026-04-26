@@ -1,6 +1,6 @@
 # Wiki Lint Report
 
-Generated: 2026-04-25T19:09:26
+Generated: 2026-04-26T12:48:31
 
 ## Broken wikilinks
 Broken wikilinks: 14
@@ -25,44 +25,52 @@ Violations: 0
 
 
 ## Frontmatter failures
-Failures: 33
+Failures: 87
 
 - wiki\age-lens-14u.md: invalid enum value '14-and-under club-level indoor girls at nationally-recognized programs; developmentally pre-adolescent to mid-adolescent; first-or-second year of organized 6s competition' for 'scope'
 - wiki\age-lens-college.md: invalid enum value 'NCAA D1/D2/D3 + NAIA + JUCO women's indoor volleyball; ages 18-22; four-year competitive development arc; elite physical + technical + tactical demands' for 'scope'
 - wiki\age-lens-hs.md: invalid enum value 'US high school varsity indoor girls (fall season in most states); ages 14-18; developmental arc from novice freshman to competitive senior' for 'scope'
-- wiki\sources\cuba-men-nt-2026-wikipedia.md: invalid enum value 'reference-biography' for 'source-type'
-- wiki\sources\cuba-women-nt-2026-wikipedia.md: invalid enum value 'reference-biography' for 'source-type'
-- wiki\sources\daimatsu-2000-hall-of-fame.md: invalid enum value 'institutional-biography' for 'source-type'
-- wiki\sources\daimatsu-2017-tough-love.md: invalid enum value 'retrospective-feature' for 'source-type'
-- wiki\sources\george-2005-volleyhall-bio.md: invalid enum value 'hall-of-fame-record' for 'source-type'
-- wiki\sources\george-2026-wikipedia-biography.md: invalid enum value 'reference-biography' for 'source-type'
-- wiki\sources\gms-2017-thank-you-carl-mcgown.md: invalid enum value 'tribute-page' for 'source-type'
-- wiki\sources\gms-2018-clinic-report.md: invalid enum value 'clinic-report' for 'source-type'
-- wiki\sources\gms-nd-about-us.md: invalid enum value 'organization-page' for 'source-type'
-- wiki\sources\gms-nd-blocking.md: invalid enum value 'skill-guide' for 'source-type'
-- wiki\sources\gms-nd-structure-practice.md: invalid enum value 'coaching-article' for 'source-type'
-- wiki\sources\japan-2016-five-strengths.md: invalid enum value 'coach-observation-article' for 'source-type'
-- wiki\sources\japan-2024-svleague.md: invalid enum value 'feature-article' for 'source-type'
-- wiki\sources\luis-2026-wikipedia-biography.md: invalid enum value 'reference-biography' for 'source-type'
-- wiki\sources\matsudaira-1998-hall-of-fame.md: invalid enum value 'institutional-biography' for 'source-type'
-- wiki\sources\matsudaira-2026-wikipedia-biography.md: invalid enum value 'reference-biography' for 'source-type'
-- wiki\sources\mcgown-2017-usav-remembering.md: invalid enum value 'obituary-article' for 'source-type'
-- wiki\sources\nakagaichi-2020-fivb-feature.md: invalid enum value 'federation-feature' for 'source-type'
-- wiki\sources\nakagaichi-2021-biography.md: invalid enum value 'reference-biography' for 'source-type'
-- wiki\sources\park-man-bok-2016-hall-of-fame.md: invalid enum value 'institutional-biography' for 'source-type'
-- wiki\sources\perdomo-2009-olympedia-bio.md: invalid enum value 'reference-biography' for 'source-type'
-- wiki\sources\speraw-2024-usav-profile.md: invalid enum value 'federation-profile' for 'source-type'
-- wiki\_templates\age-lens.md: invalid enum value '<1 sentence>' for 'scope'
-- wiki\_templates\drill.md: invalid enum value '<phase>' for 'phase'
-- wiki\_templates\position.md: invalid enum value '<slug>' for 'position'
-- wiki\_templates\source.md: invalid enum value '<type>' for 'source-type'
-- wiki\_templates\source.md: invalid enum value '<1|2|3>' for 'trust-tier'
-- wiki\_templates\system.md: invalid enum value '<low|medium|high>' for 'complexity'
-- wiki\_templates\system.md: invalid system category '<category>'
-- wiki\_templates\technique.md: invalid enum value '<skill>' for 'skill'
+- wiki\age-guides\10s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\age-guides\11s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\age-guides\12s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\age-guides\13s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\age-guides\14s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\age-guides\15s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\age-guides\16s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\age-guides\17s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\age-guides\18s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\cues\blocking-cues.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\cues\defense-cues.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\cues\hitting-cues.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\cues\passing-cues.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\cues\serving-cues.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\cues\setting-cues.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\cues\transition-cues.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\drill-picks\10s-drills.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\drill-picks\11s-drills.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\drill-picks\12s-drills.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\drill-picks\13s-drills.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\drill-picks\14s-drills.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\drill-picks\15s-drills.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\drill-picks\16s-drills.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\drill-picks\17s-drills.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\drill-picks\18s-drills.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\ops\tryout-rubric-10s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\ops\tryout-rubric-11s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\ops\tryout-rubric-12s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\ops\tryout-rubric-13s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\ops\tryout-rubric-14u.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\ops\tryout-rubric-15s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\ops\tryout-rubric-16u.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\ops\tryout-rubric-17s.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\ops\tryout-rubric-18u.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\ops\tryout-rubric-college-walkon.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\practice-plans\14u-120min-pre-tournament.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- wiki\practice-plans\14u-60min-tryout.md: invalid enum value 'womens-indoor-6s' for 'audience'
+- ...and 47 more
 
 ## Unresolved citation keys
-Unresolved: 135
+Unresolved: 138
 
 - wiki\log.md: [2026-04-25]
 - wiki\log.md: [2026-04-25]
@@ -104,7 +112,7 @@ Unresolved: 135
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
-- ...and 95 more
+- ...and 98 more
 
 ## Orphan pages
 Orphans: 111
@@ -152,23 +160,27 @@ Orphans: 111
 - ...and 71 more
 
 ## Stale methodology pages
-Stale: 0
+Stale: 1
 
+- wiki\schools\chinese-volleyball-tradition.md (newest source year 2020)
 
 ## Concept gaps
 Gaps: 0
 
 
 ## Unsourced-queue consistency
-Issues: 43
+Issues: 48
 
 - wiki\age-lens-college.md: has [unsourced] tag but no matching queue entry
 - wiki\log.md: has [unsourced] tag but no matching queue entry
 - wiki\SCHEMA.md: has [unsourced] tag but no matching queue entry
 - wiki\unsourced-queue.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\bebeto-de-freitas.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\cassidy-lichtman.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\cesar-hernandez-gonzalez.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\chen-zhonghe.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\chris-mcgown.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\dani-busboom-kelly.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\jose-roberto-guimaraes.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\kim-yeon-koung.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\kirsten-bernthal-booth.md: has [unsourced] tag but no matching queue entry
@@ -182,7 +194,9 @@ Issues: 43
 - wiki\coaches\tod-mattox.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\vyacheslav-platonov.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\yasutaka-matsudaira.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\yuan-weimin.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\yuichi-nakagaichi.md: has [unsourced] tag but no matching queue entry
+- wiki\schools\chinese-volleyball-tradition.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\french-school.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\italian-school.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\japanese-training.md: has [unsourced] tag but no matching queue entry
@@ -197,9 +211,4 @@ Issues: 43
 - wiki\sources\kiraly-2024-vnl-paris-interview.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\matsudaira-2026-wikipedia-biography.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\mccutcheon-2021-volleybrains-ep30.md: has [unsourced] tag but no matching queue entry
-- wiki\sources\nakagaichi-2020-fivb-feature.md: has [unsourced] tag but no matching queue entry
-- wiki\sources\nakagaichi-2021-biography.md: has [unsourced] tag but no matching queue entry
-- wiki\sources\notes-bernardinho-volei-aprendendo-jogar.md: has [unsourced] tag but no matching queue entry
-- wiki\sources\notes-matsudaira-japanese-coaching-philosophy.md: has [unsourced] tag but no matching queue entry
-- wiki\sources\notes-mizoguchi-coaching-volleyball.md: has [unsourced] tag but no matching queue entry
-- ...and 3 more
+- ...and 8 more

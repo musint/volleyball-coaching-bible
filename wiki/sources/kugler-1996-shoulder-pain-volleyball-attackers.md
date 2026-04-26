@@ -8,6 +8,8 @@ citation-key: kugler-1996-shoulder-pain-volleyball-attackers
 raw-file: raw/research/kugler-1996-shoulder-pain-volleyball-attackers.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1332345/
 topics: [shoulder-injury, rotator-cuff, posterior-capsule-tightness, scapular-dyskinesis, attacker-overuse, prehab]
+participants-sex: unspecified
+participants-n: 30
 featured-coaches: []
 schools: []
 trust-tier: 1

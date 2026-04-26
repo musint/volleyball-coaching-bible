@@ -2,6 +2,7 @@
 type: cue-dictionary
 skill: defense
 age-bands: [10s, 11s, 12s, 13s, 14s, 15s, 16s, 17s, 18s]
+audience: womens-indoor-6s
 sources: [aoc-2025-controlling-the-dig, aoc-2025-training-reading-look-see-decide, aoc-2017-liskevych-asics-defense, aoc-2024-kiraly-reads-every-skill, aoc-2022-emergency-moves-passing-defense, munciana-2022-camp-drills, kiraly-1997-championship-volleyball]
 ---
 

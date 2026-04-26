@@ -1,7 +1,7 @@
 ---
 type: ops-doc
 kind: tryout-rubric
-audience: coach
+audience: [coach, womens-indoor-6s]
 level: 14u
 sources:
   - usav-2026-simplified-youth-rules

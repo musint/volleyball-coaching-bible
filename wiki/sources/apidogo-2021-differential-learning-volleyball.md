@@ -8,6 +8,8 @@ citation-key: apidogo-2021-differential-learning-volleyball
 raw-file: raw/research/apidogo-2021-differential-learning-volleyball.md
 url: https://doi.org/10.3390/ijerph181910499
 topics: [differential-learning, repetition-without-repetition, schollhorn, multi-technique-practice, beginner-female, passing, setting, serving, motor-learning]
+participants-sex: female
+participants-n: 42
 featured-coaches: []
 schools: [ecological-dynamics, differential-learning]
 trust-tier: 1

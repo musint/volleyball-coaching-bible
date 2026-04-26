@@ -8,6 +8,8 @@ citation-key: moran-2023-verbal-coaching-cues-youth
 raw-file: raw/research/moran-2023-verbal-coaching-cues-youth.md
 url: https://doi.org/10.1371/journal.pone.0280201
 topics: [coaching-cues, external-focus, internal-focus, analogy-cues, youth-athletes, vertical-jump, sprint, optimal-theory, replication, null-result]
+participants-sex: unspecified
+participants-n: 173
 featured-coaches: []
 schools: []
 trust-tier: 1

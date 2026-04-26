@@ -1,7 +1,7 @@
 ---
 type: ops-doc
 kind: tryout-rubric
-audience: coach
+audience: [coach, womens-indoor-6s]
 level: hs
 sources: [18s, age-lens-college, recruiting, mccutcheon-2022-championship-behaviors, munciana-2022-camp-drills, usav-nd-college-recruitment-timeline]
 ---

@@ -8,6 +8,8 @@ citation-key: post-2019-specialization-overuse-volleyball
 raw-file: raw/research/post-2019-specialization-overuse-volleyball.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6931179/
 topics: [youth-specialization, overuse-injury, adolescent-volleyball, multi-sport-participation, year-round-volleyball, female-athlete-injury]
+participants-sex: mixed
+participants-n: 716
 featured-coaches: []
 schools: []
 trust-tier: 1

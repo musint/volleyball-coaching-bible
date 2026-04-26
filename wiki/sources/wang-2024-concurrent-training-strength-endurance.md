@@ -8,6 +8,7 @@ citation-key: wang-2024-concurrent-training-strength-endurance
 raw-file: raw/research/wang-2024-concurrent-training-strength-endurance-review.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11688070/
 topics: [concurrent-training, interference-effect, strength-training, endurance-training, hiit, exercise-sequence, recovery-interval, programming]
+participants-sex: unspecified
 featured-coaches: []
 schools: []
 trust-tier: 1

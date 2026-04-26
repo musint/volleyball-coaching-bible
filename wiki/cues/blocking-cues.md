@@ -2,6 +2,7 @@
 type: cue-dictionary
 skill: blocking
 age-bands: [10s, 11s, 12s, 13s, 14s, 15s, 16s, 17s, 18s]
+audience: womens-indoor-6s
 sources: [aoc-2024-importance-teaching-swing-blocking, aoc-2026-swing-blocking-footwork-beginners, aoc-2024-slabe-blocking, aoc-2024-blocking-fundamentals, aoc-2026-bunch-read-blocking, aoc-2015-mccutcheon-blocking-keys, aoc-2024-kiraly-reads-every-skill, munciana-2022-camp-drills, kiraly-1997-championship-volleyball]
 ---
 

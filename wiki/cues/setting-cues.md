@@ -2,6 +2,7 @@
 type: cue-dictionary
 skill: setting
 age-bands: [10s, 11s, 12s, 13s, 14s, 15s, 16s, 17s, 18s]
+audience: womens-indoor-6s
 sources: [aoc-2024-setting-hand-hinge, aoc-2015-rockwell-training-setters, aoc-2017-liskevych-asics-setting, aoc-2024-kids-setting-fundamentals, aoc-2022-brown-libero-second-ball-setting, aoc-2014-dunning-hitter-setter-connection, munciana-2022-camp-drills, kiraly-1997-championship-volleyball]
 ---
 

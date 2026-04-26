@@ -8,6 +8,7 @@ citation-key: mesagno-2017-choking-models-interventions
 raw-file: raw/research/mesagno-2017-choking-models-interventions.md
 url: https://pubmed.ncbi.nlm.nih.gov/28813345/
 topics: [choking-under-pressure, conscious-processing, distraction-theory, self-presentation, attentional-control, pressure-interventions]
+participants-sex: unspecified
 featured-coaches: []
 schools: []
 trust-tier: 1

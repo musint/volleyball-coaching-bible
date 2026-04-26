@@ -8,6 +8,8 @@ citation-key: gorgulu-2021-avoiding-instructions-volleyball-pressure
 raw-file: raw/research/gorgulu-2021-avoiding-instructions-volleyball-pressure.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8120970/
 topics: [choking-under-pressure, ironic-processes, attentional-control, volleyball-serving, pressure-performance]
+participants-sex: female
+participants-n: 43
 featured-coaches: []
 schools: []
 trust-tier: 1

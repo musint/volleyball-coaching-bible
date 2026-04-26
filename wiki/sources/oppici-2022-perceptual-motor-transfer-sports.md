@@ -8,6 +8,7 @@ citation-key: oppici-2022-perceptual-motor-transfer-sports
 raw-file: raw/research/oppici-2022-perceptual-motor-transfer-sports.md
 url: https://doi.org/10.1016/j.psychsport.2021.102118
 topics: [transfer-of-learning, specific-transfer, general-transfer, affordance-similarity, multi-sport-sampling, expertise-effect, ecological-dynamics, ltad]
+participants-sex: unspecified
 featured-coaches: []
 schools: [ecological-dynamics]
 trust-tier: 1

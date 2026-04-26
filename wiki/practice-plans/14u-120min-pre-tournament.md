@@ -4,6 +4,7 @@ level: 14u
 duration-min: 120
 focus: composite
 season-phase: pre-tournament
+audience: womens-indoor-6s
 drills: [dynamic-warmup-volleyball, wash-drill, queen-of-the-court, gold-medal-scrimmage, serve-targets, pressure-serving, six-player-defense]
 sources: [aoc-2023-rose-club-rules, aoc-2023-kiraly-competing-in-practice, aoc-2024-kiraly-validation-6v6, aoc-2024-kiraly-serving-pressure, aoc-2024-rose-best-servers]
 ---

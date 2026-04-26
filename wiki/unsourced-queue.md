@@ -927,3 +927,249 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Why unsourced:** Rosen's beginner-progression source [aoc-2026-swing-blocking-footwork-beginners] supports footwork-only entry but does not explicitly age-gate 13s as a ceiling. Editorial extension.
 - **Research hypothesis:** Murczek's swing-block opportunity-cost article; Mardini counter-case for finer age-gating; USAV age-appropriate blocking materials.
 - **Added:** 2026-04-24
+
+### wiki/schools/lovb.md — specific LOVB salary bands
+- **Claim:** "Roster size, salary structure, and contract length are not fully disclosed publicly. LOVB has acknowledged that veteran stars earn more than rookies, with prize-pool bonuses and positional awards atop base salary, but specific bands are not in the public record [unsourced — specific LOVB salary bands not disclosed in cited sources]."
+- **Why unsourced:** Volleyballmag's June 2024 LOVB preview confirms the qualitative structure (veterans > rookies, prize pool, positional awards) but does not publish a salary range comparable to PVF's $60K–$175K disclosure. LOVB has not made its salary tiers public as of the 2025 inaugural season.
+- **Research hypothesis:** LOVB players' agent disclosures via The Athletic / Volleyballmag follow-up reporting; SBJ deal-tracker coverage; player union activity if/when established; 2026 broadcast-contract filings (the USA Network / ESPN deal expansion may be accompanied by salary-floor disclosures).
+- **Added:** 2026-04-26
+
+### wiki/schools/lovb.md — same opacity flagged in Critiques
+- **Claim:** "Unlike PVF, LOVB has not publicly disclosed its salary bands [unsourced — specific LOVB salary bands not in cited sources]."
+- **Why unsourced:** Same root cause as the prior entry — LOVB hasn't published a salary band, and our cited sources confirm the structure but not specific dollar figures.
+- **Research hypothesis:** Same as prior entry. Potentially also a Sports Business Journal deep-dive on LOVB economics.
+- **Added:** 2026-04-26
+
+### wiki/schools/pvf.md — top European salaries above PVF ceiling
+- **Claim:** "PVF's top published salary ($175K) is competitive with mid-tier European and Turkish clubs but well below top VakıfBank-level offers, which can clear $300–500K+ for elite players [unsourced — top European salary figures cited in industry reports but not in our sourced documents]."
+- **Why unsourced:** Industry reporting on top European women's volleyball salaries (Volley Italia, Pallavolista, Sportico) puts top VakıfBank / Eczacıbaşı / Conegliano contracts in the $300K–$500K+ range, but our currently cited corpus does not include those primary reports.
+- **Research hypothesis:** Sportico women's-volleyball salary tracker if published; CEV financial-disclosure documents for member clubs; Turkish Sultanlar Ligi front-office reporting on Eczacıbaşı / VakıfBank payroll; Italian Lega Volley Femminile salary leaks in Italian sports press.
+- **Added:** 2026-04-26
+
+### wiki/schools/athletes-unlimited-volleyball.md — exact AU per-stat point formulas
+- **Claim:** "Points come from match outcomes (team result) plus per-stat individual contribution. The exact point-per-stat formulas are proprietary and not detailed in publicly cited sources [unsourced — specific AU per-stat point formulas not detailed in cited sources]."
+- **Why unsourced:** AU's Wikipedia summary describes the dual-points structure qualitatively but does not publish the per-stat point allocations (e.g., kill = X points, dig = Y points, ace = Z points). AU's own auprosports.com landing pages confirm the structure but link to a "scoring 101" page that has shifted formats with the 2025 rebrand.
+- **Research hypothesis:** AU Pro Volleyball's official scoring page (auprosports.com/volleyball/scoring); Cassidy Lichtman interviews on the format; The GIST / Sportico AU explainers that reverse-engineered the points-per-stat from box scores.
+- **Added:** 2026-04-26
+
+### wiki/schools/athletes-unlimited-volleyball.md — AU specific compensation figures
+- **Claim:** "AU has not publicly disclosed its athlete compensation structure beyond the equity-and-profit-share framework [unsourced — specific AU compensation figures not in cited sources]."
+- **Why unsourced:** AU's own announcements describe the equity model but do not publish base-pay or prize-pool dollar figures comparable to PVF's $60K–$175K disclosure.
+- **Research hypothesis:** AU Form 990s if AU's investor structure files them; investigative reporting from Sportico or The Athletic on AU economics across volleyball + softball + lacrosse + basketball; Cassidy Lichtman or Jon Patricof interviews where compensation is discussed quantitatively.
+- **Added:** 2026-04-26
+
+### wiki/coaches/kelly-sheffield.md — NPOY/All-American concentration as deliberate development model claim
+- **Claim:** "Producing two NPOYs in three years and the most-decorated AVCA All-American in association history within a single program tenure is, statistically, a deliberate development model rather than a recruiting accident [unsourced]."
+- **Why unsourced:** The factual achievements are sourced ([sheffield-wikipedia-bio]), but the framing as a "deliberate development model" rather than a recruiting outcome is editorial inference; no captured source narrates Sheffield's player-development methodology in those terms.
+- **Research hypothesis:** AOC long-form interviews with Sheffield (search beyond the 2018 drill clip); On Wisconsin Magazine "The Comeback Coach" feature; Wisconsin volleyball assistant-coach (Lauren Carlini) interviews on staff development methodology; Volleybrains podcast Sheffield episode (Volleybrains episode 82 — listed in WebSearch results).
+- **Added:** 2026-04-26
+
+### wiki/coaches/kelly-sheffield.md — "Championships are the expectation" quote attribution
+- **Claim:** "Sheffield's program identity at Wisconsin is built around the explicit standard 'championships are the expectation'... [unsourced — quote attributed to Wisconsin program / On Wisconsin Magazine reporting; not in this wiki's ingested source corpus]."
+- **Why unsourced:** Quote is attested in On Wisconsin Magazine and EssentiallySports articles surfaced in WebSearch results, but the source page for that reporting has not been fetched and ingested into this wiki's raw corpus.
+- **Research hypothesis:** Fetch and ingest On Wisconsin Magazine's "The Comeback Coach" feature (https://onwisconsin.uwalumni.com/the-comeback-coach/); also EssentiallySports profile and CapTimes Wisconsin volleyball reflection.
+- **Added:** 2026-04-26
+
+### wiki/coaches/kelly-sheffield.md — comparative tenure claims
+- **Claim:** "Reaching the final in four different seasons across an 11-year span is itself uncommon in women's D-I volleyball, where most programs that reach a final do not return inside the same head coach's tenure [unsourced — comparative tenure claim outside corpus]."
+- **Why unsourced:** Comparative claim across women's D-I head-coaching tenures requires aggregated record review (AVCA / NCAA championship-final history); no aggregator source has been ingested.
+- **Research hypothesis:** AVCA championship-final history page; NCAA Volleyball Championship records book; AVCA hall-of-fame career-summary documents.
+- **Added:** 2026-04-26
+
+### wiki/coaches/kelly-sheffield.md — Wisconsin pre-Sheffield Big Ten title gap
+- **Claim:** "When Sheffield took over at Wisconsin in 2013, the program had not won a Big Ten regular-season title since 2000 [unsourced — pre-Sheffield Big Ten title history not in source corpus]"
+- **Why unsourced:** Pre-Sheffield Wisconsin Big Ten conference-title history not in the captured Wikipedia bio.
+- **Research hypothesis:** Wisconsin volleyball Wikipedia page for season-by-season Big Ten finishes; UW Badgers official athletics history page; Big Ten conference yearbook archives.
+- **Added:** 2026-04-26
+
+### wiki/coaches/jerritt-elliott.md — recruiting philosophy quote
+- **Claim:** "Elliott's stated recruiting principle is to recruit 'to win national championships' — not to fill perceived depth-chart needs of a current team [unsourced — attributed to NCAA.com 2021 feature on Texas, not in this wiki's ingested source corpus]."
+- **Why unsourced:** Quote attested in NCAA.com 2021 "Ultimate Texas volleyball dream player" feature surfaced in WebSearch but not yet fetched as a raw article into this wiki's corpus.
+- **Research hypothesis:** Fetch https://www.ncaa.com/news/volleyball-women/article/2021-01-15/ultimate-texas-volleyball-dream-player-built-jerritt-elliott; ingest as raw article and create source page; also Volleybrains episode 82 on Elliott.
+- **Added:** 2026-04-26
+
+### wiki/coaches/jerritt-elliott.md — 18 AVCA All-Americans figure
+- **Claim:** "The cumulative record of 18 AVCA All-Americans coached at Texas through 2022 is the throughput-side of that principle [unsourced — figure attributed to Texas program reporting; not directly in the Wikipedia bio captured here]."
+- **Why unsourced:** Figure attested in Texas program reporting / NCAA.com feature but not in the Wikipedia bio currently ingested.
+- **Research hypothesis:** Texas Longhorns athletics program-history page for All-American counts by season; AVCA All-American historical records cross-referenced with Texas roster years.
+- **Added:** 2026-04-26
+
+### wiki/coaches/jerritt-elliott.md — "speak the language of the coaches" quote
+- **Claim:** "Elliott has stated he looks for players 'able to make the players around them better, one that is able to speak the language of the coaches...' [unsourced — quote from NCAA.com 2021 feature, not yet ingested into this wiki's source corpus]."
+- **Why unsourced:** Same as recruiting-philosophy quote above — NCAA.com feature surfaced but not ingested.
+- **Research hypothesis:** Same as above. Fetch the NCAA.com feature and ingest.
+- **Added:** 2026-04-26
+
+### wiki/coaches/jerritt-elliott.md — back-to-back NCAA championship rarity
+- **Claim:** "Texas's 2022 → 2023 sequence is one of only a handful of back-to-back women's volleyball titles in the post-2010 NCAA era [unsourced — frequency claim outside corpus]."
+- **Why unsourced:** Frequency claim across NCAA championship history requires aggregated review.
+- **Research hypothesis:** NCAA Volleyball Championship records book; AVCA championship-final history page.
+- **Added:** 2026-04-26
+
+### wiki/coaches/dan-fisher.md — defense quote attribution
+- **Claim:** "Fisher publicly attributed the 2025 NCAA semifinal loss to Texas A&M directly to defensive shortcoming: 'We were nowhere near as good as we needed to be defensively...' [unsourced — quote from ESPN / Pittsburgh Post-Gazette post-match reporting, not yet ingested into this wiki's source corpus]."
+- **Why unsourced:** Quote attested in ESPN ("Defense not good enough in NCAA volleyball loss") and ProFootballNetwork post-match reporting surfaced in WebSearch but not yet fetched as a raw article into this wiki.
+- **Research hypothesis:** Fetch ESPN article (https://www.espn.com/college-sports/story/_/id/47353129/dan-fisher-defense-not-good-enough-ncaa-volleyball-loss); also ProFootballNetwork article and Pittsburgh Post-Gazette feature; create raw articles and source pages.
+- **Added:** 2026-04-26
+
+### wiki/coaches/dan-fisher.md — five-Final-Four ranking claim
+- **Claim:** "Reaching the Final Four five years in a row inside one head-coaching tenure is, on the public record, a top-3 achievement among programs of any era [unsourced — comparative claim outside corpus]."
+- **Why unsourced:** Comparative claim across NCAA history requires aggregated NCAA Final Four streaks tabulation.
+- **Research hypothesis:** NCAA Volleyball Championship records book; AVCA program-history aggregations; Penn State / Stanford / Hawaii historical Final Four streaks for comparison.
+- **Added:** 2026-04-26
+
+### wiki/coaches/dan-fisher.md — "regular season as preparation" published analysis
+- **Claim:** "Comprehensive published analysis of Fisher's regular-season-as-preparation methodology is not yet ingested into this wiki [unsourced]."
+- **Why unsourced:** Methodology framing is editorial inference from the on-record 15–0 / 45–1-set start to 2024.
+- **Research hypothesis:** Volleybrains episode 76 (Fisher); 2025 AVCA Coach of the Year Super Clinic featuring Fisher (avca25.coachesinsider.com/speakers/dan-fisher/); Pittsburgh Post-Gazette long-form feature.
+- **Added:** 2026-04-26
+
+### wiki/coaches/john-cook.md — coaching tree comprehensive inventory
+- **Claim:** "A comprehensive Cook coaching-tree inventory is not in the captured sources..."
+- **Why unsourced:** The Wikipedia bio names successor Dani Busboom Kelly and the AOC interview names assistant Tyler Hildebrand, but a comprehensive list of Cook assistants and their subsequent placements is not ingested.
+- **Research hypothesis:** AVCA Hall of Fame Cook profile; Nebraska athletics historical staff records 2000–2024; cross-referenced AVCA assistant-coach awards across Cook era.
+- **Added:** 2026-04-26
+
+### wiki/coaches/erin-virtue.md — NTDP institutional positioning
+- **Claim:** "The directorship shapes which young athletes get high-performance exposure, what coaching standards filter down through the development levels, and how players are routed to senior-NT consideration [unsourced — institutional framing]."
+- **Why unsourced:** Structural framing of the NTDP director role is editorial inference; no captured source describes the NTDP institutional position in those terms.
+- **Research hypothesis:** USA Volleyball NTDP official program description; USAV high-performance pipeline documentation; Karch Kiraly long-form interviews on NT staff structure.
+- **Added:** 2026-04-26
+
+### wiki/coaches/erin-virtue.md — NTDP selection criteria
+- **Claim:** "A comprehensive published statement of the NTDP's selection criteria is not yet ingested into this wiki's corpus [unsourced]."
+- **Why unsourced:** No published NTDP selection-criteria document is in the captured corpus.
+- **Research hypothesis:** USA Volleyball NTDP program description on usavolleyball.org; USA Volleyball Coach Academy materials; AOC interviews with Virtue or NTDP staff describing selection criteria.
+- **Added:** 2026-04-26
+
+### wiki/coaches/erin-virtue.md — NTDP simultaneous-roles institutional signal
+- **Claim:** "The role is not commonly held simultaneously with senior-NT assistant duties, which is itself a signal of USA Volleyball's institutional confidence in Virtue's developmental judgment [unsourced — same]."
+- **Why unsourced:** Comparative claim about USA Volleyball institutional staff structure outside the captured corpus.
+- **Research hypothesis:** Historical USA Volleyball staff org charts; USA Volleyball announcements describing how NTDP director role typically slots within high-performance staff.
+- **Added:** 2026-04-26
+
+### wiki/schools/wisconsin-volleyball.md — Sheffield "get the setter to run" serve metric
+- **Claim:** Sheffield treats the serve as the program's first weapon: "Can you get the setter to run?" framing.
+- **Why unsourced:** Quote sourced from a Captimes Sheffield interview surfaced in web search but no source page yet exists on this wiki for that interview.
+- **Research hypothesis:** Create `wiki/sources/captimes-sheffield-interview.md` from Captimes article (https://captimes.com/sports/wisconsin-volleyballs-sheffield-touts-predecessor-love-of-coaching/); also Sheffield AOC clinic recordings; On Wisconsin Magazine "The Comeback Coach" feature.
+- **Added:** 2026-04-26
+
+### wiki/schools/wisconsin-volleyball.md — Sheffield "we don't play a pretty style" quote
+- **Claim:** Sheffield publicly described Wisconsin's identity as not pretty: "We don't play a pretty style of volleyball, and we're totally fine with that."
+- **Why unsourced:** Quote attributed in Badger Extra coverage; no dedicated source page yet.
+- **Research hypothesis:** Create source page for Badger Extra "Wisconsin volleyball team defined by determination and grit" article; Sheffield 2022–2025 press conference transcripts.
+- **Added:** 2026-04-26
+
+### wiki/schools/wisconsin-volleyball.md — Wisconsin blocks-per-set national rank
+- **Claim:** "The Badgers have ranked among the nation's best blocking teams in multiple Sheffield-era seasons."
+- **Why unsourced:** Bucky's 5th Quarter coverage notes specific seasons in which Wisconsin led or ranked second nationally in blocks/set; no source page yet.
+- **Research hypothesis:** AVCA team statistical archives; NCAA.com season summaries 2019–2024; Bucky's 5th Quarter "Defense Dominates" coverage.
+- **Added:** 2026-04-26
+
+### wiki/schools/wisconsin-volleyball.md — Sheffield AOC blocking progression
+- **Claim:** "Sheffield publishes a detailed blocking progression with Art of Coaching Volleyball that emphasizes hand penetration and shoulder shape over the swing-block-or-jump-block debate."
+- **Why unsourced:** AOC video "Wisconsin Volleyball blocking progression – Kelly Sheffield" exists; no dedicated source page on this wiki yet.
+- **Research hypothesis:** Ingest the AOC video as `wiki/sources/aoc-sheffield-blocking-progression.md` via aoc-mcp; review the underlying clinic curriculum.
+- **Added:** 2026-04-26
+
+### wiki/schools/wisconsin-volleyball.md — 2021 NCAA final game-tape claim
+- **Claim:** "Late in the fifth set, the pass is bad, the set goes to the pin, and the pin hitter terminates."
+- **Why unsourced:** Recall from 2021 NCAA championship telecast. No primary source ingested.
+- **Research hypothesis:** NCAA.com 2021 championship recap; AVCA highlight reel; box score with rally-by-rally play log.
+- **Added:** 2026-04-26
+
+### wiki/schools/wisconsin-volleyball.md — 2019 final pass-rating game-tape claim
+- **Claim:** "Stanford's pass was clean enough that Wisconsin's block-and-back-row didn't get the volume of out-of-system attacks the system normally feasts on."
+- **Why unsourced:** Game-tape inference. No primary stat-line source ingested.
+- **Research hypothesis:** NCAA.com 2019 championship box score; AVCA pass-rating data if archived.
+- **Added:** 2026-04-26
+
+### wiki/schools/texas-volleyball.md — Texas Olympian alumnae count
+- **Claim:** "The program's downstream Olympic placement count (multiple alumnae across 2016, 2020, 2024 cycles) is consistent with that ceiling."
+- **Why unsourced:** General Olympic-pipeline claim; no Texas-athletics media-guide ingested.
+- **Research hypothesis:** Texas athletics media guide; USA Volleyball roster archives 2016/2020/2024.
+- **Added:** 2026-04-26
+
+### wiki/schools/texas-volleyball.md — Texas in-system efficiency stat claim
+- **Claim:** "Texas's strategy is 'pass at a 2.3+ rating, deliver an in-system set, and have your pin hitter terminate at a >.300 efficiency.'"
+- **Why unsourced:** Editorial framing of Texas's in-system aesthetic; specific stat claims need AVCA/NCAA stat archive backing.
+- **Research hypothesis:** AVCA team stat archives 2022, 2023; NCAA.com season-summary tables for Texas hitting efficiency.
+- **Added:** 2026-04-26
+
+### wiki/schools/texas-volleyball.md — Jordan Larson Texas transfer
+- **Claim:** "Jordan Larson — Nebraska alum and US national team veteran — joined Texas in a graduate-transfer/eligibility-extension capacity in 2022, contributing to the championship season."
+- **Why unsourced:** Daily Texan coverage referenced in web search but not yet ingested as a source page.
+- **Research hypothesis:** Daily Texan article (https://thedailytexan.com/2022/01/22/jordan-larson-madisen-skinner-strengthen-texas-volleyballs-national-championship-campaign/); Texas athletics roster archive 2022.
+- **Added:** 2026-04-26
+
+### wiki/schools/texas-volleyball.md — 2025–26 Wisconsin-Texas matchup
+- **Claim:** "The two programs would meet in the 2025 SEC-vs-Big-Ten challenge schedule."
+- **Why unsourced:** Texas athletics 2026 schedule announcement referenced in web search but not yet ingested.
+- **Research hypothesis:** Texas athletics April 20, 2026 release ("Volleyball to host Wisconsin in marquee Moody Center matchup").
+- **Added:** 2026-04-26
+
+### wiki/schools/nebraska-volleyball.md — Nebraska in-state recruiting percentage
+- **Claim:** "A Cook-era Nebraska roster typically had 50%+ in-state players, with the remainder drawn from Iowa, the Dakotas, Kansas, and Minnesota."
+- **Why unsourced:** Roster-review claim; no Nebraska athletics media-guide ingested.
+- **Research hypothesis:** Nebraska athletics media guide 2000–2024; aggregate roster review across multiple seasons.
+- **Added:** 2026-04-26
+
+### wiki/schools/nebraska-volleyball.md — Cook ball-control primacy clinic statement
+- **Claim:** "Cook's published coaching emphasis is that the first contact (the pass) determines the second contact (the set) which determines the third (the attack)."
+- **Why unsourced:** Cook clinic recordings on AOC are the canonical source; no specific AOC clip ingested as a source page yet.
+- **Research hypothesis:** Cook AOC clinic catalogue; *Dream Like a Champion* (Cook 2017) chapters on system philosophy; ingest as separate book/source pages.
+- **Added:** 2026-04-26
+
+### wiki/schools/nebraska-volleyball.md — Cook coaching tree primary citation
+- **Claim:** Documented Cook coaching tree: Busboom Kelly, Tamas, Johnson-Lynch, Skinner, Meske, Conners, Hildebrand.
+- **Why unsourced:** Tree corroborated by Omaha World-Herald and Lincoln Journal-Star coverage in web search; no dedicated source pages ingested for those articles yet.
+- **Research hypothesis:** Create `wiki/sources/omaha-world-herald-cook-tree.md` from "After learning from John Cook, many former Nebraska assistants have gone on to lead their own programs"; create `wiki/sources/journalstar-cook-tree-2023.md` from corresponding Lincoln Journal-Star article.
+- **Added:** 2026-04-26
+
+### wiki/schools/nebraska-volleyball.md — Cook block-reading philosophy
+- **Claim:** "Cook's documented preference is read-blocking over committed swing-blocking."
+- **Why unsourced:** Cook AOC interview reference; no specific source page ingested yet.
+- **Research hypothesis:** Cook AOC clinic recordings on blocking philosophy; *Dream Like a Champion* (Cook 2017).
+- **Added:** 2026-04-26
+
+### wiki/schools/nebraska-volleyball.md — Nebraska culture-as-recruiting Hail Varsity coverage
+- **Claim:** "The Nebraska brand — 'we recruit the players who want to be Huskers, not the players we have to outbid for' — is the program's core advantage and limitation."
+- **Why unsourced:** Synthesized from Cook interviews and Hail Varsity feature coverage; no dedicated source page ingested.
+- **Research hypothesis:** Hail Varsity multi-year Cook interviews; *Dream Like a Champion* chapters on culture; ESPN feature on Cook's recruiting philosophy.
+- **Added:** 2026-04-26
+
+### wiki/schools/pittsburgh-volleyball.md — Fisher portal/international roster construction
+- **Claim:** "Pitt's championship roster construction has leaned heavily on transfer-portal additions and international-pipeline recruiting."
+- **Why unsourced:** Roster-review claim; no Pitt athletics media-guide ingested.
+- **Research hypothesis:** Pitt athletics media guide 2021–2025; aggregate roster review; international-pipeline reporting in Pittsburgh Post-Gazette and ACC media.
+- **Added:** 2026-04-26
+
+### wiki/schools/pittsburgh-volleyball.md — Fisher practice architecture inference
+- **Claim:** Detailed Fisher practice-architecture claims (situational repetition, broken-play emphasis, setter improvisation primacy, hybrid block strategy, libero-led pursuit defense).
+- **Why unsourced:** Practice-tape inference; no Fisher AOC clinic recording or first-person published methodology source has been ingested.
+- **Research hypothesis:** Fisher AOC clinic search; AVCA Convention Fisher session recordings; Pitt athletics video coverage of practice; Pittsburgh Post-Gazette Fisher feature articles.
+- **Added:** 2026-04-26
+
+### wiki/schools/pittsburgh-volleyball.md — Pitt 2024 Petersen Penn State record crowd
+- **Claim:** "The 2024 Petersen match against Penn State drew a 'record crowd.'"
+- **Why unsourced:** Pitt athletics September 19, 2024 release referenced in web search but no source page ingested.
+- **Research hypothesis:** Create source page from Pitt athletics release "No. 1 Pitt Sweeps No. 3 Penn State in Front of Record Crowd" (https://pittsburghpanthers.com/news/2024/9/19/...).
+- **Added:** 2026-04-26
+
+### wiki/schools/pittsburgh-volleyball.md — Pitt vs Texas tournament head-to-head
+- **Claim:** "Pitt has not yet beaten Texas in a tournament-elimination match (no documented NCAA-tournament Pitt-vs.-Texas matchup as of this writing; needs verification)."
+- **Why unsourced:** Negative claim; needs comprehensive head-to-head NCAA-tournament archive verification.
+- **Research hypothesis:** NCAA tournament results database 2013–2025 for Pitt-Texas matchups; Pitt athletics media guide tournament history section.
+- **Added:** 2026-04-26
+
+### wiki/schools/pittsburgh-volleyball.md — Fisher coaching tree completeness check
+- **Claim:** "Pitt has not yet placed a Fisher-era assistant in a documented Power-Five HC role as of this writing."
+- **Why unsourced:** Negative claim requiring comprehensive HC database review.
+- **Research hypothesis:** AVCA HC roster cross-reference for former Pitt assistants 2013–2025; Pitt athletics staff-history archive.
+- **Added:** 2026-04-26
+
+### wiki/schools/pittsburgh-volleyball.md — Fisher GMS-affiliation
+- **Claim:** "Fisher's methodology is closer to GMS's random-practice-and-motor-learning emphasis than to Texas's high-volume-in-system-rep model."
+- **Why unsourced:** Inference from Fisher AOC appearances; no GMS clinic placement directly documented.
+- **Research hypothesis:** GMS clinic catalog cross-reference; Fisher AOC interview transcripts; AVCA Convention session catalog 2015–2025.
+- **Added:** 2026-04-26

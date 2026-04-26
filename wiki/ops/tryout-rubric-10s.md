@@ -1,7 +1,7 @@
 ---
 type: ops-doc
 kind: tryout-rubric
-audience: coach
+audience: [coach, womens-indoor-6s]
 level: 14u
 sources: [usav-2026-simplified-youth-rules, usav-2026-growing-kids-volleyball, usav-2026-youth-volleyball-tips, aoc-2024-kids-passing-fundamentals, aoc-2024-kids-setting-fundamentals, aoc-2024-kids-attacking-fundamentals, aoc-2024-kids-serving-fundamentals, munciana-2022-camp-drills]
 ---

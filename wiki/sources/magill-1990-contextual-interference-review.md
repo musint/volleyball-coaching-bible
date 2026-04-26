@@ -8,6 +8,7 @@ citation-key: magill-1990-contextual-interference-review
 raw-file: raw/research/magill-1990-contextual-interference-review.md
 url: https://doi.org/10.1016/0167-9457(90)90005-X
 topics: [motor-learning, contextual-interference, random-vs-blocked-practice, generalized-motor-program, skill-acquisition, practice-design]
+participants-sex: unspecified
 featured-coaches: []
 schools: [gold-medal-squared, ecological-dynamics, constraints-led-approach]
 trust-tier: 1
