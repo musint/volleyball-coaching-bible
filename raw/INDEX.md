@@ -268,9 +268,19 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - matsudaira-volleyhall-biography.md — Yasutaka Matsudaira (Intl Volleyball Hall of Fame, induction 1998) — matsudaira-1998-hall-of-fame
 - matsudaira-wikipedia-biography.md — Yasutaka Matsudaira (Wikipedia biography, 2026 fetch) — matsudaira-2026-wikipedia-biography
 
-### Korean tradition (Track A.19-A.20 — Korean coaches)
+### Korean tradition (Tasks A.6 + A.19-A.20 + A.21)
 - park-man-bok-volleyhall-biography.md — Man-Bok Park (Intl Volleyball Hall of Fame, induction 2016) — park-man-bok-2016-hall-of-fame
 - park-man-bok-koreaherald-2016.md — "Korean volleyball coach to enter Hall of Fame" (Korea Herald 2016) — park-man-bok-2016-koreaherald-ivhf
+- korea-women-nt-wikipedia.md — South Korea women's national volleyball team (Wikipedia) — korea-women-nt-2026-wikipedia
+- kva-wikipedia.md — Korea Volleyball Association (Wikipedia) — kva-2026-wikipedia
+- kim-yeon-koung-wikipedia.md — Kim Yeon-koung (Wikipedia biography) — kim-yeon-koung-2026-wikipedia
+- vleague-korea-wikipedia.md — V-League (South Korea) (Wikipedia) — vleague-korea-2026-wikipedia
+- lavarini-2021-volleyballworld-feature.md — Lavarini infuses new energy to Korean programme (Volleyball World 2021) — lavarini-2021-volleyballworld-feature
+- lavarini-2021-koreatimes-feature.md — Volleyball players thrive under hard-working, adaptable coach (Korea Times 2021) — lavarini-2021-koreatimes-feature
+- worldofvolley-2021-lavarini-departure.md — Lavarini refuses new contract; assistant appointed Korea HC (WorldOfVolley 2021) — worldofvolley-2021-lavarini-departure
+- volleyballworld-2021-hernandez-korea-appointment.md — César Hernández González appointed Korea HC (Volleyball World 2021) — volleyballworld-2021-hernandez-korea-appointment
+- newsweek-2021-korea-tokyo-semifinal.md — Tokyo 2020: First Women's Volleyball Olympic Medal in 45 Years (Newsweek 2021) — newsweek-2021-korea-tokyo-semifinal
+- koreaherald-2021-tokyo-foundation.md — Foundation laid for future after Tokyo 2020 (Korea Herald 2021) — koreaherald-2021-tokyo-foundation
 
 ### French tradition (Task A.3 + A.21)
 - france-men-nt-wikipedia.md — France men's national volleyball team (Wikipedia) — france-men-nt-2026-wikipedia
