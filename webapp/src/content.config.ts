@@ -77,10 +77,10 @@ export const collections = {
     schema: z.object({
       type: z.literal('ops-doc'),
       kind: z.enum(['match-prep','tryout-rubric','club-ops']),
-      audience: z.union([
-        z.enum(['coach','parent','club-director','front-office']),
-        z.array(z.enum(['coach','parent','club-director','front-office'])),
-      ]).optional(),
+      // audience is dual-purpose: ops-doc reader role
+      // (coach|parent|club-director|front-office) and/or manual-layer
+      // audience (womens-indoor-6s|mens-indoor-6s|...). Accept either form.
+      audience: z.union([z.string(), z.array(z.string())]).optional(),
       level: LEVELS.optional(),
       sources: z.array(z.string()).min(1),
     }).passthrough(),
