@@ -5,6 +5,7 @@ Format: `- <path> — <source-title> — <citation-key>`
 
 ## books/
 - notes-bernardinho-2006-transformando-suor-em-ouro.md — *Transformando Suor em Ouro* (Bernardinho 2006), fair-use notes — bernardinho-2006-transformando-suor-em-ouro
+- notes-bernardinho-volei-aprendendo-jogar.md — *Vôlei: Aprendendo a Jogar* (~2000) + *Pensar Bem... Sai Bem*, Bernardinho earlier Portuguese books — notes-bernardinho-volei-aprendendo-jogar
 - notes-gozansky-2001-coaching-volleyball-successfully.md — *Volleyball Coach's Survival Guide* (Gozansky 2001) + *Championship Volleyball Techniques and Drills*, fair-use notes — notes-gozansky-2001-coaching-volleyball-successfully
 - notes-hebert-thinking-volleyball-2013.md — *Thinking Volleyball* (Mike Hebert 2013), fair-use notes — hebert-2013-thinking-volleyball
 - notes-kiraly-1997-championship-volleyball.md — *Championship Volleyball* (Kiraly 1997), fair-use notes — kiraly-1997-championship-volleyball
@@ -16,6 +17,8 @@ Format: `- <path> — <source-title> — <citation-key>`
 - notes-mccutcheon-recent-coaching-writings.md — McCutcheon post-2022 corpus (podcasts + FIVB), composite fair-use notes — notes-mccutcheon-recent-coaching-writings
 - notes-pauley-2009-volleyball-steps-to-success.md — *Volleyball: Steps to Success* (Kenny + Gregory 2006/2009; Schmidt 2nd ed. 2016), fair-use notes — notes-pauley-2009-volleyball-steps-to-success
 - notes-shondell-2014-volleyball-coaching-bible-v2.md — *The Volleyball Coaching Bible Volume II* (AVCA / Reynaud, ed., 2015), fair-use notes — notes-shondell-2014-volleyball-coaching-bible-v2
+- notes-velasco-generosita.md — *La generosità è la base della vita* (Velasco 2025) + clinic books (Italian), fair-use notes — notes-velasco-generosita
+- notes-winkelman-2020-language-of-coaching.md — *The Language of Coaching* (Winkelman 2021, Human Kinetics), fair-use notes — notes-winkelman-2020-language-of-coaching
 - notes-wise-coaching-writings.md — Mary Wise coaching writings + retirement-era reflections (1998 + 2002 + 2025), composite fair-use notes — notes-wise-coaching-writings
 
 ## articles/
@@ -390,6 +393,18 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - coelho-2021-female-athlete-triad-reds.md — Coelho et al. Female Athlete Triad / RED-S clinical review (Rev Bras Ginecol Obstet 2021) — coelho-2021-female-athlete-triad-reds
 - post-2019-specialization-overuse-volleyball.md — Post et al. sport specialization & overuse injury in youth volleyball (Sports Health 2019) — post-2019-specialization-overuse-volleyball
 - till-2022-ltad-practitioner-knowledge.md — Till et al. LTAD practitioner knowledge & adherence (PLoS One 2022) — till-2022-ltad-practitioner-knowledge
+
+### Sports-psychology cluster (Task B.5, 2026-04-25)
+- nogueira-2019-izof-volleyball-anxiety.md — Nogueira-Filho et al. IZOF model anxiety/self-efficacy in pro volleyball (Rev Bras Med Esporte 2019) — nogueira-2019-izof-volleyball-anxiety
+- kawabata-2021-mtq48-refinement.md — Kawabata et al. refined Short MTQ / Very Short MTQ mental-toughness measure (Stress Health 2021) — kawabata-2021-mtq48-refinement
+- pourmohseni-2025-imagery-collegiate-volleyball-season.md — Mixed-methods imagery use over a collegiate volleyball season (Movement Sport Sci 2025) — pourmohseni-2025-imagery-collegiate-volleyball-season
+- gorgulu-2021-avoiding-instructions-volleyball-pressure.md — Görgülü & Gökçek ironic-processes test in volleyball serving under pressure (J Hum Kinet 2021) — gorgulu-2021-avoiding-instructions-volleyball-pressure
+- billing-2014-pre-performance-routines-volleyball.md — Billing pre-performance routines & serving accuracy in club volleyball (UMN MA thesis 2014) — billing-2014-pre-performance-routines-volleyball
+- mesagno-2017-choking-models-interventions.md — Mesagno & Beckmann choking under pressure review: theoretical models & interventions (Curr Opin Psychol 2017) — mesagno-2017-choking-models-interventions
+- spink-1990-cohesion-collective-efficacy-volleyball.md — Spink group cohesion & collective efficacy of volleyball teams (JSEP 1990, foundational) — spink-1990-cohesion-collective-efficacy-volleyball
+- coussens-2024-coach-support-confidence-wellbeing.md — Coussens et al. perceived vs received coach support, confidence, wellbeing (Eur J Sport Sci 2024) — coussens-2024-coach-support-confidence-wellbeing
+- walter-2019-self-talk-junior-athletes.md — Walter et al. self-talk training RCT in junior sub-elite athletes (Sports MDPI 2019) — walter-2019-self-talk-junior-athletes
+- pires-2021-burnout-coping-volleyball-season.md — Pires & Ugrinowitsch burnout/coping across an annual volleyball season (J Hum Kinet 2021) — pires-2021-burnout-coping-volleyball-season
 
 ## images/
 *(populated as needed)*

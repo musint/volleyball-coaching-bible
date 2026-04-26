@@ -304,6 +304,7 @@ Full catalog auto-derivable by folder listing. Counts by cluster:
 - Italian-school ingests (Italy men's/women's NT): 2
 - USAV curriculum & toolbox: 11
 - Motor-learning / ecological-dynamics research: 6
+- Sports-medicine / injury-prevention research (Task B.3): 10 — ACL (Sassi 2025, Smith 2025), patellar tendinopathy (Gisslén 2005), shoulder (Kugler 1996), lumbar (Külling 2014), ankle (Verhagen 2005), concussion (Chandran 2022), RED-S (Coelho 2021), youth specialization (Post 2019), LTAD (Till 2022)
 - Rules (Wikipedia volleyball rules via WebFetch): 1
 - TGfU / Game-based training (Wikipedia): 1
 - Instagram (login-walled profile captures): 3

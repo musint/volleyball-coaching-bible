@@ -1080,3 +1080,36 @@ Per Tracks-A-B-C plan Task B.12 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c
 **Cross-reference notes:** Vol 1 source page forward-references existing wiki source for Vol 2 (`notes-shondell-2014-volleyball-coaching-bible-v2` ingested in B.8). Wise source page corroborates against existing `wise-2023-characterandleadership-profile`. McCutcheon composite complements existing `mccutcheon-2022-championship-behaviors` book source.
 
 Next: B.13 (citation-spread polish pass) once all 5 book clusters complete.
+
+
+## [2026-04-25] ingest | Injury-prevention research cluster (Task B.3) | 20 files (10 raw + 10 wiki sources)
+Per Tracks-A-B-C plan Task B.3 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`).
+
+**Papers ingested (Tier 1 peer-reviewed; abstracts plus key-findings extracted via PMC/PubMed/journal sites per SCHEMA §3.8 + §8.1 + §8.4):**
+
+| # | Citation key | Topic |
+|---|---|---|
+| 1 | `sassi-2025-acl-volleyball-systematic-review` | ACL injury epidemiology + prevention systematic review (15 studies, 3.3M athletes; 97% non-contact, 62% spike-landing; F:M 2-4:1; 15-20min NMT 2-3x/week consensus dose) |
+| 2 | `gisslen-2005-jumpers-knee-elite-junior-volleyball` | Patellar tendinopathy: 12 affected tendons in 57 elite junior volleyball players vs 0 in matched controls; neovascularization is the volleyball-specific imaging marker; sub-clinical pathology common |
+| 3 | `kugler-1996-shoulder-pain-volleyball-attackers` | Foundational paper: depressed playing shoulder + lateralized scapula + posterior capsule tightness in attackers; symptomatic > asymptomatic dose-response |
+| 4 | `kulling-2014-lumbar-spine-beach-volleyball` | 79% disc degeneration + 21% grade-4 spondylolysis (3x population) in pro beach volleyball MRI; 86% career LBP; imaging-pain dissociation |
+| 5 | `verhagen-2005-balance-board-ankle-prevention` | Cluster RCT (116 teams, 1122 players): proprioceptive balance-board warm-up reduces recurrent ankle sprains; ~€444/sprain prevented; strongest in players with prior sprain |
+| 6 | `chandran-2022-ncaa-concussion-epidemiology` | NCAA ISP 2014/15-2018/19 (3497 concussions, 8.4M AEs): women's volleyball concussion rates rising; mechanism profile in women's sports (39.2% equipment/apparatus contact) distinct from men's (77% player contact) |
+| 7 | `smith-2025-acl-return-to-play-volleyball` | NCAA D1 female volleyball ACL outcomes 2008-2020 (n=99): 93.1% RTP; 65.7% to substantial role; attackers 78.8% of injuries vs 54.7% of population |
+| 8 | `coelho-2021-female-athlete-triad-reds` | Clinical review: Triad (1993/1997 ACSM) → RED-S (2014 IOC); LEA <30 kcal/kg FFM/day affects 9+ systems; nutritional rehab + interdisciplinary care first-line; OCPs not a substitute |
+| 9 | `post-2019-specialization-overuse-volleyball` | n=716 youth athletes: specialization OR 2.3 + year-round OR 2.0 for overuse injury, **only in volleyball** (not basketball or soccer); 45.7% of volleyball youth report prior overuse injury |
+| 10 | `till-2022-ltad-practitioner-knowledge` | n=236 LTAD practitioners survey: only 2.7% incorporate full athleticism definition; weakest adherence on individualization, monitoring, systematic progression; 8 implementation challenges identified |
+
+**Coverage matched plan seeds:** ACL prevention (#1), patellar tendinopathy (#2), rotator-cuff/shoulder (#3), lumbar spine (#4), ankle sprain (#5), concussion (#6), RTP after ACL (#7), female athlete triad (#8), adolescent overuse (#9), LTAD (#10). All 10 seeds satisfied; no substitutions necessary.
+
+**Files created:**
+- `raw/research/<10 files>` — paper abstracts + key-findings extracts
+- `wiki/sources/<10 files>` — full SCHEMA §3.8 source pages, trust-tier 1, with Where-it's-cited stubs for forward references
+- `raw/INDEX.md` — 10 entries appended under "Injury-prevention cluster (Task B.3, 2026-04-25)"
+- `wiki/index.md` — Sources cluster count line added
+
+**Access flag:** Smith 2025 + Chandran 2022 + Külling 2014 abstract-only (full-text behind subscription); Sassi 2025 + Gisslén 2005 + Kugler 1996 + Verhagen 2005 + Coelho 2021 + Post 2019 + Till 2022 are open access (PMC). Per plan brief, abstract-only is acceptable when flagged in Access section. No findings fabricated beyond what the abstracts/full-text state.
+
+**Forward references:** all 10 sources have `Where it's cited: (later)` placeholders. Wave-3+ technique/age-lens/physical-hub pages will cite these (especially [[physical]], [[age-lens-14u.md]], [[age-lens-hs.md]], [[hitting]], [[blocking]], future injury-prevention pages).
+
+Next: B.4 (volleyball-specific conditioning research cluster) and remainder of Track B.
