@@ -5,12 +5,15 @@ Format: `- <path> — <source-title> — <citation-key>`
 
 ## books/
 - notes-bernardinho-2006-transformando-suor-em-ouro.md — *Transformando Suor em Ouro* (Bernardinho 2006), fair-use notes — bernardinho-2006-transformando-suor-em-ouro
+- notes-gozansky-2001-coaching-volleyball-successfully.md — *Volleyball Coach's Survival Guide* (Gozansky 2001) + *Championship Volleyball Techniques and Drills*, fair-use notes — notes-gozansky-2001-coaching-volleyball-successfully
 - notes-hebert-thinking-volleyball-2013.md — *Thinking Volleyball* (Mike Hebert 2013), fair-use notes — hebert-2013-thinking-volleyball
 - notes-kiraly-1997-championship-volleyball.md — *Championship Volleyball* (Kiraly 1997), fair-use notes — kiraly-1997-championship-volleyball
 - notes-kiraly-championship-volleyball.md — *Championship Volleyball* (Kiraly 1997), secondary capture — (same book as above)
 - notes-kiraly-2023-chasing-greatness.md — *Chasing Greatness* (Kiraly 2023), fair-use notes — kiraly-2023-chasing-greatness
 - notes-kiraly-chasing-greatness.md — *Chasing Greatness* (Kiraly 2023), secondary capture — (same book as above)
 - notes-mccutcheon-championship-behaviors.md — *Championship Behaviors* (McCutcheon 2022), fair-use notes — mccutcheon-2022-championship-behaviors
+- notes-pauley-2009-volleyball-steps-to-success.md — *Volleyball: Steps to Success* (Kenny + Gregory 2006/2009; Schmidt 2nd ed. 2016), fair-use notes — notes-pauley-2009-volleyball-steps-to-success
+- notes-shondell-2014-volleyball-coaching-bible-v2.md — *The Volleyball Coaching Bible Volume II* (AVCA / Reynaud, ed., 2015), fair-use notes — notes-shondell-2014-volleyball-coaching-bible-v2
 
 ## articles/
 ### Karch Kiraly (W1.2)

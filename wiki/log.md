@@ -1046,3 +1046,19 @@ Parallel dispatch of ~25 agents across Tasks A.2-A.21 produced:
 **Lint state:** Broken wikilinks: **1** (`[[munciana-juggle-passing]]` in this log file — known-stale historical reference, intentionally not patched per the user's "log.md is append-only-in-spirit" guidance). Invariants: **0** violations. Frontmatter: 29 warnings (pre-existing — non-blocking). Citations: 84 (pre-existing template-and-log noise — non-blocking). Orphans: 104 (pre-existing — to be addressed by Wave 3+). Concept gaps: **0** (was 2 before this dispatch — `[[mireya-luis]]` 6× and `[[stefano-lavarini]]` 3× both resolved).
 
 Next: Dispatch B (sports-science depth + book ingest).
+
+## [2026-04-25] ingest | Books cluster 1 (Task B.8) | 6 files (3 raw + 3 wiki sources)
+Per Tracks-A-B-C plan Task B.8 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`).
+
+**Books ingested (publisher-preview + reviews + interview-derived fair-use notes per SCHEMA §8.4):**
+- *The Volleyball Coaching Bible Volume II* (AVCA / Reynaud, ed., 2015, Human Kinetics) — slug `notes-shondell-2014-volleyball-coaching-bible-v2`. Raw: ~846w. Wiki source: ~502w. **Editorial correction**: Vol II edited by Reynaud alone (with AVCA), not Shondell; Shondell co-edited Vol I (2002). Slug retained for plan consistency.
+- *Volleyball: Steps to Success* (Bonnie Kenny + Cindy Gregory, 2006/2009; Becky Schmidt 2nd ed., 2016; Human Kinetics) — slug `notes-pauley-2009-volleyball-steps-to-success`. Raw: ~949w. Wiki source: ~579w. **Authorship correction**: actual authors are Kenny + Gregory (1st ed) and Schmidt (2nd ed); no Bonnie Pauley volleyball book exists. Slug retained for plan consistency.
+- *Volleyball Coach's Survival Guide* (Sue Gozansky, 2001, Parker Publishing) + *Championship Volleyball: Complete Book of Techniques and Drills* — slug `notes-gozansky-2001-coaching-volleyball-successfully`. Raw: ~867w. Wiki source: ~608w. **Title/publisher correction**: Gozansky's actual 2001 book is *Survival Guide* (Parker Publishing, ISBN 0130207578, 344 pp.), used as USAV CAP Level II Course textbook; not a Human Kinetics *Coaching Successfully* volume. Slug retained.
+
+**Sources updated:** `raw/INDEX.md` (3 new book-notes entries inserted in alphabetical order).
+
+**Trust tier:** All 3 are Tier 1 (published authoritative books — AVCA-endorsed anthology, Human Kinetics instructional series, USAV CAP textbook respectively).
+
+**Honesty:** All three plan slugs had factual mismatches (editor name / author name / title+publisher). Each correction is documented inline in both the raw note and the wiki source page; no fabrication. Wave-3 coach pages (e.g., [[sue-gozansky]], [[bonnie-kenny]], [[becky-schmidt]], [[cecile-reynaud]]) are forward-referenced.
+
+Next: B.9 (Beal + Hebert + McGown), B.10–B.12 (international + modern coaching books).
