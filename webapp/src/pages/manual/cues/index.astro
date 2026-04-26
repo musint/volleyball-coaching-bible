@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content';
+import ManualLayout from '../../../layouts/ManualLayout.astro';
+
+const cueDicts = await getCollection('cueDictionary');
+cueDicts.sort((a, b) => a.data.skill.localeCompare(b.data.skill));
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<ManualLayout title="Coaching cues">
+  <h1 class="font-serif text-3xl md:text-4xl font-bold tracking-tight text-stone-900 mb-2 mt-0">
+    Coaching cues by skill
+  </h1>
+  <p class="text-stone-600 mb-8 max-w-2xl">
+    The canonical phrasing every coach in the club uses. Pick a skill to see the
+    full dictionary — each cue is tagged with the age at which it's introduced,
+    refined, or lasts as a lifelong call. The cue page also has an age filter so
+    you can see "what should I be saying at 12s?" in one click.
+  </p>
+
+  <div class="grid sm:grid-cols-2 gap-4 mb-10 not-prose">
+    {cueDicts.map(c => (
+      <a href={`${base}/manual/cues/${c.id}/`} class="block p-5 rounded-lg border border-stone-200 hover:border-orange-400 hover:bg-orange-50 no-underline transition-colors">
+        <div class="kicker mb-2">{c.data.skill}</div>
+        <h2 class="font-serif text-lg font-bold text-stone-900 mb-1">{c.data.skill} cues →</h2>
+        <p class="text-sm text-stone-600">{(c.data['age-bands'] ?? []).length} age bands · {(c.data.sources ?? []).length} sources</p>
+      </a>
+    ))}
+  </div>
+
+  <div class="text-sm text-stone-500 border-t border-stone-200 pt-6">
+    <h3 class="font-serif text-base text-stone-700 mb-2">How to read a cue page</h3>
+    <ul class="space-y-1">
+      <li>Each cue is wrapped as a "card" with its age tags visible at a glance.</li>
+      <li>An <strong>orange-filled chip</strong> = the age the cue is introduced.</li>
+      <li>An <strong>orange-outlined chip</strong> = the age the cue is refined or extended.</li>
+      <li>A <strong>green chip</strong> = lifelong cue, never replaced.</li>
+      <li>Use the age filter at the top to scope to a single coaching context.</li>
+    </ul>
+    <p class="mt-4">
+      Looking for the broader cue hub with cross-references and schools-of-thought rationale? See <a href={`${base}/cues/`}>the cues hub</a>.
+    </p>
+  </div>
+</ManualLayout>
