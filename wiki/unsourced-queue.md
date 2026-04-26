@@ -15,6 +15,12 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ## Entries
 
+### wiki/practice-plans/college-fall-14-week-macrocycle.md — NCAA 20-hour CARA cap and 8-hour off-season cap
+- **Claim:** "The plan operates inside the NCAA 20-hour weekly cap during the playing season — countable athletically related activities (CARA) include practice, competition, video review, and required strength training, with one mandatory day off per week. Spring/summer carry an 8-hour cap with skill instruction restrictions; current legislation should be verified each year."
+- **Why unsourced:** The general structure of NCAA CARA hour-rules is widely documented but the specific limits and what counts toward them evolve regularly via NCAA legislation; no current-year primary citation has been ingested into this wiki yet.
+- **Research hypothesis:** NCAA Division I Manual current-year edition (Bylaw 17 — Playing and Practice Seasons); NCAA.org coaching education resources; AVCA compliance briefings; conference-specific compliance offices.
+- **Added:** 2026-04-24
+
 ### wiki/coaches/eugenio-george.md — Magaly Carvajal "look of death" nickname
 - **Claim:** Middle blocker Magaly Carvajal (1.90 m, 3.35 m spike reach) earned the nickname "the look of death" at the net.
 - **Why unsourced:** The nickname is documented on the Magaly Carvajal Wikipedia page (fetched 2026-04-24 during research for this profile) but no separate Carvajal source page has been created in this wiki, and the citation key is not yet resolvable. Inline tagged as `[unsourced]` pending source-page creation.
