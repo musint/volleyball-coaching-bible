@@ -11,9 +11,12 @@ Format: `- <path> — <source-title> — <citation-key>`
 - notes-kiraly-championship-volleyball.md — *Championship Volleyball* (Kiraly 1997), secondary capture — (same book as above)
 - notes-kiraly-2023-chasing-greatness.md — *Chasing Greatness* (Kiraly 2023), fair-use notes — kiraly-2023-chasing-greatness
 - notes-kiraly-chasing-greatness.md — *Chasing Greatness* (Kiraly 2023), secondary capture — (same book as above)
+- notes-liskevych-2002-volleyball-coaching-bible-v1.md — *The Volleyball Coaching Bible* Vol 1 (Shondell + Reynaud, eds., 2002), fair-use notes — notes-liskevych-2002-volleyball-coaching-bible-v1
 - notes-mccutcheon-championship-behaviors.md — *Championship Behaviors* (McCutcheon 2022), fair-use notes — mccutcheon-2022-championship-behaviors
+- notes-mccutcheon-recent-coaching-writings.md — McCutcheon post-2022 corpus (podcasts + FIVB), composite fair-use notes — notes-mccutcheon-recent-coaching-writings
 - notes-pauley-2009-volleyball-steps-to-success.md — *Volleyball: Steps to Success* (Kenny + Gregory 2006/2009; Schmidt 2nd ed. 2016), fair-use notes — notes-pauley-2009-volleyball-steps-to-success
 - notes-shondell-2014-volleyball-coaching-bible-v2.md — *The Volleyball Coaching Bible Volume II* (AVCA / Reynaud, ed., 2015), fair-use notes — notes-shondell-2014-volleyball-coaching-bible-v2
+- notes-wise-coaching-writings.md — Mary Wise coaching writings + retirement-era reflections (1998 + 2002 + 2025), composite fair-use notes — notes-wise-coaching-writings
 
 ## articles/
 ### Karch Kiraly (W1.2)
@@ -375,6 +378,18 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - pinder-2011-representative-learning-design.md — Pinder et al. on representative learning design (2011) — pinder-2011-representative-learning-design
 - shea-1979-contextual-interference.md — Shea & Morgan original contextual-interference study (1979) — shea-1979-contextual-interference
 - woods-2020-sport-ecology-designers.md — Woods et al. on sport ecology / coaches as designers (2020) — woods-2020-sport-ecology-designers
+
+### Injury-prevention cluster (Task B.3, 2026-04-25)
+- sassi-2025-acl-volleyball-systematic-review.md — Sassi et al. ACL volleyball systematic review (Frontiers Sports Active Living 2025) — sassi-2025-acl-volleyball-systematic-review
+- gisslen-2005-jumpers-knee-elite-junior-volleyball.md — Gisslén et al. jumper's knee in Swedish elite junior volleyball (BJSM 2005) — gisslen-2005-jumpers-knee-elite-junior-volleyball
+- kugler-1996-shoulder-pain-volleyball-attackers.md — Kugler et al. muscular imbalance & shoulder pain in volleyball attackers (BJSM 1996) — kugler-1996-shoulder-pain-volleyball-attackers
+- kulling-2014-lumbar-spine-beach-volleyball.md — Külling et al. lumbar disc degeneration & spondylolysis in pro beach volleyball (Orthop J Sports Med 2014) — kulling-2014-lumbar-spine-beach-volleyball
+- verhagen-2005-balance-board-ankle-prevention.md — Verhagen et al. proprioceptive balance-board RCT for ankle sprain prevention (BJSM 2005) — verhagen-2005-balance-board-ankle-prevention
+- chandran-2022-ncaa-concussion-epidemiology.md — Chandran et al. NCAA concussion epidemiology 2014/15-2018/19 (Am J Sports Med 2022) — chandran-2022-ncaa-concussion-epidemiology
+- smith-2025-acl-return-to-play-volleyball.md — Smith & Gallo ACL return-to-play in D1 female volleyball (Phys Sportsmed 2025) — smith-2025-acl-return-to-play-volleyball
+- coelho-2021-female-athlete-triad-reds.md — Coelho et al. Female Athlete Triad / RED-S clinical review (Rev Bras Ginecol Obstet 2021) — coelho-2021-female-athlete-triad-reds
+- post-2019-specialization-overuse-volleyball.md — Post et al. sport specialization & overuse injury in youth volleyball (Sports Health 2019) — post-2019-specialization-overuse-volleyball
+- till-2022-ltad-practitioner-knowledge.md — Till et al. LTAD practitioner knowledge & adherence (PLoS One 2022) — till-2022-ltad-practitioner-knowledge
 
 ## images/
 *(populated as needed)*

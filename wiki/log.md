@@ -1062,3 +1062,21 @@ Per Tracks-A-B-C plan Task B.8 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.
 **Honesty:** All three plan slugs had factual mismatches (editor name / author name / title+publisher). Each correction is documented inline in both the raw note and the wiki source page; no fabrication. Wave-3 coach pages (e.g., [[sue-gozansky]], [[bonnie-kenny]], [[becky-schmidt]], [[cecile-reynaud]]) are forward-referenced.
 
 Next: B.9 (Beal + Hebert + McGown), B.10–B.12 (international + modern coaching books).
+
+## [2026-04-25] ingest | Books cluster 5 (Task B.12) | 6 files (3 raw + 3 wiki sources)
+Per Tracks-A-B-C plan Task B.12 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`).
+
+**Books ingested (publisher-preview + reviews + interview-derived fair-use notes per SCHEMA §8.4):**
+- **Hugh McCutcheon — post-2022 corpus** — slug `notes-mccutcheon-recent-coaching-writings`. Composite of GAINcast 275 (HMMR Media, Oct 2023), Organizational Health Advantage S2E1 (Mar 2023), Changing the Game Project #315, TEDx Fargo, FIVB Senior-Advisor → Secretary General appointment (Nov 2024), and FIVB CV PDF (Dec 2024). McCutcheon has not published a second book; this composite captures the post-*Championship Behaviors* podcast/speaking corpus with timestamped GAINcast 275 quotes (time as constraint, skill-acquisition+application, fundamental mastery, against controlled-input practice, practice ≠ exercise, rules vs principles, buy-in via rationale). Raw: ~1100w. Wiki source: ~480w.
+- **Mary Wise — published-coaching footprint** — slug `notes-wise-coaching-writings`. Composite of *Volleyball Drills for Champions* (1998 Human Kinetics; Wise editor; 7 contributing coaches; ISBN 9780880117784), *Volleyball Coaching Bible* Vol 1 Chapter 13 "Serving" (2002), *Foundations for Successful Volleyball* instructional video (1999), and Florida Gators retirement coverage (Feb 6-7, 2025). Wise retired Feb 6, 2025 with 987-150 at Florida (.868), 1,068 total, 25 SEC titles, 8 NCAA Final Fours, 3 AVCA National Coach of the Year. Six recurring philosophy themes: relationships-first, find-each-player's-superpower, shared-ownership, family-meetings, competitive intensity + care, lives-not-wins. Raw: ~1300w. Wiki source: ~470w.
+- **The Volleyball Coaching Bible Vol 1 (Shondell + Reynaud, eds., 2002, Human Kinetics + AVCA)** — slug `notes-liskevych-2002-volleyball-coaching-bible-v1`. **Editorial correction:** plan brief attributed Vol 1 editorship to "Liskevych ed." which is INCORRECT — both Vol 1 (2002) and Vol 2 (2014) are Shondell + Reynaud (eds.); Liskevych is a Chapter 21 contributor only ("Dominating Defensive Systems"). Slug retained for plan consistency; correction documented in source-page frontmatter and body. 24 contributing coaches, 24 chapters, 369 pages. Full ToC ingested with chapter→author mapping. Raw: ~1500w. Wiki source: ~430w.
+
+**Sources updated:** `raw/INDEX.md` (3 new book-notes entries inserted in alphabetical order: liskevych-v1, mccutcheon-recent, wise).
+
+**Trust tier:** All 3 are Tier 1 (McCutcheon-authored podcast appearances + the FIVB CV; Wise-edited/authored Human Kinetics anthologies + AVCA-validated retirement coverage; AVCA-affiliated 24-contributor anthology with 24 credentialed coach-authors).
+
+**Honesty:** Plan brief had one factual mismatch (Vol 1 editorship attributed to Liskevych rather than Shondell + Reynaud). Documented inline; no fabrication. McCutcheon and Wise composites were necessary because neither has a true second book; both are clearly framed as composites of fair-use accessible material rather than as full-book summaries.
+
+**Cross-reference notes:** Vol 1 source page forward-references existing wiki source for Vol 2 (`notes-shondell-2014-volleyball-coaching-bible-v2` ingested in B.8). Wise source page corroborates against existing `wise-2023-characterandleadership-profile`. McCutcheon composite complements existing `mccutcheon-2022-championship-behaviors` book source.
+
+Next: B.13 (citation-spread polish pass) once all 5 book clusters complete.
