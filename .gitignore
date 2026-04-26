@@ -31,3 +31,21 @@ Munciana Drills/*.mp4
 
 # Git worktrees (local isolation for feature branches)
 .worktrees/
+
+# Privacy: not pushed to public repo
+# - raw/articles/ — extracted article texts; fair use for private analysis but
+#   pushing verbatim to a public repo is one step further than needed
+# - raw/transcripts/munciana-2022-camp-drills.md — private internal staff video
+raw/articles/
+raw/transcripts/munciana-2022-camp-drills.md
+
+# Local backups (never commit)
+*.backup-*
+
+# Astro / Node
+webapp/node_modules/
+webapp/dist/
+webapp/.astro/
+webapp/.env
+webapp/.env.local
+node_modules/
