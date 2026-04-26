@@ -2,6 +2,27 @@
 
 Append-only log of wiki operations. Prefix format: `## [YYYY-MM-DD] <operation> | <short>`.
 
+## [2026-04-24] ingest | Books cluster 2 (Task B.9) — Beal + Hebert + McGown | 6 files (3 raw + 3 wiki sources)
+Per Tracks-A-B-C plan Task B.9 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`).
+
+**Books ingested (publisher-preview + reviews + biographical-encyclopedia + AOC-platform-interview-derived fair-use notes per SCHEMA §8.4, all composites):**
+
+- **Doug Beal coaching corpus** — slug `notes-beal-coaching-writings`. Composite of *Spike!* (1985, Avant Books / Slawson Communications, ISBN 0932238300, ~155 pages, with Marc Katz), *The Volleyball Coaching Bible* Vol 1 Part 2 Ch 4 "Seeking Excellence in a Program—Going for the Gold" (Shondell + Reynaud eds., 2002, Human Kinetics, ISBN 0736039678), and *Volleyball: The Keys to Excellence / Coaching Tips for the 90's* (Sports Support Syndicate, 2nd ed. February 1991, ISBN 1878602365). Raw: ~1100w. Wiki source: ~960w. **Status correction:** plan brief stated "Doug Beal passed in 2024"; Wikipedia records no death date as of 2026-04-24 fetch and no obituary surfaces in Web search — no claim of death is made on the source page. *Spike!* coverage is the 1977-1984 USA Men's NT rebuild (two-player passing replacing five-player passing; 1978 Dayton training-center → 1981 San Diego; player handling for Kiraly/Smith/Hovland; Yuri Chesnokov mentorship). Lebedew 2014 essay supplies on-the-record Beal positions on rules/coaching authority/loss-of-national-style. AOC 2025 Beal-Josephson interview (already on file) anchors Beal's modern passing-and-approach inseparability stance.
+
+- **Mike Hebert "Beyond X's and O's" composite** — slug `notes-hebert-beyond-xs-and-os`. **Naming-disambiguation correction:** plan brief named the source as a Hebert book "distinct from his *Thinking Volleyball* (2013) which is already on file." Web research surfaces no separate Hebert title called *Beyond X's and O's*; the phrase appears only in the publisher description for *Thinking Volleyball* itself ("*Thinking Volleyball* goes beyond the Xs and Os..."). Wikipedia names only one of Hebert's "two books" explicitly (the 1993 *Fire Still Burns* autobiography w/ Dave Johnson; the second understood to be *Thinking Volleyball*); his 1991 *Insights and Strategies for Winning Volleyball* (Leisure Press, ISBN 0880114231, 210 pages) is a third book Wikipedia did not include in its count. Source page consolidates all three under the publisher's "beyond X's and O's" thematic frame and explicitly clarifies that the existing source page `[[hebert-2013-thinking-volleyball]]` remains the canonical *Thinking Volleyball* reference; this composite is its bibliographic-context companion (and forward-protection against future agents re-attempting to source the non-existent volume). Raw: ~870w. Wiki source: ~830w.
+
+- **Carl McGown coaching books composite** — slug `notes-mcgown-foundations-for-coaches`. **Title and authorship correction:** plan brief named the source "Carl McGown + Hilary McGown + Mariv Adamson, *Volleyball: Foundations for Coaches*" and described it as "GMS canonical text." Web research surfaces no McGown book with that exact title; "Hilary McGown" / "Mariv Adamson" do not appear as co-authors in Open Library, Amazon, Goodreads, B&N, GMS site, AbeBooks, or Web search. Open Library's authoritative McGown bibliography lists three coaching books — *Science of Coaching Volleyball* (1994, solo, Human Kinetics, ISBN 0873225724), *Complete Volleyball for Coaches* (1995, w/ Hilda Fronske, Brown & Benchmark), and *Coaching Volleyball: Building a Winning Team* (2000, w/ Hilda Fronske + Launa Moser, Allyn & Bacon, ISBN 0205309585) — plus McGown's peer-reviewed AVCA whole-vs-part-training article (with Steve Bain). Source page consolidates all three books with *Science of Coaching Volleyball* (1994) as primary "GMS canonical text" reference and *Coaching Volleyball: Building a Winning Team* (2000) as the comprehensive textbook companion most likely intended by the brief's "Foundations for Coaches" framing. Raw: ~1200w. Wiki source: ~1100w.
+
+**Sources updated:** `raw/INDEX.md` (3 new book-notes entries inserted in alphabetical order: notes-beal-coaching-writings, notes-hebert-beyond-xs-and-os, notes-mcgown-foundations-for-coaches).
+
+**Trust tier:** All 3 are Tier 1 (Beal published Avant/AVCA/Sports-Support material with named-contributor attribution; Hebert Human Kinetics + Leisure Press published books; McGown Human Kinetics + Allyn & Bacon published textbooks plus peer-reviewed AVCA paper).
+
+**Honesty:** All three plan briefs had factual mismatches (Beal death status; Hebert "Beyond X's and O's" as separate book; McGown "Foundations for Coaches" / Hilary McGown / Mariv Adamson). Each correction is documented inline in both the raw note and the wiki source page; no fabrication. The Hebert and McGown source pages explicitly tag themselves as bibliographic-context companions to the existing canonical wiki sources (`[[hebert-2013-thinking-volleyball]]`, the GMS-school methodology citations on `[[carl-mcgown]]`).
+
+**Cross-reference notes:** Beal source page corroborates against existing `[[beal-wikipedia-bio]]`, `[[beal-nd-aoc-profile]]`, and `[[aoc-2025-beal-josephson-dont-train-passing-isolation]]`. Hebert source page complements existing `[[hebert-2013-thinking-volleyball]]` (canonical) + `[[hebert-wikipedia-bio]]` + `[[hebert-usav-obituary]]`. McGown source page complements existing `[[gms-2017-thank-you-carl-mcgown]]` + `[[mcgown-2017-usav-remembering]]` + `[[gms-nd-structure-practice]]`.
+
+Next: Track B continues with B.13 (citation-spread polish pass) once all 5 book clusters complete (B.8/9/10/11/12 all now landed per current log).
+
 ## [2026-04-25] ingest | Books cluster 4 (Task B.11) — Mizoguchi + Matsudaira + federation manual | touched 6 pages
 
 Executed Tracks A/B/C plan Task B.11 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`).
@@ -1239,3 +1260,39 @@ Ingested 10 peer-reviewed papers (Tier 1) covering periodization, plyometric pro
 **Source-page count after this ingest:** +10 conditioning research papers. All trust-tier 1, peer-reviewed. Pages stand as forward-reference targets for Wave 3+ technique / position / physical hub citations (no inbound wikilinks yet — this is expected per the bootstrap pattern; lint will flag as orphans until cited).
 
 Next: B.13 citation-spread polish or remaining B clusters per dispatch plan.
+
+
+## [2026-04-25] ingest | Sports-psychology research cluster (Task B.5) | 20 files (10 raw + 10 wiki sources)
+Per Tracks-A-B-C plan Task B.5 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`).
+
+**Papers ingested (Tier 1 peer-reviewed; abstract-level extraction per SCHEMA §3.8 + §8.1 + §8.4):**
+
+| # | Citation key | Topic |
+|---|---|---|
+| 1 | `nogueira-2019-izof-volleyball-anxiety` | IZOF model in 7 male pro volleyballers, full season; per-athlete optimal anxiety zones differ widely; extends to self-efficacy |
+| 2 | `kawabata-2021-mtq48-refinement` | Original MTQ48 fits poorly across 5,395 athletes; 18-item Short MTQ + 6-item Very Short MTQ are the new validated instruments |
+| 3 | `pourmohseni-2025-imagery-collegiate-volleyball-season` | Mixed-methods season-long imagery use in collegiate volleyball; high within-team heterogeneity; coach scaffolding required for consistency |
+| 4 | `gorgulu-2021-avoiding-instructions-volleyball-pressure` | Wegner ironic-processes theory NOT supported in 43-player volleyball serving experiment under pressure; Woodman ironic/non-ironic distinction better fits |
+| 5 | `billing-2014-pre-performance-routines-volleyball` | Null finding (UMN MA thesis): PPRs did not improve serving accuracy in club volleyball; women maintain routines more consistently but no performance edge |
+| 6 | `mesagno-2017-choking-models-interventions` | Comprehensive review: two complementary theoretical families (attention-based, self-presentation); empirically-supported interventions (acclimatization, PPRs, attentional cues, left-hand contraction, quiet-eye) |
+| 7 | `spink-1990-cohesion-collective-efficacy-volleyball` | Foundational JSEP citation: cohesion-collective-efficacy correlation present at elite level, absent at recreational level; task cohesion stronger than social cohesion |
+| 8 | `coussens-2024-coach-support-confidence-wellbeing` | N=537 mediation analysis: perceived coach support → self-confidence; received coach support → wellbeing; both via coach-athlete relationship quality |
+| 9 | `walter-2019-self-talk-junior-athletes` | RCT (N=117): 8-week self-talk training reduces anxiety, raises self-efficacy with sustained gains, raises coach-rated performance; 1-week training is transient |
+| 10 | `pires-2021-burnout-coping-volleyball-season` | Longitudinal (N=54, 4 timepoints, 10 months): reduced accomplishment + sport devaluation rise across season; coping skills do not adapt; confidence/motivation buffer burnout |
+
+**Coverage matched plan seeds:** IZOF (#1), MTQ48 (#2), imagery (#3), pressure performance NCAA (#4 — closest available volleyball-pressure-serving paper, teenage rather than NCAA but mechanism evidence transfers), pre-serve routines (#5), choking mechanisms (#6), team cohesion + collective efficacy (#7), coach-athlete relationship (#8), self-talk (#9), burnout/dropout junior volleyball (#10 — pro-volleyball longitudinal burnout study substituted for junior-specific dropout because it is the strongest volleyball-specific evidence available). Both seed deviations are documented in source-page Access sections.
+
+**Files created:**
+- `raw/research/<10 files>` — paper abstracts + key-findings extracts
+- `wiki/sources/<10 files>` — full SCHEMA §3.8 source pages, trust-tier 1, with Where-it's-cited stubs for forward references
+- `raw/INDEX.md` — 10 entries appended under "Sports-psychology cluster (Task B.5, 2026-04-25)"
+- `wiki/index.md` — Sources cluster count line added
+- `wiki/log.md` — this entry
+
+**Access flag:** Mesagno 2017 + Spink 1990 + Kawabata 2021 are abstract-only (paywalled or behind login); Görgülü 2021 + Coussens 2024 + Walter 2019 + Pires 2021 are PMC open access; Billing 2014 is open-access UMN thesis; Nogueira-Filho 2019 is SciELO open access (Portuguese-language PDF not text-extractable, so reconstructed from English search-result summary). Per plan brief, abstract-only is acceptable when flagged. No findings fabricated.
+
+**Forward references:** all 10 sources have `Where it's cited: (later)` placeholders. Wave-3+ pages that should cite these include [[mental]] (most papers), [[philosophy]] (cohesion/coach-relationship papers), [[age-lens-14u]] (burnout, junior self-talk), [[age-lens-hs]] / [[age-lens-college]] (collegiate imagery, NCAA pressure work), [[serving]] (PPR + ironic-processes papers), [[practice-planning]] (pressure-acclimatization training), and future culture/leadership pages.
+
+**Trust tier:** All 10 are Tier 1 (9 peer-reviewed journal articles + 1 University of Minnesota MA thesis, transparently flagged as a thesis rather than journal article).
+
+Next: B.6 (motor-learning beyond CI) is the last remaining research cluster on Track B.
