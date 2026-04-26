@@ -16,12 +16,17 @@ sources:
   - aoc-2018-dunning-serve-warmup
   - aoc-2024-kiraly-serving-errors
   - kiraly-1997-championship-volleyball
+  - reiser-2020-float-serve-effect
+  - reeser-2010-upper-limb-serve-spike
+  - billing-2014-pre-performance-routines-volleyball
+  - gorgulu-2021-avoiding-instructions-volleyball-pressure
+  - lola-2012-implicit-explicit-volleyball-serving
 ---
 
 # Serving — Standing Float
 
 ## Overview
-The float serve is the modern default in women's volleyball from 14U through the college and international levels, and it remains a core tool in the men's game alongside jump-topspin. The ball travels with little or no spin so that small imperfections in the seams, airflow, and micro-rotations produce an unpredictable flight — dropping, drifting, or knuckling late — that is hard for a passer to read. Done well, a flat, knuckling float keeps passers guessing about depth and makes the setter's first-ball job materially harder; done poorly, it is the easiest serve in the game to pass.
+The float serve is the modern default in women's volleyball from 14U through the college and international levels, and it remains a core tool in the men's game alongside jump-topspin. The ball travels with little or no spin so that small imperfections in the seams, airflow, and micro-rotations produce an unpredictable flight — dropping, drifting, or knuckling late — that is hard for a passer to read. Trajectory analysis quantifies what the passer experiences: vertical residuals from the parabolic flight path are roughly twice the magnitude of horizontal residuals, with anticipation errors up to ~1.5 m vertically [reiser-2020-float-serve-effect]. Done well, a flat, knuckling float keeps passers guessing about depth and makes the setter's first-ball job materially harder; done poorly, it is the easiest serve in the game to pass. Compared with the jump-topspin or hard spike, the float serve carries notably lower shoulder kinetic load — a meaningful tradeoff for managing-shoulder seasons or recovering athletes [reeser-2010-upper-limb-serve-spike].
 
 This page covers the **standing** float serve, the base of every float variant. Jump-float, which adds an approach and a small hop, is covered at [[serving-jump-float]]; strategic mixing of float with other serves is covered at [[serving-hybrid]]. For placement and intent (who to serve, where, when), see [[serving-hybrid]] and the serve-plan material inside it.
 
@@ -38,11 +43,11 @@ Work in this order; do not accelerate past a step a player has not owned.
 
 4. **Move back to the service line, keep the tempo.** Extend serving distance in stages the way the Stanford/Dunning warm-up script handles it — start short and slow, walk back, add speed gradually. Most 14U missed serves at the end line come from players skipping this ramp and trying to muscle the ball from the back with the same arm action that worked at the 10-foot line. The whole body has to do more work, not the arm alone.
 
-5. **Add a target.** Only after the mechanical pattern is stable — toss consistent, tempo right, ball flat — introduce placement. Start with a deep middle target (Zone 6 or seam), then split into Zones 1 and 5 corners, then short serves inside the 10-foot line to pull a front-row passer. Rose's single-server-at-a-time format, where the coach gives feedback on technique, placement, contact, and outcome after each rep, is the right pedagogy here; volume without feedback re-grooves whatever error the player brought to the line.
+5. **Add a target.** Only after the mechanical pattern is stable — toss consistent, tempo right, ball flat — introduce placement. Start with a deep middle target (Zone 6 or seam), then split into Zones 1 and 5 corners, then short serves inside the 10-foot line to pull a front-row passer. Rose's single-server-at-a-time format, where the coach gives feedback on technique, placement, contact, and outcome after each rep, is the right pedagogy here; volume without feedback re-grooves whatever error the player brought to the line. For 14U and beginner servers learning *where* to serve, the motor-learning evidence supports an **implicit-then-explicit** progression: front-load perception-based reps (live receivers, real targets, no rules) before layering on verbal "rules of where to serve" — the sequential implicit-then-explicit ordering produced the best decision-making accuracy in matched novices [lola-2012-implicit-explicit-volleyball-serving].
 
 6. **Add pressure.** Once targets are landing in practice, overlay game-likeness: teammates heckling during reps, serve-to-win games (10 in a row or the drill resets), fatigue blocks at the end of practice. Kiraly's "simulate match pressure in practice" framing and Reid Priddy's "Just me and the ball" attentional cue both belong in this layer — the goal is that the server's mechanical pattern does not fall apart the first time the match feels hard.
 
-A serving **ritual** (bounce the ball a fixed number of times, breath, visualize the target, serve) should be introduced alongside the pressure layer. Rose's point is that every serve is a discrete performance and the ritual is what keeps the server's attention off the "serving demons" (in-match doubt) and on the execution.
+A serving **ritual** (bounce the ball a fixed number of times, breath, visualize the target, serve) should be introduced alongside the pressure layer. Rose's point is that every serve is a discrete performance and the ritual is what keeps the server's attention off the "serving demons" (in-match doubt) and on the execution. Coaches should hold the empirical evidence with appropriate humility, however: the volleyball-specific test of whether having a stable pre-performance routine improves serving accuracy returned a **null result** in club competitive play (no advantage for routine-stable servers vs. routine-inconsistent ones) [billing-2014-pre-performance-routines-volleyball]. The defensible reading: rituals likely matter less for *whether* you have one than for *what specifically it loads attention onto* (target, contact, breath) — and rituals interact with how you cue the serve. A related volleyball-specific test of "don't serve into the net" prohibition under pressure failed to replicate Wegner's classic ironic-processes prediction (no extra net errors under high anxiety), but did show distinct attentional-control disruption patterns — meaning negative-instruction phrasing is not uniquely catastrophic but the attentional load it adds is real [gorgulu-2021-avoiding-instructions-volleyball-pressure].
 
 ## Common errors
 - **Inconsistent toss** — by far the single biggest killer. Height varies rep-to-rep, or the ball drifts behind the head, or spin leaves the tossing hand. Fix: strip the swing entirely and run pure toss reps to a target (see Step 1). If a player cannot put 8 of 10 tosses onto a hula hoop on the floor in front of them, they will never serve well from the end line.
@@ -62,6 +67,7 @@ A serving **ritual** (bounce the ball a fixed number of times, breath, visualize
 - [[heckle-the-server]] — teammates heckle during serving reps to rehearse pressure
 
 ## Sources
+
 - [[aoc-2025-float-serve-3-keys]]
 - [[aoc-2024-float-serve-toss]]
 - [[aoc-2020-types-of-serves]]
@@ -72,3 +78,8 @@ A serving **ritual** (bounce the ball a fixed number of times, breath, visualize
 - [[aoc-2018-dunning-serve-warmup]]
 - [[aoc-2024-kiraly-serving-errors]]
 - [[kiraly-1997-championship-volleyball]]
+- [[reiser-2020-float-serve-effect]]
+- [[reeser-2010-upper-limb-serve-spike]]
+- [[billing-2014-pre-performance-routines-volleyball]]
+- [[gorgulu-2021-avoiding-instructions-volleyball-pressure]]
+- [[lola-2012-implicit-explicit-volleyball-serving]]

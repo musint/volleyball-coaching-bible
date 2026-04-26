@@ -20,6 +20,7 @@ sources:
   - aoc-2024-float-serve-toss
   - aoc-2020-passing-principles
   - aoc-2017-one-big-thing-panel
+  - notes-shondell-2014-volleyball-coaching-bible-v2
 ---
 
 # John Dunning

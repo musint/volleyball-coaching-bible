@@ -14,6 +14,7 @@ sources:
   - aoc-2018-rose-back-row-skills
   - aoc-2024-kiraly-training-libero
   - kiraly-1997-championship-volleyball
+  - rydberg-2011-self-controlled-forearm-passing
 ---
 
 # Defense — Platform

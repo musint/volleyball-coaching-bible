@@ -12,6 +12,7 @@ sources:
   - bernardinho-2022-ivhf-induction-bio
   - guimaraes-2026-wikipedia
   - bebeto-de-freitas-2026-wikipedia-bio
+  - notes-bernardinho-volei-aprendendo-jogar
 ---
 
 # Bernardo Rezende ("Bernardinho")

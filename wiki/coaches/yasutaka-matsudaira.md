@@ -10,6 +10,7 @@ sources:
   - matsudaira-1998-hall-of-fame
   - matsudaira-2026-wikipedia-biography
   - nakagaichi-2020-fivb-feature
+  - notes-matsudaira-japanese-coaching-philosophy
 ---
 
 # Yasutaka Matsudaira

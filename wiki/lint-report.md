@@ -1,11 +1,21 @@
 # Wiki Lint Report
 
-Generated: 2026-04-25T17:42:45
+Generated: 2026-04-25T18:25:11
 
 ## Broken wikilinks
-Broken wikilinks: 1
+Broken wikilinks: 11
 
+- wiki\log.md: [[becky-schmidt]]
+- wiki\log.md: [[bonnie-kenny]]
+- wiki\log.md: [[cecile-reynaud]]
+- wiki\log.md: [[coaching-cues]]
+- wiki\log.md: [[constraints-led-approach]]
 - wiki\log.md: [[munciana-juggle-passing]]
+- wiki\log.md: [[sue-gozansky]]
+- wiki\log.md: [[techniques]]
+- wiki\sources\notes-gozansky-2001-coaching-volleyball-successfully.md: [[sue-gozansky]]
+- wiki\sources\notes-shondell-2014-volleyball-coaching-bible-v2.md: [[avca]]
+- wiki\sources\notes-shondell-2014-volleyball-coaching-bible-v2.md: [[usa-volleyball-cap]]
 
 ## Cross-link invariant violations
 Violations: 0
@@ -45,8 +55,10 @@ Failures: 29
 - wiki\_templates\technique.md: invalid enum value '<skill>' for 'skill'
 
 ## Unresolved citation keys
-Unresolved: 85
+Unresolved: 94
 
+- wiki\log.md: [2026-04-24]
+- wiki\log.md: [2026-04-25]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
@@ -85,12 +97,10 @@ Unresolved: 85
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [mike-lingenfelter]
 - wiki\log.md: [2026-04-24]
-- wiki\log.md: [2026-04-24]
-- wiki\log.md: [2026-04-24]
-- ...and 45 more
+- ...and 54 more
 
 ## Orphan pages
-Orphans: 104
+Orphans: 116
 
 - wiki\schools\alberta-volleyball.md (type=school)
 - wiki\schools\iowa-state-volleyball.md (type=school)
@@ -132,19 +142,18 @@ Orphans: 104
 - wiki\sources\aoc-2019-music-motivational-force.md (type=source)
 - wiki\sources\aoc-2019-push-superior-players.md (type=source)
 - wiki\sources\aoc-2019-ratkowski-practice-purpose.md (type=source)
-- ...and 64 more
+- ...and 76 more
 
 ## Stale methodology pages
-Stale: 1
+Stale: 0
 
-- wiki\schools\ecological-dynamics.md (newest source year 2020)
 
 ## Concept gaps
 Gaps: 0
 
 
 ## Unsourced-queue consistency
-Issues: 39
+Issues: 43
 
 - wiki\age-lens-college.md: has [unsourced] tag but no matching queue entry
 - wiki\log.md: has [unsourced] tag but no matching queue entry
@@ -167,7 +176,6 @@ Issues: 39
 - wiki\coaches\vyacheslav-platonov.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\yasutaka-matsudaira.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\yuichi-nakagaichi.md: has [unsourced] tag but no matching queue entry
-- wiki\schools\block-vs-random-practice.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\french-school.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\italian-school.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\japanese-training.md: has [unsourced] tag but no matching queue entry
@@ -184,4 +192,7 @@ Issues: 39
 - wiki\sources\mccutcheon-2021-volleybrains-ep30.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\nakagaichi-2020-fivb-feature.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\nakagaichi-2021-biography.md: has [unsourced] tag but no matching queue entry
-- wiki\sources\platonov-2026-wikipedia.md: has [unsourced] tag but no matching queue entry
+- wiki\sources\notes-bernardinho-volei-aprendendo-jogar.md: has [unsourced] tag but no matching queue entry
+- wiki\sources\notes-matsudaira-japanese-coaching-philosophy.md: has [unsourced] tag but no matching queue entry
+- wiki\sources\notes-mizoguchi-coaching-volleyball.md: has [unsourced] tag but no matching queue entry
+- ...and 3 more

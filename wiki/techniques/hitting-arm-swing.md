@@ -11,6 +11,10 @@ sources:
   - aoc-2017-liskevych-asics-hitting
   - aoc-2024-kids-attacking-fundamentals
   - kiraly-1997-championship-volleyball
+  - oliveira-2020-spike-kinematics-systematic-review
+  - reeser-2010-upper-limb-serve-spike
+  - slovak-2023-external-focus-volleyball-spike
+  - kugler-1996-shoulder-pain-volleyball-attackers
 ---
 
 # Hitting Arm Swing
@@ -23,7 +27,17 @@ predominantly from **torque** — the rotation of the torso with the hips and
 core driving through — and the second key is **hand height at contact**:
 a high contact point lets the hitter hit down through the ball, over the
 block, and into the floor rather than into the top of the net or into the
-block's hands.
+block's hands. The biomechanics literature confirms the kinetic-chain
+priority: **wrist linear velocity** is the strongest correlate of ball-impact
+speed (the most-distal segment in a proximal-to-distal sequencing of
+shoulder → elbow → wrist), with **trunk rotation** as the second-largest
+contributor; "hit harder" cues that target the shoulder alone work against
+the kinetic chain
+[oliveira-2020-spike-kinematics-systematic-review][reeser-2010-upper-limb-serve-spike].
+Cross-court spikes specifically demand greater trunk rotation than line
+spikes, so coaching different attack directions means coaching different
+biomechanical patterns
+[oliveira-2020-spike-kinematics-systematic-review].
 
 A modern full swing is a two-arm action, not a one-arm action. Both arms
 rise during the approach's plant step (the "double-arm lift"), storing
@@ -51,7 +65,12 @@ behind the head, eyes sighting the contact point on the wall) and snaps
 the ball into the wall, catching the rebound. Cue "elbow leads, hand
 finishes high, wrist snaps through." The wall provides immediate feedback
 on contact angle — ball snapping down vs. drifting up tells you whether
-the contact point was above the hand or behind it.
+the contact point was above the hand or behind it. **External-focus** cues
+("crack a whip", "snap the ball through the wall") produce significantly
+faster hand, forearm, and arm velocities than internal-focus cues ("pull
+back your elbow") in young female hitters in 3-D motion-capture
+testing, so the cue language matters
+[slovak-2023-external-focus-volleyball-spike].
 
 **Stage 3 — Partner throw-to-hit across the net.** Two players face
 across the net. The first throws an approaching ball (using the hitting
@@ -100,10 +119,19 @@ Covered on [[hitting-shot-selection]].
 
 - **Shoulder-only swing (no torque).** The hitter rotates through the
   shoulder without engaging hips and torso — arm motion isolated from
-  the kinetic chain. Over time, this burns out the rotator cuff. Fix:
-  cue "non-hitting arm pulls down and across"; drill partner-throws
-  emphasizing the torso snap; work on hip separation with
-  ground-based rotation patterns.
+  the kinetic chain. Over time, this burns out the rotator cuff
+  [kugler-1996-shoulder-pain-volleyball-attackers] and the elbow under
+  the high stress of repeated hard spikes
+  [reeser-2010-upper-limb-serve-spike]. Fix: cue "non-hitting arm pulls
+  down and across"; drill partner-throws emphasizing the torso snap; work
+  on hip separation with ground-based rotation patterns. Volleyball
+  attackers' shoulder pain is overwhelmingly an **overuse imbalance**
+  rooted in posterior-capsule tightness, scapular depression, and
+  rotator-cuff weakness — and every adaptation is more pronounced in
+  symptomatic attackers than in matched-asymptomatic peers, supporting
+  posterior-shoulder mobility and rotator-cuff strengthening as
+  prevention targets in warm-up and prehab
+  [kugler-1996-shoulder-pain-volleyball-attackers].
 
 - **Open hand vs. full-fist-then-snap.** Young hitters often contact
   with a flat, fingers-only slap. A crisp swing contacts with the whole
@@ -152,3 +180,7 @@ Covered on [[hitting-shot-selection]].
 - [[aoc-2017-liskevych-asics-hitting]]
 - [[aoc-2024-kids-attacking-fundamentals]]
 - [[kiraly-1997-championship-volleyball]]
+- [[oliveira-2020-spike-kinematics-systematic-review]]
+- [[reeser-2010-upper-limb-serve-spike]]
+- [[slovak-2023-external-focus-volleyball-spike]]
+- [[kugler-1996-shoulder-pain-volleyball-attackers]]

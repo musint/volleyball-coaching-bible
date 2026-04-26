@@ -18,6 +18,10 @@ sources:
   - aoc-2024-kiraly-serving-errors
   - kiraly-2024-serving-placement
   - kiraly-1997-championship-volleyball
+  - bari-2023-jump-serve-efficacy-kinematics
+  - reeser-2010-upper-limb-serve-spike
+  - moy-2024-constraints-led-volleyball-serve
+  - kulling-2014-lumbar-spine-beach-volleyball
 ---
 
 # Serving — Topspin
@@ -42,11 +46,11 @@ Standing-topspin should be learned before jump-topspin; jump-topspin layers an a
 
 3. **Aim for deep placement first, corners second.** Standing-topspin's natural leverage is depth — the spin pulls the ball down as it flies. Train the player to serve deep first (back corners, Zone 1 and Zone 5), then progressively add shorter and seam placements.
 
-4. **Introduce the jump-topspin approach.** Only once standing-topspin contact is clean. The footwork is a spike approach — 3-step or 4-step, most commonly *left-right-left* for right-handers, with the toss happening during the first step and the ball tossed high and in front so contact comes at the top of the jump. The arm action is identical to a spike swing: elbow high, hand swings through the ball, wrist snaps over the top. Land inside the court.
+4. **Introduce the jump-topspin approach.** Only once standing-topspin contact is clean. The footwork is a spike approach — 3-step or 4-step, most commonly *left-right-left* for right-handers, with the toss happening during the first step and the ball tossed high and in front so contact comes at the top of the jump. The arm action is identical to a spike swing: elbow high, hand swings through the ball, wrist snaps over the top. Land inside the court. Kinematic studies of jump-topspin servers across developmental tiers show the predictors of ball velocity are sequenced: at U-19, **approach velocity alone** explains ~89% of velocity variation; at U-21 add **shoulder-extension angle** in the cocking position (98%); at U-23 + senior, **centre-of-gravity height** rounds out the model (~100%). The implication is a developmental sequencing for coaches: **build approach velocity first, then layer the cocking-shoulder load, then refine CoG management** — expecting full multi-segment optimization from younger servers is a category error [bari-2023-jump-serve-efficacy-kinematics].
 
 5. **Combine with placement.** Jump-topspin's strength is the combination of pace and depth. Because the ball accelerates into the court, depth variation (short vs. deep) is a powerful placement axis — consistent with Kiraly's broader argument that passers read lateral motion faster than depth. Train depth first, then seams, then corners.
 
-A full Dunning-style warm-up is non-optional for topspin serving. The shoulder load on jump-topspin is effectively a spike load, times the number of serves a server takes in a match — shoulder readiness is protective, not just mechanical.
+A full Dunning-style warm-up is non-optional for topspin serving. The shoulder load on jump-topspin is effectively a spike load — biomechanical measurement confirms jump-topspin produces the highest shoulder/elbow loads of any volleyball upper-limb skill, comparable to or exceeding baseball pitching in some kinetic measures [reeser-2010-upper-limb-serve-spike] — times the number of serves a server takes in a match, so shoulder readiness is protective, not just mechanical. The repetitive serve motion has also been implicated mechanistically in lumbar load: the excessive hip-shoulder separation of a jump-topspin serve generates shear forces on lumbar discs, with elite cohorts showing both high prevalence of disc pathology and high prevalence of low-back-pain history — supporting trunk-rotation symmetry and posterior-chain conditioning as protective levers around heavy jump-serve volume [kulling-2014-lumbar-spine-beach-volleyball].
 
 ## Common errors
 - **Over-wristing.** Server tries to impart maximum spin by snapping violently at contact. The ball leaves accurate but the path is erratic; the wrist motion has to be precise, not maximal. Fix: return to Step 1 wrist-snap reps, emphasizing a controlled, repeatable roll rather than a whipping snap.
@@ -55,7 +59,7 @@ A full Dunning-style warm-up is non-optional for topspin serving. The shoulder l
 - **Contact too far forward.** On standing-topspin, the server reaches out for a float-style contact point and loses the wrist-roll leverage. Fix: toss slightly back of a float toss; contact above the head with the elbow leading.
 - **No body drive on standing-topspin.** Server generates spin with the wrist but no pace from the legs/core. Serve is "pretty" but easy to pass. Fix: enforce the step-through and hip rotation; the wrist snap multiplies body force, it does not replace it.
 - **Mis-read as the right tool.** Deploying jump-topspin against a receiving unit that passes pace well but struggles with floaters. Topspin's clear arc is legible — good passers track it easily even at speed. Fix: this is a tactics error, not a mechanics error; see [[serving-hybrid]] for serve-selection logic.
-- **Letting error rate climb because the serve is big.** Kiraly's error-math applies — some misses are the price of real pressure — but missing four topspin serves in a row at a key moment because the arm is tight is a serve-selection problem. A server who cannot land the topspin under pressure should revert to float for that stretch.
+- **Letting error rate climb because the serve is big.** Kiraly's error-math applies — some misses are the price of real pressure — but missing four topspin serves in a row at a key moment because the arm is tight is a serve-selection problem. A server who cannot land the topspin under pressure should revert to float for that stretch. Constraints-led research underlines a related practice-design lever: when high-school players were given **two serve attempts per turn** rather than one (a single rule modification), serve velocity rose, jump-topspin attempt rate doubled (44.5% vs. 25.2%), and self-reported confidence rose — i.e., engineering a margin of error in practice unlocks more aggressive serving than telling athletes to "be aggressive" with a one-strike rule [moy-2024-constraints-led-volleyball-serve].
 
 ## Schools-perspectives
 Topspin emphasis varies meaningfully by coaching tradition; the mechanics of the serve are largely consensus, but *when and how hard to push it* diverges.
@@ -83,3 +87,7 @@ The practical read for a coach: in the women's HS/college/club game (including 1
 - [[aoc-2024-kiraly-serving-errors]]
 - [[kiraly-2024-serving-placement]]
 - [[kiraly-1997-championship-volleyball]]
+- [[bari-2023-jump-serve-efficacy-kinematics]]
+- [[reeser-2010-upper-limb-serve-spike]]
+- [[moy-2024-constraints-led-volleyball-serve]]
+- [[kulling-2014-lumbar-spine-beach-volleyball]]

@@ -15,6 +15,7 @@ sources:
   - gms-2018-clinic-report
   - mccutcheon-2008-beijing-gold-usav
   - mccutcheon-2024-wikipedia-bio
+  - notes-mcgown-foundations-for-coaches
 ---
 
 # Carl McGown

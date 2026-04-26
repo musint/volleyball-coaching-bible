@@ -6,7 +6,7 @@ era: 1990s-present
 roles: [coach, florida-gators, collegiate-head-coach]
 schools: [florida]
 tags: [florida-head-coach-1991-2024, sec-dynasty, relationship-based-leadership, winningest-female-d1-head-coach]
-sources: [wise-2023-characterandleadership-profile, wise-wikipedia-bio, avca-wikipedia, florida-volleyball-wikipedia]
+sources: [wise-2023-characterandleadership-profile, wise-wikipedia-bio, avca-wikipedia, florida-volleyball-wikipedia, notes-wise-coaching-writings]
 ---
 
 # Mary Wise

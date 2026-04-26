@@ -11,6 +11,7 @@ sources:
   - beal-nd-aoc-profile
   - aoc-2025-beal-josephson-dont-train-passing-isolation
   - kiraly-1997-championship-volleyball
+  - notes-beal-coaching-writings
 ---
 
 # Doug Beal

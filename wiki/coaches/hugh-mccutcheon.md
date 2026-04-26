@@ -17,6 +17,7 @@ sources:
   - aoc-2013-mccutcheon-eisler-cauldron
   - aoc-2015-liskevych-mccutcheon-defense-blocking
   - usav-2026-hp-clinic-lessons-shared
+  - notes-mccutcheon-recent-coaching-writings
 ---
 
 # Hugh McCutcheon
@@ -98,3 +99,4 @@ Hugh McCutcheon is a New Zealand-born, United States-based coach who is the only
 - [[aoc-2015-liskevych-mccutcheon-defense-blocking]] — "Defense & Blocking: Terry Liskevych & Hugh McCutcheon" (AOC, 2015)
 - [[usav-2026-hp-clinic-lessons-shared]] — "HP Clinic Lessons Shared" (USA Volleyball High Performance Coaches' Clinic field notes)
 - [[aoc-2018-coaching-iy-generation]] — "Coaching the 'iY' generation" (AOC, 2018) — cross-sport influence reference
+- [[notes-mccutcheon-recent-coaching-writings]] — Hugh McCutcheon recent coaching writings & speaking (composite notes source, post-2022 corpus)

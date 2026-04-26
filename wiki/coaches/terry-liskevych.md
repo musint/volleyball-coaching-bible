@@ -25,6 +25,7 @@ sources:
   - aoc-2024-legends-liskevych-kiraly
   - aoc-2015-liskevych-mccutcheon-defense-blocking
   - aoc-2020-stone-liskevych-using-video
+  - notes-liskevych-2002-volleyball-coaching-bible-v1
 ---
 
 # Terry Liskevych

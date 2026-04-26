@@ -6,7 +6,7 @@ era: 1980s-present
 roles: [coach, italy-men-national-team, italy-women-national-team, argentina-women-national-team, iran-men-national-team]
 schools: [italian-school]
 tags: [generazione-di-fenomeni, two-time-world-champion-1990-1994, italian-school-architect, methodology-innovator, psychological-leadership]
-sources: [velasco-2026-wikipedia-bio, lebedew-2015-velasco-thinker-of-game, lebedew-2020-velasco-12-quotes, mokumag-2020-velasco-10-cult-phrases]
+sources: [velasco-2026-wikipedia-bio, lebedew-2015-velasco-thinker-of-game, lebedew-2020-velasco-12-quotes, mokumag-2020-velasco-10-cult-phrases, notes-velasco-generosita]
 ---
 
 # Julio Velasco

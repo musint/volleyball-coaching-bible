@@ -16,6 +16,12 @@ sources:
   - gms-nd-structure-practice
   - aoc-2024-motor-learning
   - usav-2009-cap-game-like-training
+  - qu-2025-contextual-interference-volleyball-serve
+  - apidogo-2021-differential-learning-volleyball
+  - caldeira-2023-functional-movement-variability
+  - moy-2024-constraints-led-volleyball-serve
+  - oppici-2022-perceptual-motor-transfer-sports
+  - lola-2012-implicit-explicit-volleyball-serving
 ---
 
 # Blocked vs Random Practice (Methodology Comparison)
@@ -100,7 +106,7 @@ The Daimatsu-era Japanese tradition is the most blocked-practice-heavy lineage i
 
 ### Russian, Italian, Brazilian lineages: mixed by design
 
-These lineages are less documented here at the methodological-detail level; the general pattern is mixed — blocked technical drills for pattern installation and physical rigor combined with situational games and tactical scrimmage for integration [unsourced]. The overall equilibrium sits closer to the eclectic-mixed position than to either the GMS random-pure or Daimatsu blocked-pure poles.
+These lineages are less documented here at the methodological-detail level; the general pattern is mixed — blocked technical drills for pattern installation and physical rigor combined with situational games and tactical scrimmage for integration. Constraints-led research from comparable elite-cohort contexts supports the practical-mixed position with empirical bite: the constraints-led / live-block training architecture produced larger gains in successful-attack rate against a live block than traditional drill-based training in matched young male players [caldeira-2023-functional-movement-variability]; differential-learning schedules (every-rep-different) produced larger retention-protected gains across three volleyball techniques than repetitive practice in matched adolescent female beginners [apidogo-2021-differential-learning-volleyball]. The overall equilibrium across these lineages sits closer to the eclectic-mixed position than to either the GMS random-pure or Daimatsu blocked-pure poles.
 
 ## Critiques and limitations
 
@@ -114,7 +120,9 @@ These lineages are less documented here at the methodological-detail level; the 
 
 - **Same data, competing interpretations.** The CI effect is compatible with elaborative processing, forgetting-and-reconstruction, generalized motor program refinement, and ecological-dynamics self-organization [magill-1990-contextual-interference-review] [davids-2013-ecological-dynamics-talent]. The choice is partly philosophical and does not by itself prescribe different drill design.
 
-- **Volleyball-specific evidence is thinner than sometimes claimed.** The core CI literature is laboratory motor-skill research; volleyball-specific direct evidence on CI-informed schedules is limited. Afonso et al. (2012) is the best volleyball perceptual-expertise study in this corpus, but it is a characterization, not a longitudinal training-schedule trial [afonso-2012-volleyball-perceptual-cognitive]. Extrapolation to volleyball practice architecture is defensible but is extrapolation.
+- **Volleyball-specific evidence is thinner than sometimes claimed.** The core CI literature is laboratory motor-skill research; volleyball-specific direct evidence on CI-informed schedules is limited. Afonso et al. (2012) is the best volleyball perceptual-expertise study in this corpus, but it is a characterization, not a longitudinal training-schedule trial [afonso-2012-volleyball-perceptual-cognitive]. Extrapolation to volleyball practice architecture is defensible but is extrapolation. The volleyball-specific evidence base has grown recently: an 8-week controlled trial of blocked / mixed / random serve-practice schedules with PE majors replicated the classic CI pattern in a real teaching context [qu-2025-contextual-interference-volleyball-serve]; **differential learning** (Schöllhorn's noise-injection schedule) significantly out-performed both repetitive and passive control across underhand pass / overhand pass / overhand serve in matched adolescent female beginners, with retention advantages holding into a 2-week test [apidogo-2021-differential-learning-volleyball]; and a constraints-led approach against a live block produced larger gains in successful-attack rate than traditional drill-based training in matched young male players [caldeira-2023-functional-movement-variability]. The volleyball-specific evidence is no longer thin, though it is heterogeneous in design.
+
+- **The constraints-led approach delivers behavior change through environmental redesign, not pure scheduling.** A clean test: when high-school servers were given two serve attempts per turn (a single rule modification), serve velocity rose ~8%, jump-topspin attempt rate doubled, and self-reported confidence rose — the behavior change emerged from the modified affordance, not from coaching instruction [moy-2024-constraints-led-volleyball-serve]. The defensible reading: constraints design is a fourth axis (environmental) on top of blocked-vs-random (schedule) and representative-vs-decoupled (perception-action coupling).
 
 ## Practical guidance
 
@@ -132,3 +140,9 @@ For a 14U head coach running club indoor 6s through HS varsity and college level
 - [[aoc-2024-motor-learning]] — *Motor learning: Repetition and visual direction* (Jim Stone, 2024)
 - [[aoc-2020-passing-principles]] — *The principles of passing* (Rose, Dunning, & Stone, Art of Coaching Volleyball, 2020)
 - [[usav-2009-cap-game-like-training]] — *CAP Article: Game-Like Training* (Rick Swan, USA Volleyball, 2009)
+- [[qu-2025-contextual-interference-volleyball-serve]] — *Contextual interference effects on volleyball serve acquisition* (Qu et al., 2025)
+- [[apidogo-2021-differential-learning-volleyball]] — *Repetition without Repetition or Differential Learning of Multiple Techniques in Volleyball?* (Apidogo, Burdack, & Schöllhorn, 2021)
+- [[caldeira-2023-functional-movement-variability]] — *How functional movement variability facilitates successful skill adaptation during the volleyball attack* (Caldeira et al., 2023)
+- [[moy-2024-constraints-led-volleyball-serve]] — *Applying the constraints-led approach to facilitate exploratory learning of the volleyball serve* (Moy, Renshaw, & Gorman, 2024)
+- [[oppici-2022-perceptual-motor-transfer-sports]] — *Specific and general transfer of perceptual-motor skills and learning between sports* (Oppici & Panchuk, 2022)
+- [[lola-2012-implicit-explicit-volleyball-serving]] — *The effect of implicit and explicit practice in the development of decision making in volleyball serving* (Lola, Tzetzis, & Zetou, 2012)

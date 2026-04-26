@@ -15,6 +15,8 @@ sources:
   - aoc-2024-kiraly-serving-errors
   - kiraly-2024-serving-placement
   - kiraly-1997-championship-volleyball
+  - reiser-2020-float-serve-effect
+  - reeser-2010-upper-limb-serve-spike
 ---
 
 # Serving — Jump Float
@@ -22,7 +24,7 @@ sources:
 ## Overview
 The jump float is the modern-standard serve in the competitive women's game at the HS, college, and international levels, and it is one of the two dominant serves in the men's game alongside jump-topspin (see [[serving-topspin]]). It keeps the no-spin knuckling flight of the standing float but adds height, pace, and a later contact point — the server approaches and jumps lightly forward into the court, tosses the ball in front on the move, and contacts it while airborne. The passer sees a flatter trajectory that arrives sooner and drops later, which compresses the time window to read depth.
 
-Unlike the jump-topspin (a full approach and high-jump attack-style serve aimed at raw pace), the jump-float is a **controlled** jump. The goal is not maximum height. The goal is carrying the standing-float's clean contact pattern into a serve that crosses the net faster and from a higher release point. Over-jumping here is a mistake (it kills the float); the best jump-floats are the ones that barely leave the ground.
+Unlike the jump-topspin (a full approach and high-jump attack-style serve aimed at raw pace), the jump-float is a **controlled** jump. The goal is not maximum height. The goal is carrying the standing-float's clean contact pattern into a serve that crosses the net faster and from a higher release point. Over-jumping here is a mistake (it kills the float); the best jump-floats are the ones that barely leave the ground. Quantitative trajectory work supports the focus: **release velocity does not predict float magnitude** (r² < 0.033 in elite indoor servers), confirming that contact technique — not arm speed — drives the in-flight unpredictability passers struggle with [reiser-2020-float-serve-effect]. Compared with the hard-driven spike or jump-topspin serve, the float carries notably lower shoulder load — relevant for the volume-balance decision late in the season or with managing-pain shoulders [reeser-2010-upper-limb-serve-spike].
 
 This page assumes the player already owns the standing float — see [[serving-float]] for the underlying contact, toss, and tempo. If the standing float is not solid, the jump-float will amplify every flaw rather than mask them.
 
@@ -39,7 +41,7 @@ Work in this order; a jump-float layered on an unstable standing float produces 
 
 5. **Match the standing-float's float pattern from the air.** The jump is only successful if the ball leaves with the same no-spin, flat, knuckling flight. Test: film the server's jump-floats and standing floats back-to-back; the ball paths and spin signatures should look nearly identical, only the release point higher and the pace faster. If the jump version is spinning, the arm/wrist has gotten active — go back to Step 2 until the dead-hand contact returns.
 
-6. **Add targets and placement.** Once the mechanical pattern holds with the approach and low jump, introduce zone placement — deep corners, short, seam, at the setter (Kiraly's Zone 2 target to disrupt the passer-setter connection). The distinctive leverage of the jump-float versus the standing float is **depth variation**: because the ball arrives faster and drops later, small changes in contact point translate into large changes in how deep the ball lands. Kiraly argues depth variation is the higher-value placement axis because passers read lateral motion faster than depth motion.
+6. **Add targets and placement.** Once the mechanical pattern holds with the approach and low jump, introduce zone placement — deep corners, short, seam, at the setter (Kiraly's Zone 2 target to disrupt the passer-setter connection). The distinctive leverage of the jump-float versus the standing float is **depth variation**: because the ball arrives faster and drops later, small changes in contact point translate into large changes in how deep the ball lands. Kiraly argues depth variation is the higher-value placement axis because passers read lateral motion faster than depth motion. Trajectory analysis supports the depth-difficulty argument: vertical residuals on float serves are roughly **twice the magnitude of horizontal residuals**, with anticipation errors up to ~1.5 m vertically — meaning passers experience the float as "the ball drops sharper than it should" rather than as a primarily lateral problem [reiser-2020-float-serve-effect].
 
 7. **Add pressure.** As with the standing float (see [[serving-float]]), overlay heckling, serve-to-win games, fatigue blocks, and a formal pre-serve ritual. At the jump-float level, the mental game compounds — more moving parts means more places for a ritual to break — so the ritual is a feature, not a nice-to-have.
 
@@ -73,3 +75,5 @@ Most HS- and college-level programs treat the jump-float as the standard serve a
 - [[aoc-2024-kiraly-serving-errors]]
 - [[kiraly-2024-serving-placement]]
 - [[kiraly-1997-championship-volleyball]]
+- [[reiser-2020-float-serve-effect]]
+- [[reeser-2010-upper-limb-serve-spike]]

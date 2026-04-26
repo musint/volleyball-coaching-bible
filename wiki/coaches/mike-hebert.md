@@ -6,7 +6,7 @@ era: 1970s-2010s
 roles: [coach, author, illinois-fighting-illini, minnesota-golden-gophers, new-mexico-lobos]
 schools: [gold-medal-squared, usa-volleyball]
 tags: [ncaa-head-coach, author-thinking-volleyball-2013, avca-hall-of-fame, gms-affiliation]
-sources: [hebert-2013-thinking-volleyball, hebert-wikipedia-bio, hebert-usav-obituary, hebert-illinois-hof, aoc-2019-hebert-a-coach-who-mattered]
+sources: [hebert-2013-thinking-volleyball, hebert-wikipedia-bio, hebert-usav-obituary, hebert-illinois-hof, aoc-2019-hebert-a-coach-who-mattered, notes-hebert-beyond-xs-and-os]
 ---
 
 # Mike Hebert

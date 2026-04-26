@@ -13,6 +13,7 @@ sources:
   - aoc-2020-passing-principles
   - aoc-2020-reading-every-skill
   - kiraly-1997-championship-volleyball
+  - lanzani-2026-setting-kinematics-protocol
 ---
 
 # Setting — Hands (Overhead Two-Hand Set)
@@ -33,7 +34,7 @@ Modern AOC-affiliated instruction organizes the overhead set around three fundam
 
 **Hand shape and contact.** The default shape is a triangle above and slightly in front of the forehead, with thumbs behind — not pointed at the ball — elbows slightly forward of the ears, and fingers relaxed and "ball-shaped" so the hands wrap the curvature of the ball on contact rather than meeting it with flat pads. Contact is on the **sides of the ball**, not behind it; this is the single detail modern instruction emphasizes most strongly. A setter who contacts the back of the ball converts the set into a push and forfeits the hand-hinge release.
 
-**The hand-hinge release.** At contact, the wrists hinge — a short, firm flexion-extension — and the ball releases off the pads of the fingers. Legs extend, elbows extend fully, and the hands hold the follow-through position until the target catches the ball. The follow-through is held long enough that the coach can see whether the hands tracked through the target line. Modern instruction frames the hand-hinge as the distinguishing mechanic of elite setters; setters who cannot reproduce it are usually better off playing a different position.
+**The hand-hinge release.** At contact, the wrists hinge — a short, firm flexion-extension — and the ball releases off the pads of the fingers. Legs extend, elbows extend fully, and the hands hold the follow-through position until the target catches the ball. The follow-through is held long enough that the coach can see whether the hands tracked through the target line. Modern instruction frames the hand-hinge as the distinguishing mechanic of elite setters; setters who cannot reproduce it are usually better off playing a different position. Motion-analysis work on setting kinematics finds that **flexion-extension angles** at shoulder, elbow, and wrist are highly repeatable session-to-session in skilled setters (ICC > 0.90), but the **rotational components** — shoulder rotation and forearm pronation-supination — show substantially greater variability and are the dimensions where setting quality drifts under fatigue or pressure [lanzani-2026-setting-kinematics-protocol]. The same protocol identifies five distinct upper-limb muscle synergies coordinating the set across nine tempo/direction variants — the cup-of-the-fingers framing common in coaching texts is the surface, not the system [lanzani-2026-setting-kinematics-protocol].
 
 **Teaching progression (stationary to game speed).**
 
@@ -70,3 +71,4 @@ Drill pages for hand-setting are pending Wave 4 drill ingest. Candidates include
 - [[aoc-2020-passing-principles]]
 - [[aoc-2020-reading-every-skill]]
 - [[kiraly-1997-championship-volleyball]]
+- [[lanzani-2026-setting-kinematics-protocol]]

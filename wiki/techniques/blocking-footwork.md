@@ -17,6 +17,10 @@ sources:
   - aoc-2015-mccutcheon-blocking-keys
   - aoc-2016-liskevych-blocking-what-matters
   - aoc-2017-liskevych-asics-blocking
+  - zahradnik-2014-block-landing-grf-valgus
+  - zahradnik-2015-block-landing-acl-risk
+  - zhao-2024-block-jump-anticipated-unanticipated
+  - sassi-2025-acl-volleyball-systematic-review
 ---
 
 # Blocking footwork
@@ -30,6 +34,23 @@ HS/college players typically swing-block, and every level mixes in crossover
 steps on longer moves by the middle. The block is the first line of defense,
 so the feet must arrive on time, squared to the attacker's line, and planted
 before the jump — not drifting sideways at contact.
+
+The post-block landing is where blocking footwork meets injury prevention. In
+3-D motion-capture comparisons of three landing variants — *stick*,
+*step-back*, and *run-back* — the step-back landing concentrates a higher
+first-peak vertical ground reaction force and a greater knee-valgus moment
+(a canonical ACL risk marker) on the dominant lower limb than a stick landing
+[zahradnik-2015-block-landing-acl-risk]. The female-specific replication finds
+*run-back* landings — the kind that occur when a blocker breaks down and
+sprints back to play backcourt defense — produce significantly higher
+knee-valgus moments than step-back landings [zahradnik-2014-block-landing-grf-valgus].
+The injury-risk gradient is **stick (safest) → step-back → run-back (highest)**,
+and this matters most for adolescent female blockers, who carry the highest
+volleyball-specific ACL incidence [sassi-2025-acl-volleyball-systematic-review].
+The teaching implication is concrete: the *tactical* choice of recovery pattern
+after a block carries an injury-risk price coaches typically don't account for,
+and the run-back-style landing is the highest-priority pattern to drill with
+explicit landing-mechanics emphasis.
 
 ## Teaching progressions
 **Static (shuffle) blocking — start here for 14U and novices.**
@@ -149,6 +170,20 @@ that swing-blocking is now dominant at competitive HS and above, with
 ongoing disagreement about exactly when a coach should make the transition
 and whether the swing is worth the coaching hours it demands.
 
+**A reading-load risk that block-drill design under-states.** Lab studies of
+*anticipated* blocking — where the blocker knows the lateral direction in
+advance — systematically under-state real-game injury exposure. When elite
+male blockers are tested with an **unanticipated** cue (cue arrives too late
+for full motor reorganization), the lower limb shows **higher vertical
+ground reaction force, greater hip moments, and reduced knee-flexion power
+and ankle velocity** than the same athletes blocking with full anticipation;
+the unanticipation + lateral-movement combination is the highest-risk
+profile in the data [zhao-2024-block-jump-anticipated-unanticipated]. The
+practical implication: read-blocking and randomized-cue blocking drills are
+not just tactical pedagogy — they are injury-prevention work because the
+under-reading lower limb absorbs more impact than the under-reading lab
+measurements imply.
+
 ## Related drills
 *(drill pages pending in Wave 4)*
 
@@ -160,3 +195,7 @@ and whether the swing is worth the coaching hours it demands.
 - [[aoc-2015-mccutcheon-blocking-keys]]
 - [[aoc-2016-liskevych-blocking-what-matters]]
 - [[aoc-2017-liskevych-asics-blocking]]
+- [[zahradnik-2014-block-landing-grf-valgus]]
+- [[zahradnik-2015-block-landing-acl-risk]]
+- [[zhao-2024-block-jump-anticipated-unanticipated]]
+- [[sassi-2025-acl-volleyball-systematic-review]]

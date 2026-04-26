@@ -12,6 +12,10 @@ sources:
   - aoc-2017-liskevych-asics-hitting
   - gms-2018-clinic-report
   - kiraly-1997-championship-volleyball
+  - wagner-2009-spike-jump-kinematics
+  - fuchs-2019-male-female-spike-biomechanics
+  - oliveira-2020-spike-kinematics-systematic-review
+  - caldeira-2023-functional-movement-variability
 ---
 
 # Hitting Approach
@@ -25,7 +29,12 @@ out-of-system sets, tight sets, high outside balls, quick middle balls, and
 slides all resolve to the same underlying question: did the hitter's feet
 arrive on time and under control? A great arm swing cannot rescue a late
 approach, and a strong vertical is wasted if the hitter broad-jumps through
-the ball.
+the ball. The biomechanical literature confirms this: in 3-D motion-capture
+studies, **approach-phase variables** (horizontal centre-of-mass velocity in
+the approach, knee flexion-extension range at plant) are the strongest
+correlates of spike-jump height, with arm-action contributions secondary
+[wagner-2009-spike-jump-kinematics][oliveira-2020-spike-kinematics-systematic-review].
+Coaching the approach is coaching jump height.
 
 Modern approach teaching has converged on a **right-left last two steps**
 for right-handed hitters (left-right for left-handers) — the "plant step"
@@ -33,7 +42,12 @@ closes the opposite-hand side last so the hitter rotates into the ball with
 the non-hitting shoulder pointing at the target. The final two steps also
 carry the acceleration: hitters start their approach deliberately and
 explode on the last two, rather than running at the set full speed and
-losing rhythm at the plant.
+losing rhythm at the plant. Female hitters specifically tend to approach at
+slower speeds and use shorter penultimate steps than male hitters even after
+matching for jump-height, and strength-and-power differences do not fully
+explain the gap — meaning **technical work on approach velocity and
+penultimate-step length is a legitimate leverage point** for women's-team
+hitters, not just weight-room work [fuchs-2019-male-female-spike-biomechanics].
 
 This page covers the general approach skill. Back-row approaches (pipe, bic,
 D, A) follow the same mechanics with adjusted takeoff points and are
@@ -84,7 +98,15 @@ approach as the set is released.
 reads block positioning as she approaches and starts to commit to shot
 selection — covered on [[hitting-shot-selection]]. At advanced levels, the
 approach angle itself changes based on set location: sharp angle on inside
-sets, straight-line on pin sets, rounded approach on back-row pipes.
+sets, straight-line on pin sets, rounded approach on back-row pipes. The
+constraints-led-approach evidence on this stage is direct: 6-week
+constraints-led training against a live block produced significantly more
+successful attacks than traditional drill-based training in matched young
+male players, and the kinematic predictors of success were
+**lateral centre-of-mass deviation at the plant** and **longitudinal CoM
+deviation at contact** — i.e., not the arm swing but the hitter's ability to
+adjust the whole-body approach to the live constraint
+[caldeira-2023-functional-movement-variability].
 
 ## Common errors
 
@@ -154,3 +176,7 @@ sets, straight-line on pin sets, rounded approach on back-row pipes.
 - [[aoc-2017-liskevych-asics-hitting]]
 - [[gms-2018-clinic-report]]
 - [[kiraly-1997-championship-volleyball]]
+- [[wagner-2009-spike-jump-kinematics]]
+- [[fuchs-2019-male-female-spike-biomechanics]]
+- [[oliveira-2020-spike-kinematics-systematic-review]]
+- [[caldeira-2023-functional-movement-variability]]

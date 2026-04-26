@@ -21,6 +21,12 @@ sources:
   - aoc-2020-passing-principles
   - aoc-2024-motor-learning
   - mccutcheon-2024-wikipedia-bio
+  - notes-mcgown-foundations-for-coaches
+  - notes-mccutcheon-recent-coaching-writings
+  - notes-hebert-beyond-xs-and-os
+  - apidogo-2021-differential-learning-volleyball
+  - qu-2025-contextual-interference-volleyball-serve
+  - slovak-2023-external-focus-volleyball-spike
 ---
 
 # Gold Medal Squared
@@ -41,7 +47,7 @@ The school's organizing commitment is that volleyball coaching has empirically a
 
 4. **Reading-and-reaction primacy.** "First we have to teach them how to move. Then, we need to teach them how to see" — the principle highlighted on the GMS tribute page — captures McGown's two-stage framing: efficient movement patterns first so attention can be freed for reading the game [gms-2017-thank-you-carl-mcgown]. In blocking, this shows up as eyework that progresses from setter to hitter by jump time, with footwork progressions moving from predetermined sets to variable triggers only after mechanics are sound [gms-nd-blocking].
 
-5. **External-focus cues and skill simplification.** GMS prefers external-focus cues (movement effects, analogies like "cracking a whip") over internal body-mechanic instructions, because the motor-learning literature consistently finds better retention and transfer from external focus [gms-nd-structure-practice]. Paired with a deliberately small drill library — the 2018 Charleston Academy clinic ran on roughly twelve core activities — this yields an environment where athletes see the same problems repeatedly and coach language is standardized [gms-2018-clinic-report].
+5. **External-focus cues and skill simplification.** GMS prefers external-focus cues (movement effects, analogies like "cracking a whip") over internal body-mechanic instructions, because the motor-learning literature consistently finds better retention and transfer from external focus [gms-nd-structure-practice]. Volleyball-specific evidence supports this for skill-specific arm-swing tasks: 3-D motion-capture comparison shows external-focus cues produce significantly faster hand, forearm, and arm velocities than internal-focus or no-cue control conditions in young female spikers [slovak-2023-external-focus-volleyball-spike]. Paired with a deliberately small drill library — the 2018 Charleston Academy clinic ran on roughly twelve core activities — this yields an environment where athletes see the same problems repeatedly and coach language is standardized [gms-2018-clinic-report].
 
 6. **Intentional feedback.** Feedback is a scarce learning resource and must be deployed intentionally rather than sprayed onto every rep — athletes need self-evaluation for skill to survive outside practice [gms-nd-structure-practice]. McGown gave direct, challenging feedback delivered with genuine care for the learner [gms-2017-thank-you-carl-mcgown].
 
@@ -63,7 +69,7 @@ GMS's translation of these principles into practice design is documented in thre
 
 [[hugh-mccutcheon]] is McGown's most prominent former assistant: BYU staff 1995–2001 during the two NCAA titles, then 2008 Beijing Olympic gold as USA Men's NT head coach, 2012 London silver with USA Women, eleven seasons at [[minnesota-volleyball]], and the 2022 book *Championship Behaviors* [mccutcheon-2024-wikipedia-bio]. His school of-record is [[usa-volleyball]] rather than GMS, but his methodological roots in McGown's teaching are explicit in the biography [mccutcheon-2024-wikipedia-bio]. [[john-speraw]] sits on the contemporary GMS coaching roster, placing him inside the extended McGown–Beal–Dunphy lineage that ran through the 2008 USA Men's staff [gms-nd-about-us]; his school of-record is also [[usa-volleyball]], with the GMS connection more lineage than methodological endorsement.
 
-[[mike-hebert]] (Pittsburgh, New Mexico, Illinois, Minnesota — 952–392 across thirty-five years, 1985 AVCA Coach of the Year, AVCA President 1987–1990) is grouped with the GMS / McGown lineage in coach-community discussions, and his reading-defense framing is consonant with later GMS reading-oriented teaching, though the specific influence lines and formal GMS affiliation are not fully documented in the sources on file [unsourced].
+[[mike-hebert]] (Pittsburgh, New Mexico, Illinois, Minnesota — 952–392 across thirty-five years, 1985 AVCA Coach of the Year, AVCA President 1987–1990) is grouped with the GMS / McGown lineage in coach-community discussions, and his reading-defense framing is consonant with later GMS reading-oriented teaching. The composite Hebert source notes confirm the methodological alignment — *Thinking Volleyball* and *Beyond X's and O's* are ingested as composite-notes sources here — though primary documentation of formal GMS / McGown collaboration (clinics, shared authorship, staff overlap) is not in the captured corpus, and Hebert is not on any GMS staff roster [notes-hebert-beyond-xs-and-os][hebert-2013-thinking-volleyball].
 
 GMS-aligned NCAA head coaches today (per the GMS roster) include Heather Olmstead at BYU, Keegan Cook at Minnesota, Ryan McGuyre at Baylor, Chris Tamas at Illinois, Tom Black at Georgia, Jason Watson at Arkansas, Jose Gandara at Miami, Giovana Melo at Cal State Bakersfield, and Rob Nielson at Utah State [gms-nd-about-us].
 
@@ -103,3 +109,9 @@ A fourth observation is social rather than scientific: the GMS network has a con
 - [[aoc-2020-passing-principles]] — Stone, Dunning, Rose passing panel (AOC, 2020)
 - [[aoc-2024-motor-learning]] — Jim Stone, "Motor learning: Repetition and visual direction" (AOC, 2024)
 - [[mccutcheon-2024-wikipedia-bio]] — Hugh McCutcheon biography (Wikipedia)
+- [[notes-mcgown-foundations-for-coaches]] — Carl McGown coaching books (composite notes source)
+- [[notes-mccutcheon-recent-coaching-writings]] — Hugh McCutcheon recent coaching writings (composite notes source)
+- [[notes-hebert-beyond-xs-and-os]] — Mike Hebert *Beyond X's and O's* (composite notes source)
+- [[apidogo-2021-differential-learning-volleyball]] — Schöllhorn-style differential learning across three volleyball techniques (Apidogo et al., 2021)
+- [[qu-2025-contextual-interference-volleyball-serve]] — 8-week CI test on volleyball serve (Qu et al., 2025)
+- [[slovak-2023-external-focus-volleyball-spike]] — External-focus cue advantage on spike velocity (Slovák et al., 2023)
