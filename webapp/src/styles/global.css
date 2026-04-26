@@ -129,9 +129,47 @@ a:hover { text-decoration-thickness: 2px; }
   border-radius: 999px;
 }
 
-/* Honesty tags rendered inline in the prose: small, italic, muted. */
-.prose-bible :is(p, li, td) {
-  /* Style anything that looks like an honesty tag rendered as plain text */
+/* Age-band chips inside cue dictionary entries. Each cue has at least an
+   "Introduced Xs" and may have "Refined Ys+" or "Lifelong" alongside. */
+.age-chip {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 0.1em 0.5em;
+  border-radius: 999px;
+  margin: 0 0.15em;
+  white-space: nowrap;
+  vertical-align: 0.05em;
+}
+.age-chip-intro {
+  background: var(--color-accent);
+  color: white;
+}
+.age-chip-refined {
+  background: var(--color-accent-soft);
+  color: var(--color-accent);
+  border: 1px solid var(--color-accent);
+}
+.age-chip-lifelong {
+  background: #2a4a2a;
+  color: white;
+}
+
+/* Cue entry row gets a subtle bg so they're distinct from regular paragraphs. */
+.prose-bible .cue-entry {
+  margin-top: 0.6em;
+  padding: 0.6em 0.8em;
+  border-left: 3px solid var(--color-accent-soft);
+  background: white;
+  border-radius: 0 4px 4px 0;
+}
+.prose-bible .cue-entry strong:first-child {
+  display: inline-block;
+  margin-right: 0.4em;
+}
+.prose-bible .cue-entry.cue-dim {
+  opacity: 0.35;
 }
 
 /* Print rules — see also print.css */

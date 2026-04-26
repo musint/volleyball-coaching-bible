@@ -6,6 +6,7 @@ import preact from '@astrojs/preact';
 import remarkWikilink from './src/lib/remark-wikilink.js';
 import remarkHideSources from './src/lib/remark-hide-sources.js';
 import rehypeStripCitations from './src/lib/rehype-strip-citations.js';
+import rehypeCueAgeTags from './src/lib/rehype-cue-age-tags.js';
 import { buildSlugMap } from './src/lib/slug-resolver.js';
 
 const BASE = '/volleyball-coaching-bible';
@@ -34,6 +35,7 @@ export default defineConfig({
     ],
     rehypePlugins: [
       rehypeStripCitations,
+      rehypeCueAgeTags,
     ],
   },
 });

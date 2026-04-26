@@ -1,0 +1,21 @@
+---
+import { getCollection, render } from 'astro:content';
+import ManualLayout from '../../../layouts/ManualLayout.astro';
+import CueAgeFilter from '../../../components/CueAgeFilter.tsx';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('cueDictionary');
+  return entries.map((e) => ({
+    params: { skill: e.id },
+    props: { entry: e },
+  }));
+}
+
+const { entry } = Astro.props as any;
+const { Content } = await render(entry);
+const data = entry.data;
+---
+<ManualLayout title={`${data.skill} cues`}>
+  <CueAgeFilter client:load />
+  <Content />
+</ManualLayout>
