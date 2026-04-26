@@ -15,6 +15,60 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ## Entries
 
+### wiki/coaches/eugenio-george.md — Magaly Carvajal "look of death" nickname
+- **Claim:** Middle blocker Magaly Carvajal (1.90 m, 3.35 m spike reach) earned the nickname "the look of death" at the net.
+- **Why unsourced:** The nickname is documented on the Magaly Carvajal Wikipedia page (fetched 2026-04-24 during research for this profile) but no separate Carvajal source page has been created in this wiki, and the citation key is not yet resolvable. Inline tagged as `[unsourced]` pending source-page creation.
+- **Research hypothesis:** Create `wiki/sources/carvajal-2026-wikipedia-biography.md` with raw fetch from `https://en.wikipedia.org/wiki/Magaly_Carvajal`; resolve citation as `[carvajal-2026-wikipedia-biography]`.
+- **Added:** 2026-04-24
+
+### wiki/coaches/eugenio-george.md — Centralized Cuban federation NT model
+- **Claim:** "George's tenure was the institutionally centralized phase of Cuban women's volleyball — the program operated under a national federation in which the senior team was effectively a fixed-roster training group, players developed inside the same staff cohort across multiple Olympic cycles, and coaching continuity was the operating norm rather than the exception."
+- **Why unsourced:** The structural description of the centralized Cuban federation NT model is editorial inference grounded in the Mireya Luis 1985-1996 continuous-tenure datum and the George-Perdomo 40-year staff partnership; no captured source describes the centralized model as such in those terms.
+- **Research hypothesis:** Cuban Volleyball Federation institutional documents; FIVB or NORCECA institutional analyses of the Cuban federation; comparative academic studies of socialist-bloc national-team development models (USSR/Cuba/Cuba/East Germany pre-1989); IVHF "Cuban Volleyball School" institutional retrospectives.
+- **Added:** 2026-04-24
+
+### wiki/coaches/eugenio-george.md — "Power-and-tempo template" attribution
+- **Claim:** "George's methodology — practice at or above competition intensity, endurance and psychology as primary training axes, build the program around elite-athlete bodies — is what later analyses retroactively called the **power-and-tempo template** for women's volleyball."
+- **Why unsourced:** "Power-and-tempo template" is the implementation-plan's framing language for George's contribution; no captured source uses that specific phrase, though the underlying technical framing (high-tempo power offense built around elite jumpers) is consistent with the methodology sources [george-2014-amateursport-tribute] and [luis-2026-wikipedia-biography].
+- **Research hypothesis:** AVCA Convention historical-retrospective sessions on women's-volleyball evolution; FIVB technical-analysis publications from the 2000-2010 period reflecting on the dynasty era; coaching-textbook chapters citing the Cuban women's program as a tactical template (Hebert *Thinking Volleyball* 2013, Kiraly *Championship Volleyball* 1996/1997 — would need re-read for explicit Cuban-template attribution).
+- **Added:** 2026-04-24
+
+### wiki/coaches/eugenio-george.md — Subsequent generations' lineage tracing
+- **Claim:** "The template's influence on subsequent women's-volleyball generations (Brazilian women under [[jose-roberto-guimaraes]], Russian women's programs into the 2000s, U.S. women under [[karch-kiraly]] in the 2010s and 2020s) is widely acknowledged but specific lineage tracing is sparse in the English-language sources captured here."
+- **Why unsourced:** Lineage claim is editorial; while it is plausibly defended by the timing of Cuban dominance preceding the cited successor programs, no captured source directly traces methodological transmission from George's program to the cited successors.
+- **Research hypothesis:** Coaching-clinic recordings featuring Guimarães or Kiraly speaking about influences (AOC, AVCA Convention); academic sport-history publications on women's-volleyball methodological transmission; FIVB Coach of the Century 2000 designation citation contents (the FIVB-internal panel motivation for naming George should be retrievable).
+- **Added:** 2026-04-24
+
+### wiki/coaches/eugenio-george.md — Jump-serving early adoption attribution
+- **Claim:** "Cuban women's-NT teams of the 1990s are widely credited with early high-percentage jump-serving adoption in women's volleyball — the team rosters that won 1992 Barcelona and 1996 Atlanta featured players serving with jump-topspin technique that the Soviet, Chinese, and U.S. women's programs of the same era did not match for tournament-level frequency."
+- **Why unsourced:** The technical-system attribution is in the implementation-plan and is consistent with general historical understanding of women's-volleyball serving evolution, but the captured sources for this profile (Wikipedia bios, IVHF entry, 2014 obituary content) do not contain serving-technique-specific data on the dynasty rosters.
+- **Research hypothesis:** Match film of 1992 Barcelona / 1996 Atlanta gold-medal matches (FIVB archive); Cuban-federation technical reports; Mireya Luis or Magaly Carvajal interviews on serving development; Guimarães Brazilian-program retrospectives on Cuban serving as a study target.
+- **Added:** 2026-04-24
+
+### wiki/coaches/eugenio-george.md — NORCECA Cristóbal Marte tribute quote citation
+- **Claim:** Quote attributed to NORCECA president (Cristóbal Marte): "Eugenio George Laffita has been a friend, advisor, and a benchmark for the volleyball world and especially for our America."
+- **Why unsourced:** Quote was reached via web-search-result excerpt from volleywood.net during research (Volleywood obituary post 2014). Direct fetch of the Volleywood URL succeeded but did not preserve the quote on the rendered page; the search-engine snippet is the only retrieved location. Until the source page is created, the citation is unresolvable.
+- **Research hypothesis:** Re-fetch `https://www.volleywood.net/volleyball-features/rip-volleyball-features/rip-coach-eugenio-george/` directly; archive.org snapshot of the same URL from 2014; create source page `volleywood-2014-george-tribute.md` and resolve citation.
+- **Added:** 2026-04-24
+
+### wiki/coaches/antonio-perdomo.md — Plan-anchor disambiguation flag
+- **Claim:** The implementation plan's anchor of "1976 Montreal Olympic men's bronze era" for Antonio Perdomo is incorrect; Perdomo's documented career is with the Cuban women's NT (assistant alongside George 1966 men's then 1973 women's onward; head coach women's NT 1998-2007; head coach 2008 Beijing). The 1976 men's bronze head coach is unidentified in the English-language sources captured during this research pass.
+- **Why unsourced:** Not a wiki claim per se — a plan/spec correction. Track-A plan task A.18 (line 437-438 of `docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`) and the [[cuban-school]] page (Task A.5, line 173 of the same plan) both reference Perdomo as men's-NT head coach in the 1976 Montreal context. Research establishes that this anchor is incorrect.
+- **Research hypothesis:** Update the plan file `docs/superpowers/plans/2026-04-25-tracks-a-b-c.md` Task A.5 (line 173 — Perdomo associated-coach reference for cuban-school) and Task A.18 (line 437-438 — career anchor) to reflect the documented Cuban-women's-NT career arc. Separately, identify the 1976 Cuban men's NT head coach by hunting Cuban federation institutional records, Cuban-language sport-history books, or 1976 Montreal Olympics official program/roster documents (which sometimes list staff as well as players).
+- **Added:** 2026-04-24
+
+### wiki/coaches/antonio-perdomo.md — Tournament-specific head-coach designation pattern
+- **Claim:** "The 1998-2007 head-coach period that overlaps with Calderón's 2000-2006 head-coach period suggests Perdomo's actual head-coach role was tournament-specific rather than continuous-cycle."
+- **Why unsourced:** The Wikipedia coach-succession listing for the Cuban women's NT acknowledges the overlap without explaining it; the captured sources do not document the Cuban federation's actual head-coach-designation policy during this period.
+- **Research hypothesis:** Cuban Volleyball Federation institutional records; Spanish-language interviews with Calderón or Perdomo about the dynasty's late-1990s and early-2000s head-coach assignments; FIVB tournament press materials from 1998 Worlds / 1999 World Cup / 2000 Sydney Olympics that should list head-coach attribution per tournament.
+- **Added:** 2026-04-24
+
+### wiki/coaches/antonio-perdomo.md — Centralized model framing
+- **Claim:** "The model — head coach plus a continuity-anchor co-leader — is the staff-side expression of the centralized Cuban federation's preference for institutional stability over personnel turnover, and it is the structural inverse of the U.S. and modern European model where assistant-coach turnover per Olympic cycle is the norm."
+- **Why unsourced:** Editorial framing of the model architecture; no captured source describes the U.S. / European assistant-coach turnover norm in this comparative form, even though the underlying claim about U.S./European assistant-coach turnover is widely understood.
+- **Research hypothesis:** USA Volleyball staffing records 1992-2024 (assistant-coach turnover per Olympic cycle); CEV staffing comparisons; comparative analyses of centralized vs. federated NT staffing models (sport-management literature).
+- **Added:** 2026-04-24
+
 ### wiki/schools/polish-school.md
 - **Claim:** Polish men's blocking is characterized by disciplined pin-block placement (outside hitters and opposites assigned to confine the opponent's pin attackers to predictable cross-court or line angles) rather than read-and-chase blocking; specific blocking-system schematic details (which middle reads which setter cue, how the Polish pin closes the seam, the typical commit-block triggers).
 - **Why unsourced:** Wikipedia and FIVB-event-page sources confirm award patterns (Best MB Kłos 2014, Bieniek 2022; Kurek MVP+blocking-leader 2018) but do not contain blocking-system schematic detail. Synthesis is from results-and-award patterns, not from a documented coaching-clinic source.
@@ -139,6 +193,30 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Claim:** Quote-material gap: tactical doctrine on first-major-tournament-gold capability, serve-receive emphasis, and PlusLiga-systemic Polish-coaching identity.
 - **Why unsourced:** Wikipedia source preserves no quote material.
 - **Research hypothesis:** As above for Antiga; specifically interviews from the 2014 Worlds and the 2024-25 Developres Polish-Championship-gold cycle.
+- **Added:** 2026-04-24
+
+### wiki/coaches/nikola-grbic.md
+- **Claim:** "Setter-perspective coaching emphasis on tempo control, set-distribution intelligence, and middle-attack frequency is a structural inference from his playing pedigree; specific tactical-installation details (which tempos, which set-patterns, which middle-attack-frequency targets) are not documented in available English-language sources."
+- **Why unsourced:** Wikipedia article documents results without methodology detail.
+- **Research hypothesis:** CEV / FIVB / VolleyballWorld feature interviews from the 2022–2025 Polish-NT cycle; Polish-language press coverage during the 2024 Paris run; PZPS federation publications; AVCA / Volleyball Coaches Convention recordings featuring Grbić; potential Italian-language interviews from his 2014–2015 Perugia tenure or 2016–2019 Verona role.
+- **Added:** 2026-04-24
+
+### wiki/coaches/nikola-grbic.md
+- **Claim:** "The structural characterization of the Polish offense under Grbić as 'tempo-pressure' is a synthesis based on the 2020–21 ZAKSA Champions League win plus the 2022–2025 Polish-NT results [unsourced as a direct quote-attested doctrine]."
+- **Why unsourced:** Editorial synthesis; not a doctrine attested verbatim in available sources.
+- **Research hypothesis:** Same as above plus comparative tactical analysis of ZAKSA 2020–21 Champions League run versus Polish-NT 2022–2025 offensive patterns; Polish federation technical briefings.
+- **Added:** 2026-04-24
+
+### wiki/coaches/nikola-grbic.md
+- **Claim:** "Specific details about Grbić's first-year tactical-installation onto the inherited Heynen-era roster require Tier 1/2 ingest."
+- **Why unsourced:** First-year tactical-installation onto inherited roster is undocumented in Wikipedia source.
+- **Research hypothesis:** Polish-language press 2022; CEV/VolleyballWorld coverage of the 2022 Worlds run from a Polish methodology lens; Grbić's own statements about the transition from Heynen.
+- **Added:** 2026-04-24
+
+### wiki/coaches/nikola-grbic.md
+- **Claim:** Direct first-person Grbić quotes are absent; quote section is structural-summary rather than verbatim.
+- **Why unsourced:** Wikipedia article does not preserve direct-quote tactical-philosophy material.
+- **Research hypothesis:** CEV / FIVB / VolleyballWorld feature interviews; Polish-language press during 2024 Paris cycle; potential interviews from his 2016 IVHF induction; Italian / Russian / Yugoslav-Serbian coverage of his playing-career and post-induction reflections.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/igor-kolakovic.md

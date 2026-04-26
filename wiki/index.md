@@ -50,6 +50,8 @@ One-line summary per page; see the page itself for detail.
 - [[julio-velasco]] — architect of Italian men's "Generazione di Fenomeni" (2× World Champion 1990/1994); methodology influencer across Europe/South America
 - [[bernardinho]] — Bernardo Rezende, Brazilian men's NT 2001-2017 (Athens 2004 + Rio 2016 gold, 3× World Champion); rare men's + women's NT head coach
 - [[giovanni-guidetti]] — VakıfBank Istanbul + Netherlands/Turkey/Germany women's NTs; defining modern European women's club coach
+- [[eugenio-george]] — Cuban women's NT head coach (1968-2008); architect of "Las Espectaculares Morenas del Caribe" — three consecutive Olympic golds (1992/1996/2000), three World Championships, four World Cups; FIVB Best Women's Coach of 20th Century (2000); IVHF 2005
+- [[antonio-perdomo]] — "Ñico" Perdomo, Cuban women's NT technical co-leader 1973-2008 (assistant under George across the dynasty era; head coach 1998 Worlds + 1999 World Cup + 2008 Beijing); co-architect of the [[cuban-school]] tradition
 
 ### Club / specialist
 - [[mike-lingenfelter]] — Munciana Volleyball Club co-director; AOC contributor on middle-tempo (plant-timing framework), accountability-passing, youth warmups, and club-wide skill-training alignment
