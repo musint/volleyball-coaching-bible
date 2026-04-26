@@ -15,6 +15,78 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ## Entries
 
+### wiki/coaches/zoran-terzic.md
+- **Claim:** Specific cycle goals and current results for Terzić's 2025-present return to the Serbia women's NT head-coach role.
+- **Why unsourced:** terzic-2026-wikipedia confirms the return appointment but does not detail current-cycle results.
+- **Research hypothesis:** OSS-Serbia federation announcements; CEV/FIVB news coverage of Terzić return; Serbian-language sports media (Sportski Žurnal, Politika).
+- **Added:** 2026-04-25
+
+### wiki/coaches/zoran-terzic.md
+- **Claim:** Direct doctrine quotes from Terzić — verbatim teaching philosophy, defensive-discipline framing, libero-driven defense rationale.
+- **Why unsourced:** terzic-2026-wikipedia and serbia-women-nt-2026-wikipedia are biographical/results-oriented; no first-person doctrine quotes preserved.
+- **Research hypothesis:** Serbian-language interview ingest (Politika, B92, Sportski Žurnal); FIVB/CEV technical-session recordings; OSS-Serbia federation publications; post-match press-conference transcripts from 2018 World Championship and 2016 Rio Olympic runs.
+- **Added:** 2026-04-25
+
+### wiki/coaches/zoran-terzic.md
+- **Claim:** Slow roster turnover at Serbia women's NT under Terzić characterized as a teaching principle in itself.
+- **Why unsourced:** Inferred from named-roster-anchor pattern across multiple cycles per serbia-women-nt-2026-wikipedia without a verbatim "long-arc roster" doctrine source.
+- **Research hypothesis:** Comparative analysis of Serbia/Brazil/USA women's NT roster turnover 2010-2022; player career-arc retrospectives.
+- **Added:** 2026-04-25
+
+### wiki/coaches/zoran-terzic.md
+- **Claim:** 2018 World Championship final defeated Italy in five sets.
+- **Why unsourced:** Final-match-detail not in fetched sources.
+- **Research hypothesis:** FIVB 2018 World Championship final-match report; Volleyball World retrospective on the 2018 final.
+- **Added:** 2026-04-25
+
+### wiki/coaches/zoran-terzic.md
+- **Claim:** 2016 Rio knockout-stage bracket details (quarterfinal and semifinal opponents and scores).
+- **Why unsourced:** Sources mention the silver but do not include the full Rio bracket.
+- **Research hypothesis:** Olympic.com 2016 Rio women's volleyball bracket; FIVB 2016 Rio retrospective.
+- **Added:** 2026-04-25
+
+### wiki/coaches/zoran-terzic.md
+- **Claim:** Specific Fenerbahçe titles and runner-up finishes during Terzić's 2018-2023 tenure.
+- **Why unsourced:** terzic-2026-wikipedia documents tenure dates but not season-by-season results.
+- **Research hypothesis:** Fenerbahçe Voleybol club official records; CEV Champions League 2018-2023 final-fours; Turkish Sultanlar Ligi season standings.
+- **Added:** 2026-04-25
+
+### wiki/coaches/slobodan-kovac.md
+- **Claim:** Specific titles and tournament results from Kovač's Sir Safety Perugia tenure 2010-2014 / 2015-2016.
+- **Why unsourced:** kovac-2026-wikipedia documents tenure dates and Coach of the Year awards (2013, 2014) but not season-by-season titles.
+- **Research hypothesis:** Sir Safety Perugia club records; Italian SuperLega season-by-season standings; Lega Volley archival data 2010-2016.
+- **Added:** 2026-04-25
+
+### wiki/coaches/slobodan-kovac.md
+- **Claim:** Specific Asian Championship and Asian Games bracket detail beyond the 2014 Asian Games gold under Kovač's Iran tenure.
+- **Why unsourced:** kovac-2026-wikipedia preserves the 2014 Asian Games gold but not the full 2014-2015 results.
+- **Research hypothesis:** Iran Volleyball Federation records; AVC 2014 Asian Games and 2014/2015 Asian Championship reports.
+- **Added:** 2026-04-25
+
+### wiki/coaches/slobodan-kovac.md
+- **Claim:** Slovenia men's NT tenure results 2017-2018 under Kovač.
+- **Why unsourced:** Tenure dates documented in kovac-2026-wikipedia but no specific results.
+- **Research hypothesis:** Slovenian Volleyball Federation records; CEV European League and European Championship 2017-2018 results.
+- **Added:** 2026-04-25
+
+### wiki/coaches/slobodan-kovac.md
+- **Claim:** Cycle-end context for Kovač's Serbia men's NT tenure 2019-2021 (resignation/contract/federation decision).
+- **Why unsourced:** kovac-2026-wikipedia notes the tenure end but not the reason.
+- **Research hypothesis:** Serbian sports media coverage 2021; OSS-Serbia federation announcements.
+- **Added:** 2026-04-25
+
+### wiki/coaches/slobodan-kovac.md
+- **Claim:** Specific Fenerbahçe titles during Kovač's 2023-2026 tenure; Turkey men's NT current cycle results.
+- **Why unsourced:** Recent or current appointments without published season records.
+- **Research hypothesis:** Fenerbahçe Voleybol club records; Turkish Volleyball Federation current-season standings.
+- **Added:** 2026-04-25
+
+### wiki/coaches/slobodan-kovac.md
+- **Claim:** Direct doctrine quotes from Kovač — verbatim teaching philosophy, OH-perspective tactical voice rationale.
+- **Why unsourced:** kovac-2026-wikipedia is biographical; no first-person doctrine quotes preserved.
+- **Research hypothesis:** Serbian-language interview ingest; CEV/FIVB technical-session recordings featuring Kovač; post-2019-Euros press-conference transcripts.
+- **Added:** 2026-04-25
+
 ### wiki/coaches/andrea-anastasi.md
 - **Claim:** "The decade of Polish-league head coaching has under-noticed importance for Polish-school continuity: Anastasi's club-coaching tenure overlaps the Antiga, Heynen, and early Grbić national-team eras and likely fed — though available sources do not document it directly — Italian-methodology continuity into Polish-club operations."
 - **Why unsourced:** Editorial inference about methodological continuity through Polish-club coaching across Antiga/Heynen/Grbić national-team era; not directly attested in the Wikipedia source.
