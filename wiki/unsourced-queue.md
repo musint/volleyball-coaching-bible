@@ -87,6 +87,42 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Research hypothesis:** Serbian-language interview ingest; CEV/FIVB technical-session recordings featuring Kovač; post-2019-Euros press-conference transcripts.
 - **Added:** 2026-04-25
 
+### wiki/coaches/igor-kolakovic.md
+- **Claim:** Specific aggregate-titles count across Kolaković's 12-year Budućnost Podgorica tenure (1997-2009).
+- **Why unsourced:** kolakovic-2026-wikipedia mentions multiple Montenegrin championships (2007, 2008) but does not count all titles across the tenure.
+- **Research hypothesis:** Budućnost Podgorica club records; Montenegrin Volleyball Federation championship records 1997-2009.
+- **Added:** 2026-04-25
+
+### wiki/coaches/igor-kolakovic.md
+- **Claim:** Source disagreement on Kolaković's Serbia men's NT first-stint end date (2014 per kolakovic-2026-wikipedia bio; 2015 per serbia-men-nt-2026-wikipedia program page).
+- **Why unsourced:** Two ingested Wikipedia pages give different end-year for the same tenure.
+- **Research hypothesis:** OSS-Serbia federation press release on Kolaković departure; CEV/FIVB head-coach-of-record listings 2014/2015; Serbian sports media coverage.
+- **Added:** 2026-04-25
+
+### wiki/coaches/igor-kolakovic.md
+- **Claim:** Cycle-end context for Kolaković's 2014/2015 Serbia tenure end (resignation/contract/federation decision).
+- **Why unsourced:** kolakovic-2026-wikipedia notes the tenure end but not the reason.
+- **Research hypothesis:** Serbian sports media coverage 2014-2015; OSS-Serbia federation announcements.
+- **Added:** 2026-04-25
+
+### wiki/coaches/igor-kolakovic.md
+- **Claim:** Specific titles from Kolaković's AS Cannes (2013-2016) French-club tenure.
+- **Why unsourced:** kolakovic-2026-wikipedia documents tenure dates but not season-by-season results.
+- **Research hypothesis:** AS Cannes club records; French SuperLeague (LNV) standings 2013-2016.
+- **Added:** 2026-04-25
+
+### wiki/coaches/igor-kolakovic.md
+- **Claim:** Specific results from Warta Zawiercie Poland (2020-2022) and Kolaković's Serbia second-stint (2022-2024) tenures, plus Halkbank 2024-2025 and ACH Volley 2025-present.
+- **Why unsourced:** Tenures recent or current; full results not yet documented.
+- **Research hypothesis:** Polish PlusLiga standings 2020-2022; CEV/FIVB Serbia men's NT match records 2022-2024; Turkish and Slovenian league current-season records.
+- **Added:** 2026-04-25
+
+### wiki/coaches/igor-kolakovic.md
+- **Claim:** Direct doctrine quotes from Kolaković — verbatim teaching philosophy and setter-perspective tactical voice rationale.
+- **Why unsourced:** kolakovic-2026-wikipedia is biographical; no first-person doctrine quotes preserved.
+- **Research hypothesis:** Serbian-language and Iranian-Federation interview ingest; CEV/FIVB technical-session recordings; post-2011-Euros and post-2019-Asian-Championship press conferences.
+- **Added:** 2026-04-25
+
 ### wiki/coaches/andrea-anastasi.md
 - **Claim:** "The decade of Polish-league head coaching has under-noticed importance for Polish-school continuity: Anastasi's club-coaching tenure overlaps the Antiga, Heynen, and early Grbić national-team eras and likely fed — though available sources do not document it directly — Italian-methodology continuity into Polish-club operations."
 - **Why unsourced:** Editorial inference about methodological continuity through Polish-club coaching across Antiga/Heynen/Grbić national-team era; not directly attested in the Wikipedia source.
@@ -507,4 +543,40 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Claim:** VakıfBank's defensive coverage map — first libero anchoring the backcourt while outsides play forward defense and the opposite takes deep-cross.
 - **Why unsourced:** The peer-reviewed Akyildiz et al. (2022) paper (Guidetti co-author) establishes that middle blockers carry notably lower external load than outsides/opposite/libero — a quantitative asymmetry — but does not publish the specific tactical coverage assignment. The "libero reads / OH forward / opposite deep-cross" scheme therefore remains a descriptive inference not anchored to a primary coverage-scheme source.
 - **Research hypothesis:** Match-video tactical breakdowns of VakıfBank's defensive alignment against specific rotations; a CEV Champions League technical report on women's defense trends; VolleyballMag or Volleyball World feature pieces on Turkish-national-team / VakıfBank libero Simge Aköz or Gizem Örge's defensive role; Russian-volley.ru or ChampionsLeague.cev.eu tactical essays; interviews with VakıfBank assistant Ferhat Akbaş on defensive philosophy.
+- **Added:** 2026-04-24
+
+### wiki/coaches/park-man-bok.md
+- **Claim:** The 1976 Montreal Korean women's bronze head coach is a separate figure whose name is not surfaced in the IVHF biography or Korea Herald induction coverage and remains unidentified in this wiki pending Korean-language source ingest.
+- **Why unsourced:** Park Man-Bok had already moved to Peru by 1974, where he was head coach at Montreal 1976 (Peru finished 7th). The actual Korean head coach who delivered the 1976 Montreal women's bronze is a structural gap in ingested English-language sources.
+- **Research hypothesis:** Korean-language Wikipedia article on the Korea women's NT; NamuWiki Korean coach roster; Yonhap News archive 1976 Montreal coverage; Korean Volleyball Association 50-year anniversary publications.
+- **Added:** 2026-04-24
+
+### wiki/coaches/park-man-bok.md
+- **Claim:** Park's specific player-position resume and any senior-NT playing experience.
+- **Why unsourced:** The IVHF biography records that he began volleyball in 11th grade, attended Kyung-Hee University, and competed on the college volleyball team, but does not preserve playing position or post-collegiate playing record. The 1965 Soong Eui head-coaching post implies authority built on playing and educational base, but specifics are absent.
+- **Research hypothesis:** Kyung-Hee University athletic department historical records; Korean Volleyball Association player rosters from the late 1950s; any Korean-language biographical retrospective around the 2019 obituary cycle.
+- **Added:** 2026-04-24
+
+### wiki/coaches/park-man-bok.md
+- **Claim:** Build a roster around a single virtuoso outside hitter and a tactically-sharp setter (training-mechanism inference based on Tait + Perez del Solar development).
+- **Why unsourced:** The Hall of Fame record and Korea Herald coverage are results-record documents that do not preserve Park's training-method voice.
+- **Research hypothesis:** Spanish-language Peruvian sports archives 1980s-1990s tactical features; Cecilia Tait or Gabriela Perez del Solar player memoirs / interviews; Korean-language reporting around the 2016 IVHF induction.
+- **Added:** 2026-04-24
+
+### wiki/coaches/park-man-bok.md
+- **Claim:** Park's Peruvian rosters compensated for size disadvantage with tempo and precision (specific tactical mechanism inference).
+- **Why unsourced:** The compensating-with-tempo hypothesis is consistent with the japanese-training and modern korean-school template but not directly attributed to Park in the ingested sources.
+- **Research hypothesis:** Spanish-language Peruvian sports archives; FIVB match reports from 1982 World Championship and 1988 Seoul Olympics.
+- **Added:** 2026-04-24
+
+### wiki/coaches/park-man-bok.md
+- **Claim:** Park's Japan club tenure at Ito Yokado (1993-1998) coaching method, season results, and tactical documentation.
+- **Why unsourced:** Both the IVHF record and Korea Herald coverage list the Ito Yokado V-League head-coaching role as a six-year span without documenting specific season results or tactical method.
+- **Research hypothesis:** Japan Volleyball Association V-League historical archives 1993-1998; Japanese-language coverage of Ito Yokado Pivots / V-League women's club records.
+- **Added:** 2026-04-24
+
+### wiki/coaches/park-man-bok.md
+- **Claim:** Park's Korea-to-Peru transnational coaching template's institutional importance is under-documented in English-language sources.
+- **Why unsourced:** Editorial framing claim — the under-documentation itself is observable, but the institutional-importance assertion would benefit from comparative research on transnational coaching mobility patterns in volleyball pre-2000.
+- **Research hypothesis:** Comparative volleyball coaching mobility studies; FIVB historical records of expatriate national-team head coaches; IVHF panel discussion on transnational coaching careers.
 - **Added:** 2026-04-24
