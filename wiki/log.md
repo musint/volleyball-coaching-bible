@@ -1439,3 +1439,15 @@ Wave 7 closed two of the highest-leverage gaps surfaced in the Wave-5 follow-up 
 - `wiki/positions/defensive-specialist.md` — 1,165 words. Karch/Rose/Liskevych/Johnson-Lynch/Wise; Cook's serving-emphasis tied to DS role
 
 **Net deliverable:** 1 new hub page (mental-skills-curriculum), 6 position pages deepened (~9,000 total new words across positions). All wikilinks resolve. Lint clean (14 broken at baseline).
+
+## [2026-04-26] new-page | practice-ratios.md | age × season-phase matrix synthesis
+- Created `wiki/practice-ratios.md` (hub, ~3500-4500 words): 10×5 master matrix
+  (blocked / small-group / 6v6 percentages), per-age trajectory paragraphs,
+  phase-transition criteria, schools-of-thought roundup.
+- Updated 9 age-guides (10s-18s) with `## Practice ratio across the season` section.
+- Updated 3 age-lens pages (14U/HS/college) — replaced 14U static drill-mix-ratio
+  line, added new callouts to HS and college Practice design adaptations.
+- Updated `practice-planning.md` "Practice ratios" subtopic line to wikilink the
+  new page; added entry to `wiki/index.md` under Hub pages.
+- No new source pages needed; cited ~30 existing sources.
+- Touched 14 files + 1 new file = 15 files.
