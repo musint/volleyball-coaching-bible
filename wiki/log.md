@@ -2,6 +2,71 @@
 
 Append-only log of wiki operations. Prefix format: `## [YYYY-MM-DD] <operation> | <short>`.
 
+## [2026-04-25] ingest | Books cluster 4 (Task B.11) — Mizoguchi + Matsudaira + federation manual | touched 6 pages
+
+Executed Tracks A/B/C plan Task B.11 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`).
+Three book-notes ingested per SCHEMA §3.8 + §8.4, all as composites (Japanese
+and Polish/Russian-language source corpus is genuinely thin in English).
+
+**Books ingested (3):**
+
+1. **Mizoguchi (Japanese coaching texts)** — slug `notes-mizoguchi-coaching-volleyball`.
+   Honesty-rule composite: specific Mizoguchi-attributed volleyball coaching
+   books cannot be verified in English-indexed catalogs. Documented as composite
+   covering JVA coaching-textbook lineage, anchored on the verifiable 1971
+   IVBF Coach Training Course textbook (276 pp., JVA + FIVB co-published, held
+   Tokyo 31 May - 10 June 1971). Trust tier 3. Heavy `[unsourced]` and
+   `[translation-needed]` tagging.
+
+2. **Yasutaka Matsudaira — Japanese coaching philosophy** — slug
+   `notes-matsudaira-japanese-coaching-philosophy`. Anchored on *Winning
+   Volleyball* (English translation arranged 1975 by Vic Lindal; translator
+   Mr. Kikuchi; technical evaluator Lorne Sawuala — limited circulation, out
+   of commerce per Lebedew 2012). Cross-references existing
+   `wiki/coaches/yasutaka-matsudaira.md`. Captures the orchestra-conductor
+   metaphor and six themes likely developed at length in the original Japanese
+   material. Trust tier 2. `[translation-needed]` on original Japanese title +
+   publisher.
+
+3. **Eastern-bloc federation coaching manual** — slug
+   `notes-polish-or-russian-federation-manual`. Pivoted from Polish (PZPS)
+   to Russian (Platonov) per cluster-brief "pick whichever you can source"
+   instruction: PZPS English-translated coaching manual not surfaced; Hubert
+   Wagner has biographical-record-level methodology but no authored textbook;
+   Andrzej Niemczyk's *Life tie-break* is a Polish-language memoir. Anchored
+   on **Vyacheslav Platonov, *My Profession: The Game*** (English translation
+   prepared by the Lebedew family, released February 2014) — the single best
+   English-available Eastern-bloc coaching manual. Trust tier 1 (Platonov
+   anchor) / 3 (Polish-federation composite content). Polish material tagged
+   `[unsourced]` `[translation-needed]`.
+
+**Pages touched (6):**
+- `raw/books/notes-mizoguchi-coaching-volleyball.md` (created)
+- `raw/books/notes-matsudaira-japanese-coaching-philosophy.md` (created)
+- `raw/books/notes-polish-or-russian-federation-manual.md` (created)
+- `wiki/sources/notes-mizoguchi-coaching-volleyball.md` (created)
+- `wiki/sources/notes-matsudaira-japanese-coaching-philosophy.md` (created)
+- `wiki/sources/notes-polish-or-russian-federation-manual.md` (created)
+- `raw/INDEX.md` (updated — 3 entries added)
+- `wiki/index.md` (updated — Japanese-tradition count 6→8; Russian-school
+  count 3→4)
+
+**Tags added (counts):**
+- `[unsourced]`: ~14 across the three composites (heaviest in Mizoguchi
+  composite, where every Mizoguchi-attribution claim carries the flag;
+  substantial in Polish-federation composite for Wagner / Niemczyk authored-
+  textbook claims)
+- `[translation-needed]`: ~22 across the three composites (heaviest in
+  Mizoguchi composite; substantial in Matsudaira composite; partial in
+  Platonov anchor for original Russian metadata)
+
+**Honesty-rule application:** All three composites refuse to fabricate book
+content beyond preview / review / cross-reference fidelity. Mizoguchi composite
+explicitly documents the *category* (Japanese federation coaching-textbook
+lineage) rather than asserting any specific Mizoguchi-authored title.
+
+Commit: `feat(wiki): ingest books cluster 4 (Mizoguchi + Matsudaira + federation manual)` --no-verify.
+
 ## [2026-04-24] defer | Munciana Drills folder ingest (Task 3.2) | touched 2 pages
 Executed Tracks 1+2 plan Task 3.2 (`docs/superpowers/plans/2026-04-24-wiki-improvement-tracks-1-2.md`)
 to inspect and ingest the uncommitted `Munciana Drills/` folder at repo root.
@@ -1113,3 +1178,30 @@ Per Tracks-A-B-C plan Task B.3 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.
 **Forward references:** all 10 sources have `Where it's cited: (later)` placeholders. Wave-3+ technique/age-lens/physical-hub pages will cite these (especially [[physical]], [[age-lens-14u.md]], [[age-lens-hs.md]], [[hitting]], [[blocking]], future injury-prevention pages).
 
 Next: B.4 (volleyball-specific conditioning research cluster) and remainder of Track B.
+
+## [2026-04-24] ingest | Books cluster 3 (Velasco + Bernardinho + Winkelman) | 3 sources
+
+Per Tracks-A-B-C plan Task B.10 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`).
+
+**Books ingested (Tier 1, fair-use synthesis from publisher metadata + interviews + reviews per SCHEMA §3.8 + §8.4):**
+
+| # | Citation key | Title (lang) | Notes |
+|---|---|---|---|
+| 1 | `notes-velasco-generosita` | *La generosità è la base della vita* + clinic books (Italian) — Julio Velasco | First-person book-length articulation of Velasco's philosophy framework. Released alongside 2024 Olympic gold + 2025 World Championship gold for Italy women's NT. Italian-language; specific quotation claims tagged `[translation-needed]` until full Italian → English working pass. Pairs with existing `lebedew-2015-velasco-thinker-of-game`, `lebedew-2020-velasco-12-quotes`, `mokumag-2020-velasco-10-cult-phrases` (Tier 2 secondary capture). ISBN/exact publisher [unsourced] — Italian retailers blocked during fetch. |
+| 2 | `notes-bernardinho-volei-aprendendo-jogar` | *Vôlei: Aprendendo a Jogar* (~2000) + *Pensar Bem... Sai Bem* (Portuguese) — Bernardinho | Earlier Bernardinho books predating *Transformando Suor em Ouro* (2006, already on file). Vôlei is a technique-instruction manual (Brazilian counterpart to Pauley *Steps to Success*); Pensar Bem is a leadership/mindset primer. Specific claims tagged `[unsourced]` until Portuguese → English working pass — Brazilian retailers blocked during fetch. Cross-references the existing `bernardinho-2006-transformando-suor-em-ouro` Tier 1 source. |
+| 3 | `notes-winkelman-2020-language-of-coaching` | *The Language of Coaching* (Winkelman, Human Kinetics, 2021, ISBN 9781492567363, 336pp) | Modern S&C / motor-learning standard reference on coaching cues + attentional focus. Three parts (Learn / Coach / Cue), 25+ video movement sequences. Central claim: external cues outperform internal cues on both acute performance and long-term retention. "Three D's" framework (Distance, Direction, Description) for cue construction. Volleyball-applicable across all technique pages. Solid publisher metadata + Science for Sport corroboration; no [unsourced] flags on the core findings. |
+
+**Files created:**
+- `raw/books/notes-velasco-generosita.md` — fair-use Italian-press + secondary-capture synthesis
+- `raw/books/notes-bernardinho-volei-aprendendo-jogar.md` — fair-use synthesis from Bernardinho biographical context
+- `raw/books/notes-winkelman-2020-language-of-coaching.md` — fair-use synthesis from Human Kinetics + Science for Sport
+- `wiki/sources/notes-velasco-generosita.md` — full SCHEMA §3.8 source page, trust-tier 1
+- `wiki/sources/notes-bernardinho-volei-aprendendo-jogar.md` — full SCHEMA §3.8 source page, trust-tier 1
+- `wiki/sources/notes-winkelman-2020-language-of-coaching.md` — full SCHEMA §3.8 source page, trust-tier 1
+- `raw/INDEX.md` — 3 book entries appended under `## books/` (alphabetized)
+
+**Forward references:** Velasco source has Where-it's-cited stubs for [[julio-velasco]] (already cited via secondary capture; this is the primary-source backing) + [[italian-school]] + forward [[philosophy]]/[[mental]]. Bernardinho source has stubs for [[bernardinho]] + [[brazilian-school]] + forward [[techniques/passing-forearm]] + [[mental]]. Winkelman source has stubs for forward [[practice-planning]] + [[techniques]] + [[age-lens-14u]] + [[mental]] (Wave 3+ technique/practice-planning pages will cite this for cueing methodology).
+
+**Translation status:** Velasco book Italian-language only; Bernardinho earlier books Portuguese-only. Both are flagged in their source pages and raw notes; specific quotation citations should remain `[translation-needed]` / `[unsourced]` on wiki pages until full-text working passes occur.
+
+Next: B.11 (books cluster 4 — Mizoguchi + Matsudaira + federation manual) and remainder of Track B.

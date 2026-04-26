@@ -4,18 +4,24 @@ One-line catalog of every file in `raw/`. Updated on every ingest.
 Format: `- <path> — <source-title> — <citation-key>`
 
 ## books/
+- notes-beal-coaching-writings.md — Doug Beal coaching corpus composite (*Spike!* 1985 + *The Volleyball Coaching Bible* Vol 1 Ch 4 2002 + *Coaching Tips for the 90's* 1991), fair-use notes — notes-beal-coaching-writings
 - notes-bernardinho-2006-transformando-suor-em-ouro.md — *Transformando Suor em Ouro* (Bernardinho 2006), fair-use notes — bernardinho-2006-transformando-suor-em-ouro
 - notes-bernardinho-volei-aprendendo-jogar.md — *Vôlei: Aprendendo a Jogar* (~2000) + *Pensar Bem... Sai Bem*, Bernardinho earlier Portuguese books — notes-bernardinho-volei-aprendendo-jogar
 - notes-gozansky-2001-coaching-volleyball-successfully.md — *Volleyball Coach's Survival Guide* (Gozansky 2001) + *Championship Volleyball Techniques and Drills*, fair-use notes — notes-gozansky-2001-coaching-volleyball-successfully
+- notes-hebert-beyond-xs-and-os.md — Hebert composite (*Insights and Strategies* 1991 + *The Fire Still Burns* 1993 + *Thinking Volleyball* 2013); resolves "Beyond X's and O's" naming as a tagline, not a separate book — notes-hebert-beyond-xs-and-os
 - notes-hebert-thinking-volleyball-2013.md — *Thinking Volleyball* (Mike Hebert 2013), fair-use notes — hebert-2013-thinking-volleyball
 - notes-kiraly-1997-championship-volleyball.md — *Championship Volleyball* (Kiraly 1997), fair-use notes — kiraly-1997-championship-volleyball
 - notes-kiraly-championship-volleyball.md — *Championship Volleyball* (Kiraly 1997), secondary capture — (same book as above)
 - notes-kiraly-2023-chasing-greatness.md — *Chasing Greatness* (Kiraly 2023), fair-use notes — kiraly-2023-chasing-greatness
 - notes-kiraly-chasing-greatness.md — *Chasing Greatness* (Kiraly 2023), secondary capture — (same book as above)
 - notes-liskevych-2002-volleyball-coaching-bible-v1.md — *The Volleyball Coaching Bible* Vol 1 (Shondell + Reynaud, eds., 2002), fair-use notes — notes-liskevych-2002-volleyball-coaching-bible-v1
+- notes-matsudaira-japanese-coaching-philosophy.md — *Winning Volleyball* (Matsudaira, English translation 1975) + Japanese-language coaching-philosophy lineage, composite fair-use notes — notes-matsudaira-japanese-coaching-philosophy
 - notes-mccutcheon-championship-behaviors.md — *Championship Behaviors* (McCutcheon 2022), fair-use notes — mccutcheon-2022-championship-behaviors
 - notes-mccutcheon-recent-coaching-writings.md — McCutcheon post-2022 corpus (podcasts + FIVB), composite fair-use notes — notes-mccutcheon-recent-coaching-writings
+- notes-mcgown-foundations-for-coaches.md — Carl McGown coaching books composite (*Science of Coaching Volleyball* 1994 + *Complete Volleyball for Coaches* 1995 + *Coaching Volleyball: Building a Winning Team* 2000); resolves "Foundations for Coaches / Hilary McGown / Mariv Adamson" as misattribution — notes-mcgown-foundations-for-coaches
+- notes-mizoguchi-coaching-volleyball.md — Mizoguchi & the JVA coaching-textbook lineage (1971 IVBF Coach Training Course textbook anchor), composite fair-use notes — notes-mizoguchi-coaching-volleyball
 - notes-pauley-2009-volleyball-steps-to-success.md — *Volleyball: Steps to Success* (Kenny + Gregory 2006/2009; Schmidt 2nd ed. 2016), fair-use notes — notes-pauley-2009-volleyball-steps-to-success
+- notes-polish-or-russian-federation-manual.md — Eastern-bloc federation coaching manual (Platonov *My Profession: The Game* 2014 anchor + PZPS / Wagner / Niemczyk composite), fair-use notes — notes-polish-or-russian-federation-manual
 - notes-shondell-2014-volleyball-coaching-bible-v2.md — *The Volleyball Coaching Bible Volume II* (AVCA / Reynaud, ed., 2015), fair-use notes — notes-shondell-2014-volleyball-coaching-bible-v2
 - notes-velasco-generosita.md — *La generosità è la base della vita* (Velasco 2025) + clinic books (Italian), fair-use notes — notes-velasco-generosita
 - notes-winkelman-2020-language-of-coaching.md — *The Language of Coaching* (Winkelman 2021, Human Kinetics), fair-use notes — notes-winkelman-2020-language-of-coaching
@@ -393,6 +399,19 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - coelho-2021-female-athlete-triad-reds.md — Coelho et al. Female Athlete Triad / RED-S clinical review (Rev Bras Ginecol Obstet 2021) — coelho-2021-female-athlete-triad-reds
 - post-2019-specialization-overuse-volleyball.md — Post et al. sport specialization & overuse injury in youth volleyball (Sports Health 2019) — post-2019-specialization-overuse-volleyball
 - till-2022-ltad-practitioner-knowledge.md — Till et al. LTAD practitioner knowledge & adherence (PLoS One 2022) — till-2022-ltad-practitioner-knowledge
+
+### Volleyball-specific conditioning cluster (Task B.4, 2026-04-24)
+- tavakkoli-2022-block-vs-traditional-periodization-volleyball.md — Block vs traditional periodization in junior male volleyball (Sci J Sport Performance 2022) — tavakkoli-2022-block-vs-traditional-periodization
+- ramirez-campillo-2020-plyometric-meta-analysis-volleyball.md — Plyometric jump training meta-analysis on volleyball vertical jump (J Sports Sci Med 2020) — ramirez-campillo-2020-plyometric-meta-analysis
+- rebelo-2024-training-stress-fatigue-wellbeing-volleyball.md — Training stress, neuromuscular fatigue, well-being in volleyball, systematic review (BMC SSMR 2024) — rebelo-2024-training-stress-fatigue-wellbeing
+- keoliya-2024-volleyball-training-interventions-review.md — Volleyball training interventions review on agility / power / strength (Cureus 2024) — keoliya-2024-volleyball-training-interventions
+- closs-2020-recovery-after-volleyball-narrative-review.md — Recovery after volleyball, narrative review (Phys Sportsmed 2020) — closs-2020-recovery-after-volleyball
+- jiang-2024-muscle-structure-jump-prediction-volleyball.md — Muscle-structure (ultrasound) predictors of vertical jump in elite male volleyball (Front Physiol 2024) — jiang-2024-muscle-structure-jump-prediction
+- akarcesme-2022-heart-rate-lactate-volleyball-match.md — Heart rate and blood lactate by position during volleyball match (Sci Reports 2022) — akarcesme-2022-heart-rate-lactate-volleyball-match
+- lockie-2020-power-speed-cod-volleyball.md — Lower-body power, sprint, change-of-direction in NCAA D-I women volleyball (Biol Sport 2020) — lockie-2020-power-speed-cod-volleyball
+- wang-2024-concurrent-training-strength-endurance-review.md — Concurrent training factors enhancing strength, review (Medicine 2024) — wang-2024-concurrent-training-strength-endurance
+- bahr-2012-fivb-heat-stress-monitoring.md — FIVB heat-stress monitoring programme on beach volleyball (BJSM 2012) — bahr-2012-fivb-heat-stress-monitoring
+- sanders-2025-early-season-jump-load-d1-volleyball.md — Early-season jump load and neuromuscular performance in NCAA D-I volleyball (Transl Sports Med 2025) — sanders-2025-early-season-jump-load
 
 ### Sports-psychology cluster (Task B.5, 2026-04-25)
 - nogueira-2019-izof-volleyball-anxiety.md — Nogueira-Filho et al. IZOF model anxiety/self-efficacy in pro volleyball (Rev Bras Med Esporte 2019) — nogueira-2019-izof-volleyball-anxiety
