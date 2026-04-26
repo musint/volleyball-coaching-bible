@@ -18,6 +18,7 @@ One-line summary per page; see the page itself for detail.
 - [[match-prep]] (W5.3) — scouting, stats, video, in-match adjustments
 - [[rules]] (W5.4) — USAV + NCAA + scholastic + tournament formats
 - [[recruiting]] (W5.5) — college pathway, NCAA timeline, tournaments, film, camps
+- [[practice-ratios]] — age × season-phase matrix of blocked / small-group / 6v6 percentages with per-age trajectories and phase-transition criteria
 - [[mental-skills-curriculum]] (W7 — 2026-04-26) — operational coach-deliverable mental-skills curriculum mapped per age band; synthesis of 10 sport-psych research sources into per-age what-to-do
 
 ## Skill hubs
