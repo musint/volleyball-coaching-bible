@@ -88,6 +88,7 @@ One-line summary per page; see the page itself for detail.
 ### Contrasting-school set (W2.5)
 - [[russian-school]] — USSR/Russian tradition: Platonov's 1970s-80s men's dominance + Karpol's decades-long women's NT run; systems volleyball, physical dominance, block-defense primacy
 - [[brazilian-school]] — CBV-and-SuperLiga lineage from Bebeto de Freitas → Guimarães → Bernardinho; speed-first tempo, tactical creativity, psychological resilience, club-to-NT pipeline, 6 Olympic golds across both genders
+- [[cuban-school]] — George + Perdomo women's-NT dynasty 1968-2008: extreme physicality, jump-serving early adoption, high-tempo power offense, centralized NT development, "Total Volleyball" methodology; 3 consecutive Olympic golds 1992-2000 and 8-tournament FIVB winning streak 1991-2000
 - [[italian-school]] — Velasco's "Generazione di Fenomeni" → De Giorgi 2022/2025 men's restoration + Velasco women's 2024-25 resurgence + Guidetti's modern club hegemony; psychological leadership, meticulous match prep, Serie A pro pipeline
 - [[game-based-training]] — TGfU (Bunker & Thorpe 1982) / Play Practice (Launder) / Games Sense pedagogy applied to volleyball via USAV's game-like-training framework (Swan); tactical-awareness-before-technique, modified games, question-based coaching
 - [[block-vs-random-practice]] — methodology comparison: contextual-interference effect (Shea & Morgan 1979) → retention/transfer favors random practice despite worse in-session performance; how schools differ on blocking↔random balance
@@ -99,6 +100,7 @@ One-line summary per page; see the page itself for detail.
 - [[modern-european-club-volleyball]] — 2010s-2020s women's pro-club era (VakıfBank Istanbul, Conegliano, Novara, etc.); Guidetti's operating frame; stub
 - [[munciana-volleyball-club]] — Muncie, Indiana nationally-recognized girls' club; Mike + Alyssa Lingenfelter co-directors; club-wide skill-training alignment from youngest teams through 18U; stub
 - [[central-florida-volleyball]] — UCF women's volleyball program modern identity via Todd Dagenais (2008-2023): winningest coach, 5× AAC title, 6× NCAA Tournament; stub
+- [[fcv-cuba]] — Federación Cubana de Voleibol; FIVB-affiliated, NORCECA-jurisdiction; institutional carrier of the [[cuban-school]] dynasty; current (2025-2028) leadership Osvaldo Idel Martínez president, [[mireya-luis]] vice president; stub
 
 ## Techniques
 ### Passing (W3.1)

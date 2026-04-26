@@ -996,3 +996,23 @@ The Munciana Drills/ folder ingest, deferred 2026-04-24 because it contained onl
 **Lint state:** Broken wikilinks remain at 0 (1 transient regression from a stale `[[munciana-juggle-passing]]` reference in two-man-shuffle was caught and repaired immediately). Invariants: 0 violations.
 
 The Munciana .deferred marker is now obsolete; it should be removed in the next commit alongside the gitignored MP4.
+
+## [2026-04-25] Task A.5 + part of A.21 — Cuban school + FCV stub
+
+**Pages added:**
+- `wiki/schools/cuban-school.md` — full ~3000-word school page on the George + Perdomo women's-NT dynasty (1968-2008). Six core principles (extreme physicality, jump-serving early adoption, high-tempo power offense, centralized NT development, generational tall roster, "Total Volleyball" methodology). Heavy citation per SCHEMA §3.3 / §5: 9 source pages cited inline + 4 cross-school sources for contrast paragraphs.
+- `wiki/schools/fcv-cuba.md` — federation stub on the penn-state.md / kva-korea.md model. Documents the May 2025 General Assembly leadership election: Osvaldo Idel Martínez Arias president; Mireya Luis vice president; Yumilka Ruíz, Ricardo Borroto, Lorenzo Martínez, Jorge Sosa, Jorge Luis García on the Executive Committee. FIVB-affiliated, NORCECA-jurisdiction.
+- `wiki/sources/fcv-cuba-2025-fivb-election.md` — new Tier 2 source page for the FIVB May-2025 article on the FCV leadership election.
+- `raw/articles/fcv-cuba-2025-fivb-election.md` — raw capture of the FIVB article content.
+
+**Sources reused (no new fetches):** george-2026-wikipedia-biography, george-2005-volleyhall-bio, george-2014-amateursport-tribute, luis-2026-wikipedia-biography, cuba-women-nt-2026-wikipedia, cuba-men-nt-2026-wikipedia, perdomo-2009-olympedia-bio, perdomo-2009-cuban-media-tribute — all harvested by previous A.5/A.17/A.18 sessions and present in `wiki/sources/`.
+
+**Result-anchor coverage:** 1992 Barcelona + 1996 Atlanta + 2000 Sydney women's golds (George); 1991-2000 eight-tournament FIVB winning streak; 1978 World Championship as the title that broke the USSR-and-Japan duopoly; 2004 Athens bronze; 1976 Montreal men's bronze (head coach not identified by Wikipedia or Olympedia — earlier "Perdomo era" anchor confirmed incorrect via [[perdomo-2009-olympedia-bio]] and [[cuba-men-nt-2026-wikipedia]]); 1989 men's World Cup gold; 1990/2010 men's World Championship silvers; 1998 World League gold; 2001 World Grand Champions Cup gold.
+
+**`[unsourced]` tags added (queued):** 11 entries in cuban-school.md flagged for future ingest — jump-serving early-adoption attribution, specific tactical-system geometry (quick-attack, slide patterns, pipe-integration timing, serve-receive-against-jump-serve), federation policy on recruitment thesis, post-2008 program-transition narrative, hierarchical-coaching-culture and athlete-welfare claims, Cuban-vs-Brazilian comparative anthropometric framing, Cuban-vs-American pipeline framing, 1992 Barcelona semifinal pairing detail. All queued in unsourced-queue.md.
+
+**Cross-link updates:**
+- wiki/index.md — added [[cuban-school]] under Contrasting-school set (W2.5) and [[fcv-cuba]] under Institutional-tradition stubs.
+- raw/INDEX.md — added fcv-cuba-2025-fivb-election.md under Cuban tradition section (renamed to include A.21).
+
+**Lint state:** [[eugenio-george]], [[antonio-perdomo]], [[mireya-luis]] all forward-referenced from cuban-school.md and fcv-cuba.md — coach pages do not yet exist (queued for a later coach-page wave). Cross-school references use bare slugs that resolve to existing schools/coaches pages where they exist (russian-school, brazilian-school, japanese-training, usa-volleyball, karpol-2026-wikipedia, bernardinho-2026-wikipedia-bio, brazil-women-nt-2026-wikipedia, guimaraes-2026-wikipedia, daimatsu-2017-tough-love, japan-2016-five-strengths, bernardinho-2006-transformando-suor-em-ouro). Bidirectional `associated-coaches` will require eugenio-george and antonio-perdomo coach pages to be created in a subsequent wave.

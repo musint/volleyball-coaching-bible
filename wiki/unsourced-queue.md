@@ -796,3 +796,75 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Why unsourced:** WebSearch summary references the comment without preserving exact wording.
 - **Research hypothesis:** Korean-language Yonhap News and KBS interviews from the 2012-2013 era; FIVB or Volleyball World feature articles from London 2012 cycle; KOVO institutional features.
 - **Added:** 2026-04-24
+
+### wiki/schools/cuban-school.md
+- **Claim:** The Cuban dynasty's 1990s women's roster was the most-physically-imposing in the history of the women's game (height-and-reach comparative claim relative to other dynasty rosters).
+- **Why unsourced:** Comparative claim across dynasty rosters not directly substantiated in the ingested George/Luis/Cuba-NT source set; specific anthropometric comparisons require a comparative scouting source not yet ingested.
+- **Research hypothesis:** FIVB technical analysis of historical women's-program rosters; volleybox or NORCECA anthropometric records; long-form retrospectives on the 1990s women's-volleyball era.
+- **Added:** 2026-04-25
+
+### wiki/schools/cuban-school.md
+- **Claim:** The Cuban dynasty is widely credited as one of the earliest adopters of the aggressive jump-serve as a tactical norm in women's elite volleyball.
+- **Why unsourced:** Implementation-plan premise; not directly substantiated in the Wikipedia or tribute sources ingested. Specific attribution to George or to an identifiable Cuban tactical-staff doctrine is missing.
+- **Research hypothesis:** FIVB-or-NORCECA technical material on jump-serve adoption chronology; Spanish-language CBV-or-FCV clinic transcripts; long-form Eugenio George interview material; international serve-statistics archives 1985-1995.
+- **Added:** 2026-04-25
+
+### wiki/schools/cuban-school.md
+- **Claim:** Specific tactical-system claims for the Cuban quick-attack geometry, slide patterns, pipe-integration timing, and serve-receive formations against opposing jump-serve pressure.
+- **Why unsourced:** The dynasty-era results record substantiates a recognizable tactical signature but the schematic-level detail is not in the ingested corpus.
+- **Research hypothesis:** FIVB technical analyses of the 1990s Cuban dynasty's tactical patterns; Spanish-language CBV/FCV coaching-clinic transcripts; long-form interviews with dynasty-era assistants and players.
+- **Added:** 2026-04-25
+
+### wiki/schools/cuban-school.md
+- **Claim:** Cuba had no professional volleyball league of comparable scale to the Brazilian SuperLiga or the Italian Serie A during the dynasty era; specific framing of the Cuban pipeline as "centralized state-and-federation" relative to club-driven analogues.
+- **Why unsourced:** Comparative pipeline claim; the absence of a credentialed comparative source means the specific framing is not directly attested.
+- **Research hypothesis:** Sports-sociology comparative work on national-volleyball-pipeline structures (1990s-2000s); FCV institutional-history documents; Cuban-state-sports-system academic literature.
+- **Added:** 2026-04-25
+
+### wiki/schools/cuban-school.md
+- **Claim:** National-team athletes were developed through a centralized Cuban sports system in which volleyball, alongside boxing, baseball, and athletics, sat near the top of the federation hierarchy; recruitment thesis on Cuban prioritization of physically-exceptional athletes.
+- **Why unsourced:** Claim is consistent with the broader Cuban-state-sports-system documented in adjacent sports literature, but federation-level recruitment-policy substantiation is not in the ingested corpus.
+- **Research hypothesis:** FCV / Cuban Olympic Committee policy material; Cuban-state-sports-ministry documents; comparative work on Cuban sports-development pipelines.
+- **Added:** 2026-04-25
+
+### wiki/schools/cuban-school.md
+- **Claim:** Regla Torres's middle-blocker physical profile is widely cited internationally though not anchored in the ingested corpus; specific dynasty-era roster anthropometric comparisons.
+- **Why unsourced:** Dynasty-roster physical profiles beyond Mireya Luis are not documented in the ingested player-biography sources.
+- **Research hypothesis:** Wikipedia biographies for Regla Torres, Regla Bell, Yumilka Ruíz; FIVB Hall of Fame entries (Regla Torres was 1999 FIVB Player of the Century); Spanish-language player retrospectives.
+- **Added:** 2026-04-25
+
+### wiki/schools/cuban-school.md
+- **Claim:** Specific session-design templates, weekly-training-volume profiles, and in-week intensity periodization for the Cuban dynasty.
+- **Why unsourced:** "Total Volleyball" methodology vocabulary survives in the amateursport tribute; schematic training-design detail does not.
+- **Research hypothesis:** Spanish-language George interviews and biographical material; FCV coach-development clinic transcripts; post-playing-career interview material from dynasty-era assistants.
+- **Added:** 2026-04-25
+
+### wiki/schools/cuban-school.md
+- **Claim:** Specific match-level psychological-resilience moments substantiating the dynasty's "intelligence to get up after a setback" framing.
+- **Why unsourced:** Eight consecutive FIVB-major titles 1991-2000 is the macro evidence; specific come-from-behind matches and their dynamics are not reconstructed in the ingested sources.
+- **Research hypothesis:** FIVB match reports for the dynasty-era major events; long-form retrospectives on the 1992 Barcelona, 1996 Atlanta, 2000 Sydney finals; player-retrospective interview material.
+- **Added:** 2026-04-25
+
+### wiki/schools/cuban-school.md
+- **Claim:** The 1992 Barcelona Olympic semifinal between Cuba and the Unified Team (CIS) — won by Cuba, advancing them to the gold-medal final — as a canonical Cuba-vs-Russia head-to-head moment.
+- **Why unsourced:** Semifinal pairing not directly substantiated in the ingested sources; the result-anchor file documents the gold but not the bracket-by-bracket progression.
+- **Research hypothesis:** FIVB Barcelona 1992 official results; Olympedia tournament page; Wikipedia article on Volleyball at the 1992 Summer Olympics.
+- **Added:** 2026-04-25
+
+### wiki/schools/cuban-school.md
+- **Claim:** Brazil's 2008-2012 cohort fielded more-balanced anthropometrics with offensive creativity and tempo as differentiators (comparative anthropometric framing relative to the Cuban dynasty).
+- **Why unsourced:** Both rosters' physical profiles are individually documented at player level but the comparative-roster-anthropometric framing is editorial synthesis, not direct attribution.
+- **Research hypothesis:** FIVB or Volleyball World comparative analyses of the 1990s Cuban and 2000s Brazilian women's dynasties; sports-anthropometric research on women's-elite-volleyball roster trends.
+- **Added:** 2026-04-25
+
+### wiki/schools/cuban-school.md
+- **Claim:** Cuban-vs-American pipeline contrast as a distinguishing structural feature; American post-2008 emergence as Cuba's competitive presence declined.
+- **Why unsourced:** Pipeline-comparative framing is consistent with ingested sources but the specific "post-2008 Cuban competitive arc" claim is not directly documented; the American program's rise post-2012 is documented elsewhere on the wiki but the comparative arc is editorial synthesis.
+- **Research hypothesis:** USAV/USA-Volleyball NT coverage of the 2008-2012 transition; FIVB or NORCECA program-status reports on Cuban women's volleyball post-2008; Spanish-language Cuban sports-media coverage of the post-Beijing-2008 program transition.
+- **Added:** 2026-04-25
+
+### wiki/schools/cuban-school.md
+- **Claim:** Hierarchical-coaching-culture and athlete-welfare considerations for the dynasty-era Cuban women's NT (program day-to-day coaching culture, training-load profiles, athlete-welfare practices).
+- **Why unsourced:** Centralized state-sports system context is documented; specific welfare-practice claims for or against the program are not.
+- **Research hypothesis:** Player-interview or athlete-retrospective material from dynasty-era roster (Mireya Luis, Regla Torres, Regla Bell, Yumilka Ruíz); Cuban-state-sports-system academic literature on athlete welfare; defection-era player accounts.
+- **Added:** 2026-04-25
