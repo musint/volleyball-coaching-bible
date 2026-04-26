@@ -308,6 +308,16 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - 2018-fivb-mens-worlds-wikipedia.md — 2018 FIVB Men's World Championship (Wikipedia) — 2018-fivb-mens-worlds-2026-wikipedia
 - 2022-fivb-mens-worlds-wikipedia.md — 2022 FIVB Men's World Championship (Wikipedia) — 2022-fivb-mens-worlds-2026-wikipedia
 
+### Cuban tradition (Tasks A.5 + A.17 + A.18)
+- george-2026-wikipedia-biography.md — Eugenio George Lafita (Wikipedia biography) — george-2026-wikipedia-biography
+- george-2005-volleyhall-bio.md — Eugenio George (International Volleyball Hall of Fame entry, 2005 induction) — george-2005-volleyhall-bio
+- george-2014-amateursport-tribute.md — Eugenio George tribute (amateursport.wordpress.com, 2014) — george-2014-amateursport-tribute
+- luis-2026-wikipedia-biography.md — Mireya Luis (Wikipedia biography) — luis-2026-wikipedia-biography
+- cuba-women-nt-2026-wikipedia.md — Cuba women's national volleyball team (Wikipedia) — cuba-women-nt-2026-wikipedia
+- cuba-men-nt-2026-wikipedia.md — Cuba men's national volleyball team (Wikipedia) — cuba-men-nt-2026-wikipedia
+- perdomo-2009-olympedia-bio.md — Antonio Perdomo (Olympedia biographical entry) — perdomo-2009-olympedia-bio
+- perdomo-2009-cuban-media-tribute.md — Antonio "Ñico" Perdomo Cuban-media obituary content — perdomo-2009-cuban-media-tribute
+
 ### NCAA recruiting calendar backfill (Task 2.17)
 - ncaa-2025-26-d1-wvb-recruiting-calendar.md — NCAA D1 Women's Volleyball 2025-26 recruiting calendar (NCAA compliance PDF) — ncaa-2025-26-d1-wvb-recruiting-calendar
 - usav-nd-college-recruitment-timeline.md — USA Volleyball "College Recruitment Timeline" explainer — usav-nd-college-recruitment-timeline
