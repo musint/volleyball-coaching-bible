@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import DefaultLayout from '../../layouts/DefaultLayout.astro';
 
 const schools = await getCollection('school');
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 // Bucket schools by rough type. Methodology / national-tradition / institutional / federation.
 function bucket(s: any): string {

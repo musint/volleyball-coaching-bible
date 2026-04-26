@@ -4,7 +4,7 @@ import DefaultLayout from '../../layouts/DefaultLayout.astro';
 import DrillFilter from '../../components/DrillFilter.tsx';
 
 const drills = await getCollection('drill');
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 // Serialize the minimal drill data the filter needs into a JSON payload.
 const payload = drills.map(d => ({

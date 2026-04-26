@@ -7,7 +7,7 @@ interface Props {
   age?: string;
 }
 const { title, description, age } = Astro.props;
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const ages = ['10s','11s','12s','13s','14s','15s','16s','17s','18s'];
 ---
 <DefaultLayout {title} {description}>

@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import DefaultLayout from '../../layouts/DefaultLayout.astro';
 
 const coaches = await getCollection('coach');
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 const byCountry: Record<string, typeof coaches> = {};
 for (const c of coaches) {

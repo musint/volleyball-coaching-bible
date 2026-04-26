@@ -7,7 +7,7 @@ const cueDicts = await getCollection('cueDictionary');
 const drillPicks = await getCollection('drillPickList');
 const practicePlans = await getCollection('practicePlan');
 const opsDocs = await getCollection('opsDoc');
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 ageGuides.sort((a, b) => parseInt(a.data.age) - parseInt(b.data.age));
 const tryoutRubrics = opsDocs.filter(o => o.data.kind === 'tryout-rubric');

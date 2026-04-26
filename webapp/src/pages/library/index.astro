@@ -8,7 +8,7 @@ const positions = await getCollection('position');
 const hubs = await getCollection('hub');
 const ageLenses = await getCollection('ageLens');
 const sources = await getCollection('source');
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 const skillHubs = hubs.filter(h => ['passing','setting','hitting','blocking','serving','defense','transition'].includes(h.id));
 const areaHubs = hubs.filter(h => !['passing','setting','hitting','blocking','serving','defense','transition'].includes(h.id));
