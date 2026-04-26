@@ -271,6 +271,7 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 ### Korean tradition (Tasks A.6 + A.19-A.20 + A.21)
 - park-man-bok-volleyhall-biography.md — Man-Bok Park (Intl Volleyball Hall of Fame, induction 2016) — park-man-bok-2016-hall-of-fame
 - park-man-bok-koreaherald-2016.md — "Korean volleyball coach to enter Hall of Fame" (Korea Herald 2016) — park-man-bok-2016-koreaherald-ivhf
+- kim-hyung-sil-volleybox-coach-profile.md — Hyung-Sil Kim (Volleybox coach profile, 2026 fetch) — kim-hyung-sil-2026-volleybox-profile
 - korea-women-nt-wikipedia.md — South Korea women's national volleyball team (Wikipedia) — korea-women-nt-2026-wikipedia
 - kva-wikipedia.md — Korea Volleyball Association (Wikipedia) — kva-2026-wikipedia
 - kim-yeon-koung-wikipedia.md — Kim Yeon-koung (Wikipedia biography) — kim-yeon-koung-2026-wikipedia
@@ -296,11 +297,14 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 
 ### Polish tradition (Task A.2 + A.8–A.11 + A.21)
 - poland-men-nt-wikipedia.md — Poland men's national volleyball team (Wikipedia) — poland-men-nt-2026-wikipedia
+- pzps-wikipedia.md — Polish Volleyball Federation (Wikipedia) — pzps-2026-wikipedia
+- plusliga-wikipedia.md — PlusLiga (Wikipedia) — plusliga-2026-wikipedia
 - anastasi-wikipedia-bio.md — Andrea Anastasi (Wikipedia biography) — anastasi-2026-wikipedia-bio
 - heynen-wikipedia-bio.md — Vital Heynen (Wikipedia biography) — heynen-2026-wikipedia-bio
 - antiga-wikipedia-bio.md — Stéphane Antiga (Wikipedia biography) — antiga-2026-wikipedia-bio
 - grbic-wikipedia-bio.md — Nikola Grbić (Wikipedia biography) — grbic-2026-wikipedia-bio
 - grbic-2026-wikipedia.md — Nikola Grbić (Wikipedia capture, secondary) — (consolidated under grbic-2026-wikipedia-bio)
+- 2014-fivb-mens-worlds-wikipedia.md — 2014 FIVB Men's World Championship (Wikipedia) — 2014-fivb-mens-worlds-2026-wikipedia
 - 2018-fivb-mens-worlds-wikipedia.md — 2018 FIVB Men's World Championship (Wikipedia) — 2018-fivb-mens-worlds-2026-wikipedia
 - 2022-fivb-mens-worlds-wikipedia.md — 2022 FIVB Men's World Championship (Wikipedia) — 2022-fivb-mens-worlds-2026-wikipedia
 
