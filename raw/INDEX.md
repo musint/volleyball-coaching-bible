@@ -279,6 +279,10 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - andrea-giani-wikipedia-bio.md — Andrea Giani (Wikipedia biography) — giani-2026-wikipedia-bio
 - tokyo-2020-mens-volleyball-wikipedia.md — Volleyball at the 2020 Summer Olympics, Men's tournament (Wikipedia) — tokyo-2020-mens-volleyball-2026-wikipedia
 - paris-2024-mens-volleyball-wikipedia.md — Volleyball at the 2024 Summer Olympics, Men's tournament (Wikipedia) — paris-2024-mens-volleyball-2026-wikipedia
+- tillie-2022-volleybrains-attitude.md — Laurent Tillie: "The right attitude is everything" (VolleyBrains 2022) — volleybrains-2022-tillie-attitude
+- giani-2022-volleyballworld-france-appointment.md — Andrea Giani at the helm of France (Volleyball World/FIVB 2022) — volleyballworld-2022-giani-france-appointment
+- giani-2022-cev-france-appointment.md — Italian legend Andrea Giani new coach of reigning Olympic champions (CEV 2022) — cev-2022-giani-france-appointment
+- giani-2024-volleyballworld-paris-gold.md — Unstoppable France secure second straight Olympic gold in Paris (Volleyball World 2024) — volleyballworld-2024-france-paris-gold
 
 ### Polish tradition (Task A.2 + A.8–A.11 + A.21)
 - poland-men-nt-wikipedia.md — Poland men's national volleyball team (Wikipedia) — poland-men-nt-2026-wikipedia
