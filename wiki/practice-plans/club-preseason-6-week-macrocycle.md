@@ -21,7 +21,7 @@ This macrocycle spans the six weeks from a 14U club's first day of tryouts to it
 
 - Identify positional fits (setter, libero, OH-pin, MB, opposite) by end of Week 2; commit to a primary lineup by end of Week 4.
 - Install [[passing-forearm]] and [[setting-hands]] mechanics so that ≥80% of passes and sets meet target by end of Week 3.
-- Install base offense ([[offense-4-2]] or simple [[offense-6-2]] depending on setter depth) by end of Week 4.
+- Install base offense (simple [[offense-6-2]] for 12s-14s rosters; [[offense-5-1]] for 15s+ teams with a clearly dominant setter) by end of Week 4.
 - Install base defense ([[defense-perimeter]]) and [[commit-blocking]] by end of Week 4.
 - Reach tournament-readiness: every athlete owns one rotation, the team can side-out from any rotation, and athletes name what they did well after every match-like rep — by end of Week 6.
 

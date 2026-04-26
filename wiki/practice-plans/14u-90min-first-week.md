@@ -67,7 +67,7 @@ Light mobility — calves, hips, shoulders. Team circle: each athlete names one 
 ## Adaptations by level
 
 - **One level down (12U or true-beginner 14U):** drop jump-setting cues, stay in [[offense-6-6]] rotation install, and target 10 in [[cooperative-25-goal]]. Most athletes need more reps on standing-float toss alone before tracking zones.
-- **One level up (HS first-week):** replace rotation-install with base offense install (4-2 or simple 6-2), add [[jump-warmup]], extend [[serve-targets]] to include zone constraints (seam 1, deep 5), and target 25 in [[cooperative-25-goal]] at full swing speed. GMS's practice-structure framing applies — a random-practice ratio that a HS group can handle exceeds what most 14Us can absorb in week one [gms-nd-structure-practice].
+- **One level up (HS first-week):** replace rotation-install with base offense install (simple 6-2 or 5-1 for teams with a clearly dominant setter), add [[jump-warmup]], extend [[serve-targets]] to include zone constraints (seam 1, deep 5), and target 25 in [[cooperative-25-goal]] at full swing speed. GMS's practice-structure framing applies — a random-practice ratio that a HS group can handle exceeds what most 14Us can absorb in week one [gms-nd-structure-practice].
 
 ## Sources
 

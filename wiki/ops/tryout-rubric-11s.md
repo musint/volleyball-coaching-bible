@@ -59,7 +59,7 @@ A single 5 does not promote; a single 1 does not demote — promotion is a patte
 - **Loud-energy bias:** the quiet self-correcting athlete often outranks the loud one on Mental & coachability. Score on rep-by-rep behavior, not volume.
 - **Cue-language over-engineering:** Moran et al. 2023 found no significant cue-type advantage in youth populations. Do not score down an athlete who responds to a different cue family — score the resulting motor behavior.
 
-**Forward link.** Athletes scoring at 12s-ready (Column 5) on most criteria graduate into the [[12s]] context where the platform must become stable, standing-float serve becomes the default, basic 4-2 must be executable in real games, and overhead passing is added.
+**Forward link.** Athletes scoring at 12s-ready (Column 5) on most criteria graduate into the [[12s]] context where the platform must become stable, standing-float serve becomes the default, the offense graduates from the 11s 4-2 install to a simple [[offense-6-2]] by season's end, and overhead passing is added.
 
 ## Sources
 
