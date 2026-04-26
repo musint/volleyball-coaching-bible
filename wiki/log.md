@@ -1205,3 +1205,37 @@ Per Tracks-A-B-C plan Task B.10 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c
 **Translation status:** Velasco book Italian-language only; Bernardinho earlier books Portuguese-only. Both are flagged in their source pages and raw notes; specific quotation citations should remain `[translation-needed]` / `[unsourced]` on wiki pages until full-text working passes occur.
 
 Next: B.11 (books cluster 4 — Mizoguchi + Matsudaira + federation manual) and remainder of Track B.
+
+## [2026-04-24] ingest | Task B.4 — Volleyball-specific conditioning research cluster (10 papers)
+
+Ingested 10 peer-reviewed papers (Tier 1) covering periodization, plyometric programming, in-season volume management, strength-training transfer, recovery, jump prediction, energy-system demands, speed/agility/COD, concurrent training, and heat stress. All saved to `raw/research/` and surfaced via `wiki/sources/<citation-key>.md` per SCHEMA §3.8 / §8.1 / §8.4.
+
+**Citation keys (10):**
+- `tavakkoli-2022-block-vs-traditional-periodization` — Tavakkoli, Abbaspoor & Nikooie (2022), *Sci J Sport Performance*. Block vs traditional periodization, 13 junior males, 8 weeks. Equivalent jump/agility gains; block superior for grip strength.
+- `ramirez-campillo-2020-plyometric-meta-analysis` — Ramirez-Campillo et al. (2020), *J Sports Sci Med*. Meta-analysis 14 RCTs, n = 322. Cohen's d = 0.82 for PJT on volleyball jump; no moderator effect for frequency / volume / duration.
+- `rebelo-2024-training-stress-fatigue-wellbeing` — Rebelo et al. (2024), *BMC SSMR*. PRISMA systematic review, 31 articles. sRPE + CMJ + Hooper Index recommended monitoring stack; middles systematically over-loaded.
+- `keoliya-2024-volleyball-training-interventions` — Keoliya et al. (2024), *Cureus*. Review of 10 intervention studies. Cluster sets > traditional resistance; sand > court; core training transfers.
+- `closs-2020-recovery-after-volleyball` — Closs et al. (2020), *Phys Sportsmed*. Narrative review of recovery modalities. Sleep + nutrition Tier-1 evidence; CWI / laser therapy promising but unsettled.
+- `jiang-2024-muscle-structure-jump-prediction` — Jiang, Chen & Xu (2024), *Frontiers in Physiology*. Ultrasound study, 15 elite males. VL-ACSA dominant predictor across all jump types; LG fascicle length unique to attack jump.
+- `akarcesme-2022-heart-rate-lactate-volleyball-match` — Akarçeşme et al. (2022), *Scientific Reports*. 24 elite female players. Liberos 130 bpm / 17.9% at ≥80% HRmax vs setters 101 bpm / 1.9% at ≥80%. Position-specific conditioning supported by physiology.
+- `lockie-2020-power-speed-cod-volleyball` — Lockie, Dawes & Callaghan (2020), *Biology of Sport*. NCAA D-I women, n = 15. Horizontal jumping (broad jump) is highest-leverage power target for COD; vertical jump correlates with 20-m sprint but not 10-m acceleration.
+- `wang-2024-concurrent-training-strength-endurance` — Wang & Bo (2024), *Medicine*. Review on interference effect. HIIT compatible with strength; 2 sessions/week cap; 6+ hr separation; resistance before endurance.
+- `bahr-2012-fivb-heat-stress-monitoring` — Bahr & Reeser (2012), *BJSM*. FIVB heat-stress program 2009–2011, 51 events, 1 medical forfeit. Existing guidelines may be too conservative for elite acclimated athletes; not generalizable to junior / non-acclimated populations.
+- `sanders-2025-early-season-jump-load` — Sanders, Skodinski & Peacock (2025), *Translational Sports Medicine*. NCAA D-I, n = 9, 134 observations. Jump intensity (Jumps 50+) drives fatigue more than total count; force-velocity drift signal precedes performance decline.
+
+**Substitutions vs plan seeds:**
+- Seed "speed agility quickness volleyball court" — Lockie 2020 picked over agility-ladder studies for stronger correlation evidence between power and COD.
+- Seed "heat altitude travel fatigue volleyball" — Bahr & Reeser 2012 (FIVB beach) is the strongest available volleyball-specific heat paper; altitude / travel-fatigue literature is general (not volleyball-specific) so beach-volleyball heat-stress data anchored the cluster. Travel-fatigue dimension is partially covered within Rebelo 2024's review.
+- Seed "strength training transfer volleyball performance" — used Keoliya 2024 review (covers cluster vs traditional, surface, core) plus Jiang 2024 (muscle architecture → jump-type-specific transfer) since both meet the "transfer to performance" lens better than any single intervention RCT.
+- Seed "in-season volume management volleyball" — Sanders 2025 is the freshest position-aware empirical signal; Rebelo 2024 covers the systematic-review side. Both kept.
+
+**Files touched:**
+- 10 new `raw/research/<key>.md` files
+- 10 new `wiki/sources/<key>.md` files (trust-tier 1)
+- `raw/INDEX.md` — appended Volleyball-specific conditioning cluster section
+- `wiki/index.md` — appended cluster summary line under Sources catalog
+- `wiki/log.md` — this entry
+
+**Source-page count after this ingest:** +10 conditioning research papers. All trust-tier 1, peer-reviewed. Pages stand as forward-reference targets for Wave 3+ technique / position / physical hub citations (no inbound wikilinks yet — this is expected per the bootstrap pattern; lint will flag as orphans until cited).
+
+Next: B.13 citation-spread polish or remaining B clusters per dispatch plan.

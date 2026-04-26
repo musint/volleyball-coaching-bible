@@ -388,6 +388,19 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - shea-1979-contextual-interference.md — Shea & Morgan original contextual-interference study (1979) — shea-1979-contextual-interference
 - woods-2020-sport-ecology-designers.md — Woods et al. on sport ecology / coaches as designers (2020) — woods-2020-sport-ecology-designers
 
+### Biomechanics cluster (Task B.2, 2026-04-24)
+- wagner-2009-spike-jump-kinematics.md — Wagner et al. kinematic analysis of volleyball spike jump (Int J Sports Med 2009) — wagner-2009-spike-jump-kinematics
+- reeser-2010-upper-limb-serve-spike.md — Reeser et al. upper limb biomechanics during volleyball serve and spike (Sports Health 2010) — reeser-2010-upper-limb-serve-spike
+- reiser-2020-float-serve-effect.md — Reiser et al. quantifying the float effect of float serves indoor and beach (Front Sports Act Living 2020) — reiser-2020-float-serve-effect
+- bari-2023-jump-serve-efficacy-kinematics.md — Bari et al. kinematic predictors of jump serve efficacy across age groups (Medicine 2023) — bari-2023-jump-serve-efficacy-kinematics
+- zhao-2024-block-jump-anticipated-unanticipated.md — Zhao et al. anticipated vs unanticipated volleyball block jump biomechanics (Life 2024) — zhao-2024-block-jump-anticipated-unanticipated
+- fuchs-2019-male-female-spike-biomechanics.md — Fuchs et al. spike jump biomechanics in male versus female elite players (J Sports Sci 2019) — fuchs-2019-male-female-spike-biomechanics
+- zahradnik-2015-block-landing-acl-risk.md — Zahradnik et al. lower extremity landing mechanics after volleyball block as ACL risk factor (Phys Ther Sport 2015) — zahradnik-2015-block-landing-acl-risk
+- lanzani-2026-setting-kinematics-protocol.md — Lanzani et al. biomechanical evaluation protocol for volleyball setting motions (Methods Protoc 2026) — lanzani-2026-setting-kinematics-protocol
+- zahradnik-2014-block-landing-grf-valgus.md — Zahradnik et al. ground reaction force and valgus knee loading after block in female volleyball players (J Hum Kinet 2014) — zahradnik-2014-block-landing-grf-valgus
+- prieske-2017-fatigue-instability-jump.md — Prieske et al. combined effects of fatigue and surface instability on jump biomechanics in elite volleyball athletes (Int J Sports Med 2017) — prieske-2017-fatigue-instability-jump
+- oliveira-2020-spike-kinematics-systematic-review.md — Oliveira et al. systematic review of volleyball spike kinematics (Int J Sports Sci Coach 2020) — oliveira-2020-spike-kinematics-systematic-review
+
 ### Injury-prevention cluster (Task B.3, 2026-04-25)
 - sassi-2025-acl-volleyball-systematic-review.md — Sassi et al. ACL volleyball systematic review (Frontiers Sports Active Living 2025) — sassi-2025-acl-volleyball-systematic-review
 - gisslen-2005-jumpers-knee-elite-junior-volleyball.md — Gisslén et al. jumper's knee in Swedish elite junior volleyball (BJSM 2005) — gisslen-2005-jumpers-knee-elite-junior-volleyball
