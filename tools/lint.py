@@ -72,7 +72,7 @@ ENUM_VALUES = {
     "focus": {"passing", "setting", "hitting", "blocking", "serving", "defense", "transition",
               "serve-receive", "out-of-system", "match-prep", "player-development", "composite"},
     "season-phase": {"preseason", "mid-season", "pre-tournament", "taper", "tryout",
-                     "postseason", "match-day"},
+                     "postseason", "match-day", "composite"},
     "scope": {"single-session", "week", "macrocycle"},
     "kind": {"match-prep", "tryout-rubric", "club-ops"},
     "audience": {"coach", "parent", "club-director", "front-office"},
@@ -226,8 +226,11 @@ def check_frontmatter(pages):
                       "age", "season-context"):
             if field in m and field in ENUM_VALUES:
                 val = m[field]
-                if val not in ENUM_VALUES[field]:
-                    failures.append((str(p["path"]), f"invalid enum value '{val}' for '{field}'"))
+                # Some fields can be either single value or list-of-values (e.g. audience can address multiple roles).
+                vals = val if isinstance(val, list) else [val]
+                for v in vals:
+                    if v not in ENUM_VALUES[field]:
+                        failures.append((str(p["path"]), f"invalid enum value '{v}' for '{field}'"))
         if t == "system" and "category" in m:
             if m["category"] not in ENUM_VALUES["category"]:
                 failures.append((str(p["path"]), f"invalid system category '{m['category']}'"))
