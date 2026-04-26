@@ -195,7 +195,8 @@ export const collections = {
       pattern: ['philosophy.md','systems.md','practice-planning.md','season-planning.md',
                'mental.md','physical.md','match-prep.md','rules.md','recruiting.md',
                'passing.md','setting.md','hitting.md','blocking.md','serving.md',
-               'defense.md','transition.md','cues.md','mental-skills-curriculum.md'],
+               'defense.md','transition.md','cues.md','mental-skills-curriculum.md',
+               'practice-ratios.md'],
       base: WIKI,
     }),
     schema: z.object({

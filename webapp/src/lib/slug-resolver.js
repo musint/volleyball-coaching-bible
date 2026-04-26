@@ -30,7 +30,7 @@ const FOLDER_TO_PREFIX = {
 // Files at wiki/ root we want to expose at /<slug>/
 const ROOT_INCLUDE_PATTERNS = [
   /^age-lens-(14u|hs|college)\.md$/,
-  /^(philosophy|systems|practice-planning|season-planning|mental|physical|match-prep|rules|recruiting|passing|setting|hitting|blocking|serving|defense|transition|cues)\.md$/,
+  /^(philosophy|systems|practice-planning|season-planning|mental|physical|match-prep|rules|recruiting|passing|setting|hitting|blocking|serving|defense|transition|cues|mental-skills-curriculum|practice-ratios)\.md$/,
 ];
 
 const ROOT_EXCLUDE = new Set(['SCHEMA.md', 'index.md', 'log.md', 'unsourced-queue.md', 'lint-report.md', 'lint-report.md.baseline']);
