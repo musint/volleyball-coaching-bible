@@ -11,6 +11,8 @@ sources:
   - guidetti-2026-wikipedia-bio
   - italy-men-nt-2026-wikipedia
   - italy-women-nt-2026-wikipedia
+  - bonitta-2026-wikipedia-bio
+  - barbolini-2026-wikipedia-bio
 ---
 
 # Italian Volleyball Tradition
@@ -63,9 +65,9 @@ The commitments translate into a recognizable practice and competition profile.
 
 - ****Davide Mazzanti**** — Italy women's head coach 2017-2023; 2018 Worlds silver (11-2), 2021 European gold (9-0, 27-4 sets), 2022 Worlds bronze [italy-women-nt-2026-wikipedia]. Architect of the Egonu-Sylla-Danesi-De Gennaro core Velasco inherited for 2024 Olympic gold [italy-women-nt-2026-wikipedia]. Forward-referenced.
 
-- ****Marco Bonitta**** — coach of Italy's first major global senior title, the **2002 FIVB World Championship gold** in Germany (9-2, 30-9 sets) [italy-women-nt-2026-wikipedia]. The 2002 Worlds breakthrough is the founding result of the modern Italian women's program; Bonitta's tenure preceded the Barbolini and Mazzanti runs that built toward Velasco's 2024 Olympic gold [italy-women-nt-2026-wikipedia]. Forward-referenced.
+- **[[marco-bonitta]]** — coach of Italy's first major global senior title, the **2002 FIVB World Championship gold** in Germany (9-2, 30-9 sets) [bonitta-2026-wikipedia-bio][italy-women-nt-2026-wikipedia]. Two stints as Italy women's head coach — 2000-2002 and 2014-2016 — bracketing the Barbolini and Mazzanti runs [bonitta-2026-wikipedia-bio]. His defining women's club tenure was Foppapedretti Bergamo (1997-2000) — three consecutive Italian Serie A1 women's championships — which is the institutional carrier of his coaching methodology and the ramp into the 2002 Worlds gold [bonitta-2026-wikipedia-bio]. The 2002 breakthrough is the founding result of the modern Italian women's program; Bonitta's tenure preceded the Barbolini and Mazzanti runs that built toward Velasco's 2024 Olympic gold [italy-women-nt-2026-wikipedia].
 
-- ****Massimo Barbolini**** — Italy women's head coach 2007-2011; back-to-back European Championship golds (2007, 2009), back-to-back FIVB World Cup golds (2007, 2011), and the 2009 World Grand Champions Cup [italy-women-nt-2026-wikipedia]. Bridge figure between the 2002 Bonitta-era breakthrough and the Mazzanti / Velasco modern era [italy-women-nt-2026-wikipedia]. Forward-referenced.
+- **[[massimo-barbolini]]** — Italy women's head coach **2006-2012**; back-to-back European Championship golds (2007, 2009), back-to-back FIVB World Cup golds (2007, 2011), and the 2009 World Grand Champions Cup [barbolini-2026-wikipedia-bio][italy-women-nt-2026-wikipedia]. Bridge figure between the 2002 Bonitta-era breakthrough and the Mazzanti / Velasco modern era [italy-women-nt-2026-wikipedia]. Returned to the Italy women's staff as **vice coach under Velasco for the Paris 2024 Olympic gold cycle** — a continuity arc that links the 2007-2012 Italy women's golden run directly into Velasco's 2024 reset [barbolini-2026-wikipedia-bio]. Long Serie A1 Femminile head-coaching tenure across Sirio Perugia (1997-2007), Eczacıbaşı, Casalmaggiore, AGIL/Igor Novara, and Scandicci is the parallel club track [barbolini-2026-wikipedia-bio].
 
 - ****Daniele Santarelli**** — Italian coach associated with Imoco Conegliano and women's federation postings; part of the cohort exporting Italian-school methodology [unsourced]. Forward-referenced.
 
@@ -107,3 +109,5 @@ The commitments translate into a recognizable practice and competition profile.
 - [[guidetti-2026-wikipedia-bio]] — Giovanni Guidetti biographical reference (Wikipedia, 2026)
 - [[italy-men-nt-2026-wikipedia]] — Italy men's national volleyball team (Wikipedia, 2026)
 - [[italy-women-nt-2026-wikipedia]] — Italy women's national volleyball team (Wikipedia, 2026)
+- [[bonitta-2026-wikipedia-bio]] — Marco Bonitta biographical reference (Wikipedia, 2026)
+- [[barbolini-2026-wikipedia-bio]] — Massimo Barbolini biographical reference (Wikipedia, 2026)

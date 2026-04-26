@@ -115,6 +115,17 @@ The five active/recent NCAA D1 women's volleyball head coaches who define the mo
 - [[dan-fisher]] — Pittsburgh Panthers HC since 2013; 5 consecutive NCAA Final Fours; 2024 AVCA Division I National Coach of the Year; program-build-from-nothing model
 - [[erin-virtue]] — USA Women's NT assistant 2017-2024 (Tokyo 2020 gold); Michigan HC since 2023; USAV NTDP Director; setter-development specialist
 
+### Women's-program coach stubs cleared (Wave 4 + 5 — 2026-04-26)
+Forward-reference stubs filled out as full coach pages so the federation/program audits cite real entities rather than dangling slugs.
+- [[terry-pettit]] — Nebraska women's HC 1977-1999, AVCA Hall of Fame, pre-Cook program builder
+- [[mick-haley]] — Texas women's HC 1996-2001 (NCAA 1988 at Long Beach State); USA Women 1992 + 1996 staff
+- [[dani-busboom-kelly]] — Louisville HC 2017-2024 (2022 NCAA final); Nebraska HC 2025-; LOVB Madison HC 2025
+- [[chen-zhonghe]] — China women's HC 2003-2009; 2004 Athens Olympic gold ("Aulu Comeback")
+- [[yuan-weimin]] — China women's HC 1976-1986; 1981-1986 五连冠 ("Five Consecutive Championships") era; subsequently China State Sports Commission director
+- [[cassidy-lichtman]] — Stanford OH; USA Women 2012-2016; Athletes Unlimited founding athlete-leader
+- [[marco-bonitta]] — Italy women's HC 2000-2002 + 2014-2016; 2002 World Championship gold (Italy women's only Worlds title); Foppapedretti Bergamo dynasty 1997-2000
+- [[massimo-barbolini]] — Italy women's HC 2006-2012 (2007/2009 Euros gold, 2007/2011 World Cup gold); vice coach under Velasco for 2024 Paris Olympic gold
+
 ## Schools / philosophies
 ### Preferred-school set (W2.4)
 - [[gold-medal-squared]] — US motor-learning methodology house founded by Carl McGown (1985); specificity, random/variable practice, reading-reaction primacy

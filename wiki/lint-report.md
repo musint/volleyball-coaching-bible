@@ -1,6 +1,6 @@
 # Wiki Lint Report
 
-Generated: 2026-04-26T12:48:31
+Generated: 2026-04-26T13:12:24
 
 ## Broken wikilinks
 Broken wikilinks: 14
@@ -70,7 +70,7 @@ Failures: 87
 - ...and 47 more
 
 ## Unresolved citation keys
-Unresolved: 138
+Unresolved: 139
 
 - wiki\log.md: [2026-04-25]
 - wiki\log.md: [2026-04-25]
@@ -112,10 +112,10 @@ Unresolved: 138
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
-- ...and 98 more
+- ...and 99 more
 
 ## Orphan pages
-Orphans: 111
+Orphans: 113
 
 - wiki\schools\alberta-volleyball.md (type=school)
 - wiki\schools\iowa-state-volleyball.md (type=school)
@@ -157,12 +157,11 @@ Orphans: 111
 - wiki\sources\aoc-2019-ratkowski-practice-purpose.md (type=source)
 - wiki\sources\aoc-2019-rose-flexible-skill-technique.md (type=source)
 - wiki\sources\aoc-2019-rose-pepper-partner-choice.md (type=source)
-- ...and 71 more
+- ...and 73 more
 
 ## Stale methodology pages
-Stale: 1
+Stale: 0
 
-- wiki\schools\chinese-volleyball-tradition.md (newest source year 2020)
 
 ## Concept gaps
 Gaps: 0

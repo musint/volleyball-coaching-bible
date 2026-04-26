@@ -5,13 +5,14 @@ country: Italy
 era: 2000s-present
 roles: [head-coach, italian-club-coach, korean-womens-nt-hc, polish-womens-nt-hc]
 schools: [italian-school, korean-school, modern-european-club-volleyball]
-tags: [first-foreign-korean-womens-nt-hc, tokyo-2020-4th-place, paris-2024-bronze-poland, italian-school-export, eczacibasi-vitra-coach]
+tags: [first-foreign-korean-womens-nt-hc, tokyo-2020-4th-place, polish-women-vnl-bronze-2022-2023-2024, paris-2024-quarterfinal-poland, italian-school-export, eczacibasi-vitra-coach]
 sources:
   - lavarini-2021-volleyballworld-feature
   - lavarini-2021-koreatimes-feature
   - worldofvolley-2021-lavarini-departure
   - kim-yeon-koung-2026-wikipedia
   - korea-women-nt-2026-wikipedia
+  - poland-women-nt-2026-wikipedia
 ---
 
 # Stefano Lavarini
@@ -36,7 +37,7 @@ For this wiki, Lavarini is the **modern bridge figure between the [[italian-scho
 
 Lavarini declined a contract renewal in October 2021, citing a preference for European-only work; KVA appointed his assistant **[[cesar-hernandez-gonzalez]]** as successor [worldofvolley-2021-lavarini-departure].
 
-**Poland women's national team head coach (2021-present).** Following the Korean tenure, Lavarini took the Polish women's NT head-coach post for the Paris 2024 cycle [unsourced — specific Polish-tenure dates not in this profile's ingested sources but referenced in [[korean-school]] page]. The Polish tenure is the second documented Italian-school-into-non-Italian-NT export of his career.
+**Poland women's national team head coach (2021-2024).** Following the Korean tenure, Lavarini took the Polish women's NT head-coach post for the Paris 2024 cycle [poland-women-nt-2026-wikipedia]. The tenure produced **three consecutive FIVB Volleyball Nations League bronze medals (2022, 2023, 2024)** plus a **Paris 2024 Olympic quarterfinal appearance** — the deepest Olympic finish for Poland women since the program's only Olympic medal at Mexico City 1968 (bronze) [poland-women-nt-2026-wikipedia]. The bronze cluster represents the most decorated multi-cycle stretch in Polish women's-NT history and is the second documented Italian-school-into-non-Italian-NT export of Lavarini's career, following the Korean tenure [korea-women-nt-2026-wikipedia][poland-women-nt-2026-wikipedia].
 
 ## Core teaching principles
 

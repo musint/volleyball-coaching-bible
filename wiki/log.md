@@ -1393,3 +1393,28 @@ Steering call: bible/manual must center the women's indoor 6s game (Song's club 
 **Net deliverable:** 12 new wiki pages, 18 new source pages, 18 raw snapshots, 1 substantial existing-page rewrite (McCutcheon), 6 federation pages augmented with women's-program coverage, 54 manual-layer pages frontmatter-tagged, 45 research sources sex-tagged, 3 technique pages with applicability caveats. SCHEMA extended in 6 sections. ~42 unsourced-queue entries flagged for future backfill.
 
 **New memory:** [Women's-game focus](feedback_womens_game_focus.md) saved as project-wide steering rule — manual/bible centers women's indoor 6s; prefer women's-program sources, female-participant biomech, women's-team coach voices.
+
+## [2026-04-26] wave-5-womens-nt-source-fill | Federation pages now have women's-NT primary citations
+Wave 5 closed Wave-4 gaps surfaced in Wave B-2 federation audit + the Italian school's Bonitta/Barbolini forward references. Two parallel agents + 1 coordination pass.
+
+**Wave 5-A — 5 women's-NT source pages:**
+- china-women-nt-2026-wikipedia (cites chen-zhonghe + yuan-weimin + lang-ping)
+- japan-women-nt-2026-wikipedia (cites daimatsu-hirobumi)
+- france-women-nt-2026-wikipedia (cites cesar-hernandez-gonzalez; documents Olympic debut at Paris 2024)
+- poland-women-nt-2026-wikipedia (cites stefano-lavarini; 1968 bronze + 40-year Olympic gap)
+- russia-women-nt-2026-wikipedia (cites nikolay-karpol; 4 Olympic golds across Soviet/Russian era)
+
+**Wave 5-B — 2 Italian women's HC coach pages:**
+- marco-bonitta — full coach page + bonitta-2026-wikipedia-bio source page
+- massimo-barbolini — full coach page + barbolini-2026-wikipedia-bio source page
+
+**Wave 5-C — Federation page wiring:**
+- italian-school: Bonitta + Barbolini entries upgraded from "forward-referenced" to wikilinked-with-citations; sources frontmatter expanded; Barbolini cycle dates corrected (2007-2011 → 2006-2012); Barbolini → Velasco vice-coach Paris 2024 continuity arc surfaced
+- chinese-volleyball-tradition: 五连冠 era anchored to yuan-weimin-wikipedia-bio + china-women-nt-2026-wikipedia; 2004 Athens "Aulu Comeback" anchored to chen-zhonghe-wikipedia-bio; Tokyo 2020 9th-place collapse added to Critiques as honesty point
+- japanese-training: women's-NT medal record (Mexico 1968 - Munich 1972 - Montreal 1976 gold - LA 1984 - Seoul 1988 - London 2012) now cited; Japan-Brazil 1-13 head-to-head added as cross-school contrast data point; modern HC succession (Manabe / Yokota / Akbaş) sourced
+- russian-school: Soviet women's Olympic golds cited (USSR 1968/1972/1980/1988); five Worlds golds cited; Sergio Busato 2019 World Cup tenure surfaced
+- polish-school: women's-NT 1968 Mexico bronze + 40-year Olympic absence anchored; Lavarini-era VNL bronze cluster (2022/2023/2024) + Paris 2024 quarterfinal corrected (page previously misclaimed bronze; agent verified quarterfinal only)
+- french-school: Paris 2024 Olympic debut documented (0-3 to Brazil, 0-9 sets); 60-cycle gender asymmetry framed; current HC César Hernández González cross-linked
+- stefano-lavarini coach page: tag corrected from `paris-2024-bronze-poland` to `paris-2024-quarterfinal-poland` + `polish-women-vnl-bronze-2022-2023-2024`; Polish-tenure section cited
+
+**Net deliverable:** 7 new wiki source pages (5 NT + 2 coach bios), 2 new full coach pages, 7 federation/coach page edits (citation density + factual corrections), 8 new index.md entries.

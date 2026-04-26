@@ -15,6 +15,48 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ## Entries
 
+### wiki/coaches/marco-bonitta.md — Italian-school methodology elements specific to Bonitta
+- **Claim:** "Bonitta's coaching education at Porto Ravenna Volley (1990–96) places him inside the Italian-federation system at the height of the Velasco men's-team era. His subsequent Bergamo dynasty (1997–2000) and 2002 World Championship gold position him as the figure who carried the Italian-school methodology into the women's senior program before [[giovanni-guidetti]] internationalized it via VakıfBank. Specific methodological elements (tempo offense, defensive systems, training periodization) are not described in the Wikipedia source [unsourced]."
+- **Why unsourced:** Wikipedia (English and Italian) is a results-and-titles record with no on-record coaching-philosophy or methodology material from Bonitta. The lineage-level inference — that Bonitta carried Italian-school methodology into the women's NT — is consistent with his career placement but is not directly attested in any captured source.
+- **Research hypothesis:** Bonitta interview ingest needed. Specifically: Italian volleyball-press features on the 2002 World Championship gold (Gazzetta dello Sport, La Repubblica volleyball coverage 2002–06); FIVB or CEV federation features post-2002; any clinic recordings from the Bergamo 1998–2000 dynasty era; reflections Bonitta has given on his Italy U20 men's 2012 CEV gold.
+- **Added:** 2026-04-26
+
+### wiki/coaches/marco-bonitta.md — Roster-cycle peaking around major championships
+- **Claim:** "The 2001–2006 cycle's medal pattern (silver 2001 Euros → gold 2002 Worlds → silver 2004 Grand Prix → silver 2005 Grand Prix → silver 2005 Euros → bronze 2006 Grand Prix) suggests sustained top-three competitiveness with one peak result. The mechanism is not described in Wikipedia [unsourced]."
+- **Why unsourced:** The cycle-peaking inference is editorial pattern-reading on the medal record. Wikipedia does not describe Bonitta's selection, periodization, or peaking process.
+- **Research hypothesis:** Bonitta interview ingest needed (same sources as preceding entry).
+- **Added:** 2026-04-26
+
+### wiki/coaches/marco-bonitta.md — Domestic women's-club dominance translated to NT readiness
+- **Claim:** "The principle inferred — that a club program built to win every weekend transfers more directly to NT performance than a development-emphasis club — is consistent with the Italian-school approach but is not stated by Bonitta in any sourced material here [unsourced]."
+- **Why unsourced:** Editorial inference on the Bergamo→Italy NT progression. Wikipedia documents the dual records but does not articulate the principle.
+- **Research hypothesis:** Bonitta interview ingest needed (same sources as preceding entries); could also be sourced from an Italian-coaching-academy treatment of the Bergamo 1998–2000 era.
+- **Added:** 2026-04-26
+
+### wiki/coaches/massimo-barbolini.md — Velasco methodology elements retained or adapted
+- **Claim:** "The specific Velasco-methodology elements Barbolini retained or adapted (tempo offense, defensive systems, training-load periodization) are not described in Wikipedia [unsourced]."
+- **Why unsourced:** Wikipedia (English and Italian) confirms the 1985–1989 Panini Modena vice-coach role but does not describe what specifically Barbolini carried forward into his subsequent four-decade head-coaching career.
+- **Research hypothesis:** Barbolini interview ingest needed. Specifically: Italian volleyball-press features on the 2007–2011 Italy women's NT cycle (Gazzetta dello Sport, La Repubblica); CEV Coach of the Year 2019 acceptance / interview material; reflections Barbolini has given on his Velasco apprenticeship; any clinic recordings from the Sirio Perugia 1997–2007 decade or the four-CEV-Champions-League-titles club tours.
+- **Added:** 2026-04-26
+
+### wiki/coaches/massimo-barbolini.md — Long-tenure club-building principle
+- **Claim:** "The principle inferred — that women's-club program-building requires multi-cycle continuity rather than annual reset — is consistent with the Italian-school approach exemplified by [[giovanni-guidetti]]'s seventeen-plus-season VakıfBank tenure but is not stated by Barbolini in any sourced material here [unsourced]."
+- **Why unsourced:** Editorial inference from the 10-season Sirio Perugia tenure. Wikipedia documents tenure length but does not articulate the principle.
+- **Research hypothesis:** Barbolini interview ingest needed (same sources as preceding entry).
+- **Added:** 2026-04-26
+
+### wiki/coaches/massimo-barbolini.md — Cross-club Champions League replication transferable elements
+- **Claim:** "Four Champions League / Champions Cup titles in four different clubs is unusual: most Champions League head coaches associate one title with one program. The pattern suggests Barbolini's methodology is portable rather than roster-bound. The specific transferable elements are not described in Wikipedia [unsourced]."
+- **Why unsourced:** Editorial inference on the cross-club title record. Wikipedia documents the four titles in four different clubs but does not describe the methodology.
+- **Research hypothesis:** Barbolini interview ingest needed (same sources). Could also be sourced from CEV Coach of the Year 2019 commentary or Eckert/Casalmaggiore/Igor Novara club-published season retrospectives.
+- **Added:** 2026-04-26
+
+### wiki/coaches/massimo-barbolini.md — Federation-cycle peaking around European events not Olympics
+- **Claim:** "The 2006–2012 Italy NT cycle's medal pattern — two Euros golds, two World Cup golds, four Grand Prix bronzes, but two consecutive Olympic quarterfinal exits — points to a program built to peak at annual / continental events rather than the four-year Olympic cycle. The mechanism (selection, periodization, peaking) is not described in Wikipedia [unsourced]."
+- **Why unsourced:** Editorial inference on the medal-pattern asymmetry between annual events (consistent gold/bronze) and Olympics (two QF exits). Wikipedia documents the results but does not describe the periodization process.
+- **Research hypothesis:** Barbolini interview ingest needed (same sources). The 2008 and 2012 Olympic-cycle post-mortems in Italian volleyball-press would be the highest-yield target.
+- **Added:** 2026-04-26
+
 ### wiki/cues/setting-cues.md — Munciana Tempo 1/2/3 left-foot-plant timing language
 - **Claim:** "**'Tempo 1 / Tempo 2 / Tempo 3.'** Introduced 14s. Refined 16s+. The Lingenfelter / Munciana-tradition tempo language [unsourced] tied to the timing of the hitter's left-foot plant relative to the set release: Tempo 1 (quick, ball released near the plant — middles), Tempo 2 (medium, ball released as the hitter is mid-approach — pipes, slides), Tempo 3 (high outside, ball released early enough for a full approach)."
 - **Why unsourced:** The Tempo 1/2/3 language tied to hitter left-foot-plant timing is named in the Manual implementation plan as a Munciana / Lingenfelter convention but does not appear verbatim in the captured `munciana-2022-camp-drills` transcript (transcript covers ball-control, defense, serving, OOS, and 6v6 drills but not a dedicated tempo-naming segment). Tempo language is consistent with general Munciana tactical instruction but the specific 1/2/3-by-left-foot-plant articulation is not captured in this wiki's source corpus.
