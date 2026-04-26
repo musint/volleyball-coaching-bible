@@ -1,0 +1,68 @@
+---
+import { getCollection, render } from 'astro:content';
+import ManualLayout from '../../../layouts/ManualLayout.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('ageGuide');
+  return entries.map((e) => ({
+    params: { age: e.id },
+    props: { entry: e },
+  }));
+}
+
+const { entry } = Astro.props as any;
+const { Content } = await render(entry);
+const data = entry.data;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const AGES = ['10s','11s','12s','13s','14s','15s','16s','17s','18s'];
+const idx = AGES.indexOf(data.age);
+const prev = idx > 0 ? AGES[idx - 1] : null;
+const next = idx >= 0 && idx < AGES.length - 1 ? AGES[idx + 1] : null;
+
+const PHASE_LABEL: Record<string, string> = {
+  introduction: 'Introduction',
+  fundamentals: 'Fundamentals',
+  'late-fundamentals': 'Late fundamentals',
+  specialization: 'Specialization',
+  advanced: 'Advanced',
+  'college-bridge': 'College bridge',
+};
+
+const tryoutSlug = data.age === '14s' ? 'tryout-rubric-14u'
+  : data.age === '16s' ? 'tryout-rubric-16u'
+  : data.age === '18s' ? 'tryout-rubric-18u'
+  : `tryout-rubric-${data.age}`;
+---
+<ManualLayout title={`Age guide ${data.age}`} age={data.age}>
+  <!-- Quick reference card -->
+  <div class="not-prose mb-8 rounded-lg border-2 border-orange-200 bg-orange-50/60 p-5 no-print">
+    <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1 mb-3">
+      <h1 class="font-serif text-3xl font-bold text-stone-900 m-0">{data.age} age guide</h1>
+      <span class="kicker">{PHASE_LABEL[data.phase] ?? data.phase}</span>
+    </div>
+    <div class="grid sm:grid-cols-3 gap-3 text-sm">
+      <a href={`${base}/manual/drill-picks/${data.age}-drills/`}
+         class="block p-3 bg-white border border-stone-200 rounded hover:border-orange-400 no-underline">
+        <div class="text-xs font-semibold text-stone-500 uppercase tracking-wider mb-1">Drill picks</div>
+        <div class="text-stone-800">{data.age} must-do drills →</div>
+      </a>
+      <a href={`${base}/ops/${tryoutSlug}/`}
+         class="block p-3 bg-white border border-stone-200 rounded hover:border-orange-400 no-underline">
+        <div class="text-xs font-semibold text-stone-500 uppercase tracking-wider mb-1">Tryout rubric</div>
+        <div class="text-stone-800">8×5 evaluation grid →</div>
+      </a>
+      <a href={`${base}/manual/cues/`}
+         class="block p-3 bg-white border border-stone-200 rounded hover:border-orange-400 no-underline">
+        <div class="text-xs font-semibold text-stone-500 uppercase tracking-wider mb-1">Coaching cues</div>
+        <div class="text-stone-800">canonical cues by skill →</div>
+      </a>
+    </div>
+    <div class="flex justify-between mt-4 text-sm">
+      <span>{prev ? <a href={`${base}/manual/ages/${prev}/`} class="text-stone-700 no-underline hover:underline">← {prev}</a> : <span class="text-stone-400">— start of ladder</span>}</span>
+      <span>{next ? <a href={`${base}/manual/ages/${next}/`} class="text-stone-700 no-underline hover:underline">{next} →</a> : <span class="text-stone-400">end of ladder —</span>}</span>
+    </div>
+  </div>
+
+  <Content />
+</ManualLayout>

@@ -1,1 +1,145 @@
 @import "tailwindcss";
+
+/* Brand palette + base typography for the coaching manual.
+   Volleyball-court tan + slate; serif headings for the manual feel. */
+:root {
+  --color-paper: #fafaf7;
+  --color-ink: #1a2030;
+  --color-accent: #b04a2a;       /* terracotta — court line color */
+  --color-accent-soft: #f3dcc4;
+  --color-rule: #e3e0d6;
+  --color-muted: #5a6373;
+}
+
+@theme {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-serif: ui-serif, Georgia, "Cambria", "Times New Roman", serif;
+}
+
+html, body { height: 100%; }
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--color-accent); text-decoration: underline; text-underline-offset: 2px; }
+a:hover { text-decoration-thickness: 2px; }
+
+/* Prose container for markdown-rendered content.
+   Tuned for scannability: bigger body text, generous line-height, prominent
+   section headings, list items get vertical rhythm so bullets read like rows. */
+.prose-bible {
+  max-width: 72ch;
+  font-family: var(--font-sans);
+  font-size: 1.0625rem;     /* 17px base — easier to scan than 16px on long pages */
+  line-height: 1.7;
+}
+.prose-bible h1, .prose-bible h2, .prose-bible h3, .prose-bible h4 {
+  font-family: var(--font-serif);
+  color: var(--color-ink);
+  letter-spacing: -0.015em;
+  margin-bottom: 0.5em;
+  font-weight: 700;
+}
+.prose-bible h1 { font-size: 2.25rem; line-height: 1.15; margin-top: 0; }
+.prose-bible h2 {
+  font-size: 1.6rem;
+  margin-top: 2.25em;
+  padding-bottom: 0.35em;
+  border-bottom: 2px solid var(--color-accent);
+}
+.prose-bible h3 {
+  font-size: 1.2rem;
+  margin-top: 1.6em;
+  color: var(--color-accent);
+}
+.prose-bible h4 {
+  font-size: 1.05rem;
+  margin-top: 1.2em;
+  color: var(--color-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-family: var(--font-sans);
+}
+.prose-bible p, .prose-bible ul, .prose-bible ol, .prose-bible blockquote, .prose-bible table {
+  margin: 0.85em 0;
+}
+.prose-bible ul, .prose-bible ol {
+  padding-left: 1.5em;
+}
+.prose-bible ul li::marker { color: var(--color-accent); font-weight: 700; }
+.prose-bible ol li::marker { color: var(--color-accent); font-weight: 700; }
+.prose-bible li { margin: 0.55em 0; }
+.prose-bible li > p { margin: 0.3em 0; }
+.prose-bible li strong:first-child {
+  /* When a list item starts with a bold span (e.g. "**Passing:** ...") show
+     that as a label by giving it slightly more presence. */
+  display: inline-block;
+  margin-right: 0.25em;
+}
+.prose-bible strong { color: var(--color-ink); font-weight: 700; }
+.prose-bible code {
+  font-size: 0.9em;
+  background: var(--color-accent-soft);
+  padding: 0.05em 0.35em;
+  border-radius: 3px;
+}
+.prose-bible pre {
+  background: #f1ede4;
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-size: 0.85em;
+  line-height: 1.5;
+}
+.prose-bible pre code { background: transparent; padding: 0; }
+.prose-bible blockquote {
+  border-left: 3px solid var(--color-accent);
+  padding-left: 1em;
+  color: var(--color-muted);
+  font-style: italic;
+  margin: 1.2em 0;
+}
+.prose-bible table {
+  border-collapse: collapse;
+  font-size: 0.95em;
+  width: 100%;
+}
+.prose-bible th, .prose-bible td {
+  border: 1px solid var(--color-rule);
+  padding: 0.5em 0.7em;
+  text-align: left;
+  vertical-align: top;
+}
+.prose-bible th { background: #f1ede4; font-weight: 700; }
+.prose-bible hr { border: none; border-top: 1px solid var(--color-rule); margin: 2em 0; }
+
+/* Subtle "kicker" tag for frontmatter chips */
+.kicker {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-muted);
+  background: var(--color-accent-soft);
+  padding: 0.2em 0.6em;
+  border-radius: 999px;
+}
+
+/* Honesty tags rendered inline in the prose: small, italic, muted. */
+.prose-bible :is(p, li, td) {
+  /* Style anything that looks like an honesty tag rendered as plain text */
+}
+
+/* Print rules — see also print.css */
+@media print {
+  nav, aside, footer, .no-print { display: none !important; }
+  body { background: white; color: black; }
+  a { color: black; text-decoration: none; }
+  .prose-bible { max-width: none; font-size: 11pt; line-height: 1.5; }
+  .prose-bible h2 { border-bottom: 1px solid #999; }
+  .print-page { page-break-after: always; }
+}
