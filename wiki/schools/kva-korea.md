@@ -4,7 +4,7 @@ name: Korea Volleyball Association (KVA)
 origin: South Korea
 founders: []
 core-principles: []
-associated-coaches: [park-man-bok, kim-hyung-sil, mido-cha, stefano-lavarini, cesar-hernandez-gonzalez]
+associated-coaches: [park-man-bok, kim-hyung-sil, stefano-lavarini, cesar-hernandez-gonzalez]
 related-schools: [korean-school]
 sources:
   - kva-2026-wikipedia
@@ -26,7 +26,7 @@ KVA must be distinguished from **KOVO (Korea Volleyball Federation, 한국배구
 
 - [[park-man-bok]] — 1973 Korea Women's NT World Cup bronze head coach; subsequently long-tenured Peruvian women's NT head coach
 - [[kim-hyung-sil]] — Korea Women's NT head coach for the 2012 London 4th-place cycle
-- [[mido-cha]] — historic figure listed in the [[korean-school]] founders frontmatter; English-language documentation pending
+- "Mido Cha" (unverified) — historic figure listed in the original plan-task brief; not surfaced in any English-language documentation captured for this wiki. Park Man-Bok is the canonical historical anchor; see [[korean-school]] for the documentation status.
 - [[stefano-lavarini]] — first foreign head coach of Korea Women's NT; Tokyo 2020 4th-place architect
 - [[cesar-hernandez-gonzalez]] — Korea Women's NT head coach 2022-2024; previously Lavarini's assistant; concurrent assistant to [[giovanni-guidetti]] at VakıfBank Istanbul
 

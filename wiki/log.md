@@ -1016,3 +1016,33 @@ The Munciana .deferred marker is now obsolete; it should be removed in the next 
 - raw/INDEX.md — added fcv-cuba-2025-fivb-election.md under Cuban tradition section (renamed to include A.21).
 
 **Lint state:** [[eugenio-george]], [[antonio-perdomo]], [[mireya-luis]] all forward-referenced from cuban-school.md and fcv-cuba.md — coach pages do not yet exist (queued for a later coach-page wave). Cross-school references use bare slugs that resolve to existing schools/coaches pages where they exist (russian-school, brazilian-school, japanese-training, usa-volleyball, karpol-2026-wikipedia, bernardinho-2026-wikipedia-bio, brazil-women-nt-2026-wikipedia, guimaraes-2026-wikipedia, daimatsu-2017-tough-love, japan-2016-five-strengths, bernardinho-2006-transformando-suor-em-ouro). Bidirectional `associated-coaches` will require eugenio-george and antonio-perdomo coach pages to be created in a subsequent wave.
+
+## [2026-04-25] dispatch-A-complete | Tracks A+B+C — Five missing schools landed (Tasks A.22 + A.23 wrap)
+
+Parallel dispatch of ~25 agents across Tasks A.2-A.21 produced:
+- **5 new school pages** (polish-school, french-school, serbian-school, cuban-school, korean-school — ~2000-3000w each, heavy citation per SCHEMA §3.3 / §5)
+- **5 federation/league stubs** (pzps-poland, ffv-france, oss-serbia, fcv-cuba, kva-korea)
+- **13 new coach profiles + 4 player/governance stubs** in Task A.22 cleanup (Mireya Luis, Stefano Lavarini, Kim Yeon-koung, César Hernández González)
+- **~50 new source pages** from Wikipedia/FIVB/CEV/federation/national-newspaper ingest
+
+**Net wiki state delta from 2026-04-23 (CP3) to 2026-04-25:**
+- Schools: 33 → **43** (+10)
+- Coaches: 43 → **60** (+17 — includes 13 boil-the-ocean coaches + 4 Task-A.22 player/governance stubs)
+- Sources: 632 → **680** (+48)
+
+**Plan canonical text — corrections incorporated (research findings vs. plan brief):**
+- **Heynen Polish tenure** — plan said 2018-2022; actual is **2018-2021** (Heynen left after Tokyo 2020, Grbić took over for the 2021 cycle onward) per [[heynen-2026-wikipedia-bio]] and [[poland-men-nt-2026-wikipedia]].
+- **Polish lineage ordering** — plan said "Anastasi → Antiga → Heynen → Grbić"; actual chronology is **Anastasi (2009-2013) → Antiga (2014-2018, 2014 Worlds gold) → Heynen (2018-2021, 2018 Worlds gold) → Grbić (2021-, 2022 Worlds silver + 2024 Paris silver)**.
+- **Paris 2024 men's final result** — plan brief implied a French semifinal; actual result is **France 3-0 Poland in the final, August 10, 2024**, France's gold medal under [[andrea-giani]].
+- **Perdomo era** — plan said "1976 Montreal bronze era" (men's-side); research per [[perdomo-2009-olympedia-bio]], [[cuba-men-nt-2026-wikipedia]], and [[cuba-women-nt-2026-wikipedia]] establishes Perdomo's documented career was with the **women's** NT (assistant under George 1973-1996, head coach 1998-2007 + 2008 Beijing). The **1976 Montreal men's bronze head coach remains unidentified** in the available English-language sources.
+- **Korean founder figure** — plan said `mido-cha`; that romanization **could not be verified in any English-language source** (Wikipedia, Volleyball Hall of Fame, FIVB, Korea Times, Korea Herald, Newsweek). The canonical historical anchor in the available material is **[[park-man-bok]]** (IVHF 2016, first Korean inductee) per [[park-man-bok-2016-hall-of-fame]] and [[park-man-bok-2016-koreaherald-ivhf]]. Park's 1973 World Cup bronze with Korea precedes his subsequent emigration to Peru (1974) and the **1988 Seoul Olympic silver** built with Peruvian women's NT. The Korean school page's `founders:` lists Park Man-Bok; "Mido Cha" preserved as a plain-text reference in [[korean-school]] and [[kva-korea]] until Korean-language sources clarify whether it corresponds to a documented figure.
+- **Korean coach slug** — plan brief used `kim-hyung-shil`; ingested coach page is at `kim-hyung-sil` (single 's' romanization).
+
+**Task A.22 specific cleanup (this commit):**
+- 4 new player/coach stubs created: [[mireya-luis]] (~1100w heavy-cited; FIVB-VP-2018 + FCV-VP-2025 governance role), [[stefano-lavarini]] (~1100w; first foreign Korea HC + Italian-school export), [[kim-yeon-koung]] (~950w; modern Korean-school player figure), [[cesar-hernandez-gonzalez]] (~750w; post-Lavarini Korea successor)
+- 3 dangling refs demoted to plain text in their referring files: `noliko-maaseik` → "Noliko Maaseik" in [[vital-heynen]]; `earvin-ngapeth` → "Earvin N'Gapeth" in [[french-school]]; `mido-cha` → "Mido Cha (unverified)" in [[korean-school]] and [[kva-korea]] (associated-coaches frontmatter also pruned).
+- [[wiki/index.md]] updated: added "Boil-the-ocean schools (Track A)" subsection after Contrasting-school set; added "Federation/league pages (Track A)" subsection inside Schools; added "Boil-the-ocean coaches (Track A)" subsection inside Coaches with the actual Polish/French/Serbian/Cuban/Korean coach landings + the 4 new player/governance stubs.
+
+**Lint state:** Broken wikilinks: **1** (`[[munciana-juggle-passing]]` in this log file — known-stale historical reference, intentionally not patched per the user's "log.md is append-only-in-spirit" guidance). Invariants: **0** violations. Frontmatter: 29 warnings (pre-existing — non-blocking). Citations: 84 (pre-existing template-and-log noise — non-blocking). Orphans: 104 (pre-existing — to be addressed by Wave 3+). Concept gaps: **0** (was 2 before this dispatch — `[[mireya-luis]]` 6× and `[[stefano-lavarini]]` 3× both resolved).
+
+Next: Dispatch B (sports-science depth + book ingest).

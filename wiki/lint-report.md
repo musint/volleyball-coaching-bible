@@ -1,6 +1,6 @@
 # Wiki Lint Report
 
-Generated: 2026-04-25T14:41:12
+Generated: 2026-04-25T17:42:45
 
 ## Broken wikilinks
 Broken wikilinks: 1
@@ -12,10 +12,14 @@ Violations: 0
 
 
 ## Frontmatter failures
-Failures: 22
+Failures: 29
 
+- wiki\sources\cuba-men-nt-2026-wikipedia.md: invalid enum value 'reference-biography' for 'source-type'
+- wiki\sources\cuba-women-nt-2026-wikipedia.md: invalid enum value 'reference-biography' for 'source-type'
 - wiki\sources\daimatsu-2000-hall-of-fame.md: invalid enum value 'institutional-biography' for 'source-type'
 - wiki\sources\daimatsu-2017-tough-love.md: invalid enum value 'retrospective-feature' for 'source-type'
+- wiki\sources\george-2005-volleyhall-bio.md: invalid enum value 'hall-of-fame-record' for 'source-type'
+- wiki\sources\george-2026-wikipedia-biography.md: invalid enum value 'reference-biography' for 'source-type'
 - wiki\sources\gms-2017-thank-you-carl-mcgown.md: invalid enum value 'tribute-page' for 'source-type'
 - wiki\sources\gms-2018-clinic-report.md: invalid enum value 'clinic-report' for 'source-type'
 - wiki\sources\gms-nd-about-us.md: invalid enum value 'organization-page' for 'source-type'
@@ -23,11 +27,14 @@ Failures: 22
 - wiki\sources\gms-nd-structure-practice.md: invalid enum value 'coaching-article' for 'source-type'
 - wiki\sources\japan-2016-five-strengths.md: invalid enum value 'coach-observation-article' for 'source-type'
 - wiki\sources\japan-2024-svleague.md: invalid enum value 'feature-article' for 'source-type'
+- wiki\sources\luis-2026-wikipedia-biography.md: invalid enum value 'reference-biography' for 'source-type'
 - wiki\sources\matsudaira-1998-hall-of-fame.md: invalid enum value 'institutional-biography' for 'source-type'
 - wiki\sources\matsudaira-2026-wikipedia-biography.md: invalid enum value 'reference-biography' for 'source-type'
 - wiki\sources\mcgown-2017-usav-remembering.md: invalid enum value 'obituary-article' for 'source-type'
 - wiki\sources\nakagaichi-2020-fivb-feature.md: invalid enum value 'federation-feature' for 'source-type'
 - wiki\sources\nakagaichi-2021-biography.md: invalid enum value 'reference-biography' for 'source-type'
+- wiki\sources\park-man-bok-2016-hall-of-fame.md: invalid enum value 'institutional-biography' for 'source-type'
+- wiki\sources\perdomo-2009-olympedia-bio.md: invalid enum value 'reference-biography' for 'source-type'
 - wiki\sources\speraw-2024-usav-profile.md: invalid enum value 'federation-profile' for 'source-type'
 - wiki\_templates\drill.md: invalid enum value '<phase>' for 'phase'
 - wiki\_templates\position.md: invalid enum value '<slug>' for 'position'
@@ -38,7 +45,7 @@ Failures: 22
 - wiki\_templates\technique.md: invalid enum value '<skill>' for 'skill'
 
 ## Unresolved citation keys
-Unresolved: 79
+Unresolved: 85
 
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
@@ -80,7 +87,7 @@ Unresolved: 79
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-24]
-- ...and 39 more
+- ...and 45 more
 
 ## Orphan pages
 Orphans: 104
@@ -137,30 +144,37 @@ Gaps: 0
 
 
 ## Unsourced-queue consistency
-Issues: 32
+Issues: 39
 
 - wiki\age-lens-college.md: has [unsourced] tag but no matching queue entry
 - wiki\log.md: has [unsourced] tag but no matching queue entry
 - wiki\SCHEMA.md: has [unsourced] tag but no matching queue entry
 - wiki\unsourced-queue.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\bebeto-de-freitas.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\cesar-hernandez-gonzalez.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\chris-mcgown.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\jose-roberto-guimaraes.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\kim-yeon-koung.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\kirsten-bernthal-booth.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\marie-zidek.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\mireya-luis.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\nikolay-karpol.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\renan-dal-zotto.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\russ-rose.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\ryan-theis.md: has [unsourced] tag but no matching queue entry
+- wiki\coaches\stefano-lavarini.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\tod-mattox.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\vyacheslav-platonov.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\yasutaka-matsudaira.md: has [unsourced] tag but no matching queue entry
 - wiki\coaches\yuichi-nakagaichi.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\block-vs-random-practice.md: has [unsourced] tag but no matching queue entry
+- wiki\schools\french-school.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\italian-school.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\japanese-training.md: has [unsourced] tag but no matching queue entry
+- wiki\schools\korean-school.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\munciana-volleyball-club.md: has [unsourced] tag but no matching queue entry
 - wiki\schools\russian-school.md: has [unsourced] tag but no matching queue entry
+- wiki\schools\serbian-school.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\bebeto-de-freitas-2026-wikipedia-bio.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\bernardinho-2026-wikipedia-bio.md: has [unsourced] tag but no matching queue entry
 - wiki\sources\dal-zotto-2026-wikipedia-bio.md: has [unsourced] tag but no matching queue entry

@@ -77,6 +77,36 @@ One-line summary per page; see the page itself for detail.
 - [[brandon-rosenthal]] — rapid-fire drill
 - [[todd-dagenais]] — Central Florida HC
 
+### Boil-the-ocean coaches (Track A — 2026-04-25)
+**Polish-school architects:**
+- [[andrea-anastasi]] — Italian-Polish dual identity; Polish men's NT 2009-2013
+- [[vital-heynen]] — Belgian; Polish men's NT HC 2018-2021; 2018 World Champion
+- [[stephane-antiga]] — French; Polish men's NT HC 2014-2018; 2014 World Champion
+- [[nikola-grbic]] — Serbian; current Polish men's NT HC; 2022 Worlds silver + 2024 Paris silver
+
+**French-school:**
+- [[laurent-tillie]] — French men's NT HC 2012-2021; 2020 Tokyo Olympic gold
+- [[andrea-giani]] — current French men's NT HC (2022-); FIVB Hall of Fame as player; 2024 Paris Olympic gold (3-0 over Poland in final)
+
+**Serbian-school:**
+- [[zoran-terzic]] — dean of Serbian women's volleyball; multiple World Championships + 2016 Rio silver
+- [[slobodan-kovac]] — Serbian men's NT player + coach; 2000 Sydney gold as player
+- [[igor-kolakovic]] — modern Serbian men's NT coaching tradition
+
+**Cuban-school:**
+- [[eugenio-george]] — Cuban women's NT HC 1968-2008; 1992-1996-2000 triple-gold architect
+- [[antonio-perdomo]] — Cuban women's NT technical co-leader 1973-2008 (NOT 1976 men's bronze HC; that figure remains unidentified in the available English-language sources)
+
+**Korean-school:**
+- [[park-man-bok]] — 1973 World Cup bronze HC; first Korean IVHF inductee (2016); subsequently Peruvian women's NT HC (1988 Seoul silver). Substituted for "Mido Cha" — that romanization could not be verified in English-language sources.
+- [[kim-hyung-sil]] — Korea women's NT HC 2011-2012; 2012 London 4th place
+
+**Player / governance figures (Track A):**
+- [[mireya-luis]] — Cuban OH; three-Olympic-gold dynasty captain (1992/1996/2000); IVHF 2004; 2018 FIVB Executive Vice President; 2025 FCV vice president
+- [[stefano-lavarini]] — Italian; first foreign Korea women's NT HC (2019-2021, Tokyo 2020 4th); subsequently Poland women's NT HC (Paris 2024 cycle)
+- [[kim-yeon-koung]] — Korean OH; 2012 London Olympic MVP (first non-medalist OMVP, 207-point Olympic record); 2011-12 first Asian CEV Champions League MVP; long-tenured Korean NT captain through Tokyo 2020
+- [[cesar-hernandez-gonzalez]] — Spanish; Korea women's NT HC 2022-2024 (post-Lavarini); concurrent VakıfBank Istanbul assistant under [[giovanni-guidetti]]
+
 ## Schools / philosophies
 ### Preferred-school set (W2.4)
 - [[gold-medal-squared]] — US motor-learning methodology house founded by Carl McGown (1985); specificity, random/variable practice, reading-reaction primacy
@@ -92,6 +122,20 @@ One-line summary per page; see the page itself for detail.
 - [[italian-school]] — Velasco's "Generazione di Fenomeni" → De Giorgi 2022/2025 men's restoration + Velasco women's 2024-25 resurgence + Guidetti's modern club hegemony; psychological leadership, meticulous match prep, Serie A pro pipeline
 - [[game-based-training]] — TGfU (Bunker & Thorpe 1982) / Play Practice (Launder) / Games Sense pedagogy applied to volleyball via USAV's game-like-training framework (Swan); tactical-awareness-before-technique, modified games, question-based coaching
 - [[block-vs-random-practice]] — methodology comparison: contextual-interference effect (Shea & Morgan 1979) → retention/transfer favors random practice despite worse in-session performance; how schools differ on blocking↔random balance
+
+### Boil-the-ocean schools (Track A — 2026-04-25)
+- [[polish-school]] — current #1 men's NT (2014+2018 World Champions, 2022 Worlds silver, 2024 Paris silver to France); Anastasi → Antiga → Heynen → Grbić lineage
+- [[french-school]] — 2020 Tokyo men's Olympic gold under Tillie; current Andrea Giani era — **2024 Paris Olympic gold (3-0 over Poland in final, August 10, 2024)**
+- [[serbian-school]] — Terzić-led women's NT dynasty + Yugoslav-era men's gold lineage; Kovač + Kolaković modern men's tradition
+- [[cuban-school]] — Eugenio George 1968-2008 women's three-Olympic-gold dynasty; Perdomo as women's-side co-architect (NOT 1976 men's bronze HC — that figure remains unidentified)
+- [[korean-school]] — historic women's NT precision tradition; Park Man-Bok 1973 World Cup bronze origin → Kim Hyung-sil 2012 → Lavarini 2019-2021 → Hernández González 2022-2024; Kim Yeon-koung era
+
+### Federation/league pages (Track A — 2026-04-25)
+- [[pzps-poland]] — Polish federation; PlusLiga + Tauron Liga
+- [[ffv-france]] — French federation; Ligue Nationale de Volley (LNV) + Ligue A
+- [[oss-serbia]] — Serbian federation; SuperLiga
+- [[fcv-cuba]] — Cuban federation; current (2025-2028) leadership Osvaldo Idel Martínez president, [[mireya-luis]] vice president
+- [[kva-korea]] — Korea Volleyball Association (national-team / amateur); KOVO operates the V-League
 
 ### Institutional-tradition stubs (W2.6 reconciliation — to flesh out in later waves)
 - [[penn-state]] — Penn State women's program under Russ Rose (1979-2021), 7 NCAA championships; stub for bidirectional-link compliance

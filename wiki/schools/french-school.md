@@ -65,7 +65,7 @@ The principles produce a recognizable practice and competition profile.
 
 - **[[bernardinho]]** — bridging-tenure coach (France men's NT, 2021-2022) [france-men-nt-2026-wikipedia]. The one-year stint between Tillie and Giani imports [[brazilian-school]] vocabulary directly into the French program; Bernardinho returned to the Brazilian men's NT in 2023 [bernardinho-2026-wikipedia-bio]. Forward-referenced to the existing [[bernardinho]] page.
 
-- **Earvin N'Gapeth** (b. 1991) — outside hitter; multi-position-versatility prototype; **Tokyo 2020 tournament MVP** [tokyo-2020-mens-volleyball-2026-wikipedia]. Forward-referenced; no [[earvin-ngapeth]] page yet ingested.
+- **Earvin N'Gapeth** (b. 1991) — outside hitter; multi-position-versatility prototype; **Tokyo 2020 tournament MVP** [tokyo-2020-mens-volleyball-2026-wikipedia]. No coach page; player-figure reference only.
 
 - **Benjamin Toniutti** (b. 1989) — France-NT setter and captain across the 2020-2024 Olympic window [france-men-nt-2026-wikipedia]. Tactical-distribution authority for both Tillie and Giani regimes. Forward-referenced.
 
