@@ -438,5 +438,17 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - walter-2019-self-talk-junior-athletes.md — Walter et al. self-talk training RCT in junior sub-elite athletes (Sports MDPI 2019) — walter-2019-self-talk-junior-athletes
 - pires-2021-burnout-coping-volleyball-season.md — Pires & Ugrinowitsch burnout/coping across an annual volleyball season (J Hum Kinet 2021) — pires-2021-burnout-coping-volleyball-season
 
+### Motor-learning beyond CI cluster (Task B.6, 2026-04-25)
+- lola-2012-implicit-explicit-volleyball-serving.md — Lola, Tzetzis & Zetou on implicit/explicit/sequential serve decision-making in 10–12 yr female novices (PMS 2012) — lola-2012-implicit-explicit-volleyball-serving
+- slovak-2023-external-focus-volleyball-spike.md — Slovák et al. on external vs. internal focus and spike arm velocities in youth female players (Frontiers Psychol 2023) — slovak-2023-external-focus-volleyball-spike
+- apidogo-2021-differential-learning-volleyball.md — Apidogo, Burdack & Schöllhorn on differential vs. repetitive learning of three volleyball techniques (IJERPH 2021) — apidogo-2021-differential-learning-volleyball
+- rydberg-2011-self-controlled-forearm-passing.md — Rydberg (advisor: Wulf) on self-controlled vs. yoked forearm-passing practice — null result (UNLV M.S. thesis 2011) — rydberg-2011-self-controlled-forearm-passing
+- moy-2024-constraints-led-volleyball-serve.md — Moy, Renshaw & Gorman on constraints-led approach (two-serve allowance) for exploratory serve learning (J Sports Sci 2024) — moy-2024-constraints-led-volleyball-serve
+- caldeira-2023-functional-movement-variability.md — Caldeira et al. (Davids, Araújo) on functional movement variability and CLA vs. TA on volleyball attack vs. live block (IJSSC 2023) — caldeira-2023-functional-movement-variability
+- qu-2025-contextual-interference-volleyball-serve.md — Qu et al. on blocked/mixed/random serve practice — acquisition vs. transfer vs. retention (Frontiers Psychol 2025) — qu-2025-contextual-interference-volleyball-serve
+- oppici-2022-perceptual-motor-transfer-sports.md — Oppici & Panchuk systematic review on specific vs. general perceptual-motor transfer between sports (Psychol Sport Exerc 2022) — oppici-2022-perceptual-motor-transfer-sports
+- dearruda-2022-sequential-focus-volleyball-setting.md — de Arruda et al. on sequential focus-of-attention cues degrading skilled setters via constrained-action mechanism (IJSEP 2022) — dearruda-2022-sequential-focus-volleyball-setting
+- moran-2023-verbal-coaching-cues-youth.md — Moran et al. multi-site youth study finding no advantage of external/internal/analogy cues vs. neutral on jump or sprint (PLOS One 2023) — moran-2023-verbal-coaching-cues-youth
+
 ## images/
 *(populated as needed)*

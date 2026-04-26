@@ -1296,3 +1296,40 @@ Per Tracks-A-B-C plan Task B.5 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.
 **Trust tier:** All 10 are Tier 1 (9 peer-reviewed journal articles + 1 University of Minnesota MA thesis, transparently flagged as a thesis rather than journal article).
 
 Next: B.6 (motor-learning beyond CI) is the last remaining research cluster on Track B.
+
+
+## [2026-04-25] ingest | Track B.6 — motor-learning beyond CI research cluster (10 papers)
+
+Per plan `docs/superpowers/plans/2026-04-25-tracks-a-b-c.md` Task B.6. SCHEMA §3.8 + §8.1 + §8.4 applied. Implicit-explicit, external/internal focus, differential learning, self-controlled practice, CLA, representative learning design, variability of practice, transfer of learning, expertise-modulated cue effects, coaching cue effectiveness — all peer-reviewed Tier 1.
+
+**Papers ingested (10):**
+
+1. **Lola, Tzetzis, Zetou (2012)** *Perceptual and Motor Skills* 114(2):665–678 — implicit/explicit/sequential serve decision-making in 10–12 yr female novices. Sequential implicit-then-explicit beat pure-implicit beat pure-explicit on speed AND accuracy at retention. **Citation-key:** `lola-2012-implicit-explicit-volleyball-serving`.
+2. **Slovák, Sarvestan, Iwatsuki, Zahradník, Land, Abdollahipour (2023)** *Frontiers in Psychology* 13 — external focus produced significantly faster hand/forearm/arm velocities in volleyball spike vs. internal focus and control in 12 youth female players. **Citation-key:** `slovak-2023-external-focus-volleyball-spike`.
+3. **Apidogo, Burdack, Schöllhorn (2021)** *IJERPH* 18(19):10499 — differential learning beat repetitive learning AND control on three volleyball techniques (UH pass, OH pass, OH serve) AND combined score, p<0.001 across the board, n=42 female adolescents. **Citation-key:** `apidogo-2021-differential-learning-volleyball`.
+4. **Rydberg (2011)** UNLV M.S. thesis under Wulf — self-controlled forearm-passing practice null result on collegiate women; no significant difference vs. yoked control on accuracy, IMI, or PANAS. **Citation-key:** `rydberg-2011-self-controlled-forearm-passing`.
+5. **Moy, Renshaw, Gorman (2024)** *Journal of Sports Sciences* 42(6):511–518 — CLA two-serve task constraint shifted high-school males to faster (~5 km/hr) and more complex serves (jump topspin 25%→45%). Affect-mediated. **Citation-key:** `moy-2024-constraints-led-volleyball-serve`.
+6. **Caldeira, Paulo, Veloso, Infante, Davids, Araújo (2023)** *IJSSC* — 6-week CLA vs. TA: CLA group's successful-attack rate vs. live block rose significantly more. Successful attacks predicted by lateral-CoM-at-planting-step + longitudinal-CoM-at-contact. **Citation-key:** `caldeira-2023-functional-movement-variability`.
+7. **Qu, Xiao, Zhang, Wang, Li (2025)** *Frontiers in Psychology* 16 — 8-week three-arm RCT of blocked/mixed/random serve practice. Blocked won acquisition; random won transfer; **mixed won long-term retention**. Stage-matched scheduling supported. **Citation-key:** `qu-2025-contextual-interference-volleyball-serve`.
+8. **Oppici & Panchuk (2022)** *Psychology of Sport and Exercise* 59:102118 — systematic review (n=17 studies) of specific vs. general perceptual-motor transfer between sports. Affordance similarity drives specific transfer; expertise effect in 6/17 studies; thin evidence base for multi-sport sampling claims. **Citation-key:** `oppici-2022-perceptual-motor-transfer-sports`.
+9. **de Arruda, Dai, Readdy, McCrea, Zhu (2022)** *IJSEP* 22(1) — sequential FOA cues degraded skilled setters' accuracy AND inter-joint coordination variability regardless of internal/external direction; novices unaffected on accuracy. Constrained-action hypothesis confirmed for setting. **Citation-key:** `dearruda-2022-sequential-focus-volleyball-setting`.
+10. **Moran et al. (12 authors, 2023)** *PLOS One* 18(3):e0280201 — multi-site (n=173) youth study found no advantage of external/internal/analogy cues vs. neutral on vertical jump or 20-m sprint. Negative replication of OPTIMAL theory in youth. **Citation-key:** `moran-2023-verbal-coaching-cues-youth`.
+
+**Files created:**
+- `raw/research/` — 10 new files (one per paper, with verbatim abstract where retrieved + key claims).
+- `wiki/sources/` — 10 new source pages, full SCHEMA §3.8 frontmatter + body, trust-tier 1.
+
+**Files updated:**
+- `raw/INDEX.md` — Motor-learning beyond CI cluster section appended (10 entries).
+- `wiki/index.md` — Sources cluster count line added.
+- `wiki/log.md` — this entry.
+
+**Access flags:** Lola 2012, de Arruda 2022, Oppici 2022, Moy 2024 are abstract-only (paywalled or behind login). Slovák 2023, Apidogo 2021, Caldeira 2023, Qu 2025, Moran 2023 are open access (PMC / Frontiers / MDPI / repository). Rydberg 2011 is open thesis. Per plan brief, abstract-only is acceptable when flagged. No findings fabricated.
+
+**Forward references:** all 10 sources have `Where it's cited: (later)` placeholders. Wave-3+ pages that should cite these include [[serving]] (Lola, Moy, Qu, Travlos), [[hitting]] (Slovák, Caldeira, de Arruda — wait, de Arruda is setting), [[setting]] (de Arruda, Apidogo), [[passing-forearm]] (Rydberg, Apidogo), [[constraints-led-approach]] (Moy, Caldeira, Apidogo), [[ecological-dynamics]] (Caldeira, Oppici, Moy), [[practice-planning]] (Qu, Apidogo, Moran), [[age-lens-14u]] (Lola, Slovák, Moran), [[coaching-cues]] / future cue page (Slovák, de Arruda, Moran).
+
+**Trust tier:** All 10 are Tier 1 (9 peer-reviewed journal articles + 1 UNLV M.S. thesis from Wulf's lab, transparently flagged as a thesis rather than journal article).
+
+**Track B research clusters now complete:** B.2 (biomechanics) ✓, B.3 (injury) ✓, B.4 (conditioning) ✓, B.5 (psychology) ✓, B.6 (motor-learning beyond CI) ✓ — 50 peer-reviewed papers across 5 clusters.
+
+Next on Track B: book-ingest clusters (B.8–B.12), then citation-spread polish (B.13) and B-track lint (B.14).
