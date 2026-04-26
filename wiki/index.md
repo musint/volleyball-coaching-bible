@@ -281,6 +281,99 @@ Per-drill pages from the [[munciana-2022-camp-drills]] coach-tutorial library, o
 - [[college-120min-conference-week]] — conference-week serve-pass-defend emphasis
 - [[college-90min-taper]] — taper day before a major match
 
+### Macrocycles (Track C — 2026-04-25)
+Multi-week season blueprints with `scope: macrocycle`. Used for season planning at the program level.
+- [[hs-fall-12-week-macrocycle]] — high-school fall season 12-week arc (preseason → regular season → playoffs)
+- [[college-fall-14-week-macrocycle]] — NCAA fall season 14-week arc (camp → conference → postseason)
+- [[club-preseason-6-week-macrocycle]] — club preseason 6-week installation block
+- [[club-nationals-prep-4-week-macrocycle]] — club nationals 4-week peaking taper
+- [[summer-dev-8-week-macrocycle]] — summer-development 8-week individual block
+
+### Microcycles (Track C — 2026-04-25)
+Week-scale practice templates with `scope: week`. Used for week-by-week planning inside a macrocycle.
+- [[hs-pre-match-week]] — HS Mon-Fri pre-match week template
+- [[club-pre-tournament-week]] — club pre-tournament-weekend week template
+- [[recovery-week]] — recovery / deload week template
+- [[mid-season-tue-thu-cycle]] — mid-season Tue/Thu microcycle (typical 2-practice week)
+- [[postseason-testing-week]] — postseason / end-of-year testing & evaluation week
+
+## Operations (Track C + D — 2026-04-25)
+Operational templates and forms used by coaches and program staff during the season. All pages are `ops-doc` page-type per SCHEMA §3.11.
+
+### Match prep
+Game-day and opponent-prep templates with `kind: match-prep`.
+- [[match-prep-scouting-form]] — opponent scouting form (rotations, tendencies, key players)
+- [[match-prep-stat-collection-sheet]] — in-match stat collection sheet (passing, hitting, serving, blocking)
+- [[match-prep-video-review-workflow]] — opponent + own-team video review workflow
+- [[match-prep-opponent-tendency-form]] — opponent tendency form (serve patterns, attack distributions)
+- [[match-prep-in-match-adjustment]] — in-match adjustment decision framework
+
+### Tryout rubrics
+Per-age evaluation rubrics with `kind: tryout-rubric`. Each is an 8-row × 5-column scoring grid aligned with the corresponding age-guide's promotion criteria.
+- [[tryout-rubric-10s]] — 10s tryout evaluation rubric
+- [[tryout-rubric-11s]] — 11s tryout evaluation rubric
+- [[tryout-rubric-12s]] — 12s tryout evaluation rubric
+- [[tryout-rubric-13s]] — 13s tryout evaluation rubric
+- [[tryout-rubric-14u]] — 14U tryout evaluation rubric (Song's primary)
+- [[tryout-rubric-15s]] — 15s tryout evaluation rubric
+- [[tryout-rubric-16u]] — 16U tryout evaluation rubric
+- [[tryout-rubric-17s]] — 17s tryout evaluation rubric
+- [[tryout-rubric-18u]] — 18U tryout evaluation rubric
+- [[tryout-rubric-college-walkon]] — college walk-on tryout evaluation rubric
+
+### Club ops
+Club-level program-administration documents with `kind: club-ops`.
+- [[club-ops-usav-registration]] — USAV registration workflow + deadlines
+- [[club-ops-parent-comms-templates]] — parent communication template library (tryouts, schedules, conflicts, emergencies)
+- [[club-ops-hiring-assistants]] — assistant-coach hiring process
+- [[club-ops-fee-structure]] — club fee structure + payment policies
+- [[club-ops-court-rental]] — court rental + facility-management workflow
+- [[club-ops-scheduling]] — practice & match scheduling workflow
+- [[club-ops-conflict-resolution]] — parent / player / coach conflict resolution playbook
+- [[club-ops-safesport-compliance]] — SafeSport training + compliance workflow
+
+## Club Coaching Standards Manual (Track D — 2026-04-25)
+The load-bearing artifact for coach onboarding and athlete progression. Answers four questions per age:
+1. **What skills should a player at this age master?** → Age-guides
+2. **What cues do all our coaches use to teach those skills?** → Cue dictionary
+3. **Which drills do we use to train them?** → Drill pick-lists
+4. **How do we evaluate them at tryouts?** → Tryout rubrics (above, in Operations)
+
+### Age-guides
+Per-age technical and developmental guides — the load-bearing artifact for coach onboarding (~2900-3250w each, ≥10 inline citations).
+- [[10s]] — 10-and-under: ball-touches, cooperative games, no-pressure introduction
+- [[11s]] — 11s: forearm-pass install, simple serve, no-system play
+- [[12s]] — 12s: serve-receive intro, basic platform, overhead-pass introduction
+- [[13s]] — 13s: in-system passing, position concepts begin, hitting approach install
+- [[14s]] — 14U: fundamentals consolidation, reading-introduction, 4-2 / simple 6-2
+- [[15s]] — 15s: specialization onset, swing-blocking introduction, 5-1 install
+- [[16s]] — 16U: position commitment, full systems execution, jump-topspin
+- [[17s]] — 17s: pre-college recruiting cycle, advanced systems, analytics-light
+- [[18s]] — 18U: college-bridge, full elite-level systems, recruiting close-out
+
+### Cue dictionary (Track D — 2026-04-25)
+Canonical coaching cues per skill — the working voice of the program (~18,500w total).
+- [[cues]] — hub
+- [[passing-cues]] — forearm + overhead pass cues
+- [[setting-cues]] — hand-hinge + tempo + footwork cues
+- [[hitting-cues]] — approach + arm-swing + shot-selection cues
+- [[blocking-cues]] — footwork + hand-position + read cues
+- [[serving-cues]] — toss + contact + target cues
+- [[defense-cues]] — platform + reading + pursuit cues
+- [[transition-cues]] — block-to-approach + dig-to-approach + OOS protocol cues
+
+### Drill pick-lists
+Per-age must-do / preseason / mid-season / postseason drill pick-lists — every entry resolves to a real `wiki/drills/` page.
+- [[10s-drills]] — 10-and-under drill pick-list
+- [[11s-drills]] — 11s drill pick-list
+- [[12s-drills]] — 12s drill pick-list
+- [[13s-drills]] — 13s drill pick-list
+- [[14s-drills]] — 14U drill pick-list (Song's primary)
+- [[15s-drills]] — 15s drill pick-list
+- [[16s-drills]] — 16U drill pick-list
+- [[17s-drills]] — 17s drill pick-list
+- [[18s-drills]] — 18U drill pick-list
+
 ## Sources
 **~597 source pages** in `wiki/sources/` after the 2026-04-23 AOC deep-scrub.
 Full catalog auto-derivable by folder listing. Counts by cluster:

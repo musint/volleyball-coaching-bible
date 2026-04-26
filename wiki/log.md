@@ -2,6 +2,45 @@
 
 Append-only log of wiki operations. Prefix format: `## [YYYY-MM-DD] <operation> | <short>`.
 
+## [2026-04-25] dispatch-C-adj-complete | Operational layer (Tracks A+B+C)
+Parallel dispatch of ~24 agents produced:
+- 5 macrocycle templates (HS fall 12-week, college fall 14-week, club preseason 6-week, club nationals-prep 4-week, summer-dev 8-week)
+- 5 microcycle templates (HS pre-match week, club pre-tournament week, recovery week, mid-season Tue-Thu cycle, postseason testing week)
+- 5 match-prep templates (scouting form, stat collection sheet, video review workflow, opponent tendency form, in-match adjustment)
+- 8 club-ops docs (USAV registration, parent comms, hiring, fees, court rental, scheduling, conflict resolution, SafeSport)
+- SCHEMA §3.10 (practice-plan scope), §3.11 (ops-doc) added; lint.py extended; 10/10 tests passing
+Original Dispatch C scope adjusted: 4 tryout rubrics removed in favor of unified Manual handling.
+
+## [2026-04-25] dispatch-D1-complete | Manual foundation
+Parallel dispatch of ~26 agents produced:
+- 9 age-guide pages (10s through 18s, 2900-3250w each, heavy citation)
+- 7 cue-dictionary skill pages + 1 hub (passing/setting/hitting/blocking/serving/defense/transition + cues hub) — 18,500w total
+- 9 drill-pick-list pages (10s through 18s)
+SCHEMA §3.12-§3.14 + lint.py extensions in place. Net: 26 new pages.
+
+## [2026-04-25] dispatch-D2-complete | Manual tryout rubrics
+Parallel dispatch of 10 agents produced:
+- 10 tryout-rubric ops-doc pages: 10s, 11s, 12s, 13s, 14u, 15s, 16u, 17s, 18u, college-walkon
+- Each rubric's 8-row × 5-column evaluation table aligns with the corresponding age-guide's promotion criteria
+- ops-doc kind=tryout-rubric format unified across all 10
+
+## [2026-04-25] manual-complete | Club Coaching Standards Manual v1 + Operational layer shipped
+Net session deliverable across Dispatch C-adj + Manual D.1 + D.2:
+- 23 Dispatch C-adj content pages (operational layer)
+- 26 Manual D.1 pages (age-guides + cue dictionaries + drill pick-lists)
+- 10 Manual D.2 pages (tryout rubrics)
+- 5 new SCHEMA page-type definitions (ops-doc, age-guide, cue-dictionary, drill-pick-list, plus practice-plan scope extension)
+- tools/lint.py extended; tools/test_lint.py has 10 passing regression tests
+Total: ~59 new content pages this session.
+
+The Manual answers four questions per age:
+1. What skills should a player at this age master? → age-guide pages
+2. What cues do all our coaches use to teach those skills? → cue dictionary
+3. Which drills do we use to train them? → drill pick-lists
+4. How do we evaluate them at tryouts? → tryout rubrics
+
+Manual v2 backlog (deferred): club philosophy/values doc; parent comms expansion; coach onboarding; athlete self-development guides; mentorship structure.
+
 ## [2026-04-24] ingest | Books cluster 2 (Task B.9) — Beal + Hebert + McGown | 6 files (3 raw + 3 wiki sources)
 Per Tracks-A-B-C plan Task B.9 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`).
 

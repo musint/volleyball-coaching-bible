@@ -1,9 +1,9 @@
 # Wiki Lint Report
 
-Generated: 2026-04-25T18:25:11
+Generated: 2026-04-25T19:09:26
 
 ## Broken wikilinks
-Broken wikilinks: 11
+Broken wikilinks: 14
 
 - wiki\log.md: [[becky-schmidt]]
 - wiki\log.md: [[bonnie-kenny]]
@@ -13,6 +13,9 @@ Broken wikilinks: 11
 - wiki\log.md: [[munciana-juggle-passing]]
 - wiki\log.md: [[sue-gozansky]]
 - wiki\log.md: [[techniques]]
+- wiki\age-guides\11s.md: [[loser-becomes-the-net]]
+- wiki\age-guides\17s.md: [[aoc-2025-liskevych-back-row-young]]
+- wiki\drill-picks\15s-drills.md: [[14u]]
 - wiki\sources\notes-gozansky-2001-coaching-volleyball-successfully.md: [[sue-gozansky]]
 - wiki\sources\notes-shondell-2014-volleyball-coaching-bible-v2.md: [[avca]]
 - wiki\sources\notes-shondell-2014-volleyball-coaching-bible-v2.md: [[usa-volleyball-cap]]
@@ -22,8 +25,11 @@ Violations: 0
 
 
 ## Frontmatter failures
-Failures: 29
+Failures: 33
 
+- wiki\age-lens-14u.md: invalid enum value '14-and-under club-level indoor girls at nationally-recognized programs; developmentally pre-adolescent to mid-adolescent; first-or-second year of organized 6s competition' for 'scope'
+- wiki\age-lens-college.md: invalid enum value 'NCAA D1/D2/D3 + NAIA + JUCO women's indoor volleyball; ages 18-22; four-year competitive development arc; elite physical + technical + tactical demands' for 'scope'
+- wiki\age-lens-hs.md: invalid enum value 'US high school varsity indoor girls (fall season in most states); ages 14-18; developmental arc from novice freshman to competitive senior' for 'scope'
 - wiki\sources\cuba-men-nt-2026-wikipedia.md: invalid enum value 'reference-biography' for 'source-type'
 - wiki\sources\cuba-women-nt-2026-wikipedia.md: invalid enum value 'reference-biography' for 'source-type'
 - wiki\sources\daimatsu-2000-hall-of-fame.md: invalid enum value 'institutional-biography' for 'source-type'
@@ -46,6 +52,7 @@ Failures: 29
 - wiki\sources\park-man-bok-2016-hall-of-fame.md: invalid enum value 'institutional-biography' for 'source-type'
 - wiki\sources\perdomo-2009-olympedia-bio.md: invalid enum value 'reference-biography' for 'source-type'
 - wiki\sources\speraw-2024-usav-profile.md: invalid enum value 'federation-profile' for 'source-type'
+- wiki\_templates\age-lens.md: invalid enum value '<1 sentence>' for 'scope'
 - wiki\_templates\drill.md: invalid enum value '<phase>' for 'phase'
 - wiki\_templates\position.md: invalid enum value '<slug>' for 'position'
 - wiki\_templates\source.md: invalid enum value '<type>' for 'source-type'
@@ -55,8 +62,12 @@ Failures: 29
 - wiki\_templates\technique.md: invalid enum value '<skill>' for 'skill'
 
 ## Unresolved citation keys
-Unresolved: 94
+Unresolved: 135
 
+- wiki\log.md: [2026-04-25]
+- wiki\log.md: [2026-04-25]
+- wiki\log.md: [2026-04-25]
+- wiki\log.md: [2026-04-25]
 - wiki\log.md: [2026-04-24]
 - wiki\log.md: [2026-04-25]
 - wiki\log.md: [2026-04-24]
@@ -93,14 +104,10 @@ Unresolved: 94
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
-- wiki\log.md: [2026-04-23]
-- wiki\log.md: [2026-04-24]
-- wiki\log.md: [mike-lingenfelter]
-- wiki\log.md: [2026-04-24]
-- ...and 54 more
+- ...and 95 more
 
 ## Orphan pages
-Orphans: 116
+Orphans: 111
 
 - wiki\schools\alberta-volleyball.md (type=school)
 - wiki\schools\iowa-state-volleyball.md (type=school)
@@ -108,11 +115,9 @@ Orphans: 116
 - wiki\sources\aoc-2013-almazan-cezar-mitty.md (type=source)
 - wiki\sources\aoc-2013-dicicco-coping-with-cuts.md (type=source)
 - wiki\sources\aoc-2013-liskevych-base-to-read.md (type=source)
-- wiki\sources\aoc-2014-denney-10-steps-start-club.md (type=source)
 - wiki\sources\aoc-2015-mcpeak-beach-workout-6.md (type=source)
 - wiki\sources\aoc-2015-mcpeak-go-low-bump-setting.md (type=source)
 - wiki\sources\aoc-2015-mcpeak-recovering-bad-pass.md (type=source)
-- wiki\sources\aoc-2015-rose-rotational-sideout.md (type=source)
 - wiki\sources\aoc-2015-rose-setter-first-ball.md (type=source)
 - wiki\sources\aoc-2015-tallman-private-lessons.md (type=source)
 - wiki\sources\aoc-2017-10-things-never-do-tryouts.md (type=source)
@@ -142,7 +147,9 @@ Orphans: 116
 - wiki\sources\aoc-2019-music-motivational-force.md (type=source)
 - wiki\sources\aoc-2019-push-superior-players.md (type=source)
 - wiki\sources\aoc-2019-ratkowski-practice-purpose.md (type=source)
-- ...and 76 more
+- wiki\sources\aoc-2019-rose-flexible-skill-technique.md (type=source)
+- wiki\sources\aoc-2019-rose-pepper-partner-choice.md (type=source)
+- ...and 71 more
 
 ## Stale methodology pages
 Stale: 0
