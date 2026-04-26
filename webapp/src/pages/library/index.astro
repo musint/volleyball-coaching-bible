@@ -1,0 +1,98 @@
+---
+import { getCollection } from 'astro:content';
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+
+const techniques = await getCollection('technique');
+const systems = await getCollection('system');
+const positions = await getCollection('position');
+const hubs = await getCollection('hub');
+const ageLenses = await getCollection('ageLens');
+const sources = await getCollection('source');
+const base = import.meta.env.BASE_URL;
+
+const skillHubs = hubs.filter(h => ['passing','setting','hitting','blocking','serving','defense','transition'].includes(h.id));
+const areaHubs = hubs.filter(h => !['passing','setting','hitting','blocking','serving','defense','transition'].includes(h.id));
+
+const techBySkill: Record<string, typeof techniques> = {};
+for (const t of techniques) {
+  const s = t.data.skill;
+  (techBySkill[s] ||= []).push(t);
+}
+const sysByCategory: Record<string, typeof systems> = {};
+for (const s of systems) {
+  const c = s.data.category;
+  (sysByCategory[c] ||= []).push(s);
+}
+---
+<DefaultLayout title="Library" description="Reference encyclopedia.">
+  <section class="max-w-6xl mx-auto px-4 py-10">
+    <h1 class="font-serif text-4xl font-bold text-stone-900 mb-2">Library</h1>
+    <p class="text-stone-600 mb-8 max-w-2xl">
+      Skill hubs, techniques, systems, positions, methodology hubs, age-lens overlays, and the source library.
+    </p>
+
+    <div class="grid md:grid-cols-2 gap-8">
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Skill hubs</h2>
+        <ul class="grid grid-cols-2 gap-1">
+          {skillHubs.map(h => (
+            <li><a href={`${base}/${h.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800 capitalize">{h.id}</a></li>
+          ))}
+        </ul>
+      </section>
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Methodology hubs</h2>
+        <ul class="space-y-1">
+          {areaHubs.map(h => (
+            <li><a href={`${base}/${h.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800 capitalize">{h.id.replace(/-/g, ' ')}</a></li>
+          ))}
+        </ul>
+      </section>
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Techniques ({techniques.length})</h2>
+        {Object.entries(techBySkill).sort().map(([skill, items]) => (
+          <div class="mb-3">
+            <h3 class="text-xs font-semibold uppercase tracking-wider text-stone-500">{skill}</h3>
+            <ul class="space-y-0.5">
+              {items.map(t => (
+                <li><a href={`${base}/techniques/${t.id}/`} class="block px-2 py-0.5 rounded hover:bg-stone-100 no-underline text-stone-800 text-sm">{t.id}</a></li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </section>
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Systems ({systems.length})</h2>
+        {Object.entries(sysByCategory).sort().map(([cat, items]) => (
+          <div class="mb-3">
+            <h3 class="text-xs font-semibold uppercase tracking-wider text-stone-500">{cat}</h3>
+            <ul class="space-y-0.5">
+              {items.map(s => (
+                <li><a href={`${base}/systems/${s.id}/`} class="block px-2 py-0.5 rounded hover:bg-stone-100 no-underline text-stone-800 text-sm">{s.id}</a></li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </section>
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Positions</h2>
+        <ul class="space-y-1">
+          {positions.map(p => (
+            <li><a href={`${base}/positions/${p.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800">{p.id.replace(/-/g, ' ')}</a></li>
+          ))}
+        </ul>
+      </section>
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Age-lenses</h2>
+        <ul class="space-y-1">
+          {ageLenses.map(a => (
+            <li><a href={`${base}/${a.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800">{a.data.label}</a></li>
+          ))}
+        </ul>
+        <p class="text-stone-500 text-sm mt-3">
+          Sources: <a href={`${base}/sources/`} class="text-orange-700 hover:underline">{sources.length} pages</a>
+        </p>
+      </section>
+    </div>
+  </section>
+</DefaultLayout>

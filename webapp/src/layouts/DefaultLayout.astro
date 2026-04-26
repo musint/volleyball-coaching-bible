@@ -1,0 +1,65 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const navItems = [
+  { href: `${base}/`, label: 'Home' },
+  { href: `${base}/manual/`, label: 'Manual' },
+  { href: `${base}/drills/`, label: 'Drills' },
+  { href: `${base}/library/`, label: 'Library' },
+  { href: `${base}/coaches/`, label: 'Coaches' },
+  { href: `${base}/schools/`, label: 'Schools' },
+  { href: `${base}/search/`, label: 'Search' },
+];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>{title} · Coaching Bible</title>
+  {description && <meta name="description" content={description} />}
+  <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+</head>
+<body class="min-h-screen flex flex-col">
+  <nav class="border-b border-stone-200 bg-stone-50/80 backdrop-blur sticky top-0 z-30 no-print">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+      <a href={`${base}/`} class="font-serif text-lg font-bold text-stone-900 no-underline">
+        Coaching Bible
+      </a>
+      <div class="hidden md:flex items-center gap-5 text-sm">
+        {navItems.slice(1).map(item => (
+          <a href={item.href} class="text-stone-700 hover:text-orange-700 no-underline">{item.label}</a>
+        ))}
+      </div>
+    </div>
+  </nav>
+
+  <main class="flex-1">
+    <slot />
+  </main>
+
+  <footer class="border-t border-stone-200 mt-16 py-6 text-sm text-stone-500 no-print">
+    <div class="max-w-6xl mx-auto px-4 flex flex-wrap justify-between gap-4">
+      <span>Volleyball Coaching Bible — LLM-maintained</span>
+      <a href="https://github.com/musint/volleyball-coaching-bible" class="text-stone-500 hover:text-orange-700">github</a>
+    </div>
+  </footer>
+
+  <!-- mobile bottom tabs -->
+  <nav class="md:hidden fixed bottom-0 inset-x-0 border-t border-stone-200 bg-white shadow-lg z-40 no-print">
+    <div class="grid grid-cols-4 text-xs">
+      <a href={`${base}/manual/`} class="py-3 text-center text-stone-700 no-underline">Manual</a>
+      <a href={`${base}/drills/`} class="py-3 text-center text-stone-700 no-underline">Drills</a>
+      <a href={`${base}/coaches/`} class="py-3 text-center text-stone-700 no-underline">Coaches</a>
+      <a href={`${base}/search/`} class="py-3 text-center text-stone-700 no-underline">Search</a>
+    </div>
+  </nav>
+</body>
+</html>

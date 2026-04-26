@@ -1,0 +1,50 @@
+---
+import { getCollection, render } from 'astro:content';
+import DefaultLayout from '../layouts/DefaultLayout.astro';
+import ManualLayout from '../layouts/ManualLayout.astro';
+
+export async function getStaticPaths() {
+  // Collections to expose via dynamic routes. Inside getStaticPaths so the
+  // bundle extraction picks them up (Astro statically lifts this function).
+  const COLLECTION_ROUTES: Array<[string, string]> = [
+    ['drill', 'drills'],
+    ['ageGuide', 'manual/ages'],
+    ['cueDictionary', 'manual/cues'],
+    ['drillPickList', 'manual/drill-picks'],
+    ['opsDoc', 'ops'],
+    ['practicePlan', 'manual/practice-plans'],
+    ['coach', 'coaches'],
+    ['school', 'schools'],
+    ['technique', 'techniques'],
+    ['system', 'systems'],
+    ['source', 'sources'],
+    ['position', 'positions'],
+    ['ageLens', ''],
+    ['hub', ''],
+  ];
+  const paths: any[] = [];
+  for (const [col, prefix] of COLLECTION_ROUTES) {
+    const entries = await getCollection(col as any);
+    for (const e of entries) {
+      const slug = e.id;
+      const segs = prefix ? `${prefix}/${slug}` : slug;
+      paths.push({
+        params: { slug: segs },
+        props: { entry: e, collection: col, prefix },
+      });
+    }
+  }
+  return paths;
+}
+
+const { entry, collection } = Astro.props as any;
+const { Content } = await render(entry);
+const data = entry.data;
+const useManual = ['ageGuide','cueDictionary','drillPickList','opsDoc','practicePlan'].includes(collection);
+const Layout = useManual ? ManualLayout : DefaultLayout;
+const title = data.name || data.title || data.label || data.area || entry.id;
+const ageProp = data.age || (data.label && /^14u|hs|college$/.test(data.label) ? data.label : undefined);
+---
+<Layout title={title} age={ageProp}>
+  <Content />
+</Layout>

@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+
+const coaches = await getCollection('coach');
+const base = import.meta.env.BASE_URL;
+
+const byCountry: Record<string, typeof coaches> = {};
+for (const c of coaches) {
+  const country = (c.data.country || 'Other').split('/')[0].trim();
+  (byCountry[country] ||= []).push(c);
+}
+const countries = Object.keys(byCountry).sort();
+---
+<DefaultLayout title="Coaches" description="Coach profiles by country.">
+  <section class="max-w-6xl mx-auto px-4 py-10">
+    <h1 class="font-serif text-4xl font-bold text-stone-900 mb-2">Coaches</h1>
+    <p class="text-stone-600 mb-8 max-w-2xl">{coaches.length} profiles across {countries.length} countries / traditions.</p>
+
+    {countries.map(country => (
+      <section class="mb-8">
+        <h2 class="font-serif text-xl font-bold text-stone-900 border-b border-stone-200 pb-1 mb-3">{country}</h2>
+        <ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
+          {byCountry[country].sort((a,b) => a.data.name.localeCompare(b.data.name)).map(c => (
+            <li>
+              <a href={`${base}/coaches/${c.id}/`} class="block p-3 border border-stone-200 rounded-md hover:border-orange-400 hover:bg-orange-50 no-underline">
+                <div class="font-semibold text-stone-900">{c.data.name}</div>
+                <div class="text-xs text-stone-500">{c.data.era}</div>
+                {c.data.tags?.length ? (
+                  <div class="mt-1 text-xs text-stone-600">{c.data.tags.slice(0,3).join(' · ')}</div>
+                ) : null}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </section>
+</DefaultLayout>

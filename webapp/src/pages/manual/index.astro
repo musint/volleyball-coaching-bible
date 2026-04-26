@@ -1,0 +1,121 @@
+---
+import { getCollection } from 'astro:content';
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+
+const ageGuides = await getCollection('ageGuide');
+const cueDicts = await getCollection('cueDictionary');
+const drillPicks = await getCollection('drillPickList');
+const practicePlans = await getCollection('practicePlan');
+const opsDocs = await getCollection('opsDoc');
+const base = import.meta.env.BASE_URL;
+
+ageGuides.sort((a, b) => parseInt(a.data.age) - parseInt(b.data.age));
+const tryoutRubrics = opsDocs.filter(o => o.data.kind === 'tryout-rubric');
+const matchPrep = opsDocs.filter(o => o.data.kind === 'match-prep');
+const clubOps = opsDocs.filter(o => o.data.kind === 'club-ops');
+const macros = practicePlans.filter(p => p.data.scope === 'macrocycle');
+const micros = practicePlans.filter(p => p.data.scope === 'week');
+const sessions = practicePlans.filter(p => !p.data.scope || p.data.scope === 'single-session');
+---
+<DefaultLayout title="Manual" description="Club coaching standards manual.">
+  <section class="max-w-6xl mx-auto px-4 py-10">
+    <h1 class="font-serif text-4xl font-bold text-stone-900 mb-2">Coaching Standards Manual</h1>
+    <p class="text-stone-600 max-w-2xl mb-8">
+      Per-age technical milestones, canonical cues, drill pick-lists, and tryout rubrics — the four-question loop your coaches use to keep skill training consistent across every age group.
+    </p>
+
+    <div class="grid md:grid-cols-2 gap-6 mb-12">
+      <a href={`${base}/manual/ages/14s/`} class="block p-5 bg-orange-50 border-2 border-orange-200 rounded-lg hover:border-orange-500 no-underline">
+        <div class="kicker mb-1">Start here</div>
+        <h2 class="font-serif text-lg font-bold mb-1 text-stone-900">14s Age-guide</h2>
+        <p class="text-sm text-stone-600">Song's primary coaching context. Most operationally-detailed page in the manual.</p>
+      </a>
+      <a href={`${base}/drills/`} class="block p-5 bg-stone-50 border border-stone-200 rounded-lg hover:border-orange-400 no-underline">
+        <div class="kicker mb-1">Find a drill fast</div>
+        <h2 class="font-serif text-lg font-bold mb-1 text-stone-900">Drill catalog</h2>
+        <p class="text-sm text-stone-600">Filter 101 drills by skill, phase, age, duration, team size.</p>
+      </a>
+    </div>
+
+    <div class="grid md:grid-cols-2 gap-8">
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Age-guides</h2>
+        <ul class="space-y-1">
+          {ageGuides.map(a => (
+            <li><a href={`${base}/manual/ages/${a.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800">
+              <span class="font-semibold">{a.data.age}</span> <span class="text-stone-500 text-sm">— {a.data.phase}</span>
+            </a></li>
+          ))}
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Cue dictionary</h2>
+        <ul class="space-y-1">
+          <li><a href={`${base}/cues/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-orange-700 font-semibold">All skills (hub)</a></li>
+          {cueDicts.sort((a,b) => a.data.skill.localeCompare(b.data.skill)).map(c => (
+            <li><a href={`${base}/manual/cues/${c.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800">{c.data.skill} cues</a></li>
+          ))}
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Drill pick-lists</h2>
+        <ul class="space-y-1">
+          {drillPicks.sort((a,b) => parseInt(a.data.age) - parseInt(b.data.age)).map(d => (
+            <li><a href={`${base}/manual/drill-picks/${d.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800">
+              <span class="font-semibold">{d.data.age}</span> drills
+            </a></li>
+          ))}
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Tryout rubrics</h2>
+        <ul class="space-y-1">
+          {tryoutRubrics.sort((a,b) => a.id.localeCompare(b.id)).map(r => (
+            <li><a href={`${base}/ops/${r.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800">{r.id}</a></li>
+          ))}
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Practice plans</h2>
+        <h3 class="text-xs font-semibold uppercase tracking-wider text-stone-500 mt-2">Macrocycles ({macros.length})</h3>
+        <ul class="space-y-1 mb-3">
+          {macros.map(p => (
+            <li><a href={`${base}/manual/practice-plans/${p.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800 text-sm">{p.id}</a></li>
+          ))}
+        </ul>
+        <h3 class="text-xs font-semibold uppercase tracking-wider text-stone-500 mt-2">Microcycles ({micros.length})</h3>
+        <ul class="space-y-1 mb-3">
+          {micros.map(p => (
+            <li><a href={`${base}/manual/practice-plans/${p.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800 text-sm">{p.id}</a></li>
+          ))}
+        </ul>
+        <h3 class="text-xs font-semibold uppercase tracking-wider text-stone-500 mt-2">Sessions ({sessions.length})</h3>
+        <ul class="space-y-1">
+          {sessions.map(p => (
+            <li><a href={`${base}/manual/practice-plans/${p.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800 text-sm">{p.id}</a></li>
+          ))}
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="font-serif text-2xl font-bold text-stone-900 mb-3">Operations</h2>
+        <h3 class="text-xs font-semibold uppercase tracking-wider text-stone-500 mt-2">Match prep ({matchPrep.length})</h3>
+        <ul class="space-y-1 mb-3">
+          {matchPrep.map(o => (
+            <li><a href={`${base}/ops/${o.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800 text-sm">{o.id}</a></li>
+          ))}
+        </ul>
+        <h3 class="text-xs font-semibold uppercase tracking-wider text-stone-500 mt-2">Club ops ({clubOps.length})</h3>
+        <ul class="space-y-1">
+          {clubOps.map(o => (
+            <li><a href={`${base}/ops/${o.id}/`} class="block px-2 py-1 rounded hover:bg-stone-100 no-underline text-stone-800 text-sm">{o.id}</a></li>
+          ))}
+        </ul>
+      </section>
+    </div>
+  </section>
+</DefaultLayout>

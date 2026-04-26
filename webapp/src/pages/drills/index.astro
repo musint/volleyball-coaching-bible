@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+import DrillFilter from '../../components/DrillFilter.tsx';
+
+const drills = await getCollection('drill');
+const base = import.meta.env.BASE_URL;
+
+// Serialize the minimal drill data the filter needs into a JSON payload.
+const payload = drills.map(d => ({
+  slug: d.id,
+  name: d.data.name,
+  primary: d.data['primary-skill'],
+  secondary: d.data['secondary-skills'] ?? [],
+  techniques: d.data.techniques ?? [],
+  phase: d.data.phase,
+  durationMin: d.data['duration-min'],
+  teamMin: d.data['team-size-min'],
+  teamMax: d.data['team-size-max'],
+  levels: d.data.levels ?? [],
+  equipment: d.data.equipment ?? [],
+  href: `${base}/drills/${d.id}/`,
+}));
+---
+<DefaultLayout title="Drill catalog" description="Filterable catalog of every drill in the manual.">
+  <section class="max-w-6xl mx-auto px-4 py-8">
+    <div class="mb-6">
+      <h1 class="font-serif text-3xl font-bold tracking-tight text-stone-900">Drill catalog</h1>
+      <p class="text-stone-600 mt-1">{drills.length} drills · filter by skill, phase, age level, duration, team size.</p>
+    </div>
+    <DrillFilter client:load drills={payload} base={base} />
+  </section>
+</DefaultLayout>
