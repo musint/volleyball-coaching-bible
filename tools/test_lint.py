@@ -60,3 +60,48 @@ def test_report_file_written(tmp_path):
     })
     _run(tmp_path, ["--report", str(tmp_path / "report.md")])
     assert (tmp_path / "report.md").exists()
+
+
+def test_ops_doc_must_have_kind(tmp_path):
+    _scaffold(tmp_path, {
+        "wiki/ops/foo.md": "---\ntype: ops-doc\nsources: [some-source]\n---\n# Foo\n",
+    })
+    code, out, _ = _run(tmp_path)
+    assert code != 0
+    assert "kind" in out.lower()
+
+
+def test_ops_doc_kind_must_be_valid_enum(tmp_path):
+    _scaffold(tmp_path, {
+        "wiki/ops/foo.md": "---\ntype: ops-doc\nkind: bogus-kind\nsources: [some-source]\n---\n# Foo\n",
+    })
+    code, out, _ = _run(tmp_path)
+    assert code != 0
+    assert "bogus-kind" in out or "kind" in out.lower()
+
+
+def test_age_guide_must_have_age_and_phase(tmp_path):
+    _scaffold(tmp_path, {
+        "wiki/age-guides/foo.md": "---\ntype: age-guide\nsources: [a, b, c]\n---\n# Foo\n",
+    })
+    code, out, _ = _run(tmp_path)
+    assert code != 0
+    assert "age" in out.lower() or "phase" in out.lower()
+
+
+def test_cue_dictionary_must_have_skill(tmp_path):
+    _scaffold(tmp_path, {
+        "wiki/cues/foo.md": "---\ntype: cue-dictionary\nage-bands: [12s]\nsources: [a, b, c]\n---\n# Foo\n",
+    })
+    code, out, _ = _run(tmp_path)
+    assert code != 0
+    assert "skill" in out.lower()
+
+
+def test_drill_pick_list_must_have_drills(tmp_path):
+    _scaffold(tmp_path, {
+        "wiki/drill-picks/12s.md": "---\ntype: drill-pick-list\nage: 12s\nseason-context: composite\nsources: [a]\n---\n# Foo\n",
+    })
+    code, out, _ = _run(tmp_path)
+    assert code != 0
+    assert "drills" in out.lower()

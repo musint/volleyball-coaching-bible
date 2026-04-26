@@ -173,6 +173,55 @@ Ten page types. Basenames are globally unique, so Obsidian `\[\[wikilinks\]\]` r
 - **Citation weight:** Light. No inline citations; `## Sources` at bottom.
 - **Cross-link rules:** Every `drills:` slug must correspond to a real drill page. Plans SHOULD wikilink to the applicable age-lens page.
 
+**Optional frontmatter `scope` field:** practice-plans support an optional `scope` enum with values `single-session` (default if omitted), `week` (microcycle covering 3-7 sessions), `macrocycle` (multi-week season-arc plan). Filename patterns:
+- `single-session`: `<level>-<duration>-<label>.md` (existing convention)
+- `week`: `<context>-week.md` (e.g. `hs-pre-match-week.md`)
+- `macrocycle`: `<level>-<duration>-<arc>-macrocycle.md` (e.g. `hs-fall-12-week-macrocycle.md`)
+
+Required body sections vary by scope:
+- `single-session`: existing Context / Learning objectives / Time blocks / Coaching cues / Variations / Adaptations by level / Sources
+- `week`: Context / Week objectives / Day-by-day plan / Volume + intensity targets / Drill clusters / Sources
+- `macrocycle`: Context / Macrocycle objectives / Phase structure / Weekly load arc / Key test dates / Drill cluster references / Sources
+
+### 3.11 Ops-doc pages
+
+- **Folder / filename:** `wiki/ops/<kind>-<slug>.md` (e.g., `wiki/ops/match-prep-scouting-form.md`).
+- **Required frontmatter:** `type: ops-doc`, `kind` (enum: `match-prep | tryout-rubric | club-ops`), `sources` (≥1). Optional: `audience` (enum: `coach | parent | club-director | front-office`), `level`.
+- **Required body sections (vary by `kind`):**
+  - `match-prep`: Purpose / Inputs / Form / Workflow / Sources
+  - `tryout-rubric`: Purpose / Evaluation criteria / Scoring / Calibration notes / Sources
+  - `club-ops`: Purpose / Process / Templates / Common pitfalls / Sources
+- **Target length:** 400–800 words.
+- **Citation weight:** Light. No inline citations; `## Sources` at bottom.
+- **Cross-link rules:** Should wikilink to relevant hub pages (e.g., match-prep templates link to [[match-prep]]; club-ops pages link to [[recruiting]] or other relevant context as appropriate).
+
+### 3.12 Age-guide pages
+
+- **Folder / filename:** `wiki/age-guides/<age>.md` (e.g., `12s.md`).
+- **Required frontmatter:** `type: age-guide`, `age` (enum: 10s | 11s | 12s | 13s | 14s | 15s | 16s | 17s | 18s), `phase` (enum: introduction | fundamentals | late-fundamentals | specialization | advanced | college-bridge), `sources` (≥3).
+- **Required body sections:** `## Overview & development phase`, `## Skill milestones` (with subsections per skill), `## Systems repertoire`, `## Athletic profile`, `## Mental & coachability markers`, `## Promotion criteria`, `## Common coaching corrections`, `## Recommended drills`, `## Recommended cues`, `## Sources`.
+- **Target length:** 2500–3000 words.
+- **Citation weight:** Heavy.
+- **Cross-link rules:** wikilink corresponding `wiki/drill-picks/<age>-drills.md` and `wiki/ops/tryout-rubric-<age>.md`; subskill mentions wikilink the relevant `wiki/cues/<skill>-cues.md`; adjacent age-guides cross-reference each other.
+
+### 3.13 Cue-dictionary pages
+
+- **Folder / filename:** `wiki/cues/<skill>-cues.md` (e.g., `passing-cues.md`).
+- **Required frontmatter:** `type: cue-dictionary`, `skill` (enum from existing skill set), `age-bands` (list of age enum values), `sources` (≥3).
+- **Required body sections:** `## Overview`, `## Per-subskill canonical cues`, `## Anti-cues`, `## Voice consistency notes`, `## Sources`.
+- **Target length:** 1200–1800 words.
+- **Citation weight:** Heavy.
+- **Cross-link rules:** wikilinks to relevant technique pages and to coach pages whose cues are cited.
+
+### 3.14 Drill-pick-list pages
+
+- **Folder / filename:** `wiki/drill-picks/<age>-drills.md` (e.g., `12s-drills.md`).
+- **Required frontmatter:** `type: drill-pick-list`, `age` (enum), `season-context` (enum: composite | preseason | mid-season | pre-tournament | taper | tryout | postseason | match-day), `drills` (list, ≥10 real drill slugs from `wiki/drills/`), `sources` (≥1).
+- **Required body sections:** `## Purpose`, `## Must-do drill list`, `## When-in-season-to-use mapping`, `## Adaptations`, `## Sources`.
+- **Target length:** 600–900 words.
+- **Citation weight:** Light.
+- **Cross-link rules:** every drill in `drills:` frontmatter must resolve to a real `wiki/drills/<slug>.md` page; the corresponding age-guide wikilinks back to this page.
+
 ---
 
 ## 4. Frontmatter contracts
@@ -336,6 +385,12 @@ sources: [...]                      # ≥1 required
 - `focus ∈ {passing, setting, hitting, blocking, serving, defense, transition, serve-receive, out-of-system, match-prep, player-development, composite}`
 - `season-phase ∈ {preseason, mid-season, pre-tournament, taper, tryout, postseason, match-day}`
 - `level ∈ {14u, hs, college}` (same as `levels` array-valued counterpart on drill pages)
+- `scope ∈ {single-session, week, macrocycle}` (practice-plan)
+- `kind ∈ {match-prep, tryout-rubric, club-ops}` (ops-doc)
+- `audience ∈ {coach, parent, club-director, front-office}` (ops-doc, optional)
+- `age ∈ {10s, 11s, 12s, 13s, 14s, 15s, 16s, 17s, 18s}` (age-guide / drill-pick-list / tryout-rubric)
+- `phase ∈ {introduction, fundamentals, late-fundamentals, specialization, advanced, college-bridge}` (age-guide)
+- `season-context ∈ {composite, preseason, mid-season, pre-tournament, taper, tryout, postseason, match-day}` (drill-pick-list)
 
 ---
 

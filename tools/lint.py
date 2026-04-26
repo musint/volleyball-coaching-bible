@@ -49,10 +49,19 @@ REQUIRED_FIELDS = {
     "source": ["type", "source-type", "title", "author", "year", "citation-key", "trust-tier"],
     "age-lens": ["type", "label", "scope", "sources"],
     "practice-plan": ["type", "level", "duration-min", "focus", "season-phase", "drills", "sources"],
+    "ops-doc": ["type", "kind", "sources"],
+    "age-guide": ["type", "age", "phase", "sources"],
+    "cue-dictionary": ["type", "skill", "age-bands", "sources"],
+    "drill-pick-list": ["type", "age", "season-context", "drills", "sources"],
 }
 
 ENUM_VALUES = {
-    "phase": {"warm-up", "skill", "strategic", "competition", "conditioning"},
+    # `phase` is used both on drills (warm-up/skill/strategic/competition/conditioning)
+    # and on age-guides (introduction/fundamentals/.../college-bridge). The union below
+    # accepts either; per-type semantic enforcement is left to the frontmatter contract.
+    "phase": {"warm-up", "skill", "strategic", "competition", "conditioning",
+              "introduction", "fundamentals", "late-fundamentals",
+              "specialization", "advanced", "college-bridge"},
     "source-type": {"book", "video-series", "podcast", "article", "interview", "clinic", "social-post"},
     "trust-tier": {1, 2, 3},
     "skill": {"passing", "setting", "hitting", "blocking", "serving", "defense", "transition"},
@@ -64,6 +73,12 @@ ENUM_VALUES = {
               "serve-receive", "out-of-system", "match-prep", "player-development", "composite"},
     "season-phase": {"preseason", "mid-season", "pre-tournament", "taper", "tryout",
                      "postseason", "match-day"},
+    "scope": {"single-session", "week", "macrocycle"},
+    "kind": {"match-prep", "tryout-rubric", "club-ops"},
+    "audience": {"coach", "parent", "club-director", "front-office"},
+    "age": {"10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"},
+    "season-context": {"composite", "preseason", "mid-season", "pre-tournament", "taper",
+                       "tryout", "postseason", "match-day"},
 }
 
 METHODOLOGY_TYPES = {"school", "hub", "age-lens"}
@@ -149,6 +164,37 @@ def check_cross_link_invariants(pages):
             sp = m.get("schools-perspectives") or {}
             # only contested techniques need schools-perspectives; we don't know which so skip
             pass
+        elif t == "ops-doc":
+            kind = m.get("kind")
+            if not kind:
+                violations.append((str(p["path"]), "ops-doc missing kind"))
+            elif kind not in ENUM_VALUES["kind"]:
+                violations.append((str(p["path"]), f"ops-doc invalid kind '{kind}'"))
+            if not m.get("sources"):
+                violations.append((str(p["path"]), "ops-doc missing sources"))
+        elif t == "age-guide":
+            if not m.get("age"):
+                violations.append((str(p["path"]), "age-guide missing age"))
+            if not m.get("phase"):
+                violations.append((str(p["path"]), "age-guide missing phase"))
+            if not m.get("sources"):
+                violations.append((str(p["path"]), "age-guide missing sources"))
+        elif t == "cue-dictionary":
+            if not m.get("skill"):
+                violations.append((str(p["path"]), "cue-dictionary missing skill"))
+            if not m.get("age-bands"):
+                violations.append((str(p["path"]), "cue-dictionary missing age-bands"))
+            if not m.get("sources"):
+                violations.append((str(p["path"]), "cue-dictionary missing sources"))
+        elif t == "drill-pick-list":
+            if not m.get("age"):
+                violations.append((str(p["path"]), "drill-pick-list missing age"))
+            if not m.get("season-context"):
+                violations.append((str(p["path"]), "drill-pick-list missing season-context"))
+            if not m.get("drills"):
+                violations.append((str(p["path"]), "drill-pick-list missing drills"))
+            if not m.get("sources"):
+                violations.append((str(p["path"]), "drill-pick-list missing sources"))
     return violations
 
 
@@ -176,7 +222,8 @@ def check_frontmatter(pages):
                 failures.append((str(p["path"]), f"missing required field '{field}' for type '{t}'"))
         # enum validation on common fields
         for field in ("phase", "source-type", "trust-tier", "skill", "complexity", "position",
-                      "level", "focus", "season-phase"):
+                      "level", "focus", "season-phase", "scope", "kind", "audience",
+                      "age", "season-context"):
             if field in m and field in ENUM_VALUES:
                 val = m[field]
                 if val not in ENUM_VALUES[field]:
