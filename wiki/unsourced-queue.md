@@ -15,6 +15,42 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ## Entries
 
+### wiki/schools/polish-school.md
+- **Claim:** Polish men's blocking is characterized by disciplined pin-block placement (outside hitters and opposites assigned to confine the opponent's pin attackers to predictable cross-court or line angles) rather than read-and-chase blocking; specific blocking-system schematic details (which middle reads which setter cue, how the Polish pin closes the seam, the typical commit-block triggers).
+- **Why unsourced:** Wikipedia and FIVB-event-page sources confirm award patterns (Best MB Kłos 2014, Bieniek 2022; Kurek MVP+blocking-leader 2018) but do not contain blocking-system schematic detail. Synthesis is from results-and-award patterns, not from a documented coaching-clinic source.
+- **Research hypothesis:** Polish-language PZPS coaching-clinic transcripts; CEV "Coach Connection" features on Heynen or Grbić; Italian-language interview material from Anastasi's Polish tenure; potential FIVB technical analyses of 2018+2022 Polish blocking patterns.
+- **Added:** 2026-04-24
+
+### wiki/schools/polish-school.md
+- **Claim:** Polish defense relies on a deep-perimeter base — the libero deep, outsides forward, opposite covering deep-cross — designed to keep blocking-touch deflections in play and convert them to transition counterattacks.
+- **Why unsourced:** No schematic-level defensive-system source ingested for the Polish program; defensive identity inferred from the program's serving-and-blocking pressure profile.
+- **Research hypothesis:** PZPS coaching-clinic transcripts; Heynen/Grbić technical interviews; FIVB or CEV technical analyses of Polish defensive rotations 2014-2024.
+- **Added:** 2026-04-24
+
+### wiki/schools/polish-school.md
+- **Claim:** The Polish school's distinguishing tactical concept is the *paired* deployment of serving pressure and pin-blocking discipline (the "server-and-pin pressure" principle).
+- **Why unsourced:** Synthesized framing from the program's two-decade results pattern; not stated as a Polish-school principle in any English-language coaching-source on file.
+- **Research hypothesis:** Italian-school primary sources may have anchored the original concept (Velasco-era tempo-disrupting service game); Polish coaching-clinic material via PZPS would confirm whether the federation explicitly teaches the paired concept; AOC or CEV technical-feature articles on Heynen-era Polish methodology.
+- **Added:** 2026-04-24
+
+### wiki/schools/polish-school.md
+- **Claim:** Setter-perspective coaching under Grbić emphasizes tempo control, set-distribution intelligence, and middle-attack frequency as signature tactical priorities; the staffing-structure detail of how imported HC + Polish-staff hybrid is operationalized.
+- **Why unsourced:** Extrapolated from Grbić's 20-year setter playing career and from staffing pattern at Anastasi's tenure (Gardini as assistant); no quoted methodology source on file.
+- **Research hypothesis:** Grbić feature interviews in CEV / FIVB English-language coverage; Polish-federation coach-development materials; Italian-language Grbić interviews from his Sir Safety Perugia head-coaching stint.
+- **Added:** 2026-04-24
+
+### wiki/schools/polish-school.md
+- **Claim:** Federation training-centre infrastructure at Spała is the historic Polish national-team training base (referenced in design-spec but not in ingested Wikipedia capture).
+- **Why unsourced:** PZPS Wikipedia article does not name Spała; design-spec source list referenced it but the primary source for venue infrastructure detail is pzps.pl, not yet ingested.
+- **Research hypothesis:** Direct ingest of pzps.pl federation pages on training infrastructure; CEV / FIVB feature articles on Polish federation training facilities; Polish sport-media features on Spała training-centre.
+- **Added:** 2026-04-24
+
+### wiki/schools/polish-school.md
+- **Claim:** Hosting-driven results pattern; quantitative effect-size of home-advantage on Polish school's 2014-2024 results record.
+- **Why unsourced:** Editorial synthesis from tournament-host data; no analytical source decomposes Polish results into home-vs-neutral-site effect sizes.
+- **Research hypothesis:** Volleyball-analytics papers on home-advantage in major tournaments (FIVB Worlds, Olympics); CEV/FIVB statistical decompositions of host-country win rates.
+- **Added:** 2026-04-24
+
 ### wiki/coaches/zoran-terzic.md
 - **Claim:** Specific cycle goals and current results for Terzić's 2025-present return to the Serbia women's NT head-coach role.
 - **Why unsourced:** terzic-2026-wikipedia confirms the return appointment but does not detail current-cycle results.
