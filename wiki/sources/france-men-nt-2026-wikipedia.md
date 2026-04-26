@@ -45,6 +45,8 @@ Wikipedia reference for the France men's national volleyball team, tracing the p
 ## Where it's cited
 
 - [[french-school]]
+- [[laurent-tillie]]
+- [[andrea-giani]]
 
 ## Access
 

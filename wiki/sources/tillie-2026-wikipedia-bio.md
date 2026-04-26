@@ -40,6 +40,8 @@ Wikipedia biographical article covering the career of French coach Laurent Tilli
 ## Where it's cited
 
 - [[french-school]]
+- [[laurent-tillie]]
+- [[andrea-giani]]
 
 ## Access
 

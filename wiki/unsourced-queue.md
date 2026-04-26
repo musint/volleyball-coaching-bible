@@ -123,6 +123,24 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Research hypothesis:** Serbian-language interview ingest; CEV/FIVB technical-session recordings featuring Kovač; post-2019-Euros press-conference transcripts.
 - **Added:** 2026-04-25
 
+### wiki/coaches/stephane-antiga.md
+- **Claim:** "The specific drill design and systemic emphasis details are not documented in the source" (regarding outside-hitter serve-receive priority as a coaching emphasis under Antiga).
+- **Why unsourced:** Wikipedia source preserves results but not methodology.
+- **Research hypothesis:** Polish-language press archives during 2013–2016 covering the Polish-NT tenure; CEV / VolleyballWorld feature interviews from the 2014 Worlds cycle; AVCA / Volleyball Coaches Convention recordings featuring Antiga.
+- **Added:** 2026-04-24
+
+### wiki/coaches/stephane-antiga.md
+- **Claim:** Direct first-person Antiga quotes are absent; quote section is structural-summary rather than verbatim.
+- **Why unsourced:** Wikipedia article does not preserve direct-quote tactical-philosophy material.
+- **Research hypothesis:** CEV / FIVB / VolleyballWorld feature interviews from the 2014–2016 Polish-NT cycle; Polish-language press archives during the 2014 Worlds run; AVCA / Volleyball Coaches Convention recordings; potential French-language federation-press archives from his 1998-2010 captain era.
+- **Added:** 2026-04-24
+
+### wiki/coaches/stephane-antiga.md
+- **Claim:** Quote-material gap: tactical doctrine on first-major-tournament-gold capability, serve-receive emphasis, and PlusLiga-systemic Polish-coaching identity.
+- **Why unsourced:** Wikipedia source preserves no quote material.
+- **Research hypothesis:** As above for Antiga; specifically interviews from the 2014 Worlds and the 2024-25 Developres Polish-Championship-gold cycle.
+- **Added:** 2026-04-24
+
 ### wiki/coaches/igor-kolakovic.md
 - **Claim:** Specific aggregate-titles count across Kolaković's 12-year Budućnost Podgorica tenure (1997-2009).
 - **Why unsourced:** kolakovic-2026-wikipedia mentions multiple Montenegrin championships (2007, 2008) but does not count all titles across the tenure.
@@ -639,4 +657,64 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Claim:** Park's Korea-to-Peru transnational coaching template's institutional importance is under-documented in English-language sources.
 - **Why unsourced:** Editorial framing claim — the under-documentation itself is observable, but the institutional-importance assertion would benefit from comparative research on transnational coaching mobility patterns in volleyball pre-2000.
 - **Research hypothesis:** Comparative volleyball coaching mobility studies; FIVB historical records of expatriate national-team head coaches; IVHF panel discussion on transnational coaching careers.
+- **Added:** 2026-04-24
+
+### wiki/coaches/laurent-tillie.md
+- **Claim:** France under Tillie operationalized a multidirectional attack with high-frequency outside-hitter back-row attacking — "OH-backrow as normal option" rather than as an emergency outlet — and Earvin N'Gapeth's MVP performance at Tokyo 2020 exemplifies the design. The full tactical specification (set-tempo profiles per rotation, intended pass-quality-to-set-distribution dependencies, libero responsibility geometry) is widely discussed in French federation media but not yet ingested in detail.
+- **Why unsourced:** The Wikipedia bio and Tokyo 2020 Wikipedia article confirm N'Gapeth as MVP and document the tournament results; they do not describe the offensive system at the play-call or set-distribution level. The OH-backrow-frequency observation is consistent with the public match record but the system-level attribution requires a primary tactical-analysis source.
+- **Research hypothesis:** CEV / FIVB technical-study post-tournament reports on Tokyo 2020; FFV federation tactical features on Tillie's offensive system; long-form pieces on French Pro Ligue and N'Gapeth's club deployment at Modena Volley / Lube Civitanova; Mark Lebedew or Volleyball-Source tactical essays on French men's NT post-Tokyo; AOC / Volleyball World clinic content from Tillie or his France assistant staff.
+- **Added:** 2026-04-25
+
+### wiki/coaches/andrea-giani.md
+- **Claim:** The full theoretical exposition of Giani's coaching methodology — Italian-school formation, tactical fingerprints, in-tournament adjustment philosophy — is widely discussed in Italian-language coaching media but has not been ingested in detail in this wiki.
+- **Why unsourced:** Giani has been less prolific than Velasco in publicly circulated long-form English-language interviews. His public voice in English is largely tournament press-conference and federation appointment statements; the methodological underpinnings remain in Italian-language Serie A retrospectives, CEV technical post-tournament reports, and federation interviews.
+- **Research hypothesis:** Italian-language Serie A long-form features on Giani's Calzedonia Verona / Modena Volley tenures; CEV technical-study reports on Slovenia 2015, Germany 2017, and France 2024 European/Olympic runs; Italian Volleyball Federation interview archives; Mark Lebedew tactical essays on Italian-school exports; ZAKSA Kędzierzyn-Koźle 2024+ coverage where Giani is also coaching in Polish.
+- **Added:** 2026-04-25
+
+### wiki/coaches/andrea-giani.md
+- **Claim:** Giani's tactical fingerprints on the Paris 2024 squad center on tighter blocking organization and more aggressive jump-serving (the Italian-school and the German-tradition twin influences).
+- **Why unsourced:** This is plausible editorial synthesis (Giani's playing position was middle blocker; he coached Germany 2017-2021 where blocking-and-serving identity was emphasized; France's 2024 final stats include Quentin Jouffroy's 4 aces off the bench). But none of the ingested sources directly attribute a specific blocking-organization or service-aggression change to Giani versus the Tillie baseline.
+- **Research hypothesis:** Side-by-side blocking-and-serving stats France 2021 versus France 2024 (FIVB statistics database); Volleyball World feature pieces on the France knockout-round adjustments at Paris 2024; CEV technical-study tournament reports.
+- **Added:** 2026-04-25
+
+### wiki/coaches/andrea-giani.md
+- **Claim:** Giani's coaching career validates the Generazione di Fenomeni roster as a generational source of head coaches — comparable to other multi-decade player-to-coach pipelines (Yugoslav-era 1990s/2000s women's basketball; Brazilian beach-volleyball-to-coaching).
+- **Why unsourced:** This is editorial framing comparing volleyball coaching pipelines to adjacent sports, not a direct claim from a primary source.
+- **Research hypothesis:** Comparative coaching-mobility research; sports-sociology studies of player-to-coach transitions in international team sports; FIVB / CEV panel discussions on coaching-pipeline development.
+- **Added:** 2026-04-25
+
+### wiki/coaches/kim-hyung-sil.md
+- **Claim:** Specific clubs and lineage of head coaches under whom Kim Hyung-sil served during his 1978/79-1985/86 assistant-coaching apprenticeship.
+- **Why unsourced:** Volleybox documents the eight-season span without resolving specific Korean domestic clubs or supervising head coaches.
+- **Research hypothesis:** KOVO V-League historical records; Korean V-League predecessor (Korea Volleyball Federation amateur era) records; Korean-language KVA / KOVO institutional histories of the late 1970s and 1980s domestic women's volleyball circuit.
+- **Added:** 2026-04-24
+
+### wiki/coaches/kim-hyung-sil.md
+- **Claim:** WebSearch results indicate Kim Hyung-sil retained a national-team coaching role at the 2019 Asian Women's Volleyball Championship; specific capacity (head coach, technical advisor, or interim) is not unambiguously surfaced.
+- **Why unsourced:** WebSearch surfaces a 2019 coaching-role attribution but does not resolve title or institutional context. The 2018-2019 KVA period was unstable (Cha Hae-won dismissal, Lavarini hiring), making interim or advisory roles plausible.
+- **Research hypothesis:** Korean-language KVA institutional announcements 2018-2019; Yonhap News and KBS coverage of the 2019 Asian Women's Championship; AVC official records and Asian Women's Championship 2019 official program.
+- **Added:** 2026-04-24
+
+### wiki/coaches/kim-hyung-sil.md
+- **Claim:** Kim's tactical choices that surfaced Kim Yeon-koung as 2012 Olympic MVP — including reception-set rotation patterns and back-row attack integration.
+- **Why unsourced:** The London 2012 result is documented; the specific tactical mechanism in Kim Hyung-sil's voice is not surfaced in ingested English-language sources.
+- **Research hypothesis:** FIVB London 2012 match reports for Korea; Korean-language post-tournament tactical analysis from KBS, Yonhap, JoongAng Ilbo, Chosun Ilbo; any Kim interviews around the 2012-2013 World Championship cycle.
+- **Added:** 2026-04-24
+
+### wiki/coaches/kim-hyung-sil.md
+- **Claim:** Setter playing background as a structural cause of tactical head-coaching disposition in Korean-school coaches.
+- **Why unsourced:** Kim's playing position is documented but the causal connection to coaching disposition is editorial inference based on the wider pattern across multiple schools.
+- **Research hypothesis:** Comparative coaching-position-to-playing-position studies; Korean coaching education materials; Korean Volleyball Association coaching-pipeline documentation.
+- **Added:** 2026-04-24
+
+### wiki/coaches/kim-hyung-sil.md
+- **Claim:** The London 2012 program used aggressive serving as a tactical equalizer to the same degree as the Lavarini-era Korean program (suggested but not confirmed).
+- **Why unsourced:** The Lavarini-era serve-pressure framing is explicit (Korea Times 2021); the Kim Hyung-sil-era serve-pressure framing is inferred but not directly attested in ingested sources.
+- **Research hypothesis:** FIVB London 2012 match-by-match service statistics for Korea; Korean-language tactical analysis of the 2012 Korean serving system; comparative scouting reports.
+- **Added:** 2026-04-24
+
+### wiki/coaches/kim-hyung-sil.md
+- **Claim:** Kim publicly commented on Kim Yeon-koung's developmental trajectory through her Turkish-league experience; specific quote text is not preserved in the captured sources.
+- **Why unsourced:** WebSearch summary references the comment without preserving exact wording.
+- **Research hypothesis:** Korean-language Yonhap News and KBS interviews from the 2012-2013 era; FIVB or Volleyball World feature articles from London 2012 cycle; KOVO institutional features.
 - **Added:** 2026-04-24

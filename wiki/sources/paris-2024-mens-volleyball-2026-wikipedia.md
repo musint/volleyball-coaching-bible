@@ -38,6 +38,8 @@ Wikipedia reference for the men's volleyball tournament at the Paris 2024 Olympi
 ## Where it's cited
 
 - [[french-school]]
+- [[laurent-tillie]]
+- [[andrea-giani]]
 
 ## Access
 
