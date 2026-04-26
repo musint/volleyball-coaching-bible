@@ -280,6 +280,16 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - tokyo-2020-mens-volleyball-wikipedia.md — Volleyball at the 2020 Summer Olympics, Men's tournament (Wikipedia) — tokyo-2020-mens-volleyball-2026-wikipedia
 - paris-2024-mens-volleyball-wikipedia.md — Volleyball at the 2024 Summer Olympics, Men's tournament (Wikipedia) — paris-2024-mens-volleyball-2026-wikipedia
 
+### Polish tradition (Task A.2 + A.8–A.11 + A.21)
+- poland-men-nt-wikipedia.md — Poland men's national volleyball team (Wikipedia) — poland-men-nt-2026-wikipedia
+- anastasi-wikipedia-bio.md — Andrea Anastasi (Wikipedia biography) — anastasi-2026-wikipedia-bio
+- heynen-wikipedia-bio.md — Vital Heynen (Wikipedia biography) — heynen-2026-wikipedia-bio
+- antiga-wikipedia-bio.md — Stéphane Antiga (Wikipedia biography) — antiga-2026-wikipedia-bio
+- grbic-wikipedia-bio.md — Nikola Grbić (Wikipedia biography) — grbic-2026-wikipedia-bio
+- grbic-2026-wikipedia.md — Nikola Grbić (Wikipedia capture, secondary) — (consolidated under grbic-2026-wikipedia-bio)
+- 2018-fivb-mens-worlds-wikipedia.md — 2018 FIVB Men's World Championship (Wikipedia) — 2018-fivb-mens-worlds-2026-wikipedia
+- 2022-fivb-mens-worlds-wikipedia.md — 2022 FIVB Men's World Championship (Wikipedia) — 2022-fivb-mens-worlds-2026-wikipedia
+
 ### NCAA recruiting calendar backfill (Task 2.17)
 - ncaa-2025-26-d1-wvb-recruiting-calendar.md — NCAA D1 Women's Volleyball 2025-26 recruiting calendar (NCAA compliance PDF) — ncaa-2025-26-d1-wvb-recruiting-calendar
 - usav-nd-college-recruitment-timeline.md — USA Volleyball "College Recruitment Timeline" explainer — usav-nd-college-recruitment-timeline

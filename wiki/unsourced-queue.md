@@ -15,6 +15,24 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ## Entries
 
+### wiki/coaches/andrea-anastasi.md
+- **Claim:** "The decade of Polish-league head coaching has under-noticed importance for Polish-school continuity: Anastasi's club-coaching tenure overlaps the Antiga, Heynen, and early Grbić national-team eras and likely fed — though available sources do not document it directly — Italian-methodology continuity into Polish-club operations."
+- **Why unsourced:** Editorial inference about methodological continuity through Polish-club coaching across Antiga/Heynen/Grbić national-team era; not directly attested in the Wikipedia source.
+- **Research hypothesis:** Polish-language press archives during 2014–2022 covering Trefl Gdańsk and Projekt Warsaw club-coaching tenures; CEV / Volleyball World feature articles on Polish-league coaching ecosystems; interviews with Anastasi's player-cohort across the 2010s Polish league.
+- **Added:** 2026-04-24
+
+### wiki/coaches/andrea-anastasi.md
+- **Claim:** "The specific tactical details — what specifically Anastasi installed in Poland to lift it from 11th to a three-medal year — are not documented in available English-language sources."
+- **Why unsourced:** Wikipedia article documents results without methodology detail.
+- **Research hypothesis:** Polish-language federation history (PZPS press archives 2011–2013); Italian / Polish coaching-clinic recordings featuring Anastasi; CEV feature interviews from his European-Championship-medal years; potentially [translation-needed] Polish-language books on the 2011–2014 Polish men's-NT renaissance.
+- **Added:** 2026-04-24
+
+### wiki/coaches/andrea-anastasi.md
+- **Claim:** Direct first-person Anastasi quotes are absent; quote section is structural-summary rather than verbatim.
+- **Why unsourced:** Wikipedia article does not preserve direct-quote tactical-philosophy material.
+- **Research hypothesis:** CEV / FIVB feature interviews; Polish-language press 2011–2013; Italian-language coaching-clinic transcripts from his Italy NT cycles; potential FIVB Hall of Fame / Italian volleyball federation coach-of-the-year recognition speeches.
+- **Added:** 2026-04-24
+
 ### wiki/coaches/mark-barnard.md
 - **Claim:** Specific season-by-season results of Mark Barnard's Oregon State tenure (2005-2022) — Pac-12 finish history, NCAA Tournament appearances, program win-loss record.
 - **Why unsourced:** AOC bylines confirm the "Oregon State 2005-2022" dateline but do not enumerate season-level results; no Oregon State media guide is ingested.
