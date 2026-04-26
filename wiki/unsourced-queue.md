@@ -873,3 +873,45 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Why unsourced:** Centralized state-sports system context is documented; specific welfare-practice claims for or against the program are not.
 - **Research hypothesis:** Player-interview or athlete-retrospective material from dynasty-era roster (Mireya Luis, Regla Torres, Regla Bell, Yumilka Ruíz); Cuban-state-sports-system academic literature on athlete welfare; defection-era player accounts.
 - **Added:** 2026-04-25
+
+### wiki/age-guides/13s.md — sealing-the-seam introductory blocking concept
+- **Claim:** "Hand-press at the net and basic penetration are the two coaching points; sealing the seam is an introductory concept."
+- **Why unsourced:** The sealing-the-seam concept is widely taught at HS+ level but a specific 13s-introductory-concept framing has not been ingested as a source.
+- **Research hypothesis:** AOC blocking video library; Liskevych ASICS blocking series; Slabe's hand-press materials.
+- **Added:** 2026-04-24
+
+### wiki/age-guides/13s.md — penalty-heavy wash drills can backfire at 13s
+- **Claim:** "Penalty-heavy wash drills can backfire by loading the cognitive stage with anxiety before the motor program is stable."
+- **Why unsourced:** The cognitive-load argument is supported in motor-learning literature generally; specific 13s-applicable backfire-of-penalty-drills evidence has not been ingested.
+- **Research hypothesis:** Schmidt & Lee motor-learning textbook; cognitive-load anxiety literature for adolescent skill acquisition; AOC commentary on wash-drill design.
+- **Added:** 2026-04-24
+
+### wiki/age-guides/13s.md — 13s transition centers on free-ball-to-offense and block-to-approach
+- **Claim:** "13s transition work centers on free-ball-to-offense patterns and block-to-approach recovery footwork."
+- **Why unsourced:** Generally accepted age-progression for transition complexity but no specific 13s-transition-curriculum source ingested.
+- **Research hypothesis:** Lupo/Ludwig AOC transition-drill series; Hoag transition-drill materials; Munciana camp library transition-progression notes.
+- **Added:** 2026-04-24
+
+### wiki/age-guides/13s.md — high-tempo 31 not a 13s offensive default
+- **Claim:** "High-tempo 31 attack as a staple. No — introduce as a late-13s concept, not as an offensive default."
+- **Why unsourced:** AOC source [aoc-2021-running-effective-31-attack] establishes timing demands but does not specifically gate 13s vs. older. The 13s ceiling framing is editorial extrapolation.
+- **Research hypothesis:** USAV age-appropriate 31-attack guidance; Lingenfelter middle-tempo materials specifically on age progression.
+- **Added:** 2026-04-24
+
+### wiki/age-guides/13s.md — read-then-jump blocking cue
+- **Claim:** Cue "Read, then jump" listed as a 13s blocking cue.
+- **Why unsourced:** Widely-used cue but no specific source page citation for it on this wiki yet; will be sourced when [[blocking-cues]] dictionary lands.
+- **Research hypothesis:** AOC blocking series; Liskevych blocking material; resolves once cue dictionary is written.
+- **Added:** 2026-04-24
+
+### wiki/age-guides/13s.md — block-to-approach-feet-first transition cue
+- **Claim:** Cue "Block to approach — feet first" listed as a 13s transition cue.
+- **Why unsourced:** Standard transition coaching language but no source page yet on this wiki; resolves when [[transition-cues]] dictionary lands.
+- **Research hypothesis:** Rosen transition materials; Shymansky OH transition footwork article.
+- **Added:** 2026-04-24
+
+### wiki/age-guides/13s.md — full swing-blocking timing exceeds 13s
+- **Claim:** "Full swing-blocking execution. Footwork-only at 13s; do not run swing-blocking as the default scheme. Timing exceeds 13s proprioception."
+- **Why unsourced:** Rosen's beginner-progression source [aoc-2026-swing-blocking-footwork-beginners] supports footwork-only entry but does not explicitly age-gate 13s as a ceiling. Editorial extension.
+- **Research hypothesis:** Murczek's swing-block opportunity-cost article; Mardini counter-case for finer age-gating; USAV age-appropriate blocking materials.
+- **Added:** 2026-04-24
