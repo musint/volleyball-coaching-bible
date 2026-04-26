@@ -123,6 +123,30 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Research hypothesis:** Serbian-language and Iranian-Federation interview ingest; CEV/FIVB technical-session recordings; post-2011-Euros and post-2019-Asian-Championship press conferences.
 - **Added:** 2026-04-25
 
+### wiki/coaches/vital-heynen.md
+- **Claim:** "The specific tactical-installation details that allowed Heynen to extract gold from the inherited squad are not documented in available English-language sources."
+- **Why unsourced:** Wikipedia source documents results, not methodology; how Heynen converted Antiga's inherited 2014 squad core into a 2018 Worlds-gold campaign in 235 days is not in the captured English-language press.
+- **Research hypothesis:** CEV / FIVB / VolleyballWorld 2018-2019 feature interviews with Heynen; Polish-language press archives from the 2018 Worlds cycle; PZPS federation coach-statement publications; AVCA / Volleyball Coaches Convention recordings featuring Heynen post-2018.
+- **Added:** 2026-04-24
+
+### wiki/coaches/vital-heynen.md
+- **Claim:** "Specific details about Heynen's offensive-system installation as setter-coach (tempo selection, hitter-development, second-ball decision frameworks) require Tier 1/2 ingest and are not documented in the current source."
+- **Why unsourced:** Wikipedia is biographical and results-focused; no setter-perspective offensive-design framework preserved.
+- **Research hypothesis:** Heynen's published interviews on his coaching philosophy as a former setter; clinic recordings from his Sir Safety Perugia tenure; Belgian and Polish federation technical publications.
+- **Added:** 2026-04-24
+
+### wiki/coaches/vital-heynen.md
+- **Claim:** "The structural pattern — running a top-tier club and a top-tier national team in the same calendar window — is rare in modern men's volleyball and demands either an unusual delegation system or a tactical-installation method that travels well between rosters; details on how Heynen operationally split the two roles require interview / federation-press ingest."
+- **Why unsourced:** Concurrent club + NT operations 2019-2021 documented but not the operational mechanics.
+- **Research hypothesis:** Italian / Polish press from the 2019-21 SuperLega + NT period; CEV feature interviews on dual-role coaching; PZPS federation announcements regarding the dual-tenure arrangement.
+- **Added:** 2026-04-24
+
+### wiki/coaches/vital-heynen.md
+- **Claim:** "Quote material — including any attestation of his much-cited blocking-and-serving frame, his motivational style, his jump-serve insistence, or his second-ball offensive design as a former setter — requires ingest of CEV / FIVB / VolleyballWorld feature interviews and his AVCA / VCC clinic recordings."
+- **Why unsourced:** Wikipedia source preserves no direct quotes.
+- **Research hypothesis:** As above — feature interviews, clinic recordings, post-tournament press conferences from the 2018 Worlds and 2019-2021 cycles.
+- **Added:** 2026-04-24
+
 ### wiki/coaches/andrea-anastasi.md
 - **Claim:** "The decade of Polish-league head coaching has under-noticed importance for Polish-school continuity: Anastasi's club-coaching tenure overlaps the Antiga, Heynen, and early Grbić national-team eras and likely fed — though available sources do not document it directly — Italian-methodology continuity into Polish-club operations."
 - **Why unsourced:** Editorial inference about methodological continuity through Polish-club coaching across Antiga/Heynen/Grbić national-team era; not directly attested in the Wikipedia source.
