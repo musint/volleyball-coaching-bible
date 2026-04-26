@@ -1418,3 +1418,24 @@ Wave 5 closed Wave-4 gaps surfaced in Wave B-2 federation audit + the Italian sc
 - stefano-lavarini coach page: tag corrected from `paris-2024-bronze-poland` to `paris-2024-quarterfinal-poland` + `polish-women-vnl-bronze-2022-2023-2024`; Polish-tenure section cited
 
 **Net deliverable:** 7 new wiki source pages (5 NT + 2 coach bios), 2 new full coach pages, 7 federation/coach page edits (citation density + factual corrections), 8 new index.md entries.
+
+## [2026-04-26] wave-7-mental-skills-and-position-deepening | Curriculum + 6 position pages
+Wave 7 closed two of the highest-leverage gaps surfaced in the Wave-5 follow-up audit. Four parallel agents.
+
+**Wave 7-A — Mental-skills curriculum (one new hub):**
+- `wiki/mental-skills-curriculum.md` (2,454 words) — synthesis of 10 sport-psych research sources (Track B.5) into a coach-deliverable curriculum mapped per age band
+- 8 core curriculum tracks: imagery, pre-performance routines, attentional focus, choke/pressure, mental toughness/IZOF/MTQ48, team cohesion/efficacy, self-talk, burnout prevention
+- 6-row per-age operational matrix (10s through college) with introduce/refine/not-yet flags + concrete operational examples per age
+- 3 coach session-design templates (mental-skills warm-up, pre-tournament prep, post-loss debrief)
+- 6 anti-patterns grounded in cited research (no fabrication)
+- Slovák 2023 picked up from skill-acquisition cluster for the cue-related findings
+
+**Wave 7-B/C/D — 6 position pages deepened to SCHEMA §3.5 spec:**
+- `wiki/positions/setter.md` — 1,651 words. Rose/Wise/Rockwell/Virtue/Karch/Flynn-Oldenburg as setter mentors; Hancock, Carlini, Hilley as setter exemplars
+- `wiki/positions/libero.md` — 1,757 words. Cook/Stone/Sheffield/Wise/Fisher/Karch/Rose libero pedagogy; Wong-Orantes (USA Tokyo 2020 gold libero, 5'6"), Hentz (Stanford, 5'7") as exemplars
+- `wiki/positions/outside-hitter.md` — 1,491 words. Sheffield/Elliott/Cook/Wise/Fisher pin-attacker pipeline; Eggleston, Skinner, Franklin as exemplars (plain text — no coach pages yet)
+- `wiki/positions/opposite.md` — 1,439 words. Karch "right-side terminal attacker" framing; Drews (USA Tokyo 2020); preserved Bernardinho/Velasco/Guidetti related-coaches
+- `wiki/positions/middle-blocker.md` — 1,495 words. Cook/Elliott/Sheffield/Wise/Busboom-Kelly/Johnson-Lynch slide lineage; Akinradewo, Ogbogu, O'Neal, Jackson, Stivrins, Smrek as exemplars
+- `wiki/positions/defensive-specialist.md` — 1,165 words. Karch/Rose/Liskevych/Johnson-Lynch/Wise; Cook's serving-emphasis tied to DS role
+
+**Net deliverable:** 1 new hub page (mental-skills-curriculum), 6 position pages deepened (~9,000 total new words across positions). All wikilinks resolve. Lint clean (14 broken at baseline).

@@ -18,6 +18,7 @@ One-line summary per page; see the page itself for detail.
 - [[match-prep]] (W5.3) — scouting, stats, video, in-match adjustments
 - [[rules]] (W5.4) — USAV + NCAA + scholastic + tournament formats
 - [[recruiting]] (W5.5) — college pathway, NCAA timeline, tournaments, film, camps
+- [[mental-skills-curriculum]] (W7 — 2026-04-26) — operational coach-deliverable mental-skills curriculum mapped per age band; synthesis of 10 sport-psych research sources into per-age what-to-do
 
 ## Skill hubs
 - [[passing]] — overview + entry into 4 passing subskills; schools-perspectives meta
@@ -216,13 +217,14 @@ The post-college women's-volleyball pathway. Three competing US-based pro league
 - [[transition-attack]] — block-to-approach, dig-to-approach recovery flow
 - [[transition-out-of-system]] — detect/call/bail-to-pin; libero-second-ball setting
 
-## Positions (W3.7)
-- [[setter]] — primary ball-handler; vision/eye-direction, setter-middle connection, 5-1 offense operator
-- [[outside-hitter]] — all-round (pass-hit-block); libero-split receive + primary attacker; "go-big" mindset
-- [[middle-blocker]] — quick-tempo attacker + primary blocker; slide attack; bunch-read reader
-- [[opposite]] — right-side attacker; back-row D-attack (modern); block-tool specialist
-- [[libero]] — modern central ball-control player; back-row-only + legal 2nd-ball overhead set from behind 3m
-- [[defensive-specialist]] — back-row passer/defender without libero registration; can serve, swaps into weak-pass rotations
+## Positions (W3.7 + W7 deepening — 2026-04-26)
+All six pages deepened to SCHEMA §3.5 spec (~1100-1750 words each); per-age progression 10s-college; signature women's-program coach references; position-specific drill libraries.
+- [[setter]] — primary ball-handler; vision/eye-direction, setter-middle connection, 5-1 offense operator; Rose/Wise/Rockwell/Virtue/Karch lineage
+- [[outside-hitter]] — all-round (pass-hit-block); libero-split receive + primary attacker; "go-big" mindset; Sheffield/Elliott/Cook/Wise/Fisher pin-attacker pipeline
+- [[middle-blocker]] — quick-tempo attacker + primary blocker; slide attack; bunch-read reader; Cook/Elliott/Sheffield/Johnson-Lynch slide lineage
+- [[opposite]] — right-side terminal attacker; back-row D-attack (modern); block-tool specialist; Karch's "right-side terminal attacker" framing
+- [[libero]] — modern central ball-control player; back-row-only + legal 2nd-ball overhead set from behind 3m; Cook/Stone/Sheffield libero pedagogy
+- [[defensive-specialist]] — back-row passer/defender without libero registration; can serve, swaps into weak-pass rotations; serving-and-passing specialty
 
 ## Systems
 ### Offense (W3.8)

@@ -1,6 +1,6 @@
 # Wiki Lint Report
 
-Generated: 2026-04-26T13:12:24
+Generated: 2026-04-26T13:48:22
 
 ## Broken wikilinks
 Broken wikilinks: 14
@@ -25,11 +25,12 @@ Violations: 0
 
 
 ## Frontmatter failures
-Failures: 87
+Failures: 88
 
 - wiki\age-lens-14u.md: invalid enum value '14-and-under club-level indoor girls at nationally-recognized programs; developmentally pre-adolescent to mid-adolescent; first-or-second year of organized 6s competition' for 'scope'
 - wiki\age-lens-college.md: invalid enum value 'NCAA D1/D2/D3 + NAIA + JUCO women's indoor volleyball; ages 18-22; four-year competitive development arc; elite physical + technical + tactical demands' for 'scope'
 - wiki\age-lens-hs.md: invalid enum value 'US high school varsity indoor girls (fall season in most states); ages 14-18; developmental arc from novice freshman to competitive senior' for 'scope'
+- wiki\mental-skills-curriculum.md: invalid enum value 'womens-indoor-6s' for 'audience'
 - wiki\age-guides\10s.md: invalid enum value 'womens-indoor-6s' for 'audience'
 - wiki\age-guides\11s.md: invalid enum value 'womens-indoor-6s' for 'audience'
 - wiki\age-guides\12s.md: invalid enum value 'womens-indoor-6s' for 'audience'
@@ -66,11 +67,10 @@ Failures: 87
 - wiki\ops\tryout-rubric-18u.md: invalid enum value 'womens-indoor-6s' for 'audience'
 - wiki\ops\tryout-rubric-college-walkon.md: invalid enum value 'womens-indoor-6s' for 'audience'
 - wiki\practice-plans\14u-120min-pre-tournament.md: invalid enum value 'womens-indoor-6s' for 'audience'
-- wiki\practice-plans\14u-60min-tryout.md: invalid enum value 'womens-indoor-6s' for 'audience'
-- ...and 47 more
+- ...and 48 more
 
 ## Unresolved citation keys
-Unresolved: 139
+Unresolved: 140
 
 - wiki\log.md: [2026-04-25]
 - wiki\log.md: [2026-04-25]
@@ -112,7 +112,7 @@ Unresolved: 139
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
-- ...and 99 more
+- ...and 100 more
 
 ## Orphan pages
 Orphans: 113
