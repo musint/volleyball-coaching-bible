@@ -15,6 +15,18 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ## Entries
 
+### wiki/cues/setting-cues.md — Munciana Tempo 1/2/3 left-foot-plant timing language
+- **Claim:** "**'Tempo 1 / Tempo 2 / Tempo 3.'** Introduced 14s. Refined 16s+. The Lingenfelter / Munciana-tradition tempo language [unsourced] tied to the timing of the hitter's left-foot plant relative to the set release: Tempo 1 (quick, ball released near the plant — middles), Tempo 2 (medium, ball released as the hitter is mid-approach — pipes, slides), Tempo 3 (high outside, ball released early enough for a full approach)."
+- **Why unsourced:** The Tempo 1/2/3 language tied to hitter left-foot-plant timing is named in the Manual implementation plan as a Munciana / Lingenfelter convention but does not appear verbatim in the captured `munciana-2022-camp-drills` transcript (transcript covers ball-control, defense, serving, OOS, and 6v6 drills but not a dedicated tempo-naming segment). Tempo language is consistent with general Munciana tactical instruction but the specific 1/2/3-by-left-foot-plant articulation is not captured in this wiki's source corpus.
+- **Research hypothesis:** Munciana setter-development clinic videos or follow-up interviews with Mike Lingenfelter; cross-reference with Stephen Bain (Munciana setter-coach) clinic sessions if available; AOC searches for "Lingenfelter setter tempo" or "Munciana 1 2 3 tempo"; possibly the "Munciana Drills" video library beyond the 2022 camp drills file.
+- **Added:** 2026-04-25
+
+### wiki/cues/hitting-cues.md — Mattox Sight-90 / Elbow-Lead / Lift-and-Whip arm-cue trio
+- **Claim:** "**'Sight-90 / Elbow-Lead / Lift-and-Whip.'** Introduced 13s. Refined 15s+. The Mattox three-cue arm-progression sequence [unsourced — Mattox AOC corpus, attributed to his teaching tradition]."
+- **Why unsourced:** The Sight-90 / Elbow-Lead / Lift-and-Whip cue trio is attributed to Tod Mattox's teaching tradition in the Manual implementation plan but is not directly present in the captured `aoc-2022-mattox-serving-warmup` or `aoc-2025-float-serve-3-keys` source pages (those cover serving, not hitting). The cue trio appears to be a known Mattox-tradition arm-mechanics sequence but the specific source citation is not yet in this wiki's corpus.
+- **Research hypothesis:** Mattox AOC arm-mechanics or hitting-instruction videos; The Bishop's School clinic recordings; AOC search for "Mattox hitting arm" or "Mattox attack mechanics"; cross-reference with broader Mattox teaching corpus on AOC Premium (Mattox is a prolific AOC contributor). The trio may also be documented in AVCA Convention recordings or USA High Performance Coach Clinic materials featuring Mattox.
+- **Added:** 2026-04-25
+
 ### wiki/practice-plans/college-fall-14-week-macrocycle.md — NCAA 20-hour CARA cap and 8-hour off-season cap
 - **Claim:** "The plan operates inside the NCAA 20-hour weekly cap during the playing season — countable athletically related activities (CARA) include practice, competition, video review, and required strength training, with one mandatory day off per week. Spring/summer carry an 8-hour cap with skill instruction restrictions; current legislation should be verified each year."
 - **Why unsourced:** The general structure of NCAA CARA hour-rules is widely documented but the specific limits and what counts toward them evolve regularly via NCAA legislation; no current-year primary citation has been ingested into this wiki yet.
