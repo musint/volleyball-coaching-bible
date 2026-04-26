@@ -268,6 +268,18 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - matsudaira-volleyhall-biography.md — Yasutaka Matsudaira (Intl Volleyball Hall of Fame, induction 1998) — matsudaira-1998-hall-of-fame
 - matsudaira-wikipedia-biography.md — Yasutaka Matsudaira (Wikipedia biography, 2026 fetch) — matsudaira-2026-wikipedia-biography
 
+### Korean tradition (Track A.19-A.20 — Korean coaches)
+- park-man-bok-volleyhall-biography.md — Man-Bok Park (Intl Volleyball Hall of Fame, induction 2016) — park-man-bok-2016-hall-of-fame
+- park-man-bok-koreaherald-2016.md — "Korean volleyball coach to enter Hall of Fame" (Korea Herald 2016) — park-man-bok-2016-koreaherald-ivhf
+
+### French tradition (Task A.3 + A.21)
+- france-men-nt-wikipedia.md — France men's national volleyball team (Wikipedia) — france-men-nt-2026-wikipedia
+- ffv-france-wikipedia.md — Fédération Française de Volley (French-language Wikipedia) — ffv-france-2026-wikipedia
+- laurent-tillie-wikipedia-bio.md — Laurent Tillie (Wikipedia biography) — tillie-2026-wikipedia-bio
+- andrea-giani-wikipedia-bio.md — Andrea Giani (Wikipedia biography) — giani-2026-wikipedia-bio
+- tokyo-2020-mens-volleyball-wikipedia.md — Volleyball at the 2020 Summer Olympics, Men's tournament (Wikipedia) — tokyo-2020-mens-volleyball-2026-wikipedia
+- paris-2024-mens-volleyball-wikipedia.md — Volleyball at the 2024 Summer Olympics, Men's tournament (Wikipedia) — paris-2024-mens-volleyball-2026-wikipedia
+
 ### NCAA recruiting calendar backfill (Task 2.17)
 - ncaa-2025-26-d1-wvb-recruiting-calendar.md — NCAA D1 Women's Volleyball 2025-26 recruiting calendar (NCAA compliance PDF) — ncaa-2025-26-d1-wvb-recruiting-calendar
 - usav-nd-college-recruitment-timeline.md — USA Volleyball "College Recruitment Timeline" explainer — usav-nd-college-recruitment-timeline
