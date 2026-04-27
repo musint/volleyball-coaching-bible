@@ -89,19 +89,17 @@ Cons: libero passes deep-middle in serve-receive, not the line — but the line 
 
 Against an opponent's left-side attack (their OH hitting from our right), libero-at-LB variant:
 
-```
-                     [Opponent OH attacks]
-                              ↓
-   ━━━━━━━━━━━━━━━━ NET ━━━━━━━━━━━━━━━━
-   LF (block)   MF (block)         RF (off-blocker, pulls)
-                                   ↓
-                                   3m line: tip / short cross
-   LB (libero)         MB (anchor)            RB
-   line, 5-6m back     6m middle              cross, 5-6m back
-   reads & cuts        Trinsey 90-95%         reads cross
+```court-diagram
+middle-middle-libero-lb
 ```
 
-Defensive responsibilities by player:
+Trinsey-canonical alternative — libero anchors 6m middle directly:
+
+```court-diagram
+middle-middle-libero-mb
+```
+
+Defensive responsibilities by player (libero-at-LB variant):
 
 - **LF, MF (blockers):** form the block on the OH; press the attack zone; close the seam. The block owns the middle of the court.
 - **RF (off-blocker):** pulls off the net to ~3m-line / short cross. Covers tips, soft rolls, and short cross attacks. **The pull is non-negotiable.** A late pull leaks the entire short zone to a tip-aware hitter.

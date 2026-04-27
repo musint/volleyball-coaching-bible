@@ -25,6 +25,11 @@ No specialized personnel. Any six can run perimeter; the scheme's simplicity is 
 Perimeter is often the first team-defense scheme a 14U squad learns because the starting positions are sticky — they are real landmarks on the court, not floating zones.
 
 ## Alignment
+
+```court-diagram
+perimeter
+```
+
 With a left-side attack (opponent's OH on our right-front block):
 - Our LF and MF block the OH; our RF drops off the net to cover the sharp cross tip or shoot a short dig along the 10-foot line.
 - Our LB starts deep in zone 5 (left-back corner) on the line to take the hard line shot.

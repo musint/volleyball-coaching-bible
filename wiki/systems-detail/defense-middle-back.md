@@ -24,6 +24,11 @@ Middle-back demands an elite libero. The scheme's ceiling is the libero's ceilin
 - **Wings:** LB and RB must understand that the libero owns the middle; they cover line and short angles with their attention on the ball rather than the deep middle.
 
 ## Alignment
+
+```court-diagram
+middle-back
+```
+
 Against a left-side attack:
 - LF and MF block.
 - RF pulls off the net and covers short cross or tip (scheme variant: in some versions, RF stays up to block the line).

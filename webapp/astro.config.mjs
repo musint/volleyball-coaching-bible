@@ -5,6 +5,7 @@ import sitemap from '@astrojs/sitemap';
 import preact from '@astrojs/preact';
 import remarkWikilink from './src/lib/remark-wikilink.js';
 import remarkHideSources from './src/lib/remark-hide-sources.js';
+import remarkCourtDiagram from './src/lib/remark-court-diagram.js';
 import rehypeStripCitations from './src/lib/rehype-strip-citations.js';
 import rehypeCueAgeTags from './src/lib/rehype-cue-age-tags.js';
 import { buildSlugMap } from './src/lib/slug-resolver.js';
@@ -32,6 +33,7 @@ export default defineConfig({
     remarkPlugins: [
       [remarkWikilink, { base: BASE, slugMap }],
       remarkHideSources,
+      remarkCourtDiagram,
     ],
     rehypePlugins: [
       rehypeStripCitations,
