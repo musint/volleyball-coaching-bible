@@ -1451,3 +1451,38 @@ Wave 7 closed two of the highest-leverage gaps surfaced in the Wave-5 follow-up 
   new page; added entry to `wiki/index.md` under Hub pages.
 - No new source pages needed; cited ~30 existing sources.
 - Touched 14 files + 1 new file = 15 files.
+
+## [2026-04-26] update | age-guides 12s/13s/14s/15s | top-club aggressive recalibration
+- Premise: Song asked whether the age-guide milestones are calibrated for a top-tier
+  national-club roster or middle-of-the-pack. Audit found pockets where the guides
+  read conservative for top-club material, especially in cognitive/tactical milestones
+  and skill-introduction timing. Edits push milestone bars without changing
+  jump-load- or torque-bound (physical) caveats.
+- 12s.md: swing-block footwork (no jump) introduced for top-club rosters by late
+  season; Look/See/Decide embedded as drill language by mid-season; basic setter-
+  front-row vs. back-row audible in 6-2 introducible by late season.
+- 13s.md: jump-set introduced and repped for top-club setter candidates; back-row
+  attack repped (Barnard's minimal entry drill); **jump-float serve introduced at
+  top-club 13s with install target of 1-2 servers contributing to rotation by
+  season's end** (Song's specific emphasis); OOS framing moved from "introduced
+  as mental model" to "embedded as mental model"; promotion criterion #5 adds
+  jump-float bonus tier; common-corrections updates jump-topspin defer line.
+  Added aoc-2023-back-row-attacking-basics to sources.
+- 14s.md: setting Tempo 2 in rotation for advanced setter-middle pairs; back-row
+  attack repped + late-season pipe in match play; full swing-block (footwork +
+  jump) for middles by mid-season; jump-float in rotation as primary (target
+  2-3 servers); 5-1 elevated from "viable" to "expected default with setter
+  depth"; bunch-read concept introducible as tactical layer; promotion criteria
+  blocking + serving updated. Added aoc-2024-importance-teaching-swing-blocking,
+  aoc-2026-bunch-read-blocking, aoc-2022-hybrid-5-1-two-setters,
+  aoc-2023-back-row-attacking-basics, bari-2023-jump-serve-efficacy-kinematics
+  to sources.
+- 15s.md: bunch-read execution (not just concept-articulable) against age-peer
+  competition; full swing-block execution for top-club middles by mid-season,
+  pin blockers complete by year-end — one age earlier than the conservative
+  default position.
+- Physical/biomech caveats untouched: jump-topspin held to 15s+, run-back landing
+  warning, ACL-prevention curriculum, plyometric dose envelope, growth-plate
+  load discipline.
+- 4 age-guides edited; 0 new source pages (all citations resolve to existing
+  pages); log + this entry.
