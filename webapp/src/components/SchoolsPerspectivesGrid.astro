@@ -1,0 +1,118 @@
+---
+// Render the schools-perspectives frontmatter object as a labeled card grid.
+// The wiki stores these as { schoolSlug: "perspective text" } pairs in the
+// frontmatter of contested technique pages (and a few system pages). The
+// inline `## Schools-perspectives` body section provides the synthesis prose;
+// this grid provides scannable side-by-side comparison.
+
+interface Props {
+  perspectives: Record<string, string> | null | undefined;
+}
+const { perspectives } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const entries = perspectives && typeof perspectives === 'object'
+  ? Object.entries(perspectives)
+  : [];
+
+const formatSchoolName = (slug: string) =>
+  slug.split('-').map((w) => w[0]?.toUpperCase() + w.slice(1)).join(' ');
+
+// Lightweight color hash so each school card has a slightly distinct accent
+// without needing a hand-maintained school→color map.
+const ACCENTS = [
+  '#b04a2a', '#1e6f4a', '#2e5481', '#7a4f1a', '#5c3a82',
+  '#a8651b', '#1e6378', '#7c3a3a', '#4d6b1e', '#3a4a6e',
+];
+const colorForSlug = (slug: string) => {
+  let h = 0;
+  for (let i = 0; i < slug.length; i++) h = (h * 31 + slug.charCodeAt(i)) >>> 0;
+  return ACCENTS[h % ACCENTS.length];
+};
+---
+{entries.length > 0 && (
+  <section class="sp-grid-wrap">
+    <div class="sp-header">
+      <span class="kicker">Schools-perspectives — at a glance</span>
+      <span class="sp-count">{entries.length} schools</span>
+    </div>
+    <div class="sp-grid">
+      {entries.map(([slug, text]) => (
+        <article class="sp-card" style={`--sp-accent: ${colorForSlug(slug)};`}>
+          <header class="sp-card-header">
+            <a href={`${base}/schools/${slug}/`} class="sp-card-title">{formatSchoolName(slug)}</a>
+          </header>
+          <p class="sp-card-body">{text}</p>
+        </article>
+      ))}
+    </div>
+    <p class="sp-grid-foot">See the body's <a href="#schools-perspectives">Schools-perspectives</a> section for synthesis and how these compare.</p>
+  </section>
+)}
+
+<style>
+  .sp-grid-wrap {
+    margin: 0 0 1.75rem 0;
+  }
+  .sp-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 0.6rem;
+  }
+  .sp-count {
+    font-size: 0.78rem;
+    color: var(--color-muted);
+    font-weight: 600;
+  }
+  .sp-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+  @media (min-width: 640px) {
+    .sp-grid { grid-template-columns: 1fr 1fr; }
+  }
+  .sp-card {
+    background: white;
+    border: 1px solid var(--color-rule);
+    border-left: 4px solid var(--sp-accent, var(--color-accent));
+    border-radius: 0.5rem;
+    padding: 0.85rem 1rem;
+    font-family: var(--font-sans);
+  }
+  .sp-card-header {
+    margin-bottom: 0.4rem;
+  }
+  .sp-card-title {
+    display: inline-block;
+    color: var(--sp-accent, var(--color-accent));
+    font-family: var(--font-serif);
+    font-weight: 700;
+    font-size: 1.05rem;
+    text-decoration: none;
+    line-height: 1.2;
+  }
+  .sp-card-title:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .sp-card-body {
+    margin: 0;
+    color: var(--color-ink);
+    font-size: 0.92rem;
+    line-height: 1.55;
+  }
+  .sp-grid-foot {
+    margin: 0.6rem 0 0 0;
+    font-size: 0.82rem;
+    color: var(--color-muted);
+    font-style: italic;
+  }
+  .sp-grid-foot a {
+    color: var(--color-muted);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+</style>

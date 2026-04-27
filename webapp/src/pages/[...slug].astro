@@ -2,6 +2,9 @@
 import { getCollection, render } from 'astro:content';
 import DefaultLayout from '../layouts/DefaultLayout.astro';
 import ManualLayout from '../layouts/ManualLayout.astro';
+import FactsCard from '../components/FactsCard.astro';
+import TableOfContents from '../components/TableOfContents.astro';
+import SchoolsPerspectivesGrid from '../components/SchoolsPerspectivesGrid.astro';
 
 export async function getStaticPaths() {
   // Collections to expose via dynamic routes. Inside getStaticPaths so the
@@ -38,13 +41,54 @@ export async function getStaticPaths() {
 }
 
 const { entry, collection } = Astro.props as any;
-const { Content } = await render(entry);
+const { Content, headings } = await render(entry);
 const data = entry.data;
 const useManual = ['ageGuide','cueDictionary','drillPickList','opsDoc','practicePlan'].includes(collection);
 const Layout = useManual ? ManualLayout : DefaultLayout;
 const title = data.name || data.title || data.label || data.area || entry.id;
 const ageProp = data.age || (data.label && /^14u|hs|college$/.test(data.label) ? data.label : undefined);
+
+// Schools-perspectives grid: only for technique pages where the frontmatter
+// carries the structured object. (system pages can have it too via passthrough,
+// but the only contested system today is defense-middle-middle, no SP block.)
+const schoolsPerspectives = data['schools-perspectives'] || null;
 ---
 <Layout title={title} age={ageProp}>
-  <Content />
+  {useManual ? (
+    <>
+      <FactsCard collection={collection} data={data} entryId={entry.id} />
+      {schoolsPerspectives && <SchoolsPerspectivesGrid perspectives={schoolsPerspectives} />}
+      <TableOfContents headings={headings} variant="mobile" />
+      <Content />
+    </>
+  ) : (
+    <div class="content-grid max-w-6xl mx-auto px-4 py-6">
+      <article class="prose-bible content-grid-article">
+        <FactsCard collection={collection} data={data} entryId={entry.id} />
+        {schoolsPerspectives && <SchoolsPerspectivesGrid perspectives={schoolsPerspectives} />}
+        <TableOfContents headings={headings} variant="mobile" />
+        <Content />
+      </article>
+      <aside class="content-grid-toc">
+        <TableOfContents headings={headings} variant="desktop" />
+      </aside>
+    </div>
+  )}
 </Layout>
+
+<style>
+  .content-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  @media (min-width: 1024px) {
+    .content-grid {
+      grid-template-columns: minmax(0, 1fr) 14rem;
+      gap: 3rem;
+    }
+  }
+  .content-grid-article {
+    min-width: 0; /* prevent article from overflowing the grid column */
+  }
+</style>

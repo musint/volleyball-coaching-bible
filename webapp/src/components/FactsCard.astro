@@ -1,0 +1,287 @@
+---
+// Top-of-page card surfacing the key frontmatter for each content type.
+// The wiki's frontmatter is load-bearing data that is otherwise invisible
+// to the reader; this component lifts it into a scannable header card.
+
+interface Props {
+  collection: string;
+  data: Record<string, any>;
+  entryId: string;
+}
+
+const { collection, data } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Tiny helpers for normalizing legacy frontmatter shapes.
+const arr = (v: any): string[] => {
+  if (!v) return [];
+  if (Array.isArray(v)) {
+    return v.flatMap((x) => (Array.isArray(x) ? x : [x])).filter(Boolean).map(String);
+  }
+  return [String(v)];
+};
+const truncate = (s: string, n: number) =>
+  s && s.length > n ? s.slice(0, n - 1).trimEnd() + '…' : s;
+
+// Derived data per collection. Each branch produces an array of
+// { label, value, kind? } entries for the FactsCard renderer.
+type Fact = { label: string; value: string | string[]; kind?: 'chip' | 'text' | 'paragraph' };
+const facts: Fact[] = [];
+let kicker: string | null = null;
+let when: string | null = null;
+
+switch (collection) {
+  case 'technique': {
+    kicker = 'Technique';
+    if (data.skill) facts.push({ label: 'Skill', value: String(data.skill), kind: 'chip' });
+    if (data.subskill) facts.push({ label: 'Subskill', value: String(data.subskill), kind: 'chip' });
+    const pos = arr(data.positions);
+    if (pos.length) facts.push({ label: 'Positions', value: pos, kind: 'chip' });
+    const sp = data['schools-perspectives'];
+    if (sp && typeof sp === 'object') {
+      facts.push({ label: 'Contested across', value: Object.keys(sp), kind: 'chip' });
+    }
+    const relTech = arr(data['related-techniques']);
+    if (relTech.length) facts.push({ label: 'Related techniques', value: relTech, kind: 'chip' });
+    break;
+  }
+  case 'system': {
+    kicker = 'System';
+    if (data.category) facts.push({ label: 'Category', value: String(data.category), kind: 'chip' });
+    if (data.complexity) facts.push({ label: 'Complexity', value: String(data.complexity), kind: 'chip' });
+    const ages = arr(data['age-appropriateness']);
+    if (ages.length) facts.push({ label: 'Age-appropriateness', value: ages, kind: 'chip' });
+    if (data['when-to-use']) when = String(data['when-to-use']);
+    const alts = arr(data.alternatives);
+    if (alts.length) facts.push({ label: 'Alternatives', value: alts, kind: 'chip' });
+    break;
+  }
+  case 'position': {
+    kicker = 'Position';
+    if (data.position) facts.push({ label: 'Position', value: String(data.position), kind: 'chip' });
+    if (data.role) facts.push({ label: 'Role', value: String(data.role), kind: 'text' });
+    if (data['physical-profile'])
+      facts.push({ label: 'Physical profile', value: truncate(String(data['physical-profile']), 140), kind: 'text' });
+    const ks = arr(data['key-skills']);
+    if (ks.length) facts.push({ label: 'Key skills', value: ks, kind: 'chip' });
+    break;
+  }
+  case 'coach': {
+    kicker = 'Coach';
+    if (data.country) facts.push({ label: 'Country', value: String(data.country), kind: 'chip' });
+    if (data.era) facts.push({ label: 'Era', value: String(data.era), kind: 'chip' });
+    const roles = arr(data.roles);
+    if (roles.length) facts.push({ label: 'Roles', value: roles, kind: 'chip' });
+    const schools = arr(data.schools);
+    if (schools.length) facts.push({ label: 'Schools', value: schools, kind: 'chip' });
+    const tags = arr(data.tags);
+    if (tags.length) facts.push({ label: 'Tags', value: tags, kind: 'chip' });
+    break;
+  }
+  case 'school': {
+    kicker = 'School of thought';
+    if (data.origin) facts.push({ label: 'Origin', value: String(data.origin), kind: 'chip' });
+    const founders = arr(data.founders);
+    if (founders.length) facts.push({ label: 'Founders', value: founders, kind: 'chip' });
+    const cp = arr(data['core-principles']);
+    if (cp.length) facts.push({ label: 'Core principles', value: cp, kind: 'chip' });
+    const coaches = arr(data['associated-coaches']);
+    if (coaches.length) facts.push({ label: 'Associated coaches', value: coaches.slice(0, 8), kind: 'chip' });
+    break;
+  }
+  case 'source': {
+    kicker = 'Source';
+    if (data['source-type']) facts.push({ label: 'Type', value: String(data['source-type']), kind: 'chip' });
+    if (data.author) facts.push({ label: 'Author', value: String(data.author), kind: 'text' });
+    if (data.year != null) facts.push({ label: 'Year', value: String(data.year), kind: 'chip' });
+    if (data['trust-tier'] != null)
+      facts.push({ label: 'Trust tier', value: `Tier ${data['trust-tier']}`, kind: 'chip' });
+    if (data['participants-sex'])
+      facts.push({ label: 'Participants', value: String(data['participants-sex']) + (data['participants-n'] ? ` (n=${data['participants-n']})` : ''), kind: 'chip' });
+    const topics = arr(data.topics);
+    if (topics.length) facts.push({ label: 'Topics', value: topics.slice(0, 6), kind: 'chip' });
+    break;
+  }
+  case 'drill': {
+    kicker = 'Drill';
+    if (data['primary-skill']) facts.push({ label: 'Primary skill', value: String(data['primary-skill']), kind: 'chip' });
+    if (data.phase) facts.push({ label: 'Phase', value: String(data.phase), kind: 'chip' });
+    if (data['duration-min'] != null) facts.push({ label: 'Duration', value: `${data['duration-min']} min`, kind: 'chip' });
+    const tsMin = data['team-size-min'];
+    const tsMax = data['team-size-max'];
+    if (tsMin != null && tsMax != null) facts.push({ label: 'Team size', value: `${tsMin}–${tsMax}`, kind: 'chip' });
+    const levels = arr(data.levels);
+    if (levels.length) facts.push({ label: 'Levels', value: levels, kind: 'chip' });
+    const equip = arr(data.equipment);
+    if (equip.length) facts.push({ label: 'Equipment', value: equip, kind: 'chip' });
+    break;
+  }
+  case 'ageGuide': {
+    kicker = 'Age guide';
+    if (data.age) facts.push({ label: 'Age', value: String(data.age), kind: 'chip' });
+    if (data.phase) facts.push({ label: 'Phase', value: String(data.phase), kind: 'chip' });
+    if (data.audience) {
+      const aud = Array.isArray(data.audience) ? data.audience.join(' · ') : String(data.audience);
+      facts.push({ label: 'Audience', value: aud, kind: 'chip' });
+    }
+    break;
+  }
+  case 'ageLens': {
+    kicker = 'Age lens';
+    if (data.label) facts.push({ label: 'Label', value: String(data.label), kind: 'chip' });
+    const emph = arr(data.emphasis);
+    if (emph.length) facts.push({ label: 'Emphasis', value: emph, kind: 'chip' });
+    const ceilings = arr(data['age-ceilings']);
+    if (ceilings.length) facts.push({ label: 'Age ceilings', value: `${ceilings.length} listed`, kind: 'chip' });
+    if (data.scope) when = truncate(String(data.scope), 220);
+    break;
+  }
+  case 'hub': {
+    kicker = 'Hub';
+    if (data.area) facts.push({ label: 'Area', value: String(data.area), kind: 'chip' });
+    const subs = arr(data.subtopics);
+    if (subs.length) facts.push({ label: 'Subtopics', value: subs.slice(0, 8), kind: 'chip' });
+    break;
+  }
+  case 'cueDictionary': {
+    kicker = 'Cue dictionary';
+    if (data.skill) facts.push({ label: 'Skill', value: String(data.skill), kind: 'chip' });
+    const ab = arr(data['age-bands']);
+    if (ab.length) facts.push({ label: 'Age bands', value: ab, kind: 'chip' });
+    break;
+  }
+  case 'drillPickList': {
+    kicker = 'Drill pick list';
+    if (data.age) facts.push({ label: 'Age', value: String(data.age), kind: 'chip' });
+    if (data['season-context']) facts.push({ label: 'Season context', value: String(data['season-context']), kind: 'chip' });
+    const drills = arr(data.drills);
+    if (drills.length) facts.push({ label: 'Drills listed', value: `${drills.length}`, kind: 'chip' });
+    break;
+  }
+  case 'opsDoc': {
+    kicker = 'Ops doc';
+    if (data.kind) facts.push({ label: 'Kind', value: String(data.kind), kind: 'chip' });
+    if (data.level) facts.push({ label: 'Level', value: String(data.level), kind: 'chip' });
+    if (data.audience) {
+      const aud = Array.isArray(data.audience) ? data.audience.join(' · ') : String(data.audience);
+      facts.push({ label: 'Audience', value: aud, kind: 'chip' });
+    }
+    break;
+  }
+  case 'practicePlan': {
+    kicker = 'Practice plan';
+    if (data.level) facts.push({ label: 'Level', value: String(data.level), kind: 'chip' });
+    if (data.scope) facts.push({ label: 'Scope', value: String(data.scope), kind: 'chip' });
+    if (data['duration-min'] != null) facts.push({ label: 'Duration', value: `${data['duration-min']} min`, kind: 'chip' });
+    if (data.focus) facts.push({ label: 'Focus', value: String(data.focus), kind: 'chip' });
+    if (data['season-phase']) facts.push({ label: 'Season phase', value: String(data['season-phase']), kind: 'chip' });
+    const drills = arr(data.drills);
+    if (drills.length) facts.push({ label: 'Drills', value: `${drills.length}`, kind: 'chip' });
+    break;
+  }
+}
+
+const skipRender = facts.length === 0 && !when && !kicker;
+---
+{!skipRender && (
+  <aside class="facts-card">
+    {kicker && <div class="kicker">{kicker}</div>}
+    {when && <p class="facts-when">{when}</p>}
+    {facts.length > 0 && (
+      <dl class="facts-dl">
+        {facts.map((f) => (
+          <div class="facts-row">
+            <dt>{f.label}</dt>
+            <dd>
+              {Array.isArray(f.value) ? (
+                <span class="facts-chips">
+                  {f.value.map((v) => (
+                    <span class={f.kind === 'chip' ? 'facts-chip' : 'facts-text-inline'}>{String(v).replace(/-/g, ' ')}</span>
+                  ))}
+                </span>
+              ) : f.kind === 'paragraph' ? (
+                <p>{f.value}</p>
+              ) : f.kind === 'chip' ? (
+                <span class="facts-chip">{String(f.value).replace(/-/g, ' ')}</span>
+              ) : (
+                <span>{f.value}</span>
+              )}
+            </dd>
+          </div>
+        ))}
+      </dl>
+    )}
+  </aside>
+)}
+
+<style>
+  .facts-card {
+    margin: 0 0 1.5rem 0;
+    padding: 1rem 1.25rem;
+    background: #fffdf7;
+    border: 1px solid var(--color-rule);
+    border-left: 4px solid var(--color-accent);
+    border-radius: 0.5rem;
+    font-family: var(--font-sans);
+  }
+  .facts-card .kicker {
+    margin-bottom: 0.5rem;
+  }
+  .facts-when {
+    font-style: italic;
+    color: var(--color-muted);
+    margin: 0.5rem 0 0.75rem 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+  .facts-dl {
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.4rem 1rem;
+  }
+  @media (min-width: 640px) {
+    .facts-dl {
+      grid-template-columns: max-content 1fr;
+      gap: 0.55rem 1.25rem;
+    }
+    .facts-row {
+      display: contents;
+    }
+  }
+  .facts-row dt {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-muted);
+    align-self: start;
+    padding-top: 0.15rem;
+  }
+  .facts-row dd {
+    margin: 0;
+    color: var(--color-ink);
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+  .facts-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+  }
+  .facts-chip {
+    display: inline-block;
+    background: var(--color-accent-soft);
+    color: var(--color-ink);
+    padding: 0.1rem 0.55rem;
+    border-radius: 999px;
+    font-size: 0.82rem;
+    font-weight: 500;
+    line-height: 1.4;
+    white-space: nowrap;
+  }
+  .facts-text-inline {
+    color: var(--color-ink);
+    font-size: 0.95rem;
+  }
+</style>
