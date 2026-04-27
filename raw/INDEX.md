@@ -450,5 +450,11 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - dearruda-2022-sequential-focus-volleyball-setting.md — de Arruda et al. on sequential focus-of-attention cues degrading skilled setters via constrained-action mechanism (IJSEP 2022) — dearruda-2022-sequential-focus-volleyball-setting
 - moran-2023-verbal-coaching-cues-youth.md — Moran et al. multi-site youth study finding no advantage of external/internal/analogy cues vs. neutral on jump or sprint (PLOS One 2023) — moran-2023-verbal-coaching-cues-youth
 
+### Women's-game serve cluster (2026-04-26)
+- pawlik-2024-women-mens-serve-effectiveness.md — Pawlik et al. effectiveness and types of serves in elite women's (Tauron Liga) and men's (PlusLiga) volleyball, full-season 2021/22 (Sci Reports 2024) — pawlik-2024-women-mens-serve-effectiveness
+- palao-2024-u14-female-rule-modifications.md — Palao et al. effect of net height, court size, and serve limitations on U-14 female volleyball matches (Frontiers Psychol 2024) — palao-2024-u14-female-rule-modifications
+- altundag-2024-serve-speed-women-leagues.md — Altundag et al. multidimensional serve-speed analysis across Turkish women's and men's leagues (BMC SSMR 2024) — altundag-2024-serve-speed-women-leagues
+- kountouris-2015-mens-womens-volleyball-skills-olympics.md — Kountouris et al. evidence for differences in men's vs women's volleyball based on skills effectiveness across four Olympic tournaments (Percept Mot Skills 2015) — kountouris-2015-mens-womens-volleyball-skills-olympics
+
 ## images/
 *(populated as needed)*

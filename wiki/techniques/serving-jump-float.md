@@ -17,12 +17,15 @@ sources:
   - kiraly-1997-championship-volleyball
   - reiser-2020-float-serve-effect
   - reeser-2010-upper-limb-serve-spike
+  - pawlik-2024-women-mens-serve-effectiveness
+  - kountouris-2015-mens-womens-volleyball-skills-olympics
+  - palao-2024-u14-female-rule-modifications
 ---
 
 # Serving — Jump Float
 
 ## Overview
-The jump float is the modern-standard serve in the competitive women's game at the HS, college, and international levels, and it is one of the two dominant serves in the men's game alongside jump-topspin (see [[serving-topspin]]). It keeps the no-spin knuckling flight of the standing float but adds height, pace, and a later contact point — the server approaches and jumps lightly forward into the court, tosses the ball in front on the move, and contacts it while airborne. The passer sees a flatter trajectory that arrives sooner and drops later, which compresses the time window to read depth.
+The jump float is the modern-standard serve in the competitive women's game at the HS, college, and international levels, and it is one of the two dominant serves in the men's game alongside jump-topspin (see [[serving-topspin]]). The empirical anchor: in a full-season Polish elite-pro match-analysis (132 women's matches, 22,378 serves), **jump-float comprised 86% of women's serves** while jump-topspin was 12% — the inverse of the men's pro distribution where jump-topspin is 67% and jump-float ~25% [pawlik-2024-women-mens-serve-effectiveness]. The structural reason traces to the Olympic-level finding that women's matches are decided by attack-after-reception rather than serving (direct serve→win correlation is weaker for women than for men) [kountouris-2015-mens-womens-volleyball-skills-olympics] — making the jump-float's disrupt-the-pass profile better matched to the women's-game decision-tree than jump-topspin's ace-rate-maximizing profile. This is also visible in the U-14 female pipeline: 21.5% of U-14 female serves were already jump serves under official rules in a Spanish quasi-experimental sample, confirming that the technique is in the developmental pipeline well before senior pro [palao-2024-u14-female-rule-modifications]. The jump-float keeps the no-spin knuckling flight of the standing float but adds height, pace, and a later contact point — the server approaches and jumps lightly forward into the court, tosses the ball in front on the move, and contacts it while airborne. The passer sees a flatter trajectory that arrives sooner and drops later, which compresses the time window to read depth.
 
 Unlike the jump-topspin (a full approach and high-jump attack-style serve aimed at raw pace), the jump-float is a **controlled** jump. The goal is not maximum height. The goal is carrying the standing-float's clean contact pattern into a serve that crosses the net faster and from a higher release point. Over-jumping here is a mistake (it kills the float); the best jump-floats are the ones that barely leave the ground. Quantitative trajectory work supports the focus: **release velocity does not predict float magnitude** (r² < 0.033 in elite indoor servers), confirming that contact technique — not arm speed — drives the in-flight unpredictability passers struggle with [reiser-2020-float-serve-effect]. Compared with the hard-driven spike or jump-topspin serve, the float carries notably lower shoulder load — relevant for the volume-balance decision late in the season or with managing-pain shoulders [reeser-2010-upper-limb-serve-spike].
 
@@ -77,3 +80,6 @@ Most HS- and college-level programs treat the jump-float as the standard serve a
 - [[kiraly-1997-championship-volleyball]]
 - [[reiser-2020-float-serve-effect]]
 - [[reeser-2010-upper-limb-serve-spike]]
+- [[pawlik-2024-women-mens-serve-effectiveness]]
+- [[kountouris-2015-mens-womens-volleyball-skills-olympics]]
+- [[palao-2024-u14-female-rule-modifications]]

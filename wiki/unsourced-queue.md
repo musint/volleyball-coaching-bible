@@ -1215,3 +1215,10 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Why unsourced:** Inference from Fisher AOC appearances; no GMS clinic placement directly documented.
 - **Research hypothesis:** GMS clinic catalog cross-reference; Fisher AOC interview transcripts; AVCA Convention session catalog 2015–2025.
 - **Added:** 2026-04-26
+
+
+### wiki/techniques/serving-topspin.md — female-cohort jump-topspin biomechanics sequencing
+- **Claim:** "Bari's developmental-tier sequencing of jump-serve velocity predictors (approach velocity → shoulder cocking → CoG management) likely transfers to female servers" (implicit in the wiki's use of Bari 2023 across age-guides 14s/15s/16s/17s and age-lens-14u/hs).
+- **Why unsourced:** Bari 2023 (PMC10402994) is a 30-subject male cohort (U-19 boys, U-21 junior men, U-23 men). The wiki's 2026-04-26 women's jump-serve ingest established the match-analysis evidence base (Pawlik 2024 — 86% jump-float / 12% jump-topspin in women's pro; Kountouris 2015 — Olympic gender asymmetry) but did NOT secure a sex-disaggregated biomechanics replication of Bari's three-tier developmental sequencing. The Ikonomou et al. 2013 Medicina Sportiva paper (claimed by initial research agent as a possible candidate) could not be verified via Google Scholar / ResearchGate / Medicina Sportiva URLs and was dropped per SCHEMA's "never fabricate citations" rule.
+- **Research hypothesis:** Search for sex-disaggregated jump-serve kinematics studies. Authors known for women's-volleyball biomech: Ureña (Spain), Coleman, Marlow, Reeser cohorts. Possible queries: "women jump topspin volleyball biomechanics", "elite female volleyball serve kinematics", "U-19 OR U-21 female volleyball serve velocity predictors". Try recent (2022-2026) issues of Sports Biomechanics, Journal of Sports Sciences, International Journal of Sports Medicine. Could also check for an Ikonomou paper at Medicina Sportiva archives directly, or via PEDro/SportDiscus database access.
+- **Added:** 2026-04-26

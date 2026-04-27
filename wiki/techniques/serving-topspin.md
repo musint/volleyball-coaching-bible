@@ -22,6 +22,9 @@ sources:
   - reeser-2010-upper-limb-serve-spike
   - moy-2024-constraints-led-volleyball-serve
   - kulling-2014-lumbar-spine-beach-volleyball
+  - pawlik-2024-women-mens-serve-effectiveness
+  - kountouris-2015-mens-womens-volleyball-skills-olympics
+  - altundag-2024-serve-speed-women-leagues
 ---
 
 # Serving — Topspin
@@ -72,6 +75,34 @@ Topspin emphasis varies meaningfully by coaching tradition; the mechanics of the
 
 The practical read for a coach: in the women's HS/college/club game (including 14U), topspin is typically a secondary tool in a server's menu, not the primary one. In the men's game at competitive HS and above, jump-topspin is often primary and float is the secondary/change-up. For 14U, Nelson's argument for teaching standing-topspin early is that the arm-swing carries over to the spike — treating it as a hitting-mechanics drill as much as a serving drill.
 
+## Women's-game effectiveness
+
+The empirical case for treating jump-topspin as a women's-game change-up rather than a default rests on two convergent match-analysis sources.
+
+**Pawlik et al. 2024 — full-season Polish pro census.** A study of 314 elite-pro matches in 2021/22 (132 women's Tauron Liga, 22,378 women's serves; 182 men's PlusLiga) quantified the structural gender split in serve selection and serve outcomes [pawlik-2024-women-mens-serve-effectiveness]:
+
+- **Serve-type distribution at elite women's pro level:** jump-float **86%**, jump-topspin **12%**, standing/spot 2%. Men's pro inverts this — jump-topspin **67%**, jump-float ~25%.
+- **Serve-effectiveness index:** women **22%** vs men **15%**. Women's serves are *more effective on the composite* despite far lower volume of jump-topspin.
+- **Error rate:** women **12%** vs men **21%**. The women's serve game trades peak ball velocity for substantially lower error rates.
+- **Ace-to-error ratio:** women **0.498** vs men **0.358**. Women's risk-management discipline outperforms men's at the pro level.
+
+**Kountouris et al. 2015 — Olympic-level structural asymmetry.** Across four consecutive Olympic tournaments, women's serve was historically standing-serve-dominant with jump-float secondary; men's was power-jump-serve-dominant. The decisive structural finding: **direct serve→match-win correlation is weaker in women than in men** — attack after reception is the dominant predictor for women's matches [kountouris-2015-mens-womens-volleyball-skills-olympics]. The women's game is reception-and-attack-driven; the men's game is serve-driven. This is the structural cause of the consolidation around jump-float that Pawlik 2024 measures.
+
+**Why the gap.** Three structural reasons jump-topspin doesn't ace as often in women's volleyball as in men's:
+
+1. **Velocity ceiling.** Elite men's jump-topspin reaches 110–130+ km/h; elite women's lands roughly 70–90 km/h. The receiver has more reaction time on a slower ball. Bari's kinematic predictors (approach velocity → shoulder cocking → CoG management) hold conceptually for women, but the absolute velocity output ceiling is lower [bari-2023-jump-serve-efficacy-kinematics — male cohort, female-cohort replication not yet ingested]. Within women's leagues, serve speed scales with tier (Sultans League > Women's 1st > Women's 2nd, p<0.001) and declines significantly across sets within a match [altundag-2024-serve-speed-women-leagues].
+2. **Net-clearance geometry.** Women's net is 2.24 m vs. men's 2.43 m — a 19 cm differential. The lower net helps women, but it also means receivers see the ball cross the net earlier in trajectory, partially offsetting the geometric advantage [kountouris-2015-mens-womens-volleyball-skills-olympics].
+3. **Pass-receive sharpness.** Elite women's serve-receive is extraordinarily disciplined; pass-grade averages at NT and pro level are sharp enough that a driven topspin not landing as an ace simply gets passed to a setter who runs offense — making the serve a non-event [kountouris-2015-mens-womens-volleyball-skills-olympics].
+
+**Coaching synthesis for top-club women's programs.**
+
+- **Train jump-float as the primary roster weapon.** This matches the elite women's pro reality (86% jump-float per Pawlik) and the strategic structure of the women's game (attack-after-reception decisive per Kountouris).
+- **Train jump-topspin for the 2–3 athletes per roster** with the physical profile (jump capacity, arm speed, shoulder durability, toss control). They will use it in college; the marginal point-value at 17s/18s in pressure rotations is real even if jump-topspin is the change-up rather than the default.
+- **Don't measure jump-topspin success against men's-game ace-rate benchmarks.** Measure by *opponent pass-grade depression* and *rotation-momentum impact* — the women's-game disruption mechanism — and by *ace-to-error ratio*, not raw ace count. Kiraly's error-tolerance frame applies harder for women than men: a 25%-error jump-topspin producing a 5%-ace rate is often net-negative against good women's passers, where a 12%-error jump-float producing a 1.8 pass-grade is net-positive [aoc-2024-kiraly-serving-errors][pawlik-2024-women-mens-serve-effectiveness].
+- **Practice-design lever.** When HS players are given two serve attempts per turn, jump-topspin attempt rate doubles and self-reported confidence rises [moy-2024-constraints-led-volleyball-serve — male HS sample]. Engineering a margin of error in practice unlocks aggressive serving in a way that exhortation does not.
+
+**Honest evidence-base limitation.** A direct sex-disaggregated jump-topspin biomechanics study with developmental-tier sequencing — i.e., a women's counterpart to Bari 2023 — is missing from the wiki's research base. The framing above relies on Pawlik 2024 (match-analysis, women's pro), Kountouris 2015 (match-analysis, Olympic), Altundag 2024 (serve-speed across women's leagues), and the male-cohort biomechanics work (Bari 2023). Where the wiki claims developmental sequencing for jump-topspin in female servers, that claim is *plausibly transferred* from the male-cohort biomechanics, not directly measured. Researchers known for women's-volleyball biomechanics (Ureña, Coleman, Marlow, Reeser cohorts) are the next ingestion targets.
+
 ## Related drills
 *(drill pages are populated in Wave 4; slugs below are forward references)*
 - **Wrist Snap Reps** — close-range wrist-roll contact drill, no toss
@@ -91,3 +122,6 @@ The practical read for a coach: in the women's HS/college/club game (including 1
 - [[reeser-2010-upper-limb-serve-spike]]
 - [[moy-2024-constraints-led-volleyball-serve]]
 - [[kulling-2014-lumbar-spine-beach-volleyball]]
+- [[pawlik-2024-women-mens-serve-effectiveness]]
+- [[kountouris-2015-mens-womens-volleyball-skills-olympics]]
+- [[altundag-2024-serve-speed-women-leagues]]

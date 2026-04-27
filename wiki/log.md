@@ -1516,3 +1516,53 @@ Wave 7 closed two of the highest-leverage gaps surfaced in the Wave-5 follow-up 
   swing-blocking-footwork-beginners + aoc-2024-importance-teaching-swing-
   blocking to sources.
 - 4 files edited; physical/biomech caveats untouched.
+
+## [2026-04-26] ingest | women's jump-serve effectiveness | 4 sources, +14 pages
+- **Premise.** Song asked whether jump-topspin is as effective in women's volleyball as
+  in men's, and asked for research-grade evidence to add to the wiki. Bari 2023 (cited
+  on multiple jump-topspin pages) is a 30-subject male cohort; the wiki had been
+  inferring to women's-game from male-cohort kinematics.
+- **Sources ingested (4 Tier-1 peer-reviewed):**
+  - `pawlik-2024-women-mens-serve-effectiveness` — Sci Reports 2024, 314 elite-pro
+    matches (132 women's Tauron Liga + 182 men's PlusLiga), 53,513 serves. Headline:
+    women's pro game is **86% jump-float / 12% jump-topspin**; men's pro inverts to
+    **67% jump-topspin / ~25% jump-float**. Women's serve effectiveness 22% (vs men's
+    15%); women's error rate 12% (vs men's 21%); ace-to-error 0.498 (vs 0.358).
+  - `palao-2024-u14-female-rule-modifications` — Frontiers Psychol 2024, n=29 U-14
+    Spanish female; 5,315 ball actions across 9 matches. Headline: 21.5% of U-14
+    female serves were jump serves under official rules; rule modifications (lower
+    net + smaller court + serve limits) rebalance toward attack-and-side-out.
+  - `altundag-2024-serve-speed-women-leagues` — BMC SSMR 2024, 15,347 Turkish-league
+    serves (6,943 female + 8,404 male) across 4 seasons. Headline: serve speed scales
+    with league tier (p<0.001), declines across sets within a match (p<0.001), and
+    is significantly position-dependent (p<0.001).
+  - `kountouris-2015-mens-womens-volleyball-skills-olympics` — Percept Mot Skills
+    2015, 4 consecutive Olympic tournaments. Foundational gender-asymmetry: women's
+    game is reception-and-attack-driven (direct serve→win correlation weaker for
+    women than men); men's game is serve-driven. Paywalled — DOI verified;
+    abstract-level summary only, marked accordingly.
+- **Source attempted but dropped — Ikonomou et al. 2013** (claimed female biomechanics
+  counterpart to Bari): Google Scholar returned no matches; ResearchGate and Medicina
+  Sportiva URLs 403/404. Per SCHEMA "never fabricate citations" rule, dropped from
+  ingest. Female-cohort jump-serve biomechanics remains a research gap — added to
+  `unsourced-queue.md` for future ingest.
+- **Pages updated:**
+  - 4 new source pages in `wiki/sources/`.
+  - 4 new raw files in `raw/research/` + new "Women's-game serve cluster (2026-04-26)"
+    section header in `raw/INDEX.md`.
+  - `techniques/serving-topspin.md` — added `## Women's-game effectiveness` section
+    (Pawlik headline numbers, Kountouris foundational asymmetry, three-reason
+    structural framing, coaching synthesis, evidence-base honesty caveat).
+  - `techniques/serving-jump-float.md` — Overview anchored with Pawlik 86% women's-pro
+    statistic, Kountouris structural rationale, Palao U-14 21.5% empirical pipeline.
+  - `age-guides/13s.md` — Palao 21.5% U-14 anchor on jump-float introducibility.
+  - `age-guides/14s.md` — Pawlik 86% anchor on jump-float-as-primary install.
+  - `age-guides/15s.md` — Pawlik 12% women's-pro context on jump-topspin "introduce
+    for the most advanced" framing.
+  - `age-guides/16s.md` — Pawlik 12% on jump-topspin emerges.
+  - `age-guides/17s.md` — Pawlik 12% on jump-topspin reliable for change-up role.
+  - `age-lens-14u.md` — Palao + Pawlik on serving section.
+  - `age-lens-hs.md` — Pawlik + Kountouris on Serving section.
+  - `wiki/index.md` — added "Women's-game serve research" entry under Sources.
+- **Net deliverable:** 4 source pages + 4 raw + 14 pages updated; ~1500 added words
+  on women's jump-serve effectiveness; one research-gap entry queued for backfill.

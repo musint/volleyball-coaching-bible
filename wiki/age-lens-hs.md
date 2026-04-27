@@ -7,7 +7,7 @@ age-ceilings:
   - "Elite-level jump training without CSCS oversight (defer to qualified strength coach)"
   - "Full D1-level out-of-system offense (introduce but don't expect consistency)"
   - "Complex NCAA-level scouting + video breakdown (introduce; scale to team resource reality)"
-sources: [usav-2026-coach-academy, aoc-2024-importance-teaching-swing-blocking, aoc-2024-kiraly-reads-every-skill, aoc-2024-kiraly-serving-pressure, aoc-2023-rose-club-rules, aoc-2022-hybrid-5-1-two-setters, aoc-2024-sr-formations, aoc-2026-bunch-read-blocking, usav-2009-cap-game-like-training, aoc-2023-kiraly-competing-in-practice, aoc-2024-kiraly-stats-matter-most, aoc-2021-teach-spiking, sassi-2025-acl-volleyball-systematic-review, post-2019-specialization-overuse-volleyball, kugler-1996-shoulder-pain-volleyball-attackers, gisslen-2005-jumpers-knee-elite-junior-volleyball, fuchs-2019-male-female-spike-biomechanics, walter-2019-self-talk-junior-athletes, mesagno-2017-choking-models-interventions, ramirez-campillo-2020-plyometric-meta-analysis, lockie-2020-power-speed-cod-volleyball, bari-2023-jump-serve-efficacy-kinematics, moy-2024-constraints-led-volleyball-serve, sanders-2025-early-season-jump-load, rebelo-2024-training-stress-fatigue-wellbeing]
+sources: [usav-2026-coach-academy, aoc-2024-importance-teaching-swing-blocking, aoc-2024-kiraly-reads-every-skill, aoc-2024-kiraly-serving-pressure, aoc-2023-rose-club-rules, aoc-2022-hybrid-5-1-two-setters, aoc-2024-sr-formations, aoc-2026-bunch-read-blocking, usav-2009-cap-game-like-training, aoc-2023-kiraly-competing-in-practice, aoc-2024-kiraly-stats-matter-most, aoc-2021-teach-spiking, sassi-2025-acl-volleyball-systematic-review, post-2019-specialization-overuse-volleyball, kugler-1996-shoulder-pain-volleyball-attackers, gisslen-2005-jumpers-knee-elite-junior-volleyball, fuchs-2019-male-female-spike-biomechanics, walter-2019-self-talk-junior-athletes, mesagno-2017-choking-models-interventions, ramirez-campillo-2020-plyometric-meta-analysis, lockie-2020-power-speed-cod-volleyball, bari-2023-jump-serve-efficacy-kinematics, pawlik-2024-women-mens-serve-effectiveness, kountouris-2015-mens-womens-volleyball-skills-olympics, moy-2024-constraints-led-volleyball-serve, sanders-2025-early-season-jump-load, rebelo-2024-training-stress-fatigue-wellbeing]
 ---
 
 # Age Lens: HS
@@ -113,6 +113,8 @@ SORT primary-skill ASC, duration-min ASC
 - [[aoc-2024-sr-team-communication]]
 - [[aoc-2025-float-serve-3-keys]]
 - [[aoc-2024-kiraly-serving-errors]]
+- [[pawlik-2024-women-mens-serve-effectiveness]]
+- [[kountouris-2015-mens-womens-volleyball-skills-olympics]]
 - [[aoc-2021-defending-spread-offense]]
 - [[aoc-2021-defending-first-kill-rotation-1]]
 - [[aoc-2026-rose-no-free-balls]]
