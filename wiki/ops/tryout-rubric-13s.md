@@ -10,7 +10,9 @@ sources:
   - aoc-2024-setting-hand-hinge
   - aoc-2024-attack-approach
   - aoc-2025-float-serve-3-keys
+  - aoc-2024-float-serve-toss
   - aoc-2024-kids-serving-fundamentals
+  - aoc-2023-back-row-attacking-basics
   - aoc-2025-controlling-the-dig
   - aoc-2025-training-reading-look-see-decide
   - munciana-2022-camp-drills
@@ -32,11 +34,11 @@ Eight criteria across rows × five score levels across columns. Score each athle
 | Criterion | 1 (does not demonstrate) | 2 (occasional) | 3 (consistent at 13s level) | 4 (above 13s) | 5 (14s-ready / specialization onset) |
 |---|---|---|---|---|---|
 | **Passing** (Kiraly 4 keys: stopped & balanced, thumbs together, set-the-angle, simple one-way motion; Kordes shuffle-not-reach) | Reach-passes; off-balance contact; arm-swing dominant. | 4 keys appear ≤3/10; thumbs occasionally split; partial shuffle. | ≥6/10 medium-pace serves to 6-ft target with platform-not-arm-swing. | ≥7/10; quiet platform on hard serves; pass-and-cover audible. | Lingenfelter quiet-platform under hard-serve pressure; calls own seam; absorbs jump-floats; libero-track viable. |
-| **Setting** (hand-hinge, side-of-ball contact, vision-on-target) | Catches every set; no hand-hinge. | Hand-hinge intermittent; thumbs-down or finger-flat contact. | Hand-hinge live (not catch-and-set); front-set to outside antenna ≥6/10. | Back-set without disguise; consistent location off off-target passes. | Live jump-set concept emerging; tempo-2 plant-timing on highest-ceiling middles; setter-track confirmed. |
-| **Hitting** (3-step approach, Schmidt start-slow / accelerate-the-last-two; Mattox Sight-90 / Elbow-Lead / Lift-and-Whip; high-hand torque) | Two-foot stand-and-swing; arm-only contact. | 3-step approach inconsistent; flat or one-foot finish. | 3-step rhythmic; both feet under hitter at finish; high-elbow audible. | Closes the heel; opens shoulders to seam; line/cross/tip vocabulary live. | Contacts above the net consistently; viable on a 4-ball; back-row attack concept-only but recognizable. |
+| **Setting** (hand-hinge, side-of-ball contact, vision-on-target) | Catches every set; no hand-hinge. | Hand-hinge intermittent; thumbs-down or finger-flat contact. | Hand-hinge live (not catch-and-set); front-set to outside antenna ≥6/10. | Back-set without disguise; consistent location off off-target passes; jump-set introduced and repped in controlled drills. | Live jump-set executable in controlled drills; tempo-2 plant-timing on highest-ceiling middles; setter-track confirmed. |
+| **Hitting** (3-step approach, Schmidt start-slow / accelerate-the-last-two; Mattox Sight-90 / Elbow-Lead / Lift-and-Whip; high-hand torque) | Two-foot stand-and-swing; arm-only contact. | 3-step approach inconsistent; flat or one-foot finish. | 3-step rhythmic; both feet under hitter at finish; high-elbow audible. | Closes the heel; opens shoulders to seam; line/cross/tip vocabulary live; back-row attack repped in controlled drills (Barnard's minimal entry). | Contacts above the net consistently; viable on a 4-ball; pipe + OH back-row attack repped, not yet match-default. |
 | **Blocking** (footwork-first; static-and-shuffle; Rosen 10-foot-line swing-block install — steps without jump) | No net presence; lunges across body. | Hands at net; shuffle inconsistent; penetration absent. | Static-and-shuffle clean; hand-press; partial penetration. | Outside-foot-high install audible; swing-block footwork without jump reliable. | Swing-block footwork **with** jump emerging late-13s; reads setter then hitter; seam-aware. |
-| **Standing-float serve** (Mattox Lift / Step / Swing; Dunning toss-first; Munciana aim-small-miss-small) | Underhand only or chronic net errors. | Standing float in-court ≤3/10; toss inconsistent. | ≥7/10 in-zone at 13s service line; toss shoulder-height in front of hitting shoulder. | Targets 1/5/6 reliably; aggressive Munciana five-before-ten mentality visible. | Pinpoint 1/5 seam targeting under pressure-rep score-keeping; jump-float concept introduced. |
-| **Standing-topspin serve** (13s-specific gate per [[13s]] criterion 5) | Cannot execute standing topspin from cue. | Standing-topspin attempted; mechanics flat-arm or arm-only. | Standing-topspin executed from cue; topspin-recognizable shoulder mechanics; in-zone optional. | Standing-topspin in-zone ≥5/10; mixes with float. | Standing-topspin in-zone ≥7/10; jump-float bridge concept introduced (14s milestone). |
+| **Standing-float serve** (Mattox Lift / Step / Swing; Dunning toss-first; Munciana aim-small-miss-small) | Underhand only or chronic net errors. | Standing float in-court ≤3/10; toss inconsistent. | ≥7/10 in-zone at 13s service line; toss shoulder-height in front of hitting shoulder. | Targets 1/5/6 reliably; aggressive Munciana five-before-ten mentality visible; jump-float toss-only consistency in isolation drills. | Pinpoint 1/5 seam targeting under pressure-rep score-keeping; jump-float installed and attempted in court. |
+| **Standing-topspin serve / jump-float bonus tier** (13s-specific gate per [[13s]] criterion 5) | Cannot execute standing topspin from cue. | Standing-topspin attempted; mechanics flat-arm or arm-only. | Standing-topspin executed from cue; topspin-recognizable shoulder mechanics; in-zone optional. | Standing-topspin in-zone ≥5/10; mixes with float; jump-float toss consistent in isolation. | Standing-topspin in-zone ≥7/10; **jump-float in court ≥4/10 — top-club 13s install target of 1-2 servers contributing to rotation by season's end**. |
 | **Defense & reading** (Munciana Three Ps: get-back / get-low / get-touch; Stone hips-under-ball; Josephson Look / See / Decide) | Reach-only digs; eyes lock on the ball. | Three Ps intermittent; coach-prompted reading only. | Three Ps visible on hard-driven and tip; hips-under-ball platform; eyes track setter→hitter on coach prompt. | Self-prompted Look/See/Decide; verbalizes what she saw post-rally. | Read-anticipation on every play; libero-track defense; swing-block-aware tip coverage. |
 | **Mental, system, athletic baseline** (FeedForward-receptive; runs 6-2 without whiteboard; 5-1 introduced for setter candidates; landing mechanics neutral; emergent self-talk) | Performative humility; loses rotation; valgus-collapse landings. | Self-corrects after multiple cues; rotation tracking inconsistent; landing mixed. | One-cue self-correct; runs 6-2 without whiteboard; bilateral landings knees-over-toes. | 5-1 reps banked for setter candidates; self-talk vocabulary present; unilateral landings clean; stick-or-step-back default. | Position-identity emerged (setter / OH / libero / MB lane visible); sustained self-talk routine; 14U specialization-onset profile per [[age-lens-14u]]. |
 
@@ -62,7 +64,9 @@ Each criterion scored 1-5. Total possible: 40. Position-conditional bonuses are 
 - [[aoc-2024-setting-hand-hinge]]
 - [[aoc-2024-attack-approach]]
 - [[aoc-2025-float-serve-3-keys]]
+- [[aoc-2024-float-serve-toss]]
 - [[aoc-2024-kids-serving-fundamentals]]
+- [[aoc-2023-back-row-attacking-basics]]
 - [[aoc-2025-controlling-the-dig]]
 - [[aoc-2025-training-reading-look-see-decide]]
 - [[munciana-2022-camp-drills]]

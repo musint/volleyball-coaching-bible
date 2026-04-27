@@ -1486,3 +1486,33 @@ Wave 7 closed two of the highest-leverage gaps surfaced in the Wave-5 follow-up 
   load discipline.
 - 4 age-guides edited; 0 new source pages (all citations resolve to existing
   pages); log + this entry.
+
+## [2026-04-26] update | age-lens-14u + 3 tryout-rubrics | top-club follow-up
+- Lift age-lens-14u ceilings to match the bumped age-guide milestones:
+  full swing-block for top-club middles by mid-14s, basic setter audibles
+  introducible at top-club 12s, jump-float introducible at 13s and rotation-
+  ready at 14s, bunch-read concept at top-club 14s. Updated frontmatter
+  age-ceilings list, Tempo-simplicity priority, Serving + Blocking + Systems
+  sections, and "NOT appropriate at this level" entries for full swing-block,
+  complex 6-2, jump-topspin, and bunch-read. Added aoc-2026-bunch-read-blocking,
+  aoc-2022-hybrid-5-1-two-setters, bari-2023-jump-serve-efficacy-kinematics
+  to sources.
+- tryout-rubric-13s: setting col 4-5 (jump-set introduced + repped, jump-set
+  executable in controlled drills); hitting col 4-5 (back-row attack repped,
+  pipe + OH back-row repped); standing-float col 4-5 (jump-float toss-only
+  consistency, jump-float installed in court); standing-topspin col 4-5
+  (jump-float toss in isolation, jump-float in court ≥4/10 — top-club
+  install target). Added aoc-2024-float-serve-toss + aoc-2023-back-row-
+  attacking-basics to sources.
+- tryout-rubric-14u: hitting col 4-5 (back-row attack repped, pipe in match
+  play late season); blocking col 3-4 (full swing-block for middles emerging
+  at col 3, reliable at col 4); serving col 3 (jump-float in rotation as
+  primary, standing-topspin retained as secondary). Added aoc-2024-importance-
+  teaching-swing-blocking + aoc-2026-bunch-read-blocking + aoc-2023-back-row-
+  attacking-basics to sources.
+- tryout-rubric-15s: blocking col 3-5 (bunch-read executed at col 3, full
+  swing-block reliable for middles at col 3 → reliable across pin and middles
+  at col 4 → bunch-read with full decision-tree at col 5). Added aoc-2026-
+  swing-blocking-footwork-beginners + aoc-2024-importance-teaching-swing-
+  blocking to sources.
+- 4 files edited; physical/biomech caveats untouched.
