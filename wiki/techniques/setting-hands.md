@@ -4,7 +4,7 @@ skill: setting
 subskill: hands
 positions: [setter, opposite, outside-hitter, middle-blocker]
 related-drills: [ball-control-warmup, cooperative-25-goal, free-ball-to-offense, front-back-sets, gold-medal-scrimmage, jump-setting-progression, out-of-system-setting, partner-pepper-warmup, pass-set-hit, pepper, queen-of-the-court, serve-receive-3v3, setter-defense-transition, target-setting, three-setter-rotation]
-related-techniques: [setting-jump, setting-backset, setting-out-of-system, passing-overhead]
+related-techniques: [setting-jump, setting-backset, setting-out-of-system, setting-distribution, passing-overhead]
 sources:
   - aoc-2024-setting-hand-hinge
   - aoc-2024-setting-fundamentals
@@ -23,6 +23,8 @@ sources:
 The overhead two-hand set is the primary setting technique and the core deliverable of the setter position. Executed well, it produces a clean, stable, rule-legal second contact that gives the attacker an exploitable ball at the correct tempo, height, and location on the net. Every other setting subskill — [[setting-jump]], [[setting-backset]], [[setting-out-of-system]] — builds on the same hands, contact, and release pattern.
 
 This page covers the stationary and in-system overhead set. It is written for the setter first but applies to every non-libero on the court, because in modern indoor volleyball the setter frequently takes the first ball and someone else — most often the opposite, an outside hitter, or a defensive specialist in the back row — has to deliver the second contact overhead under the same rule constraints. A coach who treats hand-setting as a setter-only skill loses a large fraction of the team's out-of-system offense before it starts.
+
+For the *cognitive and tactical layer* — distribution decisions, tempo allocation, audible authority, dump strategy, and schools-perspectives on the contested questions — see [[setting-distribution]]. This page is the mechanical foundation on top of which distribution decisions execute.
 
 ## Teaching progressions
 

@@ -192,10 +192,11 @@ The post-college women's-volleyball pathway. Three competing US-based pro league
 - [[setting-jump]] — jump-setting tempo + disguise; when to train
 - [[setting-backset]] — back-set disguise via vision and body rotation
 - [[setting-out-of-system]] — tilt, bump, 2-handed redirect; CONTESTED schools-perspectives
+- [[setting-distribution]] — cognitive/tactical layer: tempo allocation, audible authority, dump strategy, OOS handling, FR vs BR setter rules; CONTESTED schools-perspectives (Italian/Brazilian/Russian/Kiraly/GMS)
 
 ### Hitting (W3.3)
-- [[hitting-approach]] — right-left 2-step → 4-step (Gina Schmidt aoc-2024); modern attack footwork
-- [[hitting-arm-swing]] — torque + arm height (aoc-2024 modern mechanics); double-arm lift, wrist snap
+- [[hitting-approach]] — right-left 2-step → 4-step (Gina Schmidt aoc-2024); modern attack footwork; CONTESTED schools-perspectives
+- [[hitting-arm-swing]] — torque + arm height (aoc-2024 modern mechanics); double-arm lift, wrist snap; CONTESTED schools-perspectives
 - [[hitting-shot-selection]] — toolbox philosophy (Dunning's 4 hitter types); CONTESTED schools-perspectives
 - [[hitting-back-row-attack]] — pipe/bic/A/D back-row attack taxonomy
 
@@ -216,7 +217,7 @@ The post-college women's-volleyball pathway. Three competing US-based pro league
 - [[defense-reading]] — look-see-decide; reading as part of every skill; CONTESTED schools-perspectives
 - [[defense-pursuit]] — emergency moves + shuffle-not-reach footwork
 - [[transition-attack]] — block-to-approach, dig-to-approach recovery flow
-- [[transition-out-of-system]] — detect/call/bail-to-pin; libero-second-ball setting
+- [[transition-out-of-system]] — detect/call/bail-to-pin; libero-second-ball setting; CONTESTED schools-perspectives + 8-rule playbook
 
 ## Positions (W3.7 + W7 deepening — 2026-04-26)
 All six pages deepened to SCHEMA §3.5 spec (~1100-1750 words each); per-age progression 10s-college; signature women's-program coach references; position-specific drill libraries.

@@ -1629,3 +1629,53 @@ Wave 7 closed two of the highest-leverage gaps surfaced in the Wave-5 follow-up 
 - **Net deliverable:** 6 source pages + 6 raw + 1 new system page + 4 existing
   defense pages updated + 4 age-guides cross-referenced + age-lens-14u +
   index/log = 23 files touched; ~3500 added words.
+
+## [2026-04-27] update | contested-position hardening pass | setter + OOS + hitter
+- **Premise.** Continuing the "what else can I add" thread, Song asked for the
+  deferred Wave-1 setter decision-making schools-perspectives, an OOS playbook
+  layer, and (mid-flight addition) hitter-approach + hitter-arm-swing
+  schools-perspectives. Three contested-position deliverables in one pass.
+- **#1 Setter decision-making — new `wiki/techniques/setting-distribution.md`** (~2200 words).
+  Covers the cognitive/tactical layer of setting (distinct from the mechanical
+  layer in setting-hands.md). Five contested questions: tempo allocation,
+  audible authority, dump strategy, FR-vs-BR setter rules, OOS handling. Six
+  schools surveyed: Italian (Velasco, Bernardi, Mazzanti — tempo-first,
+  dump-aggressive), Brazilian (Bernardinho, Guimarães — speed-of-distribution,
+  middle-tempo variation), Russian (Platonov, Karpol — power-side bias,
+  hitter-priority), Kiraly/USA (best-hitter-best-set, modern give-freedom),
+  GMS (pass-quality-driven, decision-under-variability), Munciana/Lingenfelter
+  (Tempo 1/2/3 vocabulary overlay). Decision frame: pass-quality → block-formation
+  → hitter-availability → match-state, executed in B-S-B-H-style four-step
+  in-rally read sequence. Cross-referenced from setting-hands, age-guides
+  14s/15s.
+- **#2 OOS playbook — extended `wiki/techniques/transition-out-of-system.md`.**
+  Added a consolidated 8-rule playbook section near the top (call OOS loud /
+  setter takes overhead first / libero defaults to second contact / closest
+  non-setter takes if libero unavailable / bail high-and-inside-pin / OOS
+  hitter approach is distinct pattern / shot selection shifts to tips/cuts/
+  rolls / back-row attack viable when hitter is in approach behind 3m line).
+  Added a Schools-perspectives section (Italian / Brazilian / Russian /
+  Kiraly / GMS) noting convergence on rule structure but divergence on tool
+  inventory and offensive priority. Linked to setting-out-of-system for
+  the technical/individual setting OOS coverage and to the new
+  setting-distribution for the cognitive layer.
+- **#3 Hitter mechanics — Schools-perspectives sections added** to
+  `hitting-approach.md` and `hitting-arm-swing.md`:
+  - Approach: Italian closing-step quality, Brazilian speed-into-jump,
+    Russian structured 4-step, Kiraly/AOC Mattox keyword stack + Fuchs-2019
+    female-leverage, GMS random-practice install, Munciana Schmidt cadence
+    overlay. Practical synthesis: AOC 3-step at 12s-13s, 4-step at 14s+,
+    Munciana cadence, Fuchs-2019 female-velocity work, GMS live-block reps.
+  - Arm-swing: Italian torque-and-deceptive-shots, Brazilian speed-and-variety,
+    Russian power-first, Kiraly/AOC Mattox keyword stack + MacDonald
+    torque-high-hand, GMS external-focus cueing per Slovak 2023. All five
+    converge on wrist-snap as anti-cue. Practical synthesis: Mattox keyword
+    base, external-focus arm-swing-velocity work, shoulder-load discipline,
+    progressive shot variety from 14s up.
+- **No new source ingests** — all citations resolve to existing source pages
+  (Velasco, Bernardinho, Russian-federation-manual, Kiraly, Munciana, AOC,
+  GMS, biomechanics cluster).
+- **Files touched:** 1 new technique page (setting-distribution.md) + 4
+  technique-page extensions (setting-hands cross-ref, transition-out-of-system,
+  hitting-approach, hitting-arm-swing) + 2 age-guide cross-refs (14s, 15s) +
+  index + log = 9 files; ~5000 added words on the contested-position layer.

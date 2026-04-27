@@ -15,6 +15,11 @@ sources:
   - kiraly-2024-volleyballworld-mens-transition
   - kiraly-1997-championship-volleyball
   - mccutcheon-2022-championship-behaviors
+  - notes-velasco-generosita
+  - bernardinho-2006-transformando-suor-em-ouro
+  - notes-polish-or-russian-federation-manual
+  - gms-nd-structure-practice
+  - munciana-2022-camp-drills
 ---
 
 # Transition — Out of System
@@ -25,7 +30,22 @@ Out-of-system (OOS) is the phase where the pass or the dig does not reach the se
 
 OOS play is **not** improvisation. It is a set of trained patterns: setter bails high to a pin, libero or non-setter takes the second contact when the setter took the first, hitter adjusts approach, team calls OOS so everyone knows the play has changed. Modern AOC and USA WNT consensus is that OOS needs explicit training.
 
-This page covers transition mechanics: detection, call-out, second-contact decision, hitter adjustment, completion. Individual setting technique is on [[setting-hands]] and [[setting-out-of-system]] (forthcoming).
+This page covers transition mechanics: detection, call-out, second-contact decision, hitter adjustment, completion. Individual setting technique is on [[setting-hands]], [[setting-out-of-system]], and the cognitive/tactical distribution layer on [[setting-distribution]].
+
+## Decision rules / playbook
+
+The OOS playbook compresses to **eight decision rules** that define what every player on the court does the moment a first contact goes off. A team that has internalized these rules executes broken-pass rallies as rehearsed patterns rather than improvisation:
+
+1. **Whoever sees the bad pass first calls "OOS" loud.** Default verbal call: "OUT!" or "OFF!" — short, sharp, audible. The call comes at *first-contact* read, not at second-contact arrival. Hitters adjust approach immediately on the call.
+2. **If the setter is in position and can take an overhead set, she does.** Overhead is the first choice when rules and trajectory allow — even off-net. The setter takes overhead until the ball forces a forearm.
+3. **If the setter took the first ball, the libero is the de-facto second-contact setter.** Modern AOC consensus per Kiraly's "make-the-libero-set" team drill [aoc-2021-kiraly-libero-set-team-drill]. The libero runs the same offense at degraded tempo from a more conservative target.
+4. **If the setter took first AND libero is unavailable, the closest non-setter, non-blocker takes second.** Priority order: opposite > OH > DS. This player should have drilled the high-outside bail.
+5. **Default bail is "high and inside the pin," not "on the pin."** Tight-to-antenna bails get the hitter stuffed or the ball antennaed. Target inside the antenna at a height that gives the hitter time to retreat-and-approach.
+6. **Hitter adjusts approach: start later, start wider, accept later plant.** OOS hitters who run their in-system approach are early, flat, blocked. OOS approach is a distinct trained pattern — see Stage 4 below.
+7. **Shot selection shifts toward tips, cut-shots, hands-off-the-block, and roll shots.** Hard line swings on bail balls are predictable; defenses camp. Sustainable OOS finishing comes from shot variety.
+8. **Back-row attack is viable when the back-row hitter is in approach position behind the 3-meter line.** At 14U it's rare; at varsity+, pipe and D-ball are real OOS options. Front-court overcrowding is a reason to consider back-row; deep passes are a reason to require it.
+
+These rules generalize across school philosophy. Schools differ on tool inventory and practice-design (see Schools-perspectives below) but converge on the rule structure.
 
 ## Teaching progressions
 
@@ -60,6 +80,22 @@ When the pass ends up with a non-setter who is not the libero — a DS, an outsi
 - **Back-row attack regardless of position.** Hitter out of position chases a set not for them. Correction: back-row OOS attacks require the hitter inside the 3-meter line and in approach position.
 - **Treating OOS as a practice afterthought.** Team sides out in-system and loses long rallies. Correction: dedicate practice time explicitly — Kiraly, Rosen, and the AOC OOS corpus all rest on the same premise that OOS is a distinct trainable phase.
 
+## Schools-perspectives
+
+Out-of-system transition is one of the more contested topics in modern coaching because schools disagree on tool inventory, practice-design philosophy, and offensive priority of OOS conversion. The five positions below are stable in the literature; this page does not resolve between them. Note: for the *setting* dimension of OOS specifically, the [[setting-out-of-system]] page covers the schools-perspectives in fuller technical detail; the lens here is on team-level transition rather than individual setting.
+
+- **Italian school ([[italian-school]]) — broad toolkit, attack-aggressive.** Italian-tradition coaches (Velasco, Bernardi, Mazzanti, recent women's NT under Velasco) treat OOS as one-third of the offensive game and train the full toolkit: bump-set, two-handed redirect, second-contact attack threats, back-row pipe in transition. The OOS hitter is expected to terminate, not just survive [notes-velasco-generosita]. Aggressive serving creates more OOS opportunities for opponents AND more for self — both sides of the coin are trained.
+
+- **Brazilian school ([[brazilian-school]]) — speed-of-distribution, deceptive bails.** Brazilian-tradition coaches (Bernardinho, Guimarães) emphasize speed and deception in OOS conversion. The bail can be fast (mid-tempo from a slightly off-net pass) rather than always-high, with the second-contact player reading the block to choose between high-outside, fast-outside, mid-tempo to the opposite, or back-row attempt [bernardinho-2006-transformando-suor-em-ouro]. Practice-design is variability-heavy — every OOS rep is different.
+
+- **Russian school ([[russian-school]]) — narrow toolkit, defensive priority.** Platonov-era and Karpol-era Russian coaches treat OOS as a defensive opportunity rather than an offensive one. The bail target is the strongest pin, the bail is high-and-safe, and the team's job is to extend the rally until in-system play returns. Less tool-inventory breadth, more reliability on the small toolkit [notes-polish-or-russian-federation-manual].
+
+- **USA Volleyball / Kiraly ([[usa-volleyball]]) — broad toolkit with bail-to-pin default.** Kiraly's modern AOC corpus treats OOS as a trainable phase: explicit reps for libero-as-second-contact, broad tool inventory (bump, redirect, jump-bump, second-contact attack), but the bail-to-pin remains the highest-percentage default for non-elite OOS players [aoc-2021-kiraly-libero-set-team-drill][aoc-2024-kiraly-training-libero][aoc-2024-kiraly-validation-6v6]. The 80%-OOS framing common in modern AOC content (Munciana / Lingenfelter) reinforces that OOS is the majority of the game and demands explicit training.
+
+- **Gold Medal Squared ([[gold-medal-squared]]) — methodologically driven.** GMS doesn't dictate tool inventory; it dictates *how* to train whatever tools the team uses. Move quickly to game-like reps; train decision-under-variability; resist isolated-blocked drills of OOS mechanics because the perceptual information that drives OOS decision-making is destroyed by decomposition [gms-nd-structure-practice]. A GMS-trained team could run Italian-style or Russian-style OOS philosophy; the school is upstream of those choices.
+
+The four philosophical positions converge on three points: OOS is high-leverage, the call-out matters, and live-rep practice eventually beats coach-tossed reps. They diverge on (a) tool-inventory breadth and (b) offensive priority of OOS conversion. For top-club women's programs scaling young to HS+/college, the practical synthesis is GMS / AOC methodological frame (decision-under-variability, broad-toolkit training) with Italian/Brazilian offensive priority (OOS as scoring phase) layered as the roster matures. Russian-style OOS-as-defense is defensible at younger ages where conversion is unrealistic but caps the team's ceiling.
+
 ## Related drills
 
 - **Libero Set Team Drill** — Kiraly's 2021 team drill; winning team fed a hard-driven ball so the setter digs and the libero must set a pin attacker.
@@ -78,3 +114,8 @@ When the pass ends up with a non-setter who is not the libero — a DS, an outsi
 - [[kiraly-2024-volleyballworld-mens-transition]]
 - [[kiraly-1997-championship-volleyball]]
 - [[mccutcheon-2022-championship-behaviors]]
+- [[notes-velasco-generosita]]
+- [[bernardinho-2006-transformando-suor-em-ouro]]
+- [[notes-polish-or-russian-federation-manual]]
+- [[gms-nd-structure-practice]]
+- [[munciana-2022-camp-drills]]

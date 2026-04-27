@@ -11,11 +11,16 @@ sources:
   - aoc-2024-kids-attacking-fundamentals
   - aoc-2017-liskevych-asics-hitting
   - gms-2018-clinic-report
+  - gms-nd-structure-practice
   - kiraly-1997-championship-volleyball
   - wagner-2009-spike-jump-kinematics
   - fuchs-2019-male-female-spike-biomechanics
   - oliveira-2020-spike-kinematics-systematic-review
   - caldeira-2023-functional-movement-variability
+  - notes-velasco-generosita
+  - bernardinho-2006-transformando-suor-em-ouro
+  - notes-polish-or-russian-federation-manual
+  - munciana-2022-camp-drills
 ---
 
 # Hitting Approach
@@ -110,6 +115,24 @@ deviation at contact** — i.e., not the arm swing but the hitter's ability to
 adjust the whole-body approach to the live constraint
 [caldeira-2023-functional-movement-variability].
 
+## Schools-perspectives
+
+The hitting approach is one of the more contested topics in modern coaching because schools disagree on (a) the dominant footwork pattern by age and roster, (b) the priority of approach velocity vs plant balance vs jump height, and (c) cue language for installing the pattern. Five positions sit stably in the literature.
+
+- **Italian school ([[italian-school]]) — closing-step quality and approach-velocity transfer.** Italian-tradition coaches emphasize the *quality of the closing step* — the final left-foot plant for right-handers — as the load-bearing element of the approach. The penultimate step is shortened deliberately to allow a hard close that orients the hitter perpendicular to the net. Velasco-era and modern Italian women's NT teaching treats approach-velocity-into-vertical-jump conversion as the primary technical leverage point [notes-velasco-generosita]. The 4-step (right-left-right-left) is the dominant pattern at HS+/college; the 3-step is reserved for younger or transitional hitters.
+
+- **Brazilian school ([[brazilian-school]]) — speed-into-jump and tempo variation.** Brazilian-tradition coaches (Bernardinho, Guimarães) emphasize approach speed and tempo variation across the offense. Approach footwork is often started wider than Italian-canon, with more horizontal travel converted into jump height; the "slow-slow, fast-fast" cadence is universal but the absolute speed of the fast-fast phase is higher [bernardinho-2006-transformando-suor-em-ouro]. Quick middle attacks (Saara-style 1) require compressed approach timing distinct from pin-attack approaches; Brazilian tradition trains both as distinct patterns rather than treating tempo as a tossable variable on a single approach.
+
+- **Russian school ([[russian-school]]) — structured 4-step, terminal-attack priority.** Platonov-era and Karpol-era Russian coaches install the 4-step approach as the dominant pattern with structural regularity; less variation across hitter types, more emphasis on terminal-attack jump height and contact point. Approach-velocity is power-driven (strength + plyometric base) more than technical-cue-driven [notes-polish-or-russian-federation-manual]. Less female-specific approach work in the canonical Russian framing because the school's foundational era (1970s-1990s) was male-dominated; the principle generalizes but the execution context was male.
+
+- **USA Volleyball / Kiraly ([[usa-volleyball]]) — modern AOC, female-leverage attention.** AOC-aligned instruction (Mattox, MacDonald, Sheffield) installs the 4-step as the HS+/college default with the 3-step as the 12s-14s transitional pattern. Modern AOC content emphasizes Mattox's "Sight-90 / Elbow-Lead / Lift-and-Whip" keyword stack [aoc-2021-teach-spiking] paired with MacDonald's torque-and-high-hand arm-swing emphasis. **Female-specific leverage point:** Fuchs-2019's matched male/female elite spike-jump biomechanics found women approach at slower speeds and use shorter penultimate steps than men, AND strength/power differences do not fully explain the gap — meaning **technical work on approach velocity and penultimate-step length is genuinely coachable** in women's-team hitters, not just weight-room work [fuchs-2019-male-female-spike-biomechanics]. The Kiraly era explicitly integrates this finding into approach instruction.
+
+- **Gold Medal Squared ([[gold-medal-squared]]) — random-practice install, live-block early.** GMS's position is methodological: install the 4-step pattern with cooperative reps until the motor program is stable, then move quickly to random and game-like reps where approach decisions are made under live block constraints. The Caldeira 2023 finding — that 6-week constraints-led training against a live block produced significantly more successful attacks than traditional drill-based training, with **lateral and longitudinal CoM deviation at plant** as kinematic predictors of success — is consistent with the GMS methodological frame [caldeira-2023-functional-movement-variability]. GMS-trained hitters reach the live-block stage faster than traditional-progression hitters.
+
+- **Munciana / Lingenfelter ([[munciana-volleyball-club]]) — cue language overlay.** Lingenfelter's modern AOC content treats Schmidt's "start slow, accelerate the last two steps" cue as the pedagogical anchor for the 3-step and 4-step, with explicit female-specific application — top-club women's hitters who internalize the slow-fast cadence convert approach velocity into vertical jump more efficiently than equivalent strength-trained peers [munciana-2022-camp-drills]. Less an offensive-philosophy school than a cue-language overlay applied across other schools' approach patterns.
+
+The five positions converge on the 4-step approach as the dominant adult pattern and the 3-step as the developmental entry. They diverge on approach-velocity priority (Italian/AOC technical, Russian power, GMS variability), tempo variation across hitter types (Brazilian high, Russian low), and cue language (Italian closing-step, AOC Mattox keyword stack, Munciana Schmidt cadence). For top-club women's programs scaling from young to HS+/college, the practical synthesis: install the AOC 3-step at 12s-13s and 4-step at 14s+, layer Munciana's "start slow, accelerate the last two" cue as the universal cadence anchor, integrate Fuchs-2019's female-specific approach-velocity leverage as a deliberate technical target, and move to GMS-style live-block reps once the motor pattern is stable.
+
 ## Common errors
 
 - **"Wrong-foot" plant (right-right or left-last for right-handers).**
@@ -182,3 +205,8 @@ adjust the whole-body approach to the live constraint
 - [[fuchs-2019-male-female-spike-biomechanics]]
 - [[oliveira-2020-spike-kinematics-systematic-review]]
 - [[caldeira-2023-functional-movement-variability]]
+- [[gms-nd-structure-practice]]
+- [[notes-velasco-generosita]]
+- [[bernardinho-2006-transformando-suor-em-ouro]]
+- [[notes-polish-or-russian-federation-manual]]
+- [[munciana-2022-camp-drills]]
