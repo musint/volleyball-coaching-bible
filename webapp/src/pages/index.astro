@@ -1,42 +1,240 @@
 ---
 import DefaultLayout from '../layouts/DefaultLayout.astro';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const PRIMARY_AGE = '14s';
+
+const ages: string[] = ['10s', '11s', '12s', '13s', '14s', '15s', '16s', '17s', '18s'];
+
+const skills: Array<{ slug: string; label: string }> = [
+  { slug: 'passing', label: 'Passing' },
+  { slug: 'setting', label: 'Setting' },
+  { slug: 'hitting', label: 'Hitting' },
+  { slug: 'blocking', label: 'Blocking' },
+  { slug: 'serving', label: 'Serving' },
+  { slug: 'defense', label: 'Defense' },
+  { slug: 'transition', label: 'Transition' },
+];
+
+const taskTiles: Array<{ kicker: string; title: string; desc: string; href: string }> = [
+  {
+    kicker: 'Plan',
+    title: "Tonight's practice",
+    desc: 'Drill catalog · practice ratios · age-specific drill picks · existing practice plans.',
+    href: `${base}/manual/practice-plans/`,
+  },
+  {
+    kicker: 'Standards',
+    title: '14s age guide',
+    desc: 'Primary working context — milestones, systems, promotion criteria. Adjacent ages one click away.',
+    href: `${base}/manual/ages/${PRIMARY_AGE}/`,
+  },
+  {
+    kicker: 'Lookup',
+    title: 'Find a cue or technique',
+    desc: 'Cue dictionaries by skill, technique pages with schools-perspectives, position guides.',
+    href: `${base}/manual/cues/`,
+  },
+  {
+    kicker: 'Tryout',
+    title: 'Run a tryout',
+    desc: '14U evaluation rubric · 8 rows × 5 columns of observable criteria · session structure.',
+    href: `${base}/ops/tryout-rubric-14u/`,
+  },
+  {
+    kicker: 'Decide',
+    title: 'Compare schools of thought',
+    desc: 'Italian / Brazilian / Russian / USA / GMS — setting, hitting, defense, OOS — what schools disagree on.',
+    href: `${base}/techniques/setting-distribution/`,
+  },
+  {
+    kicker: 'Search',
+    title: 'Search the bible',
+    desc: 'Full-text search across 1100+ pages and 770+ source citations.',
+    href: `${base}/search/`,
+  },
+];
+
+const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
+  { slug: 'practice-planning', label: 'Practice planning', desc: 'Periodization, session design, microcycle planning, practice ratios.' },
+  { slug: 'season-planning', label: 'Season planning', desc: 'Preseason / in-season / pre-tournament / taper arc; tournament prep.' },
+  { slug: 'mental', label: 'Mental skills', desc: 'Culture, leadership, pressure, motivation, self-talk, IZOF, choking.' },
+  { slug: 'physical', label: 'Physical preparation', desc: 'S&C, jump training, mobility, ACL prevention, RED-S, arm care.' },
+  { slug: 'match-prep', label: 'Match prep', desc: 'Scouting, stats, video analysis, in-match adjustments, halftime framework.' },
+  { slug: 'recruiting', label: 'Recruiting', desc: 'NCAA calendar, college pathway, film prep, list management.' },
+];
 ---
-<DefaultLayout title="Volleyball Coaching Bible" description="A complete club coaching standards manual.">
-  <section class="max-w-5xl mx-auto px-4 py-12 md:py-20">
-    <h1 class="font-serif text-4xl md:text-5xl font-bold tracking-tight text-stone-900 mb-4">
+<DefaultLayout title="Volleyball Coaching Bible" description="Citation-disciplined coaching reference for top-club women's indoor 6s, 14U through college.">
+
+  <!-- Hero -->
+  <section class="max-w-5xl mx-auto px-4 pt-10 pb-8 md:pt-14 md:pb-10">
+    <h1 class="font-serif text-4xl md:text-5xl font-bold tracking-tight text-stone-900 mb-3">
       Coaching Bible
     </h1>
-    <p class="text-lg text-stone-600 max-w-2xl mb-10">
-      An LLM-maintained volleyball coaching reference and club standards manual — 60+ coach profiles,
-      43 schools of thought, 101 drills, 9 age-guides, 8 cue dictionaries, 10 tryout rubrics, 25 practice plans.
+    <p class="text-lg md:text-xl text-stone-700 max-w-3xl mb-3">
+      Citation-disciplined coaching reference for <strong>top-club women's indoor 6s</strong>, 14U through college. 1100+ markdown pages of methodology, technique, schools-of-thought, drills, and operational templates — interlinked and source-anchored.
     </p>
+    <p class="text-sm text-stone-500">maintained by Coach Song</p>
+  </section>
 
-    <div class="grid md:grid-cols-2 gap-4 mb-12">
-      <a href={`${base}/manual/`} class="block p-6 rounded-lg border border-stone-200 hover:border-orange-400 hover:bg-orange-50 no-underline transition-colors">
-        <div class="kicker mb-2">Manual</div>
-        <h2 class="font-serif text-xl font-bold mb-1 text-stone-900">Club coaching standards</h2>
-        <p class="text-sm text-stone-600">Per-age technical milestones, canonical cues, drill picks, tryout rubrics — the four-question loop for every age.</p>
-      </a>
-      <a href={`${base}/drills/`} class="block p-6 rounded-lg border border-stone-200 hover:border-orange-400 hover:bg-orange-50 no-underline transition-colors">
-        <div class="kicker mb-2">Drills</div>
-        <h2 class="font-serif text-xl font-bold mb-1 text-stone-900">Filterable drill catalog</h2>
-        <p class="text-sm text-stone-600">101 drills filterable by skill, phase, age, duration, team size. The "find me a drill in 10 seconds" entry point.</p>
-      </a>
-      <a href={`${base}/library/`} class="block p-6 rounded-lg border border-stone-200 hover:border-orange-400 hover:bg-orange-50 no-underline transition-colors">
-        <div class="kicker mb-2">Library</div>
-        <h2 class="font-serif text-xl font-bold mb-1 text-stone-900">Reference encyclopedia</h2>
-        <p class="text-sm text-stone-600">Skill hubs, techniques, systems, positions, schools of thought, methodology hubs, sources.</p>
-      </a>
-      <a href={`${base}/search/`} class="block p-6 rounded-lg border border-stone-200 hover:border-orange-400 hover:bg-orange-50 no-underline transition-colors">
-        <div class="kicker mb-2">Search</div>
-        <h2 class="font-serif text-xl font-bold mb-1 text-stone-900">Full-text search</h2>
-        <p class="text-sm text-stone-600">Pagefind-indexed. Search every page, every cue, every drill.</p>
-      </a>
-    </div>
-
-    <div class="text-sm text-stone-500 border-t border-stone-200 pt-6">
-      <p>Built on 770+ cited sources, synthesized with neutral attribution across schools of thought. Coverage spans Karch Kiraly's <em>Championship Volleyball</em>, Hugh McCutcheon's <em>Championship Behaviors</em>, Mike Lingenfelter's Munciana camp library, the Art of Coaching Volleyball and Gold Medal Squared corpora, peer-reviewed sports-science research, and definitive coaching books.</p>
+  <!-- Task tiles: I want to… -->
+  <section class="max-w-6xl mx-auto px-4 pb-10">
+    <h2 class="kicker mb-3">I want to…</h2>
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {taskTiles.map((t) => (
+        <a href={t.href} class="task-tile block p-5 rounded-lg border border-stone-200 bg-white hover:border-orange-400 hover:bg-orange-50/40 no-underline transition-colors">
+          <div class="kicker mb-2">{t.kicker}</div>
+          <h3 class="font-serif text-lg font-bold text-stone-900 mb-1 leading-tight">{t.title}</h3>
+          <p class="text-sm text-stone-600 leading-snug">{t.desc}</p>
+        </a>
+      ))}
     </div>
   </section>
+
+  <!-- By age -->
+  <section class="max-w-6xl mx-auto px-4 pb-8">
+    <div class="flex items-baseline justify-between mb-3">
+      <h2 class="kicker">By age</h2>
+      <a href={`${base}/manual/`} class="text-xs text-stone-500 hover:text-orange-700 no-underline">All ages →</a>
+    </div>
+    <div class="age-strip">
+      {ages.map((a) => (
+        <a
+          href={`${base}/manual/ages/${a}/`}
+          class:list={[
+            'age-pill',
+            a === PRIMARY_AGE ? 'age-pill-primary' : '',
+          ]}
+        >
+          {a}
+          {a === PRIMARY_AGE && <span class="age-pill-badge">primary</span>}
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- By skill -->
+  <section class="max-w-6xl mx-auto px-4 pb-10">
+    <div class="flex items-baseline justify-between mb-3">
+      <h2 class="kicker">By skill</h2>
+      <a href={`${base}/library/`} class="text-xs text-stone-500 hover:text-orange-700 no-underline">All techniques →</a>
+    </div>
+    <div class="skill-strip">
+      {skills.map((s) => (
+        <a href={`${base}/${s.slug}/`} class="skill-pill">{s.label}</a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Methodology + planning hubs -->
+  <section class="max-w-6xl mx-auto px-4 pb-12">
+    <h2 class="kicker mb-3">Methodology &amp; planning</h2>
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {methodHubs.map((m) => (
+        <a href={`${base}/${m.slug}/`} class="method-tile block p-4 rounded-md border border-stone-200 bg-stone-50 hover:bg-white hover:border-orange-300 no-underline transition-colors">
+          <h3 class="font-serif text-base font-bold text-stone-900 mb-1">{m.label}</h3>
+          <p class="text-sm text-stone-600 leading-snug">{m.desc}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Sources & credibility footer -->
+  <section class="max-w-5xl mx-auto px-4 pb-16">
+    <div class="border-t border-stone-200 pt-6">
+      <h2 class="kicker mb-3">Sources &amp; method</h2>
+      <p class="text-sm text-stone-600 leading-relaxed">
+        Built on 770+ cited sources, synthesized with neutral attribution across schools of thought. Coverage spans Karch Kiraly's <em>Championship Volleyball</em>, Hugh McCutcheon's <em>Championship Behaviors</em>, Mike Lingenfelter's Munciana camp library, the Art of Coaching Volleyball and Gold Medal Squared corpora, peer-reviewed sports-science research, and definitive coaching books.
+      </p>
+      <p class="text-sm text-stone-600 leading-relaxed mt-3">
+        Every claim resolves to a source page. Contested topics carry <strong>schools-perspectives</strong> sections that present rival positions side by side without resolving them — neutrality is a hard rule.
+      </p>
+    </div>
+  </section>
+
 </DefaultLayout>
+
+<style>
+  /* Age strip */
+  .age-strip {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0.5rem;
+    overflow-x: auto;
+    padding-bottom: 0.25rem;
+    scrollbar-width: thin;
+  }
+  .age-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.45rem 0.95rem;
+    border: 1px solid var(--color-rule);
+    border-radius: 9999px;
+    background: white;
+    color: var(--color-ink);
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+    transition: border-color 0.15s, background 0.15s, color 0.15s;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .age-pill:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+    text-decoration: none;
+  }
+  .age-pill-primary {
+    background: var(--color-accent);
+    border-color: var(--color-accent);
+    color: white;
+  }
+  .age-pill-primary:hover {
+    background: #962d18;
+    border-color: #962d18;
+    color: white;
+  }
+  .age-pill-badge {
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    background: rgba(255, 255, 255, 0.25);
+    padding: 0.1rem 0.4rem;
+    border-radius: 9999px;
+  }
+
+  /* Skill strip */
+  .skill-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .skill-pill {
+    display: inline-block;
+    padding: 0.45rem 1rem;
+    border: 1px solid var(--color-rule);
+    border-radius: 0.5rem;
+    background: white;
+    color: var(--color-ink);
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+    transition: border-color 0.15s, background 0.15s, color 0.15s;
+  }
+  .skill-pill:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+    background: var(--color-accent-soft);
+    text-decoration: none;
+  }
+
+  /* Override default underline for tile-style anchors */
+  .task-tile, .method-tile, .age-pill, .skill-pill {
+    text-decoration: none;
+  }
+  .task-tile:hover, .method-tile:hover {
+    text-decoration: none;
+  }
+</style>
