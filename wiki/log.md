@@ -1566,3 +1566,66 @@ Wave 7 closed two of the highest-leverage gaps surfaced in the Wave-5 follow-up 
   - `wiki/index.md` — added "Women's-game serve research" entry under Sources.
 - **Net deliverable:** 4 source pages + 4 raw + 14 pages updated; ~1500 added words
   on women's jump-serve effectiveness; one research-gap entry queued for backfill.
+
+## [2026-04-26] ingest | defense systems — Middle-Middle | 6 sources, +9 pages
+- **Premise.** Song asked about defensive system selection: which to teach, and
+  specifically wants to install "middle-middle defense" (libero anchored at ~6m,
+  centered, MB stays middle, LB cuts deep) as the program's identity from young
+  ages. Required (a) clarifying terminology — what he calls middle-middle is
+  Trinsey/GMS Middle-Middle, distinct from Russ Rose's 6-Up/Up Defense (3m-line
+  variant); (b) comparative research on libero-at-LB vs libero-at-MB in the
+  scheme; (c) full system-page deliverable for the wiki.
+- **Two research-agent dispatches:** (1) defensive-system comparative analysis;
+  (2) libero-MB-vs-LB positioning research within Middle-Middle.
+- **Headline empirical anchors:**
+  - **Trinsey 10,000+ attacks** — putting a defender at 6m mid-court covers the
+    highest-frequency ball-landing zone vs ~90-95% of attackers.
+  - **Trinsey's published caveat** — "put your best defensive players where most
+    balls go doesn't necessarily mean put your libero in middle middle" —
+    decouples scheme from libero position.
+  - **2022 NCAA Sweet 16: 16 of 16 teams positioned libero at LB** (per GMS
+    "What Is a Libero" article) — the strongest single empirical anchor for
+    libero-at-LB as the modern women's-game default.
+  - **Top-libero exemplars:** Wong-Orantes (5'6"), Hentz (5'9"), Rodriguez (5'5"),
+    White (5'7") all LB-anchored. Texas/McCoy 2017 and Penn State/Courtney are
+    the documented MB-anchored exceptions (scheme-driven and size-driven).
+- **Sources ingested (6 Tier-2 coaching-content):**
+  - `gms-nd-middle-middle-defense` — Trinsey GMS canonical scheme article (full
+    text fetched).
+  - `gms-nd-libero-in-volleyball` — GMS libero explainer with 2022 Sweet 16
+    datapoint (full text fetched).
+  - `aoc-2017-stone-left-back-libero-home` — Jim Stone canonical libero-at-LB
+    advocacy (AOC paywalled — metadata + research-synthesis summary).
+  - `aoc-2019-sealy-libero-defensive-position-traits` — Mike Sealy on libero
+    defensive-position traits (AOC paywalled).
+  - `aoc-2015-hagglund-libero-mb-lb-positioning` — Natalie Hagglund cross-shading
+    framework (AOC paywalled).
+  - `aoc-2026-rose-up-defense` — Russ Rose on Up Defense / 6-Up (AOC; conceptual
+    framing publicly visible). Distinct from Trinsey Middle-Middle (3m line vs
+    6m middle).
+- **New deliverable:** `wiki/systems-detail/defense-middle-middle.md` — ~2000-word
+  full system page with libero-at-LB as canonical install (matching 2022 NCAA
+  Sweet 16 unanimity), libero-at-MB as documented Trinsey-canonical alternative,
+  cross-shading as within-rotation movement, libero-deep adjustment as scoutable
+  shift, age-progression for installing 11s/12s through HS+/college.
+- **Schools-perspectives sections** added to defense-perimeter, defense-rotation,
+  defense-middle-back, defense-man-back — each contrasts with Middle-Middle and
+  references the 2022 Sweet 16 datapoint where relevant. Frontmatter
+  `alternatives` lists updated to include defense-middle-middle.
+- **Age-guide cross-references** in 11s/12s/13s/14s — `## Defensive identity install`
+  block referencing defense-middle-middle as the program-identity install for
+  top-club rosters; libero-at-LB at 11s/12s; cross-shading at 13s+; libero-deep
+  adjustment drilled at 14s.
+- **`age-lens-14u.md` club-philosophy note** — Middle-Middle as the program's
+  defensive identity from 11s/12s; libero-at-LB rationale; non-libero MB anchor
+  as apprentice-libero developmental slot.
+- **Index updates:** `wiki/index.md` Systems > Defense list adds defense-middle-middle;
+  Sources cluster adds Defense systems / Middle-Middle ingest entry.
+- **Honest gap noted:** AOC paywalled pieces (Stone 2017, Sealy 2019, Hagglund 2015)
+  cited based on metadata + research-synthesis summaries; specific direct quotes
+  not verifiable from publicly visible portions. Pro-league per-zone defensive
+  analytics remain thin in the open literature; descriptive coaching content
+  rather than peer-reviewed positional zone outcomes data.
+- **Net deliverable:** 6 source pages + 6 raw + 1 new system page + 4 existing
+  defense pages updated + 4 age-guides cross-referenced + age-lens-14u +
+  index/log = 23 files touched; ~3500 added words.

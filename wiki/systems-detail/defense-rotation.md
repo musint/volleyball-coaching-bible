@@ -5,8 +5,8 @@ name: Rotation Defense
 age-appropriateness: [hs, college, professional]
 complexity: high
 when-to-use: "When your defenders can read accurately and you face opponents with varied attack locations; the scheme rotates coverage toward the side of the set."
-alternatives: [defense-perimeter, defense-man-back, defense-middle-back]
-sources: [aoc-2026-team-defense-reading, aoc-2024-kiraly-reads-every-skill, aoc-2025-training-reading-look-see-decide, aoc-2020-reading-every-skill, aoc-2015-liskevych-mccutcheon-defense-blocking]
+alternatives: [defense-perimeter, defense-man-back, defense-middle-back, defense-middle-middle]
+sources: [aoc-2026-team-defense-reading, aoc-2024-kiraly-reads-every-skill, aoc-2025-training-reading-look-see-decide, aoc-2020-reading-every-skill, aoc-2015-liskevych-mccutcheon-defense-blocking, gms-nd-middle-middle-defense]
 ---
 
 # Rotation Defense
@@ -58,11 +58,24 @@ Avoid rotation when:
 - The opponent's distribution is intentionally chaotic (e.g., a strong back-row attack combined with pin and middle options) and the rotation can't pick a side.
 - The match is a chaos match — receive is bad, attacks are out-of-system, and there is no "set location" to rotate toward. In those matches perimeter or [[defense-man-back]] is often more durable.
 
+## Schools-perspectives
+
+Rotation sits at the highest-complexity, most-coordinated end of the defensive spectrum. Adjacent schemes trade complexity for clarity in different ways:
+
+- **Rotation (this page):** "every defender reads in sync and rotates toward the side of the set." Maximum adaptive coverage; maximum coordination demand.
+- **[[defense-perimeter]]:** "everyone holds their landmark; the block owns the middle." Minimum coordination demand; sacrifices set-side adaptivity.
+- **[[defense-man-back]]:** "one defender owns deep, others fill the rest." Role clarity beats coordination; durable in chaos matches.
+- **[[defense-middle-back]]:** "the libero anchors deep middle and reads the seam." Read-driven but with a stable anchor; less rotation overhead.
+- **[[defense-middle-middle]]:** "anchor a defender at 6m middle (the highest-frequency ball-landing zone) — that defender may or may not be the libero." Read-driven mid-court anchor; sits between rotation's adaptivity and middle-back's stability [gms-nd-middle-middle-defense].
+
+For programs that have already installed perimeter and want a tactical upgrade, rotation is the read-heavy option. Middle-Middle is the data-anchored alternative — same read demands, but a fixed reference point (6m middle) rather than a rotating coverage pattern.
+
 ## Alternatives and adjustments
 - Revert to [[defense-perimeter]] when reads break down mid-match; it's the "safety net" scheme coaches return to.
 - Layer rotation onto a [[defense-middle-back]] base when your libero is elite — the libero plays deep middle and the front two rotate according to the set.
 - Use [[defense-man-back]] as the complementary scheme against deep-hitting teams where the middle-back responsibility is singular and clear.
 - Train reading explicitly: use the "look, see, decide" compartmentalization so you can diagnose whether the defense is breaking on the look (wrong cues), the see (wrong interpretation), or the decide (wrong response) [aoc-2025-training-reading-look-see-decide].
+- Consider [[defense-middle-middle]] as a fixed-anchor alternative: same read demands, mid-court anchor at 6m middle rather than rotating coverage, anchored on Trinsey's 10,000-attack chart [gms-nd-middle-middle-defense].
 
 ## Sources
 - [[aoc-2026-team-defense-reading]]
@@ -70,3 +83,4 @@ Avoid rotation when:
 - [[aoc-2025-training-reading-look-see-decide]]
 - [[aoc-2020-reading-every-skill]]
 - [[aoc-2015-liskevych-mccutcheon-defense-blocking]]
+- [[gms-nd-middle-middle-defense]]

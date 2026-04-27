@@ -243,6 +243,7 @@ All six pages deepened to SCHEMA §3.5 spec (~1100-1750 words each); per-age pro
 - [[defense-rotation]] — adaptive-by-hitter rotation-specific defense
 - [[defense-man-back]] — deep-ball dedicated coverage
 - [[defense-middle-back]] — modern libero-in-6 middle-back default
+- [[defense-middle-middle]] — Trinsey 6m mid-court anchor; libero-at-LB modern women's-game default; data-anchored at the highest-frequency ball-landing zone
 
 ### Serve-receive (W3.9)
 - [[serve-receive-3-player]] — modern HS+ 3-person receive
@@ -437,6 +438,7 @@ Full catalog auto-derivable by folder listing. Counts by cluster:
 - Sports-psychology research (Task B.5, 2026-04-25): 10 — IZOF (Nogueira-Filho 2019), MTQ48 refinement (Kawabata 2021), imagery (Pourmohseni 2025), pressure/ironic-processes (Görgülü 2021), pre-performance routines (Billing 2014), choking review (Mesagno 2017), cohesion-efficacy (Spink 1990), coach support (Coussens 2024), self-talk (Walter 2019), season burnout (Pires 2021)
 - Volleyball-specific conditioning research (Task B.4, 2026-04-24): 10 — periodization (Tavakkoli 2022), plyometric meta-analysis (Ramirez-Campillo 2020), training-stress / fatigue / wellbeing systematic review (Rebelo 2024), training-interventions review (Keoliya 2024), recovery (Closs 2020), muscle-structure jump prediction (Jiang 2024), HR/lactate by position (Akarçeşme 2022), power/speed/COD NCAA D-I (Lockie 2020), concurrent training (Wang 2024), FIVB heat stress (Bahr 2012), early-season jump load (Sanders 2025)
 - Women's-game serve research (2026-04-26): 4 — Polish Tauron Liga + PlusLiga full-season serve census 86%-jump-float / 12%-jump-topspin (Pawlik 2024), U-14 Spanish female rule modifications + 21.5% U-14 jump-serve rate (Palao 2024), Turkish multi-league serve speed (Altundag 2024), Olympic men's vs women's skills effectiveness foundational gender asymmetry (Kountouris 2015)
+- Defense systems / Middle-Middle ingest (2026-04-26): 6 — GMS Trinsey Middle-Middle (10,000-attack chart; libero-positioning caveat), GMS Libero (2022 NCAA Sweet 16: 16/16 teams libero-at-LB), AOC Stone 2017 left-back-libero, AOC Sealy 2019 libero defensive traits, AOC Hagglund 2015 cross-shading framework, AOC Rose 2026 Up Defense (3m-line variant)
 - Rules (Wikipedia volleyball rules via WebFetch): 1
 - TGfU / Game-based training (Wikipedia): 1
 - Instagram (login-walled profile captures): 3

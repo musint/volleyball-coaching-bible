@@ -5,8 +5,8 @@ name: Perimeter Defense
 age-appropriateness: [14u, hs]
 complexity: low
 when-to-use: "Against opponents who hit hard cross-court and deep; a standard entry-level base formation for 14U."
-alternatives: [defense-rotation, defense-man-back, defense-middle-back]
-sources: [aoc-2026-team-defense-reading, aoc-2017-liskevych-asics-defense, aoc-2015-liskevych-mccutcheon-defense-blocking]
+alternatives: [defense-rotation, defense-man-back, defense-middle-back, defense-middle-middle]
+sources: [aoc-2026-team-defense-reading, aoc-2017-liskevych-asics-defense, aoc-2015-liskevych-mccutcheon-defense-blocking, gms-nd-middle-middle-defense]
 ---
 
 # Perimeter Defense
@@ -58,13 +58,27 @@ Avoid perimeter (or adjust out of it) when:
 - Your block consistently gets split or beaten, exposing the middle.
 - You face a three-hitter rotation with a fast tempo — rotation-based or read-based variants give you more coverage where the ball actually goes.
 
+## Schools-perspectives
+
+Perimeter sits at the simple-landmark end of the defensive spectrum. Adjacent schemes differ on what the defense is *fundamentally for*:
+
+- **Perimeter (this page):** "the deep-and-wide ring covers the hard ball; the block owns the middle." Fundamentally a hard-ball-into-the-back-half defense; landmark-based; cheapest to install.
+- **[[defense-man-back]]:** same basic shape with one defender explicitly committed to the deep zone — role-clarity, not coverage-philosophy, is the difference. Often functionally indistinguishable from perimeter at 14U.
+- **[[defense-middle-back]]:** "the libero owns the deep middle and reads the seam." Read-driven, libero-elite-dependent, modern HS+ default for programs whose libero is the team's best reader.
+- **[[defense-rotation]]:** "the back row rotates toward where the ball was set." Read-driven, requires every defender to read in sync; high learning curve.
+- **[[defense-middle-middle]]:** "anchor a defender at 6m middle (the highest-frequency ball-landing zone per Trinsey's 10,000-attack chart) — that defender may or may not be the libero." Read-driven mid-court anchor; modern data-driven alternative to perimeter when the program wants to invest in a single team-defense identity scaled from young ages [gms-nd-middle-middle-defense].
+
+For a 14U program teaching team defense for the first time, perimeter is the typical starting scheme because the landmarks stick. For programs scaling from young to HS+/college with one identity, Middle-Middle is the modern alternative — less rigid landmark dependence, more empirically grounded mid-court anchor.
+
 ## Alternatives and adjustments
 - Pinch the wings to the 10-foot line in base, release to perimeter on the attack read — the standard 14U adjustment so defenders can still touch tips. Halaz's 14U framework treats this as the default starting configuration [aoc-2026-team-defense-reading].
 - Shift to [[defense-rotation]] when you want defenders to rotate toward the ball on the read, trading the clean landmarks of perimeter for more adaptive coverage.
 - Shift to [[defense-middle-back]] when your libero is elite and your block can own the seam — middle-back buys back some coverage in the short roll-shot zone.
 - Layer reading training underneath any scheme choice; perimeter positions are empty without trained eyes on the setter and the hitter [aoc-2017-liskevych-asics-defense].
+- Migrate to [[defense-middle-middle]] when the program wants to invest in a single team-defense identity scaled from young ages — mid-court anchor at 6m is the modern data-driven alternative to perimeter's deep-corner landmarks [gms-nd-middle-middle-defense].
 
 ## Sources
 - [[aoc-2026-team-defense-reading]]
 - [[aoc-2017-liskevych-asics-defense]]
 - [[aoc-2015-liskevych-mccutcheon-defense-blocking]]
+- [[gms-nd-middle-middle-defense]]

@@ -5,8 +5,8 @@ name: Middle-Back Defense
 age-appropriateness: [hs, college, professional]
 complexity: medium
 when-to-use: "When your libero is a strong reader and the block presses reliably; the libero anchors deep middle and the defense reads off the seam."
-alternatives: [defense-man-back, defense-perimeter, defense-rotation]
-sources: [aoc-2024-kiraly-training-libero, aoc-2024-kiraly-reads-every-skill, aoc-2017-liskevych-asics-defense, aoc-2015-liskevych-mccutcheon-defense-blocking]
+alternatives: [defense-man-back, defense-perimeter, defense-rotation, defense-middle-middle]
+sources: [aoc-2024-kiraly-training-libero, aoc-2024-kiraly-reads-every-skill, aoc-2017-liskevych-asics-defense, aoc-2015-liskevych-mccutcheon-defense-blocking, gms-nd-middle-middle-defense, gms-nd-libero-in-volleyball]
 ---
 
 # Middle-Back Defense
@@ -57,14 +57,29 @@ Avoid middle-back when:
 - Your block splits or forms late often — the scheme won't survive bad block-seam control.
 - The opponent's offense is chaos-heavy and there's no set for the libero to read off — [[defense-rotation]] or perimeter handles broken-play defense more durably.
 
+## Schools-perspectives
+
+Middle-Back is the modern HS+/college default for libero-centric programs. The closely-related schemes differ on libero depth and read structure:
+
+- **Middle-Back (this page):** libero **deep at the end line (~8-9m off net)**, reads the block seam and the hitter, shifts seam-to-seam. Modern HS+ standard for programs with elite-reader liberos [aoc-2024-kiraly-training-libero].
+- **[[defense-middle-middle]]:** libero (or other anchor) at **6m mid-court, centered**, fixed reference point rather than seam-shifting. Trinsey's 10,000-attack chart anchors this depth as the highest-frequency landing zone [gms-nd-middle-middle-defense]. Middle-Middle is shallower than middle-back and structurally simpler — the anchor is a reference, not a moving role.
+- **[[defense-man-back]]:** structurally similar (one deep anchor) but landmark-based — "take everything deep, period" rather than "read the seam, shift, anchor."
+- **[[defense-perimeter]]:** all defenders along the edges; no anchored deep-middle; landmark-based.
+- **[[defense-rotation]]:** back row rotates toward set side rather than holding a deep-middle anchor.
+
+The middle-back-vs-middle-middle choice is genuinely contested at top women's level. The 2022 NCAA Sweet 16 datapoint — all 16 teams positioned libero at LB, *not* at deep MB — suggests the modern collegiate trend is closer to Middle-Middle (libero at LB, mid-court anchor at 6m middle held by a non-libero) than to classic Middle-Back (libero at deep zone 6) [gms-nd-libero-in-volleyball]. Middle-Back as documented on this page remains the right scheme for programs whose libero is unusually rangy and the team's clear best reader.
+
 ## Alternatives and adjustments
 - If the libero struggles pre-match, switch to [[defense-man-back]] with the libero in the anchor; the role becomes more landmark-based and less read-dependent.
 - Layer [[defense-rotation]] on top of middle-back against strong-side-preference opponents — the front four rotate toward the set while the libero holds the deep middle.
 - Drop back to [[defense-perimeter]] as a broken-play or chaos-mode base; perimeter is the universal fallback.
 - Train libero-block coordination explicitly — the scheme's ceiling is the coordination ceiling, not the libero's individual skill [aoc-2024-kiraly-training-libero].
+- Consider [[defense-middle-middle]] as a shallower-anchored alternative: libero at LB (or anchor at 6m middle), modern collegiate default per the 2022 NCAA Sweet 16 unanimity on libero-at-LB positioning [gms-nd-libero-in-volleyball][gms-nd-middle-middle-defense].
 
 ## Sources
 - [[aoc-2024-kiraly-training-libero]]
 - [[aoc-2024-kiraly-reads-every-skill]]
 - [[aoc-2017-liskevych-asics-defense]]
 - [[aoc-2015-liskevych-mccutcheon-defense-blocking]]
+- [[gms-nd-middle-middle-defense]]
+- [[gms-nd-libero-in-volleyball]]

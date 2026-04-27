@@ -5,8 +5,8 @@ name: Man-Back Defense
 age-appropriateness: [14u, hs, college]
 complexity: low
 when-to-use: "Against hard-hitting opponents who drive deep; when you want one defender committed to back-court coverage and your block owning the front."
-alternatives: [defense-perimeter, defense-middle-back, defense-rotation]
-sources: [aoc-2017-liskevych-asics-defense, aoc-2015-liskevych-mccutcheon-defense-blocking, aoc-2026-team-defense-reading]
+alternatives: [defense-perimeter, defense-middle-back, defense-rotation, defense-middle-middle]
+sources: [aoc-2017-liskevych-asics-defense, aoc-2015-liskevych-mccutcheon-defense-blocking, aoc-2026-team-defense-reading, gms-nd-middle-middle-defense]
 ---
 
 # Man-Back Defense
@@ -58,13 +58,27 @@ Avoid man-back when:
 - Your block is inconsistent or splits frequently. Without a trustworthy block, the man-back anchor is out of position more than in.
 - You want the defense to respond to set location — rotation or middle-back give more adaptive coverage.
 
+## Schools-perspectives
+
+Man-back sits at the role-clarity end of the defensive spectrum. Adjacent schemes either share its single-anchor structure with different read demands, or trade single-anchor clarity for multi-defender coordination:
+
+- **Man-back (this page):** one committed deep defender, others fill landmarks; landmark-based, low coordination demand; "take everything deep, period."
+- **[[defense-perimeter]]:** structurally similar but no committed anchor — five defenders on landmarks. Often functionally indistinguishable at 14U.
+- **[[defense-middle-back]]:** the read-heavier cousin — libero at deep zone 6 reads the block seam and shifts. Same shape, more demanding role.
+- **[[defense-rotation]]:** trades single-anchor clarity for back-row rotation toward the set side. Maximum adaptivity, maximum coordination demand.
+- **[[defense-middle-middle]]:** anchor a defender at **6m mid-court** (per Trinsey's 10,000-attack chart) rather than at the end line. Empirically anchored at the highest-frequency ball-landing zone; libero positioning (LB or MB) flexes by personnel [gms-nd-middle-middle-defense].
+
+Man-back is the simpler-install option for limited-time programs. Middle-Middle is the modern alternative when the program wants a single defensive identity scaled from young ages with empirical depth-anchoring rather than a generic "take everything deep" rule.
+
 ## Alternatives and adjustments
 - Move the wings up to the 10-foot line as a "red" variant to harden short coverage. This is the 14U-typical adjustment when opponents tip often [aoc-2026-team-defense-reading].
 - Shift the libero into the man-back slot when they are your best reader — the scheme's single anchor should be your single best defender.
 - Switch to [[defense-middle-back]] when your libero and block coordinate well enough to own the seam; middle-back is a read-heavier version of the same basic shape.
 - Promote to [[defense-rotation]] once the team reads the set well enough to rotate toward it; rotation gives up the clean role simplicity but wins on coverage adaptivity.
+- Consider [[defense-middle-middle]] when the program wants empirical depth-anchoring (Trinsey's 6m chart-derived position) rather than generic "take everything deep" landmarks [gms-nd-middle-middle-defense].
 
 ## Sources
 - [[aoc-2017-liskevych-asics-defense]]
 - [[aoc-2015-liskevych-mccutcheon-defense-blocking]]
 - [[aoc-2026-team-defense-reading]]
+- [[gms-nd-middle-middle-defense]]

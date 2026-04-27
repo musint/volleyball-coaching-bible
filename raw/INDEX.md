@@ -375,6 +375,14 @@ Use `grep "source-url:" raw/articles/aoc-*.md` to enumerate when needed.
 - beal-wikipedia-bio.md — Doug Beal Wikipedia biography (2026 fetch) — beal-wikipedia-bio
 - beal-aoc-profile.md — Doug Beal AOC coach profile page (2026 fetch; Triple Crown, 19th-ranked program) — beal-nd-aoc-profile
 
+### Defense systems cluster (2026-04-26 — Middle-Middle ingest)
+- gms-nd-middle-middle-defense.md — Joe Trinsey on Mastering the Middle-Middle Defense (Gold Medal Squared); 10,000+ attack chart; "put your best defenders where the most balls go"; explicit caveat against rigid libero-at-MM positioning — gms-nd-middle-middle-defense
+- gms-nd-libero-in-volleyball.md — Gold Medal Squared on the libero in volleyball; **2022 NCAA Sweet 16 datapoint: 16 of 16 teams positioned libero at LB**; heat-map court-zone data — gms-nd-libero-in-volleyball
+- aoc-2017-stone-left-back-libero-home.md — Jim Stone "Left Back: A Great Home for Your Libero" (AOC, 2017; paywalled — metadata + research-synthesis summary) — aoc-2017-stone-left-back-libero-home
+- aoc-2019-sealy-libero-defensive-position-traits.md — Mike Sealy on libero defensive-position trait framework (AOC, 2019-05-19; paywalled) — aoc-2019-sealy-libero-defensive-position-traits
+- aoc-2015-hagglund-libero-mb-lb-positioning.md — Natalie Hagglund on cross-shading between MB and LB (AOC, 2015-03-06; paywalled) — aoc-2015-hagglund-libero-mb-lb-positioning
+- aoc-2026-rose-up-defense.md — Russ Rose on Up Defense / Middle-Up / Setter-Up (AOC, 2026-02-14); 3m-line defender variant (distinct from Trinsey 6m Middle-Middle) — aoc-2026-rose-up-defense
+
 ### USAV CAP editorial backfill (Task 2.24)
 - forman-coaching-continuing-education.md — Forman on coach-education enforcement across federations (CoachingVB.com) — forman-nd-coaching-continuing-education
 - forman-gms-aoc-cap-comparison.md — Forman's GMS / AOC / CAP platform comparison (CoachingVB.com) — forman-nd-gms-aoc-cap-comparison
