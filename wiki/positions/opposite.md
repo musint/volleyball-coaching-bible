@@ -92,7 +92,7 @@ See [[age-lens-14u]], [[age-lens-hs]], and [[age-lens-college]] for the broader 
 
 **13s-14s.** First opposite-specialization conversations. The candidate is usually a tall, physical, right-handed athlete (or rare capable left-hander) who is too dynamic for middle but not the serve-receive primary. Most 14U clubs run 4-2 or 6-2 without a specialized opposite — she is a second-outside on the right. A full European opposite role at 14U costs more in reps than it gains. Front-row blocking introduced; back-row attack conceptual.
 
-**15s-16s.** Full opposite role. Runs red, 51 (quick right), and D. Swing-block footwork introduced. Back-row D introduced as a primary offensive option. Out-of-system high-ball from the right antenna is core — emergency sets often go here rather than to the outside. Jump-topspin serving introduced.
+**15s-16s.** Full opposite role. Runs red, 51 (quick right), and D. Swing-block footwork introduced. Back-row D introduced as a primary offensive option. Out-of-system high-ball from the right antenna is core — emergency sets often go here rather than to the outside. Jump-topspin serving introduced at 16 (15s stay on float — the women's-game build is float-dominant through 15s in this program).
 
 **17s-18s.** Recruiting-cycle opposite. Hitting % from the right pin enters the recruiting conversation — sub-.250 is a recruiting-board limiter; .280+ is the Power-5 entry standard. Jump-topspin serving line is a designed lineup tool. Hitter-type drives shot-mix per matchup.
 

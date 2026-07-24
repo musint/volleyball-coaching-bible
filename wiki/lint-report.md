@@ -1,6 +1,6 @@
 # Wiki Lint Report
 
-Generated: 2026-04-26T13:48:22
+Generated: 2026-05-20T11:48:43
 
 ## Broken wikilinks
 Broken wikilinks: 14
@@ -25,7 +25,7 @@ Violations: 0
 
 
 ## Frontmatter failures
-Failures: 88
+Failures: 92
 
 - wiki\age-lens-14u.md: invalid enum value '14-and-under club-level indoor girls at nationally-recognized programs; developmentally pre-adolescent to mid-adolescent; first-or-second year of organized 6s competition' for 'scope'
 - wiki\age-lens-college.md: invalid enum value 'NCAA D1/D2/D3 + NAIA + JUCO women's indoor volleyball; ages 18-22; four-year competitive development arc; elite physical + technical + tactical demands' for 'scope'
@@ -67,10 +67,10 @@ Failures: 88
 - wiki\ops\tryout-rubric-18u.md: invalid enum value 'womens-indoor-6s' for 'audience'
 - wiki\ops\tryout-rubric-college-walkon.md: invalid enum value 'womens-indoor-6s' for 'audience'
 - wiki\practice-plans\14u-120min-pre-tournament.md: invalid enum value 'womens-indoor-6s' for 'audience'
-- ...and 48 more
+- ...and 52 more
 
 ## Unresolved citation keys
-Unresolved: 140
+Unresolved: 146
 
 - wiki\log.md: [2026-04-25]
 - wiki\log.md: [2026-04-25]
@@ -112,10 +112,10 @@ Unresolved: 140
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
 - wiki\log.md: [2026-04-23]
-- ...and 100 more
+- ...and 106 more
 
 ## Orphan pages
-Orphans: 113
+Orphans: 111
 
 - wiki\schools\alberta-volleyball.md (type=school)
 - wiki\schools\iowa-state-volleyball.md (type=school)
@@ -157,7 +157,7 @@ Orphans: 113
 - wiki\sources\aoc-2019-ratkowski-practice-purpose.md (type=source)
 - wiki\sources\aoc-2019-rose-flexible-skill-technique.md (type=source)
 - wiki\sources\aoc-2019-rose-pepper-partner-choice.md (type=source)
-- ...and 73 more
+- ...and 71 more
 
 ## Stale methodology pages
 Stale: 0

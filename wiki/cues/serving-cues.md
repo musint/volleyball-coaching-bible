@@ -44,7 +44,7 @@ Cues are organized in the order a serve fails: toss goes wrong first (in the wro
 
 **"Firm wrist."** Introduced 11s. Refined 13s+. The wrist-firmness cue for the float serve, captured in Nelson's youth-fundamentals corpus [aoc-2024-kids-serving-fundamentals]: "Wrist firmness for floaters vs. wrist extension for topspin is a core teaching distinction." Teaches that the float serve's wrist locks at contact — no snap, no follow-through arc. Does NOT teach a stiff arm — the firmness is wrist-only; the arm continues to swing through.
 
-**"Snap through for topspin."** Introduced 14s. Refined 16s+. The wrist-action cue for the topspin serve [aoc-2024-kids-serving-fundamentals]. Teaches that the topspin serve uses wrist extension at contact to impart forward rotation — the opposite of the float-serve's firm wrist. Nelson is explicit: "the topspin mirrors the hitting arm swing" [aoc-2024-kids-serving-fundamentals]. Does NOT teach the same swing as the float — the two serves are mechanically distinct, and the cues are kept separate.
+**"Snap through for topspin."** Introduced 16s. Refined 17s+. The wrist-action cue for the topspin serve [aoc-2024-kids-serving-fundamentals]. In this program the women's-game build runs float-dominant through 15s, with topspin entering at 16s for the most advanced servers. Teaches that the topspin serve uses wrist extension at contact to impart forward rotation — the opposite of the float-serve's firm wrist. Nelson is explicit: "the topspin mirrors the hitting arm swing" [aoc-2024-kids-serving-fundamentals]. Does NOT teach the same swing as the float — the two serves are mechanically distinct, and the cues are kept separate.
 
 ### Target accountability
 

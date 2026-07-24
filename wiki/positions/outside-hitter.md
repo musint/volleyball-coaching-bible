@@ -97,7 +97,7 @@ See [[age-lens-14u]], [[age-lens-hs]], and [[age-lens-college]] for the broader 
 
 **13s-14s.** Pin-attack approach install — 2-step "Flamingo" progressing to 3-step by late-14U. In 3-passer the OH owns her left third; without a dedicated libero, passes her full zone. Shot selection minimal: cross hard, roll over the block, tool on line. Block-to-transition introduced. First 4-2 or simple 6-2 deployment.
 
-**15s-16s.** 5-1 OH. Jump-topspin introduced for athletes with the physical tools; jump-float standard. Transition swings live in matches. Pipe added when passing permits. Swing-block footwork onset. Libero-split serve-receive default. Shot library expands to cross power, line, high-hands tool, tip, roll.
+**15s-16s.** 5-1 OH. Jump-float standard. Jump-topspin introduced at 16 for athletes with the physical tools (15s stay on float — the women's-game build is float-dominant through 15s in this program). Transition swings live in matches. Pipe added when passing permits. Swing-block footwork onset. Libero-split serve-receive default. Shot library expands to cross power, line, high-hands tool, tip, roll.
 
 **17s-18s.** Recruiting-cycle pin attacker. First-tempo (14, 32) plus back-row (pipe primarily; D situational). In-system + out-of-system balance expected. Hitter-type drives shot-mix per matchup. Film and stat awareness (kill %, error %, hitting %) enter the recruiting conversation. Texas (back-to-back 2022/2023 NCAA champions under [[jerritt-elliott]]) and Wisconsin (2021 NCAA champions under [[kelly-sheffield]]) recruit explicitly into this profile.
 

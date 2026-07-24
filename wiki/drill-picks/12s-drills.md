@@ -84,7 +84,7 @@ The 12s adaptations are the same logic as the 14U age-lens but pulled back one n
 - **Entry:** every drill that lives at HS+ as a live-serve drill runs at 12s as a coach-tossed or coach-fed free ball. No live serving as drill entries except in serve-targets itself.
 - **Attack expectations:** roll shots and controlled hits count as terminations. Do not require kill-quality contact at 12s — that builds avoidance, not aggression.
 - **Talk:** every drill at 12s has a talk-overlay. Calls, encouragement, intent before contact. Communication habits installed at 12s pay through HS.
-- **No-go list at 12s:** swing-blocking, jump-topspin serving, complex 6-2, full out-of-system attacking, advanced wash variants (three-in-a-row, live-serve entries), commit-blocking with bunch-read variants.
+- **No-go list at 12s:** swing-blocking, topspin serving in any form (jump or standing — float is the women's-game build through 15s), complex 6-2, full out-of-system attacking, advanced wash variants (three-in-a-row, live-serve entries), commit-blocking with bunch-read variants.
 
 ## Sources
 

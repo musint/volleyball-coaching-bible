@@ -12,13 +12,13 @@ Serving is the only skill in volleyball you execute with no defender and full co
 
 The modern high-level women's and men's games have diverged sharply on how to generate that disruption. In the modern women's game from 14U through college and the senior national-team level, the **standing float and jump-float dominate** — the ball's unpredictability (drop, drift, knuckle) is harder for a passer to read than pure pace, and the mechanical cost of serving thousands of floaters across a season is much lower on the shoulder. In the modern men's game at the international/pro level, **jump-topspin dominates** — servers willingly accept a higher error rate to generate spike-level pace from behind the end line. The US program under [[karch-kiraly|Karch Kiraly]] is the clearest public example: the women's team is built around jump-float with tactical depth and zone-2 targeting; the men's team (which Kiraly also now oversees) plays the jump-topspin-first men's game. See [[serving-topspin]] for the contested methodology and [[serving-hybrid]] for how elite servers of both genders mix types in-match.
 
-For 14U club and HS programs this split matters because it tells you what to invest in. Build every server's standing float first. Layer jump-float for confident servers once the standing mechanic is consistent. Treat topspin as a tactical change-up and, per Nelson's argument, as an arm-swing analogue that carries into hitting — not as the primary weapon of a girls'-side rotation.
+For 14U club and HS programs this split matters because it tells you what to invest in. Build every server's standing float first. Layer jump-float for confident servers once the standing mechanic is consistent. In this program topspin enters at 16s for the most advanced servers — through 15s the women's-game build is float-dominant, and the arm-swing carry-over Nelson identifies belongs in hitting work rather than in a 14U serving rotation.
 
 ## Major subtopics
 
 - **[[serving-float]]** — standing float serve, the base of every float variant and the default build for the women's game from youth through senior. Dominated by toss quality: Dunning calls the toss "the worst skill in volleyball" and the toss is the lever that sets up every other piece of the motion. Mattox's "Lift, Step, Swing" is the cleanest verbal sequencing cue for 14U-through-HS teaching.
 - **[[serving-jump-float]]** — adds an approach and a small hop to the standing float. Keeps the ball's unpredictability while gaining contact height and shallow pace. The modern international women's game's default aggressive serve. Layered only after the standing float is stable.
-- **[[serving-topspin]]** — the power end of the menu. Standing-topspin as a learning progression and 14U arm-swing builder; jump-topspin as the modern men's-game international standard (Russian, Brazilian, Italian men's traditions). See [[hitting-arm-swing]] for the shared arm-path.
+- **[[serving-topspin]]** — the power end of the menu. In this program topspin enters at 16s for the most advanced women's-side servers; standing-topspin as a learning progression at 16+; jump-topspin as the modern men's-game international standard (Russian, Brazilian, Italian men's traditions). See [[hitting-arm-swing]] for the shared arm-path that 11-15U work captures inside hitting reps, not serving.
 - **[[serving-hybrid]]** — the tactics layer: serve selection (who, where, when), changing zones against a weak passer, serving the setter off the net, error-rate management under pressure. A server with two real serves owns a tactical menu; a server with one has a habit.
 
 ## Schools of thought
@@ -37,10 +37,10 @@ If you are building a serving curriculum from scratch, the sequence is:
 2. **Standing float to the service line.** Build the full Lift-Step-Swing motion at graduated distances. Target deep-middle first, corners second. For 14U girls, this is 60-80% of your serving practice time.
 3. **Serving under pressure.** Heckling, serve-to-win games, fatigue blocks at the end of practice. Build the ritual alongside the pressure — a server without a pre-serve routine will lose their mechanics first when the match tightens.
 4. **Jump-float for your best servers.** Once the standing float is stable under pressure. Not before.
-5. **Topspin as a change-up, and as an arm-swing carry-over to hitting.** Standing-topspin first for younger players; jump-topspin only for players with the shoulder durability to handle spike-level load repeatedly.
+5. **Topspin as a change-up, and as an arm-swing carry-over to hitting.** In this program topspin enters at 16s — the 11-15U arm-swing carry-over is captured in hitting reps. Standing-topspin first at 16s; jump-topspin only for players with the shoulder durability to handle spike-level load repeatedly.
 6. **Serve selection and in-match management.** Read [[serving-hybrid]]. The tactical layer separates servers who can disrupt from servers who merely land the ball.
 
-Age-lens overlays: [[age-lens-14u]] (toss and standing float are the whole job; jump-float late; zero jump-topspin), [[age-lens-hs]] (jump-float emerges as the weapon; topspin as a change-up), [[age-lens-college]] (full menu, tactical zone-targeting, and in-match serve-selection literacy become the priority).
+Age-lens overlays: [[age-lens-14u]] (toss and standing float are the whole job; jump-float late; zero topspin in any form), [[age-lens-hs]] (jump-float emerges as the weapon at 16s+; topspin as a change-up at 16s+), [[age-lens-college]] (full menu, tactical zone-targeting, and in-match serve-selection literacy become the priority).
 
 ## Related areas
 

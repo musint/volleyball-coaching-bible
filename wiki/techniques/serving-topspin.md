@@ -36,7 +36,7 @@ Two variants matter in practice:
 
 - **Jump-topspin.** The modern men's-game standard: a full volleyball approach (three to four steps), a full vertical jump, and a high contact point over the head — essentially a spike from behind the end line. Dominant in the men's game at the international/pro level and in the Russian, Brazilian, and Italian men's traditions. Less common in the women's game at HS and college, though national-team and top-club women servers deploy it.
 
-- **Standing-topspin.** A no-jump topspin served from the end line. Useful as a 14U progression (the arm swing mirrors the hitting motion, which Nelson argues helps players develop the spike arm-path alongside their serve) and as a tactical alternative — a deep, heavy, spinning serve that is different in kind from a float, giving a server a secondary weapon without the full cost of adding a jump approach.
+- **Standing-topspin.** A no-jump topspin served from the end line. In this program the women's-game build runs float-dominant through 15s; standing-topspin enters at 16+ for the most advanced servers as a tactical alternative — a deep, heavy, spinning serve that is different in kind from a float, giving a server a secondary weapon without the full cost of adding a jump approach. Nelson's arm-swing-mirrors-hitting argument is captured inside 11-15U hitting reps rather than serving rotations.
 
 The main tradeoff across the serving menu: **float** disrupts via unpredictability; **topspin** disrupts via pace and depth; **jump-float** splits the difference (see [[serving-jump-float]]). A server who owns both float and topspin has a genuine tactical menu to deploy against different passers (see [[serving-hybrid]] for how to mix them in-match).
 
@@ -73,7 +73,7 @@ Topspin emphasis varies meaningfully by coaching tradition; the mechanics of the
 - **Japanese training** ([[japanese-training]]) — historically float-dominant and precision-oriented, particularly in the women's game; topspin is used selectively rather than as the default weapon. The Japanese men's game mixes more freely.
 - **USA / AOC** ([[usa-volleyball]], [[art-of-coaching-volleyball]]) — the US women's program under Kiraly leans on float and jump-float (with tactical depth variation and zone-2 targeting); the US men's program at the international level uses jump-topspin in line with the men's-game norm. The serving-school split is therefore more *gender-of-the-game* than *nation-of-the-program* at the top levels.
 
-The practical read for a coach: in the women's HS/college/club game (including 14U), topspin is typically a secondary tool in a server's menu, not the primary one. In the men's game at competitive HS and above, jump-topspin is often primary and float is the secondary/change-up. For 14U, Nelson's argument for teaching standing-topspin early is that the arm-swing carries over to the spike — treating it as a hitting-mechanics drill as much as a serving drill.
+The practical read for a coach: in the women's HS/college/club game, topspin is typically a secondary tool in a server's menu, not the primary one. In the men's game at competitive HS and above, jump-topspin is often primary and float is the secondary/change-up. In this program 11-15U servers stay on float — Nelson's argument that the topspin arm-swing carries over to the spike is captured inside hitting reps at that age, not inside a serving rotation; topspin enters at 16+ for the most advanced women's-side servers.
 
 ## Women's-game effectiveness
 

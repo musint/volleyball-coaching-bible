@@ -209,7 +209,7 @@ The post-college women's-volleyball pathway. Three competing US-based pro league
 ### Serving (W3.5)
 - [[serving-float]] — toss-driven float serve; modern default
 - [[serving-jump-float]] — modern women's-game standard at HS+
-- [[serving-topspin]] — jump-topspin (men's power) + standing-topspin (14U progression); CONTESTED schools-perspectives
+- [[serving-topspin]] — jump-topspin (men's power) + standing-topspin (16+ in this program's women's-game pipeline); CONTESTED schools-perspectives
 - [[serving-hybrid]] — strategic serving mix + opponent-specific placement (Kiraly frame)
 
 ### Defense + transition (W3.6)
