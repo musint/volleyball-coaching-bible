@@ -172,6 +172,108 @@ a:hover { text-decoration-thickness: 2px; }
   opacity: 0.35;
 }
 
+/* ---- Mobile-first: tables ------------------------------------------------
+   .table-scroll is added around every markdown table by rehype-wrap-tables.
+   Wide tables (4+ cols, i.e. rubrics) additionally pin the first column so
+   the criterion name stays visible while the 1-5 anchors scroll under the
+   thumb. Edge fade hints that there is more table to the right. */
+.table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 0.85em 0;
+  border-radius: 6px;
+  background:
+    linear-gradient(to right, var(--color-paper) 30%, transparent),
+    linear-gradient(to left, var(--color-paper) 30%, transparent) 100% 0,
+    radial-gradient(farthest-side at 0 50%, rgba(26,32,48,0.18), transparent),
+    radial-gradient(farthest-side at 100% 50%, rgba(26,32,48,0.18), transparent) 100% 0;
+  background-repeat: no-repeat;
+  background-size: 44px 100%, 44px 100%, 16px 100%, 16px 100%;
+  background-attachment: local, local, scroll, scroll;
+}
+.table-scroll table { margin: 0; }
+.prose-bible .table-wide { min-width: 44rem; }
+.prose-bible .table-wide th:first-child,
+.prose-bible .table-wide td:first-child {
+  position: sticky;
+  left: 0;
+  background: #f1ede4;
+  z-index: 1;
+  min-width: 8.5rem;
+  box-shadow: 1px 0 0 var(--color-rule);
+}
+@media (max-width: 640px) {
+  .prose-bible table { font-size: 0.85em; }
+  .prose-bible .table-wide th, .prose-bible .table-wide td { padding: 0.45em 0.55em; }
+}
+
+/* ---- Mobile-first: bottom tab bar ---------------------------------------- */
+.tabbar {
+  padding-bottom: env(safe-area-inset-bottom, 0);
+}
+.tabbar a {
+  min-height: 44px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
+.tabbar a svg { width: 22px; height: 22px; }
+.tabbar a[aria-current="true"] { color: var(--color-accent); font-weight: 600; }
+.tabbar .tab-courtside {
+  margin-top: -18px;
+  width: 56px;
+  height: 56px;
+  border-radius: 999px;
+  background: var(--color-accent);
+  color: white;
+  box-shadow: 0 2px 8px rgba(176, 74, 42, 0.4);
+  justify-self: center;
+}
+.tabbar .tab-courtside svg { width: 26px; height: 26px; }
+.tabbar .tab-courtside[aria-current="true"] { color: white; outline: 3px solid var(--color-accent-soft); }
+
+/* ---- Courtside page ------------------------------------------------------ */
+.courtside-row {
+  display: grid;
+  grid-template-columns: 3.4rem repeat(4, 1fr);
+  gap: 0.4rem;
+  align-items: stretch;
+}
+.courtside-row + .courtside-row { margin-top: 0.4rem; }
+.courtside-age {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 1.05rem;
+  border-radius: 8px;
+  background: var(--color-ink);
+  color: white;
+}
+.courtside-row a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  border: 1px solid var(--color-rule);
+  border-radius: 8px;
+  background: white;
+  color: var(--color-ink);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+.courtside-row a:active { background: var(--color-accent-soft); }
+.courtside-row.courtside-current .courtside-age { background: var(--color-accent); }
+.courtside-row.courtside-current a { border-color: var(--color-accent); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .courtside-row a, .tabbar .tab-courtside { transition: background 120ms ease, border-color 120ms ease; }
+}
+
 /* Print rules — see also print.css */
 @media print {
   nav, aside, footer, .no-print { display: none !important; }

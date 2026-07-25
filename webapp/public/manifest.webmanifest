@@ -1,0 +1,13 @@
+{
+  "name": "Volleyball Coaching Bible",
+  "short_name": "Coaching Bible",
+  "description": "Courtside coaching reference: age guides, cues, drills, tryout rubrics.",
+  "start_url": "/volleyball-coaching-bible/courtside/",
+  "scope": "/volleyball-coaching-bible/",
+  "display": "standalone",
+  "background_color": "#fafaf7",
+  "theme_color": "#fafaf7",
+  "icons": [
+    { "src": "/volleyball-coaching-bible/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

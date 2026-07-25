@@ -1,0 +1,67 @@
+---
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// One row per age: everything a coach reaches for mid-practice, one tap away.
+const AGES = ['10s', '11s', '12s', '13s', '14s', '15s', '16s', '17s', '18s'];
+const rubricSlug = (age: string) =>
+  age === '14s' ? 'tryout-rubric-14u' : age === '16s' ? 'tryout-rubric-16u' : age === '18s' ? 'tryout-rubric-18u' : `tryout-rubric-${age}`;
+
+const SKILLS = [
+  { slug: 'passing', label: 'Passing' },
+  { slug: 'setting', label: 'Setting' },
+  { slug: 'hitting', label: 'Hitting' },
+  { slug: 'blocking', label: 'Blocking' },
+  { slug: 'serving', label: 'Serving' },
+  { slug: 'defense', label: 'Defense' },
+  { slug: 'transition', label: 'Transition' },
+];
+---
+<DefaultLayout title="Courtside" description="One-tap courtside reference: age guides, cues, drill picks, and tryout rubrics by age group.">
+  <section class="max-w-2xl mx-auto px-4 pt-8 pb-4">
+    <h1 class="font-serif text-3xl font-bold text-stone-900 mb-1">Courtside</h1>
+    <p class="text-stone-600 text-sm mb-6">Your age group, one tap. Your last-used row stays highlighted.</p>
+
+    <div id="courtside-grid">
+      {AGES.map((age) => (
+        <div class="courtside-row" data-age={age}>
+          <span class="courtside-age">{age}</span>
+          <a href={`${base}/manual/ages/${age}/`} data-remember>Guide</a>
+          <a href={`${base}/manual/cues/`} data-remember>Cues</a>
+          <a href={`${base}/manual/drill-picks/${age}-drills/`} data-remember>Drills</a>
+          <a href={`${base}/ops/${rubricSlug(age)}/`} data-remember>Rubric</a>
+        </div>
+      ))}
+    </div>
+
+    <h2 class="font-serif text-xl font-bold text-stone-900 mt-8 mb-3">Cues by skill</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-3 gap-2">
+      {SKILLS.map((s) => (
+        <a href={`${base}/manual/cues/${s.slug}/`}
+           class="flex items-center justify-center min-h-[46px] border border-stone-200 rounded-lg bg-white text-stone-800 no-underline text-sm font-semibold hover:border-orange-400">
+          {s.label}
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <script is:inline>
+    // Remember the coach's age group across visits; highlight that row.
+    (() => {
+      const KEY = 'vcb-courtside-age';
+      const grid = document.getElementById('courtside-grid');
+      if (!grid) return;
+      const saved = localStorage.getItem(KEY);
+      if (saved) {
+        const row = grid.querySelector(`[data-age="${saved}"]`);
+        if (row) row.classList.add('courtside-current');
+      }
+      grid.addEventListener('click', (e) => {
+        const link = e.target.closest('a[data-remember]');
+        if (!link) return;
+        const age = link.closest('[data-age]')?.dataset.age;
+        if (age) try { localStorage.setItem(KEY, age); } catch {}
+      });
+    })();
+  </script>
+</DefaultLayout>
