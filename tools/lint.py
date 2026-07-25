@@ -33,7 +33,10 @@ except ImportError:
 
 WIKILINK_RE = re.compile(r"\[\[([a-z0-9][a-z0-9\-]*)\]\]")
 # Inline citation: [citation-key] NOT preceded by [ (wikilink) or word char and NOT followed by ( (markdown link) or ]
-INLINE_CITE_RE = re.compile(r"(?<!\[)(?<!\w)\[([a-z0-9][a-z0-9\-]*)\](?!\()(?!\])")
+# First char must be a letter and the key must contain a hyphen: every citation-key
+# convention is multi-part (author-year-slug), so hyphen-less brackets like [date]
+# template placeholders or "[so]" editorial insertions inside quotes never match.
+INLINE_CITE_RE = re.compile(r"(?<!\[)(?<!\w)\[([a-z][a-z0-9]*(?:-[a-z0-9]+)+)\](?!\()(?!\])")
 UNSOURCED_RE = re.compile(r"\[unsourced\]|\[unverified\]|\[transcript-unavailable\]|\[translation-needed\]")
 FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
 
@@ -62,7 +65,7 @@ ENUM_VALUES = {
     "phase": {"warm-up", "skill", "strategic", "competition", "conditioning",
               "introduction", "fundamentals", "late-fundamentals",
               "specialization", "advanced", "college-bridge"},
-    "source-type": {"book", "video-series", "podcast", "article", "interview", "clinic", "social-post"},
+    "source-type": {"book", "video-series", "podcast", "article", "interview", "clinic", "social-post", "research"},
     "trust-tier": {1, 2, 3},
     "skill": {"passing", "setting", "hitting", "blocking", "serving", "defense", "transition"},
     "category": {"offense", "defense", "serve-receive", "blocking", "transition"},
@@ -75,7 +78,11 @@ ENUM_VALUES = {
                      "postseason", "match-day", "composite"},
     "scope": {"single-session", "week", "macrocycle"},
     "kind": {"match-prep", "tryout-rubric", "club-ops"},
-    "audience": {"coach", "parent", "club-director", "front-office"},
+    # Union of the ops-doc reader-role enum and the manual-layer enum (SCHEMA §4);
+    # audience fields may carry either, including in list form.
+    "audience": {"coach", "parent", "club-director", "front-office",
+                 "womens-indoor-6s", "mens-indoor-6s", "mixed-indoor-6s",
+                 "womens-beach", "mens-beach", "mixed"},
     "age": {"10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"},
     "season-context": {"composite", "preseason", "mid-season", "pre-tournament", "taper",
                        "tryout", "postseason", "match-day"},
@@ -203,6 +210,9 @@ def check_frontmatter(pages):
     for slug, p in pages.items():
         if "__dup__" in slug:
             continue
+        # _templates/ pages carry <placeholder> enum values by design.
+        if "_templates" in str(p["path"]):
+            continue
         m = p["meta"]
         if m.get("__invalid_yaml__"):
             failures.append((str(p["path"]), "invalid YAML frontmatter"))
@@ -224,6 +234,10 @@ def check_frontmatter(pages):
         for field in ("phase", "source-type", "trust-tier", "skill", "complexity", "position",
                       "level", "focus", "season-phase", "scope", "kind", "audience",
                       "age", "season-context"):
+            # age-lens pages use `scope` as free-text ("14-and-under club-level indoor girls"),
+            # per SCHEMA §3.9; only practice-plans carry the scope enum.
+            if field == "scope" and t == "age-lens":
+                continue
             if field in m and field in ENUM_VALUES:
                 val = m[field]
                 # Some fields can be either single value or list-of-values (e.g. audience can address multiple roles).
@@ -248,11 +262,18 @@ def check_citation_keys(pages):
             if ck:
                 source_keys.add(ck)
     unresolved = []
+    STATUS_TAGS = {"unsourced", "unverified", "transcript-unavailable", "translation-needed",
+                   "paywalled", "fetch-blocked", "book-body-not-accessed"}
     for slug, p in pages.items():
         if "__dup__" in slug:
             continue
+        # log.md quotes citation keys as prose history; SCHEMA.md and
+        # unsourced-queue.md quote keys as documentation and open questions;
+        # _templates/ carry [citation-key] placeholders by design. None is a citer.
+        if slug in {"log", "SCHEMA", "unsourced-queue"} or "_templates" in str(p["path"]):
+            continue
         for ck in INLINE_CITE_RE.findall(p["body"]):
-            if ck in {"unsourced", "unverified", "transcript-unavailable", "translation-needed"}:
+            if ck in STATUS_TAGS:
                 continue
             if ck not in source_keys:
                 unresolved.append((str(p["path"]), ck))
