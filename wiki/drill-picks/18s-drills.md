@@ -91,5 +91,3 @@ The 18s club season is long: club opens in November-December, runs through natio
 
 - [[munciana-2022-camp-drills]]
 - [[age-lens-college]]
-</content>
-</invoke>

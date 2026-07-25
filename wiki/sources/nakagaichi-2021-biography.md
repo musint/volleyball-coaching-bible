@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: reference-biography
+source-type: article
 title: "Yuichi Nakagaichi — Wikipedia biography"
 author: "Wikipedia contributors"
 year: 2021

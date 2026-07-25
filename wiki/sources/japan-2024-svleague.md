@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: feature-article
+source-type: article
 title: "Building a World-class Volleyball League from the Ground Up"
 author: "Nippon.com editorial"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: coaching-article
+source-type: article
 title: "How to Structure Volleyball Practice for Maximum Improvement"
 author: "Gold Medal Squared"
 year: null

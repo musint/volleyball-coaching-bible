@@ -3,7 +3,7 @@ type: cue-dictionary
 skill: setting
 age-bands: [10s, 11s, 12s, 13s, 14s, 15s, 16s, 17s, 18s]
 audience: womens-indoor-6s
-sources: [aoc-2024-setting-hand-hinge, aoc-2015-rockwell-training-setters, aoc-2017-liskevych-asics-setting, aoc-2024-kids-setting-fundamentals, aoc-2022-brown-libero-second-ball-setting, aoc-2014-dunning-hitter-setter-connection, munciana-2022-camp-drills, kiraly-1997-championship-volleyball]
+sources: [aoc-2024-setting-hand-hinge, aoc-2015-rockwell-training-setters, aoc-2017-liskevych-asics-setting, aoc-2024-kids-setting-fundamentals, aoc-2022-brown-libero-second-ball-setting, aoc-2014-dunning-hitter-setter-connection, aoc-2026-lingenfelter-middle-tempo, aoc-2026-lingenfelter-middle-attack-tempo, munciana-2022-camp-drills, kiraly-1997-championship-volleyball]
 ---
 
 # Setting cues
@@ -12,7 +12,7 @@ sources: [aoc-2024-setting-hand-hinge, aoc-2015-rockwell-training-setters, aoc-2
 
 Setting is the offense, and the cue vocabulary the staff uses to teach it has shifted decisively in the last decade. The modern frame leads with the **hand-hinge** release, **side-of-the-ball** contact, and **beat-the-ball** footwork. Older "push-set" vocabulary — flat hands behind the ball, forearm push to target, no wrist motion — is preserved here only as anti-cues. This dictionary establishes the canonical phrasing for setter-specific instruction and for the broader expectation that every non-libero on the court can deliver a clean second contact under the same rule constraints [aoc-2024-setting-hand-hinge].
 
-The cues lean modern AOC across Dunning's hand-hinge demonstrations, Rockwell's setter-training corpus, and Liskevych's ASICS setting instruction [aoc-2024-setting-hand-hinge][aoc-2015-rockwell-training-setters][aoc-2017-liskevych-asics-setting]. Munciana's working-club layer adds tempo cues and the libero-second-ball expectation [munciana-2022-camp-drills][aoc-2022-brown-libero-second-ball-setting]. Lingenfelter's drill library supplies the tempo-by-plant timing cues used when teaching the setter-hitter connection.
+The cues lean modern AOC across Dunning's hand-hinge demonstrations, Rockwell's setter-training corpus, and Liskevych's ASICS setting instruction [aoc-2024-setting-hand-hinge][aoc-2015-rockwell-training-setters][aoc-2017-liskevych-asics-setting]. Lingenfelter's AOC middle-tempo videos supply the plant-timing tempo language [aoc-2026-lingenfelter-middle-tempo][aoc-2026-lingenfelter-middle-attack-tempo], the Munciana camp library supplies the out-of-system setting standard [munciana-2022-camp-drills], and Brown supplies the libero-second-ball expectation [aoc-2022-brown-libero-second-ball-setting]. Those three are distinct sources and this page keeps them distinct.
 
 Cue order tracks the order in which a setter's contact fails. Footwork breaks down first (setter is late, square is off, base is wrong); hands break down second (contact behind the ball, asymmetric release, push instead of hinge); vision breaks down third (setter looks at the ball instead of scanning blockers). Cues are catalogued in that order.
 
@@ -48,7 +48,9 @@ Cue order tracks the order in which a setter's contact fails. Footwork breaks do
 
 ### Tempo & connection
 
-**"Tempo 1 / Tempo 2 / Tempo 3."** Introduced 14s. Refined 16s+. The Lingenfelter / Munciana-tradition tempo language [unsourced] tied to the timing of the hitter's left-foot plant relative to the set release: Tempo 1 (quick, ball released near the plant — middles), Tempo 2 (medium, ball released as the hitter is mid-approach — pipes, slides), Tempo 3 (high outside, ball released early enough for a full approach). Teaches that the setter and the hitter share a timing language, not just a target language. Does NOT teach a fixed ball-height table — tempo is a timing relationship; the height varies with player preference.
+**"Tempo 1 / Tempo 2 / Tempo 3."** Introduced 14s. Refined 16s+. Lingenfelter's middle-attack tempo language, indexed to a single observable: where the ball is when the attacker's left foot plants [aoc-2026-lingenfelter-middle-tempo][aoc-2026-lingenfelter-middle-attack-tempo]. Tempo 3 is the high ball to the pins, plant after the ball has left the setter's hands. Tempo 2 plants while the ball is still in the setter's hands. Tempo 1 is the true quick: the middle is already airborne while the ball is in the setter's hands. Teaches that the setter and the hitter share a timing language rather than only a target language, and the reason it travels well between coaches is that both reference events are visible from the sideline. All three tempos run off the same three-step approach; only the plant timing changes [aoc-2026-lingenfelter-middle-attack-tempo]. Does NOT teach a fixed ball-height table: tempo is a timing relationship, and the height varies with the hitter.
+
+*Attribution note.* Earlier revisions of this page credited the tempo language to the 2022 Munciana camp-drill tape. The tape does not contain it. The framework comes from Lingenfelter's 2026 AOC middle-tempo videos, cited above.
 
 **"Set what the pass gives you."** Introduced 14s. Refined 16s+. Teaches that set selection follows pass quality — a perfect pass to zone-3 supports any tempo, a 2-pass off the net forces a high outside or a tilt-set bail. Dunning's hitter-setter-connection corpus emphasizes that pre-scripted sets fail against real passes [aoc-2014-dunning-hitter-setter-connection]. Does NOT teach abandoning the play call — the called play is the default; pass quality dictates whether it survives.
 
@@ -57,6 +59,8 @@ Cue order tracks the order in which a setter's contact fails. Footwork breaks do
 ### Out-of-system & libero second ball
 
 **"Bump-set high to the pin."** Introduced 13s. Refined 15s+. The default OOS bail. Teaches that when the first contact is poor enough that an overhead set is illegal or impractical, the setter delivers a high forearm pass to the antenna and the offense reorganizes around an outside-pin attack. Does NOT teach giving up — the high outside is an offense option, not a free ball to the opponent.
+
+**"Five off, five in."** Introduced 13s. Refined 15s+. Munciana's out-of-system set standard, named and defined on the camp tape at 00:35:08: "So that's called a five and five, meaning five foot off, five foot in. We don't want to over set it and get it too close" [munciana-2022-camp-drills]. Teaches the coordinate the bail set is aimed at — roughly five feet off the net and five feet inside the antenna — so the hitter knows where the ball will be before the setter touches it. Lingenfelter's rationale is that the standard exists to protect non-setters: "on a bad ball, we want the ball set. We don't want non-setters to have to worry about being perfectionists" [munciana-2022-camp-drills]. The height rule travels with it: set it high enough that coverage arrives before the ball does. Does NOT teach a literal measurement: five and five is a target the whole team can picture, not a spot to be judged against.
 
 **"Libero, behind the 3."** Introduced 14s. Refined 16s+. The cue for the libero-second-ball overhead set rule: a libero can use overhead hands to set only when the libero is *behind* the 3-meter line at contact (or when the first ball is below the libero's waist, in which case overhead is moot). Teaches the rule and reinforces the trained-not-emergency expectation that the libero is a secondary setter [aoc-2022-brown-libero-second-ball-setting]. Does NOT teach defaulting the libero to the second ball — only when the setter has taken the first or otherwise cannot deliver.
 
@@ -93,7 +97,7 @@ The setting cue vocabulary is genuinely contested across schools, and the dictio
 
 **Modern AOC** (Dunning's hand-hinge, Rockwell's setter-training, Liskevych's ASICS setting) leads the program's working voice [aoc-2024-setting-hand-hinge][aoc-2015-rockwell-training-setters][aoc-2017-liskevych-asics-setting]. Hand-hinge release, side-of-the-ball contact, hold-the-follow-through, beat-the-ball footwork, and vision-on-target are the canonical cues.
 
-**Munciana** supplies the tempo-by-plant language (Tempo 1/2/3 by left-foot plant) and the libero-second-ball expectation as a trained skill rather than an emergency [munciana-2022-camp-drills][aoc-2022-brown-libero-second-ball-setting]. Lingenfelter's library does not contradict the AOC vocabulary; it adds the working-club tempo coordinates.
+**Munciana** contributes on two separate tracks that earlier revisions of this page collapsed into one. The tempo-by-plant language (Tempo 1/2/3) is Lingenfelter's, but it comes from his 2026 AOC middle-tempo videos, not from the 2022 camp tape [aoc-2026-lingenfelter-middle-tempo][aoc-2026-lingenfelter-middle-attack-tempo]. What the 2022 camp tape actually supplies to setting is the out-of-system standard: five off and five in, set high enough that coverage can arrive, and every player on the roster trained to handle the second ball [munciana-2022-camp-drills]. The libero-second-ball expectation as a trained skill rather than an emergency is Debbie Brown's, not Munciana's [aoc-2022-brown-libero-second-ball-setting]. None of the three contradict the AOC mechanical vocabulary; they add the tempo coordinates and the out-of-system floor.
 
 **GMS / motor learning** does not contribute distinct cue vocabulary so much as cue *form*: external-focus cues outperform internal-focus cues, so "side of the ball" beats "engage your fingertips," "vision on target" beats "look up," and "hold the follow-through" beats "extend your wrists fully." The program prefers the externally-focused option whenever both are available.
 
@@ -103,7 +107,7 @@ The setting cue vocabulary is genuinely contested across schools, and the dictio
 
 When schools genuinely disagree on a setting cue — for example, "set the ball with your fingertips" (precision-tradition cue) versus "wrap the ball with ball-shaped hands" (modern hand-hinge cue) — the dictionary keeps both, attributes each, and notes that the program's working voice is the modern one. Coaches should understand that an experienced player who learned the "fingertips" cue is not wrong; she has learned a different generation's vocabulary for the same skill, and the modern correction is to pair her existing tools with the modern hand-hinge rather than to override her hands.
 
-The phrases every coach in the program should say: beat the ball, side of the ball, hinge, hold the follow-through, legs first, vision on target, find the shoulder, set what the pass gives you, libero behind the 3, target zone. Ten phrases. Repeat them.
+The phrases every coach in the program should say: beat the ball, side of the ball, hinge, hold the follow-through, legs first, vision on target, find the shoulder, set what the pass gives you, five off five in, libero behind the 3, target zone. Eleven phrases. Repeat them.
 
 ## Sources
 
@@ -112,6 +116,8 @@ The phrases every coach in the program should say: beat the ball, side of the ba
 - [[aoc-2017-liskevych-asics-setting]] — Liskevych's ASICS setting instruction; complementary vocabulary on hand position, body alignment, footwork.
 - [[aoc-2024-kids-setting-fundamentals]] — youth-setting fundamentals; up-the-chimney developmental cue.
 - [[aoc-2022-brown-libero-second-ball-setting]] — Brown's libero-second-ball setting drill; target-zone cue and trained-not-emergency expectation.
-- [[aoc-2014-dunning-hitter-setter-connection]] — Dunning's hitter-setter connection corpus; find-the-shoulder and tempo-connection cues.
-- [[munciana-2022-camp-drills]] — Lingenfelter's working-club drill library; tempo language and libero-second-ball expectation in practice.
+- [[aoc-2014-dunning-hitter-setter-connection]] — Dunning's hitter-setter connection corpus; find-the-shoulder cue.
+- [[aoc-2026-lingenfelter-middle-tempo]] — Lingenfelter's Tempo 1/2/3 definitions indexed to left-foot plant timing.
+- [[aoc-2026-lingenfelter-middle-attack-tempo]] — parallel cut of the same framework; all three tempos off one three-step approach.
+- [[munciana-2022-camp-drills]] — Lingenfelter's 2022 camp library; the five-off-five-in out-of-system set standard and the everyone-handles-the-second-ball expectation.
 - [[kiraly-1997-championship-volleyball]] — the legacy reference for the older push-set vocabulary; preserved here as the source for the anti-cues only.

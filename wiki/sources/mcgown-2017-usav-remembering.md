@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: obituary-article
+source-type: article
 title: "'A Wonderful Volleyball Coach;' Remembering Carl McGown"
 author: "B.J. Hoeptner Evans"
 year: 2017

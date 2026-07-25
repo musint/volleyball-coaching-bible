@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: reference-biography
+source-type: article
 title: "Eugenio George Lafita — Wikipedia biography"
 author: "Wikipedia contributors"
 year: 2026

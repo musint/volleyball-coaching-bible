@@ -13,6 +13,7 @@ drills:
   - three-setter-rotation
   - approach-and-swing
   - pass-set-hit
+  - block-footwork-ladder
   - serve-targets
   - munciana-5-6-seam-bounce
   - munciana-5-6-seam-noodle
@@ -44,13 +45,17 @@ Three defining additions: (1) **transition-rally + free-ball-to-offense** as the
 
 **Setter-specific (the 13s separator)**
 
-- [[target-setting]] — full live-set with seam, high-4, and back-2 targets; setter candidates take 60% of reps, all-position rotators 40%. Hand-hinge is the priority — bad shape at 13 is hard to retrain at 17 (Stone framing in [[age-lens-14u]]).
+- [[target-setting]] — full live-set with seam, high-4, and back-2 targets; setter candidates take 60% of reps, all-position rotators 40%. Hand-hinge is the priority — bad shape at 13 is hard to retrain at 17 (Dunning's framing, carried in [[age-lens-14u]]).
 - [[three-setter-rotation]] — **introduction-level only**. Two-station 14U adaptation (high-4 and back-2; defer the 31 station to 14U). Coach-tossed; the matched rotation itself is the point.
 
 **Hitting + integrated**
 
 - [[approach-and-swing]] — 3-step approach with Schmidt's "start slow, accelerate the last two steps"; coach-tossed sets, advancing to live setter mid-season.
 - [[pass-set-hit]] — the three-skill chain connecting ball-control to live offense; cooperative "complete the chain" target rather than kill counting.
+
+**Blocking (footwork only, no jump)**
+
+- [[block-footwork-ladder]] carries the entire 13s blocking allocation. Rosen's 10-foot-line progression run as dry footwork: steps installed with the jump deliberately withheld until the pattern is automatic. An athlete who starts jumping her swing-block at 13s is ahead of the curriculum, not ahead of her peers; take the jump back out. The middles' jump-add belongs at 14s and the pin blockers' at late 15s, which is why nothing else from the blocking library appears on this list. See [[blocking-footwork]] and [[13s]].
 
 **Serving (the Munciana seam introduction)**
 

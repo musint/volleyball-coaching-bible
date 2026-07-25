@@ -69,7 +69,7 @@ transition.
 
 ## Where it's cited
 
-- [[sue-gozansky]] (forward reference — coach profile to be created in Wave 3)
+- Sue Gozansky (forward reference — no coach profile exists yet; link once `coaches/sue-gozansky.md` is created)
 - (Forward references will appear from [[practice-planning]], [[season-planning]], and the
   eventual program-management hub; particularly relevant for any AVCA / USAV CAP-aligned
   cite-stream)

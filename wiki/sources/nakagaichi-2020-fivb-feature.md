@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: federation-feature
+source-type: article
 title: "Yanagida captains Japanese men's national team in Olympic year"
 author: "FIVB editorial"
 year: 2020

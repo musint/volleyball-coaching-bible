@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: reference-biography
+source-type: article
 title: "Mireya Luis — Wikipedia biography"
 author: "Wikipedia contributors"
 year: 2026

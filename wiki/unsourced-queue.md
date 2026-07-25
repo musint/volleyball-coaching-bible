@@ -15,6 +15,74 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ## Entries
 
+### wiki/cues/blocking-cues.md — Pin-blocker outside-foot-forward closing stance
+- **Claim:** "Outside foot forward on the pin. Teaches the pin blocker's closing stance: the outside foot (the one nearer the antenna) sits forward of the inside foot so the torso angles back into the court, which seals the line-side seam and lets the blocker rotate into the attack instead of reaching across her own body."
+- **Why unsourced:** Previously credited to Lingenfelter's 2022 camp tape as a blocking cue, but that quote is a perimeter-defense cue from Three-Way Release (00:14:03-00:15:06) and the tape contains no blocking instruction. The program teaches this pin stance; nothing in the wiki currently sources it.
+- **Research hypothesis:** AOC blocking corpus on pin-blocker closing footwork and stance. Likely carriers already on file: aoc-2024-slabe-blocking, aoc-2024-blocking-fundamentals (Sagula), aoc-2021-sealy-blocking-hand-position, aoc-2021-ideal-hand-path-blocking, aoc-2021-wisconsin-blocking-progression, aoc-2021-barnard-sealy-blocker-recover; re-read the raw articles to confirm pin-stagger content. Resolving this entry also resolves the mirrored [unsourced] tags on 12s.md, 16s.md, and 18s.md blocking-stance lines.
+- **Added:** 2026-07-24
+
+### wiki/age-guides/16s.md — Pin-stance program convention (blocking)
+- **Claim:** "The pin blocker's outside-foot-forward closing stance (outside foot ahead of the inside foot so the torso angles back into the court and seals the line-side seam) is the program's blocking convention and is taught deliberately, not assumed."
+- **Why unsourced:** Same miscategorization as the blocking-cues entry above; the prior [munciana-2022-camp-drills] attribution was a defense cue. One research pass resolves this family (blocking-cues, 12s, 16s, 18s).
+- **Research hypothesis:** See blocking-cues entry; also AVCA Convention blocking sessions, Rosen or Slabe AOC material on the closing stance specifically.
+- **Added:** 2026-07-24
+
+### wiki/age-guides/18s.md — Pin-stance program convention (blocking)
+- **Claim:** "The outside-foot-forward closing stance (outside foot ahead of the inside foot, torso angled back into the court, line-side seam sealed) applies invariantly at 18s; only execution speed scales."
+- **Why unsourced:** Same family as the two entries above.
+- **Research hypothesis:** Same as above.
+- **Added:** 2026-07-24
+
+### wiki/age-guides/12s.md — Pin-stance program convention (blocking), two locations
+- **Claim:** (Skill milestones → Blocking) "the outside blocker's outside foot sits slightly ahead so her hips angle back into the court rather than square to the net"; (Recommended cues → Blocking) "'outside foot slightly ahead at the pin' as program blocking convention."
+- **Why unsourced:** The munciana-2022-camp-drills source page now states the tape contains no blocking instruction; the outside-foot-high passages at 00:13:57-00:15:19 are perimeter defense. The blocking-stance version has no source.
+- **Research hypothesis:** Check aoc-2026-swing-blocking-footwork-beginners and aoc-2024-blocking-fundamentals source pages first before hunting new material.
+- **Added:** 2026-07-24
+
+### wiki/cues/serving-cues.md — Jump-float readiness gate
+- **Claim:** "The gating rule itself (no jump float until the moving toss is repeatable) is program convention."
+- **Why unsourced:** Mattox (aoc-2025-float-serve-3-keys) and Dunning (aoc-2024-float-serve-toss) cover the standing float only; neither addresses readiness criteria for adding the approach. The mechanical jump-float content is cited to those two; only the gate is program convention.
+- **Research hypothesis:** AOC jump-float progression content (aoc-mcp search for "jump float progression" / "when to add the jump"); raw articles behind aoc-2018-dunning-serve-warmup and aoc-2022-mattox-serving-warmup; USAV age-appropriate serving progressions.
+- **Added:** 2026-07-24
+
+### wiki/age-guides/18s.md — Year-over-year approach-touch gain band
+- **Claim:** "Measure on the identical protocol every time, and set each athlete's target as a personal delta from her own 17s baseline rather than against a cohort figure; the wiki carries no sourced year-over-year gain band for HS-aged female approach touch."
+- **Why unsourced:** No source in the wiki supports a specific progression target (e.g., +2 to +4 inches across the 17s year), so the page states the protocol and no number.
+- **Research hypothesis:** Longitudinal jump-testing data from a college women's S&C program; NSCA/CSCS adolescent vertical-development literature with female cohorts; USAV High Performance combine data if published.
+- **Added:** 2026-07-24
+
+### wiki/age-guides/18s.md + wiki/age-guides/16s.md — Elite-club 16U approach-touch and reach bands
+- **Claim:** "Elite-club 16U approach touch runs roughly 9'2" to 9'8" for outsides (serious D1 prospects at 9'10"+) and 9'8" to 10'+ for middles, with standing reach 7'2" to 7'6" for outsides and 7'8" to 8'2" for middles."
+- **Why unsourced:** 16s.md states these bands as descriptive cohort ranges with no citation; 18s.md now carries them forward with an [unsourced] tag and an in-text note.
+- **Research hypothesis:** Club recruiting-board aggregates; JVA or AAU showcase measurement datasets; PrepVolleyball or university camp published norms.
+- **Added:** 2026-07-24
+
+### wiki/age-guides/10s.md + wiki/age-guides/11s.md — Program net height 7'0"
+- **Claim:** "This program plays 10s [and 11s] at 7'0"." (Also asserted as "USAV-recommended 7'0" for 10s competition" on 10s-drills.md.)
+- **Why unsourced:** usav-2026-simplified-youth-rules states net heights of 5-6 feet for the youngest players rising to 7 feet at 12U; it gives no 10s- or 11s-specific height. The 7'0" figure is program convention.
+- **Research hypothesis:** USAV Junior indoor age-group net-height chart on usavolleyball.org; the club's own age-group operations sheet; regional (JVA or local region) 10U/11U playing-format rules.
+- **Added:** 2026-07-24
+
+### wiki/age-guides/13s.md — Pin-stance program convention (blocking)
+- **Claim:** "'Outside foot forward on the close,' the pin-blocker closing stance. This is program blocking convention, and a different cue from the Munciana perimeter-defense rule above."
+- **Why unsourced:** Previously cited [munciana-2022-camp-drills], which cannot support blocking-technique claims; no Tier 1/2 source found for pin-blocker closing-foot orientation. Same family as the blocking-cues / 12s / 16s / 18s entries above; one research pass resolves all of them.
+- **Research hypothesis:** AOC blocking-footwork corpus (Slabe, Rosen, Mardini) or a USAV blocking-fundamentals module.
+- **Added:** 2026-07-24
+
+### wiki/age-guides/14s.md — Pin-stance program convention (blocking)
+- **Claim:** "the pin-blocker closing stance with the outside foot forward so the hips rotate back square to the net. That stance is program blocking convention."
+- **Why unsourced / research hypothesis:** Same family as the 13s entry above.
+- **Added:** 2026-07-24
+
+### wiki/age-guides/15s.md — Pin-stance program convention (blocking)
+- **Claim:** "'outside foot forward on the close,' the pin-blocker closing stance: program blocking convention rather than a sourced cue."
+- **Why unsourced / research hypothesis:** Same family as the 13s entry above.
+- **Added:** 2026-07-24
+
+### wiki/cues/hitting-cues.md — Mattox Sight-90 / Elbow-Lead / Lift-and-Whip (pre-existing, re-flagged)
+- **Note:** This claim already has a queue entry below (added 2026-04-25). Re-flagged during the 2026-07-24 transcript-fidelity pass: the tag remains honest and the entry remains open.
+- **Added:** 2026-07-24 (cross-reference)
+
 ### wiki/coaches/marco-bonitta.md — Italian-school methodology elements specific to Bonitta
 - **Claim:** "Bonitta's coaching education at Porto Ravenna Volley (1990–96) places him inside the Italian-federation system at the height of the Velasco men's-team era. His subsequent Bergamo dynasty (1997–2000) and 2002 World Championship gold position him as the figure who carried the Italian-school methodology into the women's senior program before [[giovanni-guidetti]] internationalized it via VakıfBank. Specific methodological elements (tempo offense, defensive systems, training periodization) are not described in the Wikipedia source [unsourced]."
 - **Why unsourced:** Wikipedia (English and Italian) is a results-and-titles record with no on-record coaching-philosophy or methodology material from Bonitta. The lineage-level inference — that Bonitta carried Italian-school methodology into the women's NT — is consistent with his career placement but is not directly attested in any captured source.

@@ -1,10 +1,10 @@
 ---
 type: source
-source-type: article
+source-type: research
 title: "Impact of Early Season Jump Loads on Neuromuscular Performance in Division I Volleyball: Analyzing Force, Velocity, and Power From Countermovement Jump Tests"
 author: "Gabriel J. Sanders, Stacie Skodinski, Corey A. Peacock"
 year: 2025
-citation-key: sanders-2025-early-season-jump-load
+citation-key: sanders-2025-early-season-jump-load-d1-volleyball
 raw-file: raw/research/sanders-2025-early-season-jump-load-d1-volleyball.md
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11991867/
 topics: [jump-count, jump-intensity, neuromuscular-fatigue, countermovement-jump, force-velocity-power, imu, vert, hawkin-dynamics, early-season, shock-phase, in-season-volume-management]
@@ -42,7 +42,10 @@ Peer-reviewed primary research published in *Translational Sports Medicine* trac
 
 ## Where it's cited
 
-*(populated as wiki pages cite this source)*
+- [[practice-ratios]] — early-season load-spike caveat on ratio ramps
+- [[16s]] / [[17s]] / [[18s]] — athletic-profile jump-load management guidance
+- [[hs-pre-match-week]] — weekly jump-load intensity distribution
+- [[college-fall-14-week-macrocycle]] — camp / shock-phase load management
 
 ## Access
 

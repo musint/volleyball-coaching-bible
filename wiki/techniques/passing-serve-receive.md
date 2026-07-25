@@ -9,7 +9,7 @@ schools-perspectives:
   art-of-coaching-volleyball: "Kiraly/Slabe four-question unit-design framework: one technique across the gym; explicit passer responsibilities; tactical choice of 2/3/4 receivers and platform vs. hands; maximize gamelike SR reps. Reading-first."
   gold-medal-squared: "Motor-learning-grounded SR: small drill library built around live-serve game-like reps, random/variable rather than long blocked passing lines, conservative pass target off the net, reading the server as a trained skill."
   traditional-w-formation: "Five-passer W the default base. All six receive until you have a qualified libero. Teach the full W before collapsing into libero-split or 3-person patterns."
-sources: [aoc-2024-kiraly-serve-receive-unit, aoc-2023-kiraly-precision-passing, aoc-2024-kiraly-reads-every-skill, aoc-2020-passing-principles, aoc-2024-kiraly-training-libero, yt-aoc-20210112-wave-serve-receive-drill, aoc-2018-rose-impact-of-passing, aoc-2024-kids-passing-fundamentals, aoc-2025-passing-posture-pursuit-platform, kiraly-1997-championship-volleyball]
+sources: [aoc-2024-kiraly-serve-receive-unit, aoc-2023-kiraly-precision-passing, aoc-2024-kiraly-reads-every-skill, aoc-2020-passing-principles, aoc-2020-dean-passing-stats, aoc-2024-kiraly-stats-matter-most, aoc-2024-kiraly-training-libero, yt-aoc-20210112-wave-serve-receive-drill, aoc-2018-rose-impact-of-passing, aoc-2024-kids-passing-fundamentals, aoc-2025-passing-posture-pursuit-platform, kiraly-1997-championship-volleyball]
 ---
 
 # Passing — serve receive
@@ -17,6 +17,25 @@ sources: [aoc-2024-kiraly-serve-receive-unit, aoc-2023-kiraly-precision-passing,
 ## Overview
 
 Serve receive is the integrated individual-plus-team skill of receiving the opponent's serve and delivering a pass to the setter that lets the offense run. It is the first of three contacts in the sideout sequence and the one that most directly caps the team's ceiling — a team that passes 1.8+ on a 3-point scale keeps every offensive option open; a team that passes 1.5 and under is forced to high-ball outside or loses the rally before the offense begins. This page covers the team/tactical layer: who receives, where they stand, how the unit communicates, and how the individual passing technique from [[passing-forearm]] and [[passing-overhead]] is organized into a repeatable serve-receive system.
+
+## Pass grading (0-3 scale)
+
+This is the wiki's single definition of the pass-grade scale. Every age-guide, tryout rubric, and drill page that quotes a pass-grade number links here rather than re-stating the anchors, because a scale that gets redefined per page is not a scale.
+
+| Grade | Anchor | What the setter can do |
+|---|---|---|
+| **3** | Perfect pass | Every attack option is available. She takes it standing up, without moving, and can run any tempo to any hitter. |
+| **2** | Good pass | Hittable to outside or right side. She has to move, and the middle is off the menu, but the offense still runs. |
+| **1** | Poor pass | Out of system. Setter is off the net with limited options; the second and third contacts are emergency plays. |
+| **0** | No pass | Ace or overpass. The rally is over or handed to the opponent. |
+
+**In-system** means a pass graded **2 or better**. That is the term used in the age-guide promotion criteria, and it is worth pinning down geometrically as well as verbally: the ball lands in the setter zone, a six-foot-wide box centred on the setter's base at the net, and it peaks at seven feet or higher so she can play it standing up. A ball that lands in the box but peaks at five feet is a 1, because she is reaching, and reaching costs her the same options that a bad location costs her.
+
+**Grade the ball, not the passer.** A shanked platform on an unreturnable jump-topspin serve is still a 0. The scale measures what the offense got, and the coaching conversation about whether the pass was reasonable happens separately from the number.
+
+**Two practical notes.** Grade aloud in practice: a target or a designated grader calling "that's a 1" is what teaches the passer the difference between a 2 and a 3, and a lenient grader builds fake-confident passers. And track it as a unit stat per rotation, not only as a per-passer average: a rotation running under 1.5 is broken and needs a formation change, a personnel change, or targeted drill time before the next match.
+
+**The scale is fixed; the standard is not.** A 2.0 team average is a very different achievement at 13s against medium-pace standing float than at 16s against varsity jump-topspin. When you compare a number across age bands, compare the ball source too. Unchanged numbers up the age ladder describe a rising standard, not a plateau.
 
 ## Teaching progressions
 
@@ -74,7 +93,7 @@ The formation decision is a coaching decision, not a player decision, and the te
 
 **Advanced — the unit-level stat target.**
 
-Great teams measure serve receive as a unit stat, not a per-passer stat. At the HS-varsity level the target is a team 2.0 pass average on the 3-point scale (0 = shanked/ace, 1 = pass kept in play but no setter option, 2 = setter can run middle or outside with movement, 3 = setter can run any tempo standing still). Track it per rotation; the rotation's libero-split or formation choice lives or dies by its 10-serve pass-average. Rotations under 1.5 are broken and need a formation change, a personnel change, or targeted drill time before the next match.
+Great teams measure serve receive as a unit stat, not a per-passer stat. At the HS-varsity level the target is a team 2.0 pass average on the 0-3 scale defined above under Pass grading. Track it per rotation; the rotation's libero-split or formation choice lives or dies by its 10-serve pass-average. Rotations under 1.5 are broken and need a formation change, a personnel change, or targeted drill time before the next match.
 
 ## Common errors
 
@@ -113,6 +132,8 @@ The disagreements are not sharp. Every modern school agrees that serve-receive i
 - [[aoc-2023-kiraly-precision-passing]]
 - [[aoc-2024-kiraly-reads-every-skill]]
 - [[aoc-2020-passing-principles]]
+- [[aoc-2020-dean-passing-stats]] (the standard 3-point pass rating and its anchors)
+- [[aoc-2024-kiraly-stats-matter-most]] (why passing is one of the few stats worth keeping)
 - [[aoc-2024-kiraly-training-libero]]
 - [[yt-aoc-20210112-wave-serve-receive-drill]]
 - [[aoc-2018-rose-impact-of-passing]]

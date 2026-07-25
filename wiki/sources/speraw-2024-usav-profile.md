@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: federation-profile
+source-type: article
 title: "John Speraw — USA Volleyball Coach Profile"
 author: "USA Volleyball"
 year: 2024

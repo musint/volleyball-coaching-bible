@@ -11,7 +11,7 @@ sources: [munciana-2022-camp-drills, usav-2026-coach-academy, aoc-2021-teach-spi
 
 ## Purpose
 
-Fifteens is the bridge year. Athletes are still inside the [[14u]] club calendar by USAV age but are arriving at — or finishing — their freshman HS varsity season; they have caught the post-puberty growth curve, the setter is reaching above the net for real, the OH approach has its full four steps, and team-defense systems start to need actual rotation discipline rather than coverage by hustle. This pick-list packages a season-spanning composite drill menu that holds onto the [[14u]]-foundation ball-control drills while introducing five new building blocks the age requires: **jump-warmup**, **jump-setting-progression**, **transition-hitting**, **six-player-defense**, and **reactive-jumping**. The age-lens cross-reference is split: most ball-control content still maps to [[age-lens-14u]] guidance, while the new system-execution and jump-loaded blocks map to [[age-lens-hs]] expectations. Treat this list as the floor for what a national-track 15s practice should be capable of running by mid-season.
+Fifteens is the bridge year. Athletes are still inside the 14U club calendar by USAV age but are arriving at — or finishing — their freshman HS varsity season; they have caught the post-puberty growth curve, the setter is reaching above the net for real, the OH approach has its full four steps, and team-defense systems start to need actual rotation discipline rather than coverage by hustle. This pick-list packages a season-spanning composite drill menu that holds onto the [[age-lens-14u]]-foundation ball-control drills while introducing five new building blocks the age requires: **jump-warmup**, **jump-setting-progression**, **transition-hitting**, **six-player-defense**, and **reactive-jumping**. The age-lens cross-reference is split: most ball-control content still maps to [[age-lens-14u]] guidance, while the new system-execution and jump-loaded blocks map to [[age-lens-hs]] expectations. Treat this list as the floor for what a national-track 15s practice should be capable of running by mid-season.
 
 ## Must-do drill list
 
@@ -72,5 +72,3 @@ Fifteens is the bridge year. Athletes are still inside the [[14u]] club calendar
 - [[aoc-2015-liskevych-mccutcheon-defense-blocking]]
 - [[age-lens-hs]]
 - [[age-lens-14u]]
-</content>
-</invoke>

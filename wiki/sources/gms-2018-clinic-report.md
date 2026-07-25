@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: clinic-report
+source-type: clinic
 title: "Report from Gold Medal Squared Coaching Clinic"
 author: "John Forman"
 year: 2018

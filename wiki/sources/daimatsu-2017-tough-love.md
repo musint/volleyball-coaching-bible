@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: retrospective-feature
+source-type: article
 title: "Japan's Team — The Oriental Witches of the 1964 Olympics, Part 2: Was the Training of the Women's Volleyball Team Abuse or Tough Love?"
 author: "Roy Tomizawa (The Olympians blog)"
 year: 2017

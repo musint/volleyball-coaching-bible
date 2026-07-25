@@ -1118,7 +1118,7 @@ The Munciana Drills/ folder ingest, deferred 2026-04-24 because it contained onl
 - Munciana school page: stub → full school page with 9 core principles + 8-element methodology
 - Mike Lingenfelter profile: existing 6-principle profile extended with a Camp drill corpus contribution
 
-**Lint state:** Broken wikilinks remain at 0 (1 transient regression from a stale `[[munciana-juggle-passing]]` reference in two-man-shuffle was caught and repaired immediately). Invariants: 0 violations.
+**Lint state:** Broken wikilinks remain at 0 (1 transient regression from a stale `munciana-juggle-passing` reference in two-man-shuffle was caught and repaired immediately). Invariants: 0 violations.
 
 The Munciana .deferred marker is now obsolete; it should be removed in the next commit alongside the gitignored MP4.
 
@@ -1168,7 +1168,7 @@ Parallel dispatch of ~25 agents across Tasks A.2-A.21 produced:
 - 3 dangling refs demoted to plain text in their referring files: `noliko-maaseik` → "Noliko Maaseik" in [[vital-heynen]]; `earvin-ngapeth` → "Earvin N'Gapeth" in [[french-school]]; `mido-cha` → "Mido Cha (unverified)" in [[korean-school]] and [[kva-korea]] (associated-coaches frontmatter also pruned).
 - [[wiki/index.md]] updated: added "Boil-the-ocean schools (Track A)" subsection after Contrasting-school set; added "Federation/league pages (Track A)" subsection inside Schools; added "Boil-the-ocean coaches (Track A)" subsection inside Coaches with the actual Polish/French/Serbian/Cuban/Korean coach landings + the 4 new player/governance stubs.
 
-**Lint state:** Broken wikilinks: **1** (`[[munciana-juggle-passing]]` in this log file — known-stale historical reference, intentionally not patched per the user's "log.md is append-only-in-spirit" guidance). Invariants: **0** violations. Frontmatter: 29 warnings (pre-existing — non-blocking). Citations: 84 (pre-existing template-and-log noise — non-blocking). Orphans: 104 (pre-existing — to be addressed by Wave 3+). Concept gaps: **0** (was 2 before this dispatch — `[[mireya-luis]]` 6× and `[[stefano-lavarini]]` 3× both resolved).
+**Lint state:** Broken wikilinks: **1** (`munciana-juggle-passing` in this log file — known-stale historical reference, intentionally not patched per the user's "log.md is append-only-in-spirit" guidance). Invariants: **0** violations. Frontmatter: 29 warnings (pre-existing — non-blocking). Citations: 84 (pre-existing template-and-log noise — non-blocking). Orphans: 104 (pre-existing — to be addressed by Wave 3+). Concept gaps: **0** (was 2 before this dispatch — `[[mireya-luis]]` 6× and `[[stefano-lavarini]]` 3× both resolved).
 
 Next: Dispatch B (sports-science depth + book ingest).
 
@@ -1184,7 +1184,7 @@ Per Tracks-A-B-C plan Task B.8 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c.
 
 **Trust tier:** All 3 are Tier 1 (published authoritative books — AVCA-endorsed anthology, Human Kinetics instructional series, USAV CAP textbook respectively).
 
-**Honesty:** All three plan slugs had factual mismatches (editor name / author name / title+publisher). Each correction is documented inline in both the raw note and the wiki source page; no fabrication. Wave-3 coach pages (e.g., [[sue-gozansky]], [[bonnie-kenny]], [[becky-schmidt]], [[cecile-reynaud]]) are forward-referenced.
+**Honesty:** All three plan slugs had factual mismatches (editor name / author name / title+publisher). Each correction is documented inline in both the raw note and the wiki source page; no fabrication. Wave-3 coach pages (e.g., sue-gozansky, bonnie-kenny, becky-schmidt, cecile-reynaud) are forward-referenced.
 
 Next: B.9 (Beal + Hebert + McGown), B.10–B.12 (international + modern coaching books).
 
@@ -1260,7 +1260,7 @@ Per Tracks-A-B-C plan Task B.10 (`docs/superpowers/plans/2026-04-25-tracks-a-b-c
 - `wiki/sources/notes-winkelman-2020-language-of-coaching.md` — full SCHEMA §3.8 source page, trust-tier 1
 - `raw/INDEX.md` — 3 book entries appended under `## books/` (alphabetized)
 
-**Forward references:** Velasco source has Where-it's-cited stubs for [[julio-velasco]] (already cited via secondary capture; this is the primary-source backing) + [[italian-school]] + forward [[philosophy]]/[[mental]]. Bernardinho source has stubs for [[bernardinho]] + [[brazilian-school]] + forward [[techniques/passing-forearm]] + [[mental]]. Winkelman source has stubs for forward [[practice-planning]] + [[techniques]] + [[age-lens-14u]] + [[mental]] (Wave 3+ technique/practice-planning pages will cite this for cueing methodology).
+**Forward references:** Velasco source has Where-it's-cited stubs for [[julio-velasco]] (already cited via secondary capture; this is the primary-source backing) + [[italian-school]] + forward [[philosophy]]/[[mental]]. Bernardinho source has stubs for [[bernardinho]] + [[brazilian-school]] + forward [[techniques/passing-forearm]] + [[mental]]. Winkelman source has stubs for forward [[practice-planning]] + techniques + [[age-lens-14u]] + [[mental]] (Wave 3+ technique/practice-planning pages will cite this for cueing methodology).
 
 **Translation status:** Velasco book Italian-language only; Bernardinho earlier books Portuguese-only. Both are flagged in their source pages and raw notes; specific quotation citations should remain `[translation-needed]` / `[unsourced]` on wiki pages until full-text working passes occur.
 
@@ -1365,7 +1365,7 @@ Per plan `docs/superpowers/plans/2026-04-25-tracks-a-b-c.md` Task B.6. SCHEMA §
 
 **Access flags:** Lola 2012, de Arruda 2022, Oppici 2022, Moy 2024 are abstract-only (paywalled or behind login). Slovák 2023, Apidogo 2021, Caldeira 2023, Qu 2025, Moran 2023 are open access (PMC / Frontiers / MDPI / repository). Rydberg 2011 is open thesis. Per plan brief, abstract-only is acceptable when flagged. No findings fabricated.
 
-**Forward references:** all 10 sources have `Where it's cited: (later)` placeholders. Wave-3+ pages that should cite these include [[serving]] (Lola, Moy, Qu, Travlos), [[hitting]] (Slovák, Caldeira, de Arruda — wait, de Arruda is setting), [[setting]] (de Arruda, Apidogo), [[passing-forearm]] (Rydberg, Apidogo), [[constraints-led-approach]] (Moy, Caldeira, Apidogo), [[ecological-dynamics]] (Caldeira, Oppici, Moy), [[practice-planning]] (Qu, Apidogo, Moran), [[age-lens-14u]] (Lola, Slovák, Moran), [[coaching-cues]] / future cue page (Slovák, de Arruda, Moran).
+**Forward references:** all 10 sources have `Where it's cited: (later)` placeholders. Wave-3+ pages that should cite these include [[serving]] (Lola, Moy, Qu, Travlos), [[hitting]] (Slovák, Caldeira, de Arruda — wait, de Arruda is setting), [[setting]] (de Arruda, Apidogo), [[passing-forearm]] (Rydberg, Apidogo), constraints-led-approach (Moy, Caldeira, Apidogo), [[ecological-dynamics]] (Caldeira, Oppici, Moy), [[practice-planning]] (Qu, Apidogo, Moran), [[age-lens-14u]] (Lola, Slovák, Moran), coaching-cues / future cue page (Slovák, de Arruda, Moran).
 
 **Trust tier:** All 10 are Tier 1 (9 peer-reviewed journal articles + 1 UNLV M.S. thesis from Wulf's lab, transparently flagged as a thesis rather than journal article).
 
@@ -1679,3 +1679,53 @@ Wave 7 closed two of the highest-leverage gaps surfaced in the Wave-5 follow-up 
   technique-page extensions (setting-hands cross-ref, transition-out-of-system,
   hitting-approach, hitting-arm-swing) + 2 age-guide cross-refs (14s, 15s) +
   index + log = 9 files; ~5000 added words on the contested-position layer.
+
+
+## [2026-07-24] review + fix | age-ladder skills review — Munciana fidelity, ladder repairs, rubric machinery, 16s topspin completion
+
+Five-reviewer audit of the skills-and-criteria-by-age layer (9 age-guides, 10
+tryout rubrics, 7 cue dictionaries, 9 drill-picks, Munciana transcript read in
+full), followed by a four-agent fix pass. Highlights:
+
+- **Munciana transcript fidelity:** "outside foot high" recategorized as the
+  perimeter-defense cue it is (Three-Way Release, 00:14); the tape carries NO
+  blocking instruction and its source page now says so; pin-blocker stance kept
+  as program convention, [unsourced], queued for AOC blocking-source backfill.
+  Three P's corrected to "posture, position, passion" (00:19:45) with the
+  "get back, get low, get a touch" gloss labeled as program language. Tempo
+  1/2/3 + libero-second-ball reattributed to their real sources.
+- **Transcript harvest:** tilt cue family, "say what you see / say what you're
+  going to do" communication protocol, read-and-run, cover arrival standard
+  (hands on floor before the catch; hitting team never last inside the 10),
+  hazard-balls serve selection, 45-second design rule, cooperative-vs-
+  competitive taxonomy — all now in the cue dictionaries / age guides.
+- **Ladder repairs:** 4-step approach install added at late-14s (Barnard, not
+  Schmidt — attribution corrected on 14s/15s); 13s blocking promotion criterion
+  added; 14s→15s blocking regression fixed; bunch-read ladder unified (concept
+  14s → applied 15s → default 16s); back-row attack ladder made monotonic;
+  middle-middle→middle-back handoff written at 15s; 5-1 reframed as consolidated
+  (not introduced) at 15s; 16s tempo-numbering inversion fixed; jump-float cue
+  block added.
+- **16s topspin completion:** standing-topspin install now owned by 16s (new
+  drill page standing-topspin-progression); 16U rubric serving/back-row rows
+  entry-calibrated; 17s "primary serve" contradiction resolved to change-up.
+- **Rubric machinery:** one gate per age stated identically in guide and rubric;
+  every rubric column 5 mirrors the next age's column 3; 13s double serving
+  rows merged; 14U composite + N/A formula + bands added; 15s bands re-expressed
+  as row averages; 18s promotion criteria converted to an 8-row table and the
+  18U defense inversion fixed; Systems rows added at 11s/12s; pass-grading 0-3
+  scale defined once on passing-serve-receive and introduced at 13s.
+- **Hygiene:** lint.py enum/regex drift fixed (manual-layer audience, age-lens
+  scope, research source-type, hyphen-required citation keys, template skips);
+  22 invented source-type values normalized; sanders-2025 source page created
+  (was cited on 10 pages with no page, two key spellings unified); duplicate
+  Liskevych back-row source page merged; log.md dangling links de-linked;
+  broken-wikilink baseline re-pinned 14 → 0. Lint: 0 broken / 0 invariants /
+  0 frontmatter / 0 citations.
+- **Webapp:** mobile-first pass — Courtside quick-reference page (center tab
+  action, per-age one-tap rows, last-age memory), icon bottom-tab bar with
+  safe-area insets, horizontally scrollable rubric tables with sticky first
+  column, PWA manifest + offline-fallback service worker.
+- **Open for Song:** confirm 11s local competition format (4v4 vs 6v6) — see
+  tryout-rubric-11s session-design note; orphan-source backfill (111) still
+  queued; transcript layer beyond Munciana still stubs (10 of 11).

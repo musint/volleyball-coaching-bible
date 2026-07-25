@@ -12,6 +12,7 @@ drills:
   - wash-drill
   - munciana-net-six
   - pressure-serving
+  - standing-topspin-progression
   - jump-serve-progression
   - line-vs-angle-shot
   - transition-hitting
@@ -48,6 +49,7 @@ This pick-list is the working backbone for a competitive 17s practice — the ye
 **Pressure serving**
 - [[pressure-serving]] — Kiraly-frame serving under simulated match pressure: the server's job is to give the team a chance, not to ace [aoc-2024-kiraly-serving-pressure]. 17s is where this gets installed as a real practice block, not a warm-up.
 - [[jump-serve-progression]] — for athletes with the physical tools and CSCS-cleared shoulder load; introduce or progress the jump-topspin pathway in 17s.
+- [[standing-topspin-progression]]: retention and remedial slot. Standing-topspin was installed at 16s and stays in the 17s block for two reasons: it is the entry rung for athletes arriving from a program that never taught topspin, and it is the diagnostic to drop a jump-server back to when her contact goes flat. Low volume, high frequency.
 
 **Tactical hitting**
 - [[line-vs-angle-shot]] — shot-selection toolbox work; line vs. angle vs. tip vs. roll under different defensive looks.
@@ -73,7 +75,7 @@ This pick-list is the working backbone for a competitive 17s practice — the ye
 
 ## Adaptations
 
-- **Down-scale to 16s** when the 17s plan runs hot: cut hitting-vs-block live-swing volume, replace some jump-serve-progression reps with serving accountability (zone-serving, no-gut-serving), shorten conditioning court-sprint blocks.
+- **Down-scale to 16s** when the 17s plan runs hot: cut hitting-vs-block live-swing volume, replace some jump-serve-progression reps with [[standing-topspin-progression]] or serving accountability (zone-serving, no-gut-serving), shorten conditioning court-sprint blocks. A server whose jump-topspin contact has gone flat goes back to standing-topspin stage 1 rather than taking more approach reps.
 - **Up-scale toward 18s / college-bridge:** add arm-care-routine load (post-practice maintenance), increase out-of-system to college-tempo expectations (faster setter decisions, expect off-the-net redirects), introduce hitting-vs-block at college net-height block reads.
 - **CSCS gate.** Conditioning court-sprints, jump-serve-progression, and any high-volume jumping is programmed by a CSCS, not a volleyball coach [usav-2026-coach-academy]. The 17s year is where ACL-prevention landing mechanics and jump-load tracking become non-optional — see [[age-lens-hs]] for the load-monitoring stack.
 - **Roster-size shifts.** With ≤10 healthy bodies, run 6v6 as 6v3+wave (3 transition-side, 3 rotating in); king-of-the-court stays viable down to 9. Below that, collapse to small-sided wash and tactical-hitting station work.

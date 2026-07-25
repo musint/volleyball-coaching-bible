@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: reference-biography
+source-type: article
 title: "Cuba women's national volleyball team — Wikipedia"
 author: "Wikipedia contributors"
 year: 2026

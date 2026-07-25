@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: skill-guide
+source-type: article
 title: "How to Block in Volleyball — GMS Skill Building Guide"
 author: "Gold Medal Squared"
 year: null

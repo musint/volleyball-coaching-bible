@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: tribute-page
+source-type: article
 title: "Thank You Carl McGown"
 author: "Gold Medal Squared (compilation)"
 year: 2017

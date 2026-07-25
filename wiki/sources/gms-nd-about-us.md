@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: organization-page
+source-type: article
 title: "Gold Medal Squared — About Us"
 author: "Gold Medal Squared"
 year: null

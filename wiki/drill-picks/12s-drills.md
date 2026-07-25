@@ -14,6 +14,7 @@ drills:
   - target-setting
   - serve-targets
   - munciana-tight-triangles
+  - block-footwork-ladder
   - cooperative-25-goal
   - wash-drill
   - queen-of-the-court
@@ -27,7 +28,9 @@ sources:
 
 ## Purpose
 
-This is the must-do drill set for a 12s club season. The 12s year is the bridge from cooperative ball-control to the first taste of competitive scoring — players are still in the [[age-lens-14u]] orbit developmentally but one year shy of full 14U competition. The pick-list does three things at once: keep ball-control volume high, introduce competitive grading as a habit before it becomes a stress, and seed the Munciana tilt-chain and rush-and-push reset patterns so the passing platform is shaped right by 13s. Every drill has a verified 14U-or-younger adaptation. None require swing-blocking, jump-topspin, or full 6v6 rotation tracking. Cross-link forward to [[12s]] for development-phase context and [[13s]] for the next-year arc.
+This is the must-do drill set for a 12s club season. The 12s year is the bridge from cooperative ball-control to the first taste of competitive scoring — players are still in the [[age-lens-14u]] orbit developmentally but one year shy of full 14U competition. The pick-list does three things at once: keep ball-control volume high, introduce competitive grading as a habit before it becomes a stress, and seed the Munciana tilt-chain and rush-and-push reset patterns so the passing platform is shaped right by 13s. Every drill has a verified 14U-or-younger adaptation. None require swing-block jump work, jump-topspin, or full 6v6 rotation tracking.
+
+**Where the scoring lives.** Munciana's own camp taxonomy separates **cooperative ball-control** from **competitive 6v6**, and 12s uses that split rather than putting a winner and a loser on every rep. Cooperative drills here (ball-control-warmup, butterfly-passing, the tilt chain, cooperative-25-goal) compete against the clock or a target number. Competitive drills here (serve-targets on the whiteboard, queen-of-the-court, low-intensity wash) have a winner. Both are accountable; only the second has a loser. Cross-link forward to [[12s]] for development-phase context and [[13s]] for the next-year arc.
 
 ## Must-do drill list
 
@@ -52,6 +55,10 @@ Grouped by skill, each drill cited inline with a one-line rationale.
 ### Serving (1)
 
 - [[serve-targets]] — Three-zone (1, 5, 6) serving with on-zone-or-adjacent both counting. This is where competitive grading lives smallest at 12s — every server tracks an on-target percentage on a whiteboard. Teaches accountability without the pressure of a full six-zone scoring system.
+
+### Blocking (1)
+
+- [[block-footwork-ladder]] — **Shuffle and crossover patterns only; skip the swing-run** (the drill page's own 14U adaptation agrees). No ball, 8 minutes, hands up for shuffle and crossover. *When to use:* once or twice a week from mid-preseason, as a warm-up block. [[tryout-rubric-12s]] scores a Blocking row for static-and-shuffle footwork, and this is the drill that earns the right to score it.
 
 ### Defense (1)
 
@@ -84,7 +91,8 @@ The 12s adaptations are the same logic as the 14U age-lens but pulled back one n
 - **Entry:** every drill that lives at HS+ as a live-serve drill runs at 12s as a coach-tossed or coach-fed free ball. No live serving as drill entries except in serve-targets itself.
 - **Attack expectations:** roll shots and controlled hits count as terminations. Do not require kill-quality contact at 12s — that builds avoidance, not aggression.
 - **Talk:** every drill at 12s has a talk-overlay. Calls, encouragement, intent before contact. Communication habits installed at 12s pay through HS.
-- **No-go list at 12s:** swing-blocking, topspin serving in any form (jump or standing — float is the women's-game build through 15s), complex 6-2, full out-of-system attacking, advanced wash variants (three-in-a-row, live-serve entries), commit-blocking with bunch-read variants.
+- **No-go list at 12s:** **swing-block jump work**, topspin serving in any form (jump or standing — float is the women's-game build through 15s), complex 6-2, full out-of-system attacking, advanced wash variants (three-in-a-row, live-serve entries), commit-blocking with bunch-read variants.
+  - The no-go is **the jump, not the footwork**. Swing-block *footwork* without a jump is a late-season install for top-club 12s rosters per [[12s]] `## Skill milestones` → Blocking: the footwork groove banks ahead of the jump-add window, which opens at 14s. Rehearse the steps, keep both feet on the floor.
 
 ## Sources
 

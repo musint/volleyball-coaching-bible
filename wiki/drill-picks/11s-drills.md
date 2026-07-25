@@ -15,6 +15,8 @@ drills:
   - target-setting
   - munciana-kneel-single-leg-serve
   - serve-targets
+  - block-footwork-ladder
+  - munciana-speedball
   - cooperative-25-goal
 sources:
   - munciana-2022-camp-drills
@@ -32,7 +34,9 @@ The working drill backbone for an [[11s]] practice. Built on the [[10s-drills]] 
 
 ## Must-do drill list
 
-Twelve drills. Each links to its full page; per-line rationale describes the **11s adaptation**.
+Fourteen drills. Each links to its full page; per-line rationale describes the **11s adaptation**.
+
+**Train what you score.** [[tryout-rubric-11s]] scores a Blocking row and a Defense row, so the list carries one primer for each. Scoring an athlete on a skill the season never rehearsed measures what she did last summer, not what you coached.
 
 ### Warm-up and ball-control
 
@@ -58,7 +62,15 @@ Twelve drills. Each links to its full page; per-line rationale describes the **1
 ### Serving — overhand introduction
 
 - [[munciana-kneel-single-leg-serve]] — **The 11s overhand-serve gateway.** Kneel ~3 m back from the net and serve overhand to a partner-catcher, then progress to single-leg, then standing short. Goal is *contact* — ball clears the net with a real swing — not depth or zone accuracy.
-- [[serve-targets]] — Run from the 3 m or attack line, not the endline. Target the entire receiving half (no zone calls yet) so every clean serve over the net counts. Walk the start line back 1 m per session as the toss-step-swing rhythm consolidates.
+- [[serve-targets]] — Run it from wherever the athlete currently sits in the **published 11s serving-line progression** ([[11s]] `## Skill milestones` → Serving). That progression is the single source for lines and distances; this page does not restate it. Target the entire receiving half (no zone calls yet) so every clean serve over the net counts, and back her up only while contact stays clean.
+
+### Blocking primer
+
+- [[block-footwork-ladder]] — **Shuffle and crossover patterns only at 11s; skip the swing-run entirely** (the drill page's own 14U adaptation says the same). No ball, no net contact, 6-8 minutes. *When to use:* once a week from mid-preseason on, as a warm-up block, so the Blocking row on [[tryout-rubric-11s]] scores footwork the team has actually rehearsed.
+
+### Defense primer
+
+- [[munciana-speedball]] — Catch-and-throw only, generous boundaries, 1.5-minute games. It trains the read-and-run the rubric's Defense row asks for without loading platform mechanics onto an athlete who is still building one. *When to use:* as the day's **first** defense rep, so reading-and-running is the warmed-up default for everything after it.
 
 ### Cooperative competition
 
@@ -66,14 +78,14 @@ Twelve drills. Each links to its full page; per-line rationale describes the **1
 
 ## When-in-season-to-use mapping
 
-- **Preseason / first 4-6 weeks.** Warm-up cluster (dynamic, ball-control, partner-pepper) plus two-line-passing and target-setting catch-version. Introduce kneel-and-single-leg overhand serving in week 1; earlier swing exposure banks more reps.
-- **Mid-season.** Shuttle-passing and butterfly-passing (modified) become the passing backbone; serve-targets from the 3 m line replaces the kneel-progression once the swing is consolidated. Cooperative-25-goal opens once basic in-system continuity exists.
-- **Pre-tournament / match-day prep.** Warm-up, two-line-passing as the pass-rep block, two minutes of partner-pepper for activation, short cooperative-25-goal block. Skip everything else.
+- **Preseason / first 4-6 weeks.** Warm-up cluster (dynamic, ball-control, partner-pepper) plus two-line-passing and target-setting catch-version. Introduce kneel-and-single-leg overhand serving in week 1; earlier swing exposure banks more reps. Add [[block-footwork-ladder]] once a week from about week 3, and [[munciana-speedball]] as the opener on any day with a defense block.
+- **Mid-season.** Shuttle-passing and butterfly-passing (modified) become the passing backbone; [[serve-targets]] replaces the kneel-progression once the swing is consolidated, run from the athlete's current line in the published progression. Cooperative-25-goal opens once basic in-system continuity exists. Keep the blocking and defense primers on their weekly cadence; both rows get scored at the week-6 and week-12 checkpoints.
+- **Pre-tournament / match-day prep.** Warm-up, two-line-passing as the pass-rep block, two minutes of partner-pepper for activation, short cooperative-25-goal block. Skip everything else, primers included.
 
 ## Adaptations
 
-- **Smaller / less-experienced teams.** Drop butterfly-passing; double-dose two-line-passing. Keep all overhand serving at the kneel/single-leg progression all season — depth is not the priority, the swing pattern is.
-- **More-experienced teams (second-year, older-end-of-band).** Move serve-targets to the endline with zone calls; allow shuttle-passing to take real coach serves. Layer in a Munciana directional-pass variant.
+- **Smaller / less-experienced teams.** Drop butterfly-passing; double-dose two-line-passing. Keep all overhand serving at step 1 of the published progression (kneel and single-leg) all season. Depth is not the priority, the swing pattern is.
+- **More-experienced teams (second-year, older-end-of-band).** Advance them through the published serving progression toward the end line with zone calls; allow shuttle-passing to take real coach serves. Layer in a Munciana directional-pass variant.
 - **Setter-track athletes.** Pull them for an extra [[target-setting]] block with the freeze removed and a hoop at zone 4. Hand-hinge mechanics at 11 are the cheapest investment a setter ever makes.
 - **Penalty / consequence design.** Per the [[age-lens-14u]] downscale: no push-ups, no sprints, no losing-team consequences. Replace with "challenge rounds" — bonus reps for leaders, no punishment for trailers.
 

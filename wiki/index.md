@@ -257,7 +257,7 @@ All six pages deepened to SCHEMA §3.5 spec (~1100-1750 words each); per-age pro
 - [[commit-blocking]] — situational tactic for dominant opposing middles
 
 ## Drills
-Total: **50 drills** in `wiki/drills/`; each links ≥1 source + ≥1 technique (SCHEMA §6 invariant #1 satisfied).
+Total: **102 drills** in `wiki/drills/`; each links ≥1 source + ≥1 technique (SCHEMA §6 invariant #1 satisfied).
 
 ### Passing (W4.3)
 - [[butterfly-passing]], [[pepper]], [[serve-receive-3v3]], [[weave-passing]], [[pass-set-hit]], [[two-line-passing]], [[shuttle-passing]], [[queen-of-the-court-passing]]
@@ -272,7 +272,7 @@ Total: **50 drills** in `wiki/drills/`; each links ≥1 source + ≥1 technique 
 - [[block-footwork-ladder]], [[read-blocking-progression]], [[swing-block-shuffle]], [[block-touch-drill]], [[commit-block-trigger]]
 
 ### Serving (W4.7)
-- [[serve-targets]], [[pressure-serving]], [[zone-serving]], [[jump-serve-progression]], [[serve-receive-competition]]
+- [[serve-targets]], [[pressure-serving]], [[zone-serving]], [[jump-serve-progression]], [[serve-receive-competition]], [[standing-topspin-progression]] (16s+ topspin install entry, gated ahead of jump-serve-progression stage 4)
 
 ### Defense / transition / game (W4.8)
 - [[digging-lines]], [[emergency-pursuit]], [[six-player-defense]], [[perimeter-coverage]]
@@ -412,7 +412,7 @@ Per-age must-do / preseason / mid-season / postseason drill pick-lists — every
 - [[18s-drills]] — 18U drill pick-list
 
 ## Sources
-**~597 source pages** in `wiki/sources/` after the 2026-04-23 AOC deep-scrub.
+**~787 source pages** in `wiki/sources/` (2026-07-24 count; one duplicate Liskevych back-row page merged away).
 Full catalog auto-derivable by folder listing. Counts by cluster:
 - **AOC (Art of Coaching Volleyball): ~520 pages** — near-complete catalog
   across 28 topics: passing, setting, hitting, blocking, serving, defense,

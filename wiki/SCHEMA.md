@@ -375,7 +375,7 @@ sources: [...]                      # ≥1 required
 ### Enum glossary
 
 - `phase ∈ {warm-up, skill, strategic, competition, conditioning}`
-- `source-type ∈ {book, video-series, podcast, article, interview, clinic, social-post}`
+- `source-type ∈ {book, video-series, podcast, article, interview, clinic, social-post, research}` (`research` = peer-reviewed papers; these also carry `participants-sex` per §3.8)
 - `trust-tier ∈ {1, 2, 3}`
 - `skill ∈ {passing, setting, hitting, blocking, serving, defense, transition}`
 - `system.category ∈ {offense, defense, serve-receive, blocking, transition}`

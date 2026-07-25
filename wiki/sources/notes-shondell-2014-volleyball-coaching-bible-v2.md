@@ -61,7 +61,7 @@ player) blurb the volume.
 ## Where it's cited
 
 - (forward references — will be cited from coach profiles, school pages, and skill hubs as Wave 3
-  technique/system pages get built; pair with [[avca]] and [[usa-volleyball-cap]])
+  technique/system pages get built; pair with the AVCA context and [[usa-volleyball]])
 
 ## Access
 

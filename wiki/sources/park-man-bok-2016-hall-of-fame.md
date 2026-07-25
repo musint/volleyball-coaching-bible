@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: institutional-biography
+source-type: article
 title: "Man-Bok Park — International Volleyball Hall of Fame"
 author: "International Volleyball Hall of Fame"
 year: 2016

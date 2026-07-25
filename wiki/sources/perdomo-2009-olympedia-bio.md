@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: reference-biography
+source-type: article
 title: "Antonio Perdomo — Olympedia biographical entry"
 author: "Olympedia contributors"
 year: 2009

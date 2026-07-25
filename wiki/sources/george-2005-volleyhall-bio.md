@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: hall-of-fame-record
+source-type: article
 title: "Eugenio George — International Volleyball Hall of Fame entry"
 author: "International Volleyball Hall of Fame"
 year: 2005

@@ -1,6 +1,6 @@
 ---
 type: source
-source-type: coach-observation-article
+source-type: article
 title: "5 Strengths of Japanese Volleyball"
 author: "Briana Schunzel (Junior Volleyball Association, USA)"
 year: 2016
