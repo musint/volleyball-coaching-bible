@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Two strategies for a rotation with a front-row setter: (1) stack the slide-capable middle by the setter and front-left-stack all front-row players to disguise the offense; (2) if the right-front is a good passer, they can pass from left-back as long as they're in front of right-back — serving team should target the front-row non-defender.
+Two strategies for a rotation with a front-row setter: (1) stack the slide-capable middle by the setter and front-left-stack all front-row players to disguise the offense; (2) if the right-front is a good passer, they can pass from left-back as long as they're in front of right-back, serving team should target the front-row non-defender.
 
 ## Key claims / ideas
 

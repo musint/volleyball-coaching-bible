@@ -40,4 +40,4 @@ The article captures Kiraly mid-tenure, after the 2014 World Championship gold a
 ## Access
 - Raw file: `raw/articles/karch-2021-kiraly-at-60.md`
 - URL: https://www.fivb.com/karch-at-60/
-- Trust tier: 1 — published by FIVB, the international governing body. Direct quotes from Kiraly; biographical data matches USA Volleyball and Wikipedia sources.
+- Trust tier: 1, published by FIVB, the international governing body. Direct quotes from Kiraly; biographical data matches USA Volleyball and Wikipedia sources.

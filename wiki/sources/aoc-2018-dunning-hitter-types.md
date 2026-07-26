@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "John Dunning – What kind of hitter are you?"
+title: "John Dunning - What kind of hitter are you?"
 author: "John Dunning"
 year: 2018
 citation-key: aoc-2018-dunning-hitter-types
@@ -13,10 +13,10 @@ schools: [stanford, art-of-coaching-volleyball]
 trust-tier: 2
 ---
 
-# John Dunning – What kind of hitter are you?
+# John Dunning, What kind of hitter are you?
 
 ## Summary
-Dunning argues every hitter should know her own hitting style so she can invest in the strengths of that style and target the attacking gaps in it — a question he posed to every Stanford hitter.
+Dunning argues every hitter should know her own hitting style so she can invest in the strengths of that style and target the attacking gaps in it, a question he posed to every Stanford hitter.
 
 ## Key claims / ideas
 - Hitters should be able to articulate what type of hitter they are.
@@ -35,5 +35,5 @@ Dunning argues every hitter should know her own hitting style so she can invest 
 ## Access
 - Raw file: [[aoc-2018-dunning-hitter-types]]
 - URL: https://www.theartofcoachingvolleyball.com/what-kind-of-hitter-are-you/
-- Trust tier: 2 — AOC, named author
+- Trust tier: 2: AOC, named author
 - Ingested via: aoc-mcp on 2026-04-23

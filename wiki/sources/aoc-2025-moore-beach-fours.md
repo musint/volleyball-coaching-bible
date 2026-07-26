@@ -19,7 +19,7 @@ trust-tier: 2
 Craig Moore's "Beach Fours" drill forces only back-row players to set and compresses the front row to a solo blocker plus a defensive helper, training the simple out-of-system principle: set it high and let the hitter work.
 
 ## Key claims / ideas
-- Rule: only back-row players may set — mirrors real out-of-system scenarios where the setter has dug.
+- Rule: only back-row players may set, mirrors real out-of-system scenarios where the setter has dug.
 - Front-court structure: one player blocks solo; the other helps defense.
 - Continuous-play format: losing team rotates off; winners stay.
 - Set-height philosophy: high sets give the hitter time to locate their feet.
@@ -37,5 +37,5 @@ Craig Moore's "Beach Fours" drill forces only back-row players to set and compre
 ## Access
 - Raw file: [[aoc-2025-moore-beach-fours]]
 - URL: https://www.theartofcoachingvolleyball.com/beach-fours-drill-to-practice-out-of-system-play/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

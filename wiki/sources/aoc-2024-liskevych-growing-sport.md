@@ -16,7 +16,7 @@ trust-tier: 2
 # Growing a sport: Terry Liskevych on boosting volleyball's popularity
 
 ## Summary
-Leave It Better Podcast episode with Janice Kruger (Side-Out Foundation). Liskevych reviews the work to build volleyball's popularity in the US, critiques USA Volleyball governance, and argues that players — not coaches — drive the sport forward.
+Leave It Better Podcast episode with Janice Kruger (Side-Out Foundation). Liskevych reviews the work to build volleyball's popularity in the US, critiques USA Volleyball governance, and argues that players, not coaches, drive the sport forward.
 
 ## Key claims / ideas
 - Early US volleyball development focused on visibility and coach-development infrastructure.
@@ -36,5 +36,5 @@ Leave It Better Podcast episode with Janice Kruger (Side-Out Foundation). Liskev
 ## Access
 - Raw file: [[aoc-2024-liskevych-growing-sport]]
 - URL: https://www.theartofcoachingvolleyball.com/growing-a-sport-podcast/
-- Trust tier: 2 — AOC, Liskevych
+- Trust tier: 2: AOC, Liskevych
 - Ingested via: aoc-mcp on 2026-04-23

@@ -15,7 +15,7 @@ trust-tier: 2
 # Hybrid systems: 5-1 with two setters
 
 ## Summary
-Tod Mattox presents a hybrid 5-1 that rotates two specialized setters — a tall setter for front-row blocking and a quick setter for back-row defense — with a drill for practicing the role swap.
+Tod Mattox presents a hybrid 5-1 that rotates two specialized setters, a tall setter for front-row blocking and a quick setter for back-row defense, with a drill for practicing the role swap.
 
 ## Key claims / ideas
 - Traditional 5-1 uses one setter; using two by specialty can be an edge.
@@ -36,5 +36,5 @@ Tod Mattox presents a hybrid 5-1 that rotates two specialized setters — a tall
 ## Access
 - Raw file: [[aoc-2022-hybrid-5-1-two-setters]]
 - URL: https://www.theartofcoachingvolleyball.com/hybrid-systems-5-1-with-two-setters/
-- Trust tier: 2 — AOC, systems/strategy
+- Trust tier: 2: AOC, systems/strategy
 - Ingested via: aoc-mcp on 2026-04-23

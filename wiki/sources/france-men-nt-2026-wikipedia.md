@@ -21,7 +21,7 @@ Wikipedia reference for the France men's national volleyball team, tracing the p
 
 ## Key claims / ideas
 
-- France won gold at Tokyo 2020, defeating the Russian Olympic Committee in the final — the program's first Olympic men's volleyball title.
+- France won gold at Tokyo 2020, defeating the Russian Olympic Committee in the final, the program's first Olympic men's volleyball title.
 - France retained the Olympic title at Paris 2024, defeating Poland 3-0 in the final on home soil.
 - World Championship best result is bronze in 2002 (Argentina).
 - 2014 World Championship: 4th place (semifinal loss).
@@ -52,5 +52,5 @@ Wikipedia reference for the France men's national volleyball team, tracing the p
 
 - Raw file: `raw/articles/france-men-nt-wikipedia.md`
 - URL: https://en.wikipedia.org/wiki/France_men%27s_national_volleyball_team
-- Trust tier: 2 — Wikipedia, reliable for structured competition results, titles, and coach succession; corroborate editorial style claims via FIVB/CEV/ffvolley sources before citing as methodology.
+- Trust tier: 2: Wikipedia, reliable for structured competition results, titles, and coach succession; corroborate editorial style claims via FIVB/CEV/ffvolley sources before citing as methodology.
 - Ingested via: webfetch on 2026-04-25

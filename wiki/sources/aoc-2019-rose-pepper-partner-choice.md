@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Russ Rose: who you pepper with matters. Pair with partners who don't know your tendencies — or who know them but actively challenge them. Often means *not* the best-friend or same-position pairing.
+Russ Rose: who you pepper with matters. Pair with partners who don't know your tendencies, or who know them but actively challenge them. Often means *not* the best-friend or same-position pairing.
 
 ## Key claims / ideas
 

@@ -20,7 +20,7 @@ Video-backed, minimal text body. Kiraly argues the risk-reward math of the serve
 
 ## Key claims / ideas
 - If your team lands every serve, you aren't pressuring the opponent enough.
-- Serving is "a huge point-scoring weapon" — treat it as offense, not just ball-start.
+- Serving is "a huge point-scoring weapon", treat it as offense rather than ball-start.
 - The right target is harder, flatter serves with an accepted error rate.
 - The framing is EV: some misses are the price of serves that actually disrupt opponent reception.
 
@@ -36,5 +36,5 @@ Video-backed, minimal text body. Kiraly argues the risk-reward math of the serve
 ## Access
 - Raw file: [[aoc-2024-kiraly-serving-errors]]
 - URL: https://www.theartofcoachingvolleyball.com/karch-kiralys-2-minute-take-serving-effectively-means-making-a-few-errors/
-- Trust tier: 2 — AOC, Karch Kiraly named author
+- Trust tier: 2: AOC, Karch Kiraly named author
 - Ingested via: aoc-mcp on 2026-04-23

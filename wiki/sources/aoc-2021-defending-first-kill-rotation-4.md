@@ -21,9 +21,9 @@ Sealy and Rockwell close out the four-rotation series with R4, where the opposin
 ## Key claims / ideas
 - Opponent's attack set in R4 for this breakdown: slide (middle) + go (fast outside) + back-row attack.
 - Three defensive considerations:
-  - (1) The MB must occasionally make an educated guess about which pin the setter will target — continuously sprinting to each pin fatigues the MB and produces late blocks.
+  - (1) The MB must occasionally make an educated guess about which pin the setter will target, continuously sprinting to each pin fatigues the MB and produces late blocks.
   - (2) Pin blockers must accept one-on-one reps in this rotation. If a pin attacker is unstoppable, adjust back-row defense behind that blocker for an extra layer of protection rather than doubling the block.
-  - (3) From the offensive side: use a back-row attacker in R4 when the pin hitters are struggling — a strategic-utilization note.
+  - (3) From the offensive side: use a back-row attacker in R4 when the pin hitters are struggling, a strategic-utilization note.
 - Video-backed (Vimeo/AOC Premium).
 
 ## Topics covered
@@ -39,5 +39,5 @@ Sealy and Rockwell close out the four-rotation series with R4, where the opposin
 ## Access
 - Raw file: [[aoc-2021-defending-first-kill-rotation-4]]
 - URL: https://www.theartofcoachingvolleyball.com/defending-first-kill-by-rotation-rotation-4/
-- Trust tier: 2 — AOC Premium, named coaches (Sealy UCLA, Rockwell USA)
+- Trust tier: 2: AOC Premium, named coaches (Sealy UCLA, Rockwell USA)
 - Ingested via: aoc-mcp on 2026-04-23

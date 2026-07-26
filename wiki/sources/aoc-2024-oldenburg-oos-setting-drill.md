@@ -19,8 +19,8 @@ trust-tier: 2
 Oldenburg's foundational OOS setting drill: two lines, coach hits at digger, other line's first player sets OOS. Digger and setter then cover an imaginary hitter. Emphasis on "hands finishing to target" and setting/digging higher to buy hitters time.
 
 ## Key claims / ideas
-- OOS situations come from live digs — simulate them to train the realistic handoff.
-- Both digger and setter cover an imaginary hitter near where the set lands — trains cover habits.
+- OOS situations come from live digs, simulate them to train the realistic handoff.
+- Both digger and setter cover an imaginary hitter near where the set lands, trains cover habits.
 - "Hands finishing to target" on the set tells hitters where the ball will end up.
 - When OOS, set and dig HIGHER to buy time.
 
@@ -36,6 +36,5 @@ Oldenburg's foundational OOS setting drill: two lines, coach hits at digger, oth
 ## Access
 - Raw file: [[aoc-2024-oldenburg-oos-setting-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/out-of-system-setting-drill-with-jen-flynn-oldenburg/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

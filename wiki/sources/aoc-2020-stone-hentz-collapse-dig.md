@@ -19,7 +19,7 @@ Jim Stone breaks down Morgan Hentz's collapse dig: against a hard, fast attack, 
 
 ## Key claims / ideas
 
-- "Defense is a forward game" — the base posture must bias forward, not backward or upright.
+- "Defense is a forward game", the base posture must bias forward, not backward or upright.
 - The collapse dig requires already being low; you can't collapse from a tall stance.
 - Technique: drop forward onto knees and hips, drop the hips to keep the torso upright, platform appears underneath the ball.
 - Pair this with "dig and dive" and forearm dig for a complete hard-driven-attack toolkit.

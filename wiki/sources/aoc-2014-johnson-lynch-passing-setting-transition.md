@@ -21,7 +21,7 @@ Christy Johnson-Lynch (Iowa State, 2012 St. Louis Clinic) on three subjects: (1)
 
 - Net-depth target for the pass varies by the type of incoming contact.
 - Transition offense menu should be pre-keyed to dig quality.
-- Defense system selection should weight its transition payoff, not just defensive value.
+- Defense system selection should weight its transition payoff alongside defensive value.
 
 ## Topics covered
 

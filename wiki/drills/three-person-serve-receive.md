@@ -24,11 +24,11 @@ Three passers in standard three-person serve-receive alignment (left, middle, ri
 1. Server serves.
 2. Whichever passer is in the zone of the serve takes it; other two hold their positions.
 3. Pass to target, target catches and hands to next server.
-4. No rotation — passers hold zones for a set count (e.g., 15 serves) to reinforce zone reads.
+4. No rotation, passers hold zones for a set count (e.g., 15 serves) to reinforce zone reads.
 
 ## Coaching points
 - Zone calling happens early: the covering passer calls "mine" at the top of the serve's arc, not after it crosses.
-- Non-receiving passers hold their zones and verbally confirm the cover — "yours" — so the passer knows they own it.
+- Non-receiving passers hold their zones and verbally confirm the cover, "yours", so the passer knows they own it.
 - Seam serves are the teaching moment: two passers are adjacent, the ball arrives between them; both call, one commits, the other clears.
 - Target rates every pass aloud.
 

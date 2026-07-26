@@ -13,11 +13,11 @@ schools: [art-of-coaching-volleyball]
 trust-tier: 2
 ---
 
-# Sealy — Traits of a Good Libero: Defensive Position (AOC, 2019)
+# Sealy: Traits of a Good Libero: Defensive Position (AOC, 2019)
 
 ## Summary
 
-An AOC piece in Mike Sealy's libero-traits series, focused on defensive-position selection. Sealy was UCLA women's head coach 2010-2022. The piece frames the trait profile for a strong libero in her defensive base — read discipline, platform consistency, line-cut decision-making — and discusses default zone selection.
+An AOC piece in Mike Sealy's libero-traits series, focused on defensive-position selection. Sealy was UCLA women's head coach 2010-2022. The piece frames the trait profile for a strong libero in her defensive base, read discipline, platform consistency, line-cut decision-making, and discusses default zone selection.
 
 **Status:** Article content is behind the AOC Premium paywall. Title, author, date (May 19, 2019), and category-tags publicly visible; full body content requires AOC Premium. Summary below is reconstructed from research synthesis.
 
@@ -35,13 +35,13 @@ An AOC piece in Mike Sealy's libero-traits series, focused on defensive-position
 
 ## Where it's cited
 
-- [[defense-middle-middle]] — libero-trait framing within the system.
-- [[libero]] — trait profile section.
+- [[defense-middle-middle]]: libero-trait framing within the system.
+- [[libero]]: trait profile section.
 
 ## Access
 
 - Raw file: `raw/articles/aoc-2019-sealy-libero-defensive-position-traits.md`
 - URL: https://www.theartofcoachingvolleyball.com/traits-of-a-good-libero-defensive-position/
 - Date: 2019-05-19 (publicly verifiable).
-- Trust tier: 2 — AOC Premium coaching content (paywalled).
+- Trust tier: 2: AOC Premium coaching content (paywalled).
 - **Cite for libero-traits framework only; do not cite specific direct quotes.**

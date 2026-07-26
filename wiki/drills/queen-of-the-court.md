@@ -18,20 +18,20 @@ variations: [king-of-the-court, gold-medal-scrimmage]
 # Queen of the Court
 
 ## Setup
-Divide players into teams of 2, 3, or 4 depending on roster size — teams of 3 is the most common club format. Designate one side of the net as the "Queen side" (the side you are defending to stay on). All other teams form a line waiting to challenge on the opposite side. Coach with a ball cart at the sideline.
+Divide players into teams of 2, 3, or 4 depending on roster size, teams of 3 is the most common club format. Designate one side of the net as the "Queen side" (the side you are defending to stay on). All other teams form a line waiting to challenge on the opposite side. Coach with a ball cart at the sideline.
 
 ## Execution
 1. Coach enters a ball to the challenger side (free ball or down ball).
 2. The two teams play out the rally. If the challenger wins, the team on the Queen side exits; the challenger rotates to Queen side; next team in line enters as the new challenger.
-3. If the Queen team wins, they stay — and bank a point on a running team scoreboard.
+3. If the Queen team wins, they stay, and bank a point on a running team scoreboard.
 4. Entry is immediate; no rest between rallies.
 5. First team to 5 Queen-side wins is the champion; or run for 15-20 minutes of continuous play.
 
 ## Coaching points
-- Queen side must execute a clean first-ball attack — you are not resting on defense.
+- Queen side must execute a clean first-ball attack, you are not resting on defense.
 - Challenger side gets the entry, so they must earn their way up the ladder by winning the rally, not by landing a trick serve.
 - Teams of three force everyone to pass, set, and attack; no hiding in a specialist role.
-- Track running scores publicly — visible competition changes behavior.
+- Track running scores publicly, visible competition changes behavior.
 - Short-rallies-to-win and long-lines-of-challengers create the pressure; coaches do not coach during reps, only between.
 
 ## Variations

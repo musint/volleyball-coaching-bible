@@ -29,7 +29,7 @@ Two players in a single back-corner per side; the rest of the team in lines off-
 6. Run to 15 in the corners (or whatever ceiling fits the time block).
 
 ## Coaching points
-- "It's one thing to learn how to set it. It's another thing to hit it." **[00:36:51]** Hitting a 5x5 in-corner ball is hard — use the drill to teach hitter shot selection on these feeds.
+- "It's one thing to learn how to set it. It's another thing to hit it." **[00:36:51]** Hitting a 5x5 in-corner ball is hard, use the drill to teach hitter shot selection on these feeds.
 - Setting opposite forces the dig-setter to drive the ball across the body, which is harder than setting back to the side they dug from. That's by design.
 - Visual cue Mike uses: **[00:36:43]** "You can see who the setters are. They come in front of the 10. You can see who the DS's are. They stay behind." Use this to hold setters accountable to closing on the ball, not catching it deep.
 

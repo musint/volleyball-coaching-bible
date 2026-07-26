@@ -29,7 +29,7 @@ Mirror halves on either side of the net. On each side, place a passer deep (5-6 
 
 ## Coaching points
 - Passer calls "mine" early; platform forms stable before the ball crosses the net.
-- Feet beat hands — pursue and arrive stopped; do not reach.
+- Feet beat hands, pursue and arrive stopped; do not reach.
 - Target grades every pass 0-3 aloud so feedback is immediate.
 - Tossers keep height and tempo honest; a soft feed defeats the read-and-move purpose.
 

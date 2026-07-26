@@ -19,9 +19,9 @@ trust-tier: 2
 
 ## Key claims / ideas
 
-- Simon-Says structure scales to volleyball camp warmup naturally — general movement plus social fun.
+- Simon-Says structure scales to volleyball camp warmup naturally, general movement plus social fun.
 - Group-action commands (Man Overboard is 2-person; Row Boat is 3-person) force quick social grouping, useful for breaking ice on day 1.
-- Eliminated players are kept active — they do warmup or skill work, not sidelined.
+- Eliminated players are kept active, they do warmup or skill work, not sidelined.
 - Works in open space (field, gym) with minimal equipment.
 - Best fit: youth/beginner camp, icebreaker or morning energy drill.
 
@@ -34,7 +34,7 @@ trust-tier: 2
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``warm-up`` hub, `[[age-lens-14u]]` camp section, and any camp-program guidance.
+Forward-reference, to be cited on ``warm-up`` hub, `[[age-lens-14u]]` camp section, and any camp-program guidance.
 
 ## Access
 

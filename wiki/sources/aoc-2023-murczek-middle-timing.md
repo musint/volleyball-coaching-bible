@@ -20,7 +20,7 @@ Emporia State's Ken Murczek frames middle-attack timing around the "out of the s
 
 ## Key claims / ideas
 - Ideal middle contact: right out of the setter's hands (Tempo 1-equivalent).
-- After the hard-swing fundamental is mastered, train soft shots — particularly a tip over the top of a swing block into the donut area.
+- After the hard-swing fundamental is mastered, train soft shots, particularly a tip over the top of a swing block into the donut area.
 - Even a dug tip yields a likely free ball, so tips create positive expected value regardless of landing.
 - The swing block creates a predictable soft-shot window that the middle can exploit.
 
@@ -36,5 +36,5 @@ Emporia State's Ken Murczek frames middle-attack timing around the "out of the s
 ## Access
 - Raw file: [[aoc-2023-murczek-middle-timing]]
 - URL: https://www.theartofcoachingvolleyball.com/middle-hitter-timing/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -19,7 +19,7 @@ trust-tier: 1
 
 ## Summary
 
-Zahradnik et al. (2014) is the female-specific companion to the same group's 2015 male-elite study. Fourteen elite female volleyball players performed three landing variants after simulated blocks: stick, step-back, and run-back. Force plates and infrared motion capture measured ground reaction forces and knee biomechanics, with focus on ACL-injury risk markers (knee valgus moment and internal rotation variability) on the dominant lower limb. Findings: **run-back** landings — the kind that occur when a blocker breaks down and sprints back to play backcourt defense — produced significantly higher knee-valgus moments than step-back landings (p = 0.019). Vertical GRF was not statistically different across variants, though run-back trended highest. Internal rotation variability was greatest in run-back. The study creates a defensible injury-risk gradient: **stick (safest) → step-back (moderate) → run-back (highest)**. For female athletes — who carry the well-documented ACL-injury rate disparity — and for 14U/HS girls in particular, the run-back-style landing is the highest-priority pattern to drill with explicit landing-mechanics emphasis. The paper also reinforces that the *tactical* choice of recovery pattern after a block carries an injury-risk price coaches typically don't account for.
+Zahradnik et al. (2014) is the female-specific companion to the same group's 2015 male-elite study. Fourteen elite female volleyball players performed three landing variants after simulated blocks: stick, step-back, and run-back. Force plates and infrared motion capture measured ground reaction forces and knee biomechanics, with focus on ACL-injury risk markers (knee valgus moment and internal rotation variability) on the dominant lower limb. Findings: **run-back** landings, the kind that occur when a blocker breaks down and sprints back to play backcourt defense, produced significantly higher knee-valgus moments than step-back landings (p = 0.019). Vertical GRF was not statistically different across variants, though run-back trended highest. Internal rotation variability was greatest in run-back. The study creates a defensible injury-risk gradient: **stick (safest) → step-back (moderate) → run-back (highest)**. For female athletes, who carry the well-documented ACL-injury rate disparity, and for 14U/HS girls in particular, the run-back-style landing is the highest-priority pattern to drill with explicit landing-mechanics emphasis. The paper also reinforces that the *tactical* choice of recovery pattern after a block carries an injury-risk price coaches typically don't account for.
 
 ## Key claims / ideas
 
@@ -46,5 +46,5 @@ Zahradnik et al. (2014) is the female-specific companion to the same group's 201
 
 - Raw file: `raw/research/zahradnik-2014-block-landing-grf-valgus.md`
 - URL / DOI: https://doi.org/10.2478/hukin-2014-0008 (PMC4096083)
-- Trust tier: 1 — peer-reviewed research (open access)
+- Trust tier: 1, peer-reviewed research (open access)
 - Access note: full open-access text via PubMed Central

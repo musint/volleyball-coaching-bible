@@ -19,10 +19,10 @@ trust-tier: 2
 
 John Forman's comparative analysis of volleyball coach-education enforcement
 across USA Volleyball (CAP), Volleyball England, German Bundesliga A-license,
-and FIVB. Forman — PhD, Level 3 Volleyball England, CAP III holder, founder of
+and FIVB. Forman: PhD, Level 3 Volleyball England, CAP III holder, founder of
 coachingvb.com (2013), former NCAA D1 head coach at Brown and Rhode Island,
 professional coaching in Sweden, presently working at a national-team / indoor
-performance-direction level — writes as a credentialed coach inside the U.S.
+performance-direction level, writes as a credentialed coach inside the U.S.
 system rather than as an outside critic. That positioning is what makes the
 piece a usable secondary source: Forman holds the top CAP tier and still flags
 its structural weakness.
@@ -52,7 +52,7 @@ its structural weakness.
 - **Forman does NOT call CAP bureaucratic.** His critique is structural and
   two-part: voluntary-participation-undermines-quality-control, and tier-front-
   loading (covered in his companion GMS/AOC/CAP comparison post). This
-  distinction matters when citing the piece — it corroborates a lack-of-
+  distinction matters when citing the piece, it corroborates a lack-of-
   enforcement critique, not a bureaucratic-gatekeeping critique.
 
 ## Topics covered
@@ -64,14 +64,14 @@ its structural weakness.
 
 ## Where it's cited
 
-- `wiki/schools/usa-volleyball.md` — §Critiques and limitations (CAP
+- `wiki/schools/usa-volleyball.md`, §Critiques and limitations (CAP
   voluntary-enforcement critique).
 
 ## Access
 
 - Raw file: `raw/articles/forman-coaching-continuing-education.md`
 - URL: https://coachingvb.com/coaching-continuing-education/
-- Trust tier: 2 — credentialed secondary. Named CAP-holding author; coachingvb.com
+- Trust tier: 2, credentialed secondary. Named CAP-holding author; coachingvb.com
   is the most-cited external volleyball-coaching blog among U.S. coaches.
 - Year: no explicit publication date on the post; Forman's 2019 European-trip
   references place it at 2019 or later. Citation-key uses `nd` (no date) per

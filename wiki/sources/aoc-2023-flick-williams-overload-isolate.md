@@ -20,7 +20,7 @@ Diane Flick-Williams (Western Washington) teaches setters to use the paired conc
 
 ## Key claims / ideas
 - Overload = multiple hitters running from close proximity, forcing the blockers to choose.
-- Isolate = the counterpart to overload — leaving a weak-side hitter alone against one blocker.
+- Isolate = the counterpart to overload, leaving a weak-side hitter alone against one blocker.
 - Who-what-who sequence for the setter: who to attack → what set → who hits it.
 - The target is always the weakest blocker on the other side.
 
@@ -35,6 +35,5 @@ Diane Flick-Williams (Western Washington) teaches setters to use the paired conc
 ## Access
 - Raw file: [[aoc-2023-flick-williams-overload-isolate]]
 - URL: https://www.theartofcoachingvolleyball.com/teach-setters-to-overload-and-isolate-to-gain-an-offensive-advantage/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

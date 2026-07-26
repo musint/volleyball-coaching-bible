@@ -13,26 +13,26 @@ schools: [ecological-dynamics, motor-learning-research]
 trust-tier: 1
 ---
 
-# The Language of Coaching — Nick Winkelman, 2021
+# The Language of Coaching: Nick Winkelman, 2021
 
 ## Summary
 
 *The Language of Coaching: The Art and Science of Teaching Movement*
 (Human Kinetics, 2021, 336pp, ISBN 9781492567363) is Nick Winkelman's
-applied translation of 25+ years of motor-learning research — primarily
+applied translation of 25+ years of motor-learning research, primarily
 the attentional-focus literature led by Gabriele Wulf and colleagues
-since the late 1990s — into a working coach's manual for cue selection.
+since the late 1990s, into a working coach's manual for cue selection.
 Winkelman, head of athletic performance and science for the Irish
 Rugby Football Union, holds a PhD in coaching cues and was previously
 director of education and movement at EXOS / Athletes' Performance.
 
 The book is organized in three parts: **Learn** (motor learning,
 attention, memory foundations), **Coach** (cueing principles and
-analogy), and **Cue** (applied chapters by movement family — habit
+analogy), and **Cue** (applied chapters by movement family, habit
 development, strength, power, speed). Twenty-five-plus video movement
-sequences accompany the text. The book's central claim — that
+sequences accompany the text. The book's central claim, that
 **external cues consistently outperform internal cues** for both
-acute performance and long-term retention — is the strongest research-
+acute performance and long-term retention, is the strongest research-
 backed cueing finding currently available to coaches.
 
 For volleyball, the book is sport-agnostic in its examples but **directly
@@ -60,13 +60,13 @@ technique catalog and across the [[age-lens-14u]],
   unintentionally select against long-term mastery.
 - **The "Three D's" of external cueing.** Operational framework for
   cue construction:
-  - **Distance** — close (nearby objects: ball, net, floor) vs. far
+  - **Distance**: close (nearby objects: ball, net, floor) vs. far
     (distant objects: back line, opponent's shoulder, ceiling).
     **Novices benefit from close-distance cues; experienced athletes
     perform better with far-distance cues.**
-  - **Direction** — "towards" cues outperform "away" cues in jumping
+  - **Direction**: "towards" cues outperform "away" cues in jumping
     and acceleration tasks.
-  - **Description** — action verbs ("push," "explode," "snap") and
+  - **Description**: action verbs ("push," "explode," "snap") and
     analogies ("like a slingshot," "spring-loaded," "punch through")
     are both effective; analogies encode complex motor patterns in a
     single mental image the athlete already understands.
@@ -105,7 +105,7 @@ technique catalog and across the [[age-lens-14u]],
   (external-cue versions of standard internal coaching cues, with
   retention emphasis)
 - Forward: [[age-lens-14u]] (close-distance cues for novice learners
-  — the Distance pivot)
+ , the Distance pivot)
 - Forward: [[mental]] (cue-as-attentional-direction; attentional
   focus as a coach-trainable discipline)
 - Forward: coach profile pages where coaching-cue philosophy is
@@ -126,7 +126,7 @@ technique catalog and across the [[age-lens-14u]],
 - **List price:** $39.95 USD
 - **Publisher URL:**
   https://us.humankinetics.com/products/the-language-of-coaching
-- **Trust tier: 1** — current standard reference text on coaching cues
+- **Trust tier: 1**: current standard reference text on coaching cues
   and attentional focus, written by an author with a PhD in the topic
   and an active high-performance program role (Irish Rugby Football
   Union). Pairs with peer-reviewed Wulf et al. attentional-focus

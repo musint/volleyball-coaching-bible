@@ -36,5 +36,5 @@ Mark Barnard (Oregon State) advocates a four-step approach as the default for mo
 ## Access
 - Raw file: [[aoc-2023-barnard-aggressive-approach]]
 - URL: https://www.theartofcoachingvolleyball.com/training-an-aggressive-approach-for-a-more-powerful-swing/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

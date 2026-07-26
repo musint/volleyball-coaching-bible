@@ -18,7 +18,7 @@ variations: [munciana-brazilian-warmup, cooperative-25-goal]
 # Munciana USA 33
 
 ## Setup
-Split a court in half lengthwise — drape a noodle along the midline antenna or move the antennas to mark the half. Three players on each half, on opposite sides of the net (so 3v3 on a half-court). Mike runs it on both sides simultaneously. Standard rotation through the team.
+Split a court in half lengthwise, drape a noodle along the midline antenna or move the antennas to mark the half. Three players on each half, on opposite sides of the net (so 3v3 on a half-court). Mike runs it on both sides simultaneously. Standard rotation through the team.
 
 ## Execution
 1. Coach puts the first ball into play to one side.
@@ -29,9 +29,9 @@ Split a court in half lengthwise — drape a noodle along the midline antenna or
 
 ## Coaching points
 - Stay big. **[00:47:08]** "Stay big. Stay big." Athletic posture between contacts; no resetting to upright.
-- The "USA 33" name is the half-court 3v3 format — three players per side, three contacts per side, one shared half-court.
+- The "USA 33" name is the half-court 3v3 format, three players per side, three contacts per side, one shared half-court.
 - The constant rotation (passer → center → out) means every athlete plays every role within 30 seconds.
-- Use the half-court walls (or noodle) honestly — a ball that crosses the half is a dead ball; reset.
+- Use the half-court walls (or noodle) honestly, a ball that crosses the half is a dead ball; reset.
 
 ## Variations
 - Run on **both** halves simultaneously for full-court traffic if balls are well-managed.

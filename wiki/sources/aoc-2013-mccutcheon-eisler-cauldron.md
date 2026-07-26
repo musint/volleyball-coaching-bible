@@ -16,7 +16,7 @@ trust-tier: 2
 # The competitive cauldron with Hugh McCutcheon and Laurie Eisler
 
 ## Summary
-On-court Q&A at the 2013 Calgary Clinic in which McCutcheon and Alberta's Laurie Eisler discuss the "competitive cauldron" concept — an environment in practice that surfaces competitive edges while keeping the team unified.
+On-court Q&A at the 2013 Calgary Clinic in which McCutcheon and Alberta's Laurie Eisler discuss the "competitive cauldron" concept, an environment in practice that surfaces competitive edges while keeping the team unified.
 
 ## Key claims / ideas
 - The competitive cauldron is a practice design philosophy where daily ranking and contest create real stakes.
@@ -33,5 +33,5 @@ On-court Q&A at the 2013 Calgary Clinic in which McCutcheon and Alberta's Laurie
 ## Access
 - Raw file: [[aoc-2013-mccutcheon-eisler-cauldron]]
 - URL: https://www.theartofcoachingvolleyball.com/on-court-q-a-with-hugh-mccutcheon-and-laurie-eisler/
-- Trust tier: 2 — AOC, named author
+- Trust tier: 2: AOC, named author
 - Ingested via: aoc-mcp on 2026-04-23

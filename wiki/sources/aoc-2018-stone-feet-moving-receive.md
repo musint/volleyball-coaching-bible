@@ -35,5 +35,5 @@ Jim Stone's split between lower- and upper-body roles in serve receive: feet mus
 ## Access
 - Raw file: [[aoc-2018-stone-feet-moving-receive]]
 - URL: https://www.theartofcoachingvolleyball.com/keep-your-feet-moving-in-serve-receive/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

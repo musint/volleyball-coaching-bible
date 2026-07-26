@@ -19,10 +19,10 @@ This is AOC curricular content; defer to qualified AT/CSCS/MD on programming spe
 
 ## Key claims / ideas
 
-- Injury prevention requires daily data, not just training volume judgment.
+- Injury prevention requires daily data rather than training volume judgment.
 - Two tools: jump counts and daily wellness/self-report surveys.
-- Acting on the data means restricting a partially-compromised player's activity — intentional rep reduction, not push-through.
-- Intent: match-day readiness, not generic "rest" — load management is strategic.
+- Acting on the data means restricting a partially-compromised player's activity, intentional rep reduction, not push-through.
+- Intent: match-day readiness, not generic "rest", load management is strategic.
 
 ## Topics covered
 

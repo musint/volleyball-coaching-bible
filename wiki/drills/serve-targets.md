@@ -22,16 +22,16 @@ Servers split behind each endline. Mark the six serve-receive zones with cones: 
 
 ## Execution
 1. Servers cycle through one at a time; coach calls the target zone ("zone 1").
-2. Server uses the Lift-Step-Swing rhythm — toss in front, step with the non-dominant foot, contact as the stepping foot lands.
+2. Server uses the Lift-Step-Swing rhythm, toss in front, step with the non-dominant foot, contact as the stepping foot lands.
 3. Score each rep: on-zone +1, adjacent zone +0.5, other in-bounds 0, net/out -1.
 4. Servers cycle all six zones over the block; at the end tally each server's on-target percentage.
 5. Bottom half owes a short conditioning forfeit; top scorer picks starting rotation for the next scrimmage.
 
 ## Coaching points
-- Toss in front and hit through the ball — location comes from clean contact, not steering with the hand.
+- Toss in front and hit through the ball, location comes from clean contact, not steering with the hand.
 - Body alignment sets the target. Aim the front shoulder at the zone before the toss; don't reshape mid-swing.
 - Flatter, tougher serves accept some misses. A server hitting 100% isn't pressuring anything.
-- Track every rep. The scoreboard is the teaching tool — servers feel the trend the moment numbers move.
+- Track every rep. The scoreboard is the teaching tool, servers feel the trend the moment numbers move.
 
 ## Variations
 - **Server-called**: after four minutes, servers call their own zone aloud to build pre-serve commitment.

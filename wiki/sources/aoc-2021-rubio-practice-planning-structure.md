@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Dave Rubio (Arizona, 1992-2022) — a former educator — describes how he builds per-practice spreadsheets assigning drills to individual players. Each practice has a dominant focus: fundamentals, systems, out-of-system, position training, or down-ball training.
+Dave Rubio (Arizona, 1992-2022): a former educator, describes how he builds per-practice spreadsheets assigning drills to individual players. Each practice has a dominant focus: fundamentals, systems, out-of-system, position training, or down-ball training.
 
 ## Key claims / ideas
 

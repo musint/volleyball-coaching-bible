@@ -28,10 +28,10 @@ Split the court lengthwise with cones so each half is roughly 4.5 x 9 m. Three p
 5. Rotate through base positions; swap sides after each set.
 
 ## Coaching points
-- Passers call the seam before contact ("mine," "out," "short," "deep") — silence is a loss.
-- Target the setter window, not just "good enough" — a 2 locks the team into slow tempo.
+- Passers call the seam before contact ("mine," "out," "short," "deep"): silence is a loss.
+- Target the setter window. A "good enough" pass that grades a 2 locks the team into slow tempo.
 - Read the server's shoulder and toss, then commit feet; late reach is the most common error.
-- Servers hunt seams and short corners — this is a serving drill too.
+- Servers hunt seams and short corners, this is a serving drill too.
 
 ## Variations
 - **Rotate servers:** swap server every 2 serves to force re-reads.

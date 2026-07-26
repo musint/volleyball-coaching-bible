@@ -36,6 +36,5 @@ John Dunning's system for teaching setters to set consistently centers on repeat
 ## Access
 - Raw file: [[aoc-2022-dunning-setter-repeatable-form]]
 - URL: https://www.theartofcoachingvolleyball.com/training-tips-for-setters/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

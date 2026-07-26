@@ -22,7 +22,7 @@ Framework for evaluating private lessons: what the lesson is for (skill specific
 - Private lessons compound value via: progressions, rep density, and assigned "homework" (wall/ball-control drills).
 - Great volleyball players don't necessarily make great teachers; hire for teaching, not playing résumé.
 - Mentoring is a legitimate reason to keep a private coach even for non-elite players.
-- Bubble players (trying to make a school team) are a distinct cohort from scholarship-aspirants — lesson design should differ.
+- Bubble players (trying to make a school team) are a distinct cohort from scholarship-aspirants, lesson design should differ.
 
 ## Topics covered
 

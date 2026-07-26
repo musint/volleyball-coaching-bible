@@ -19,7 +19,7 @@ Karch Kiraly (USA Women's National Team) teaches a middle transition drill cover
 
 ## Key claims / ideas
 
-- Middle blockers need specific block-to-attack transition drilling — their chain is compressed vs. outsides.
+- Middle blockers need specific block-to-attack transition drilling, their chain is compressed vs. outsides.
 - National-team-level expectations can be scaled down for club and HS with the same structural drill.
 
 ## Topics covered

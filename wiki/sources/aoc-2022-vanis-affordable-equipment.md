@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Sharon Vanis demonstrates low-cost training equipment — boxes, hurdles, kickboards — for technique/strategy work.
+Sharon Vanis demonstrates low-cost training equipment, boxes, hurdles, kickboards, for technique/strategy work.
 
 ## Key claims / ideas
 

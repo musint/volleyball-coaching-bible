@@ -16,7 +16,7 @@ trust-tier: 2
 # Volleyball blocking fundamentals: Positioning and posture
 
 ## Summary
-Joe Sagula (North Carolina '90-'22) covers static-blocking fundamentals — distance from the net, hand position at eye level, athletic posture, net penetration, and balanced landing — as the first line of defense.
+Joe Sagula (North Carolina '90-'22) covers static-blocking fundamentals, distance from the net, hand position at eye level, athletic posture, net penetration, and balanced landing, as the first line of defense.
 
 ## Key claims / ideas
 - Start roughly six inches from the net with hands ready in front of the face at eye level.
@@ -38,5 +38,5 @@ Joe Sagula (North Carolina '90-'22) covers static-blocking fundamentals — dist
 ## Access
 - Raw file: [[aoc-2024-blocking-fundamentals]]
 - URL: https://www.theartofcoachingvolleyball.com/volleyball-blocking-fundamentals-positioning-and-posture/
-- Trust tier: 2 — AOC, fundamentals article
+- Trust tier: 2: AOC, fundamentals article
 - Ingested via: aoc-mcp on 2026-04-23

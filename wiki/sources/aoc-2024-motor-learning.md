@@ -19,7 +19,7 @@ trust-tier: 2
 Jim Stone frames motor learning as the core task of volleyball coaching: players default to easy motions, not efficient ones, so proper patterns must be demonstrated (visual) and reinforced through repetition rather than just verbal cues.
 
 ## Key claims / ideas
-- Players drift toward what's easiest, not what's most efficient or powerful — coaching must pull them back to efficient patterns.
+- Players drift toward what's easiest, not what's most efficient or powerful, coaching must pull them back to efficient patterns.
 - Motor patterns require consistent, repeated coaching to take root.
 - Show, don't just tell: visual demonstration beats verbal description for skill acquisition.
 - Repetition plus visual direction is the core teaching loop.
@@ -36,5 +36,5 @@ Jim Stone frames motor learning as the core task of volleyball coaching: players
 ## Access
 - Raw file: [[aoc-2024-motor-learning]]
 - URL: https://www.theartofcoachingvolleyball.com/motor-learning/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

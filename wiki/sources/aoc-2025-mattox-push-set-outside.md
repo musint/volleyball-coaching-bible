@@ -37,5 +37,5 @@ Bishop's School coach Tod Mattox gives a footwork drill that pairs an outside hi
 ## Access
 - Raw file: [[aoc-2025-mattox-push-set-outside]]
 - URL: https://www.theartofcoachingvolleyball.com/hitting-slower-push-set-on-the-outside/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

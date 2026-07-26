@@ -19,7 +19,7 @@ Luke Maloney (assistant, Ohio State Men's Volleyball) argues the libero is the h
 
 ## Key claims / ideas
 
-- The libero is the most mentally taxing position because they have no kill/block/assist upside to offset errors — errors can only be corrected by not making another one.
+- The libero is the most mentally taxing position because they have no kill/block/assist upside to offset errors, errors can only be corrected by not making another one.
 - Libero performance is measured in only two categories (4-point pass grade, digs/set); neither translates directly to the points column.
 - The analogy to hockey/soccer goalkeepers is fair: defensive-only, rare scoring, perceived-by-team-success.
 - NCAA programs systematically under-scholarship back-row players despite libero being one of the few positions in every set every year.

@@ -35,5 +35,5 @@ Louisville's Dan Meske runs a four-rep rhythm blocking drill (left-middle-left-m
 ## Access
 - Raw file: [[aoc-2019-meske-rhythm-blocking]]
 - URL: https://www.theartofcoachingvolleyball.com/rhythm-blocking-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

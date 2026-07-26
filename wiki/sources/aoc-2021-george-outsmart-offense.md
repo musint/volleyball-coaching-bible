@@ -23,7 +23,7 @@ Michigan State's Cathy George frames blocking strategy as forcing the setter to 
 - Against a dominant middle: MB stays with middle, leaving the pins.
 - Against a dominant right-side: MB helps the OB, right-side blocker shares middle.
 - To force a setter off a go-to: put up aggressive double block on the dominant hitter.
-- The game is out-maneuvering — isolate the weakest attacker.
+- The game is out-maneuvering, isolate the weakest attacker.
 
 ## Topics covered
 - Scout-driven block orientation.
@@ -36,5 +36,5 @@ Michigan State's Cathy George frames blocking strategy as forcing the setter to 
 ## Access
 - Raw file: [[aoc-2021-george-outsmart-offense]]
 - URL: https://www.theartofcoachingvolleyball.com/outsmart-the-offense/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

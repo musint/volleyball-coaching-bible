@@ -15,15 +15,15 @@ trust-tier: 2
 
 ## Summary
 
-Diane Flick-Williams (Western Washington) runs "The Chase" — a sideout drill that rewards first-ball swings on a point ladder. Serving team starts at 10; receiving team starts at 6. Serve never alternates. Receiving team wins rally → go down 1; win with first-ball swing → go down 2. Serving team prevents receiver first-ball swing → serving team down 1; serving team transitions into first-ball swing → serving team down 2. Win without first-ball swing → 1 rung. Game ends when either teams match scores (server catches up to receiver) or receiver hits zero.
+Diane Flick-Williams (Western Washington) runs "The Chase", a sideout drill that rewards first-ball swings on a point ladder. Serving team starts at 10; receiving team starts at 6. Serve never alternates. Receiving team wins rally → go down 1; win with first-ball swing → go down 2. Serving team prevents receiver first-ball swing → serving team down 1; serving team transitions into first-ball swing → serving team down 2. Win without first-ball swing → 1 rung. Game ends when either teams match scores (server catches up to receiver) or receiver hits zero.
 
 ## Key claims / ideas
 
 - First-ball-swing payoff (2 rungs vs. 1) explicitly rewards in-system offense.
 - Starting-score asymmetry (10 vs. 6) creates an uphill chase for the serving side, mirroring real sideout pressure.
-- Server doesn't rotate — the drill isolates one serve-receive rotation per run.
-- "Earn a first-ball swing" becomes a shared team goal, not just a setter objective.
-- Game ends on convergence — the serving team "catches" the receiver.
+- Server doesn't rotate, the drill isolates one serve-receive rotation per run.
+- "Earn a first-ball swing" becomes a shared team goal rather than a setter objective.
+- Game ends on convergence, the serving team "catches" the receiver.
 
 ## Topics covered
 
@@ -34,7 +34,7 @@ Diane Flick-Williams (Western Washington) runs "The Chase" — a sideout drill t
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[systems-detail/sideout]]`, ``serve-receive``, `[[drills/the-chase]]`, ``team-drill``, and `[[diane-flick-williams]]` profile.
+Forward-reference, to be cited on `[[systems-detail/sideout]]`, ``serve-receive``, `[[drills/the-chase]]`, ``team-drill``, and `[[diane-flick-williams]]` profile.
 
 ## Access
 

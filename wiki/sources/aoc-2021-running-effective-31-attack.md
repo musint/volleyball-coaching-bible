@@ -22,8 +22,8 @@ Kerry MacDonald (Volleyball Canada Chief Sports Officer, former UBC Men's HC) de
 - Definition of the 31: a fast, flat set to the middle attacker that targets a **gap between two blockers**; placed right in that gap.
 - Two off-system scenarios where the 31 (or "30-family" set) remains a viable aggressive option:
   - (1) When the setter is pushed off the net and still needs an aggressive play.
-  - (2) When the setter is pushed to the right-side pin — the middle shades toward mid-court and runs a 31, isolating a single blocker. In this scenario, attack the angles.
-- The 31 is an isolation tool — its value is that it attacks a gap and/or creates a one-on-one matchup for the MH.
+  - (2) When the setter is pushed to the right-side pin, the middle shades toward mid-court and runs a 31, isolating a single blocker. In this scenario, attack the angles.
+- The 31 is an isolation tool, its value is that it attacks a gap and/or creates a one-on-one matchup for the MH.
 - Video-backed (Vimeo/AOC Premium).
 
 ## Topics covered
@@ -38,5 +38,5 @@ Kerry MacDonald (Volleyball Canada Chief Sports Officer, former UBC Men's HC) de
 ## Access
 - Raw file: [[aoc-2021-running-effective-31-attack]]
 - URL: https://www.theartofcoachingvolleyball.com/running-an-effective-31-middle-attack/
-- Trust tier: 2 — AOC Premium, named coach (MacDonald, Volleyball Canada CSO)
+- Trust tier: 2: AOC Premium, named coach (MacDonald, Volleyball Canada CSO)
 - Ingested via: aoc-mcp on 2026-04-23

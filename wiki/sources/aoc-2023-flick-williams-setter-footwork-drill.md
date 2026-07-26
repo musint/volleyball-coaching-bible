@@ -16,11 +16,11 @@ trust-tier: 2
 # Setting drill to improve setter footwork
 
 ## Summary
-Flick-Williams teaches setters to "circle the ball" rather than run straight to it — this orients them to the target early and makes squaring up easier. Points of emphasis: toes/nose on target at contact, fewest-possible steps, final cadence "left, right, walking through." Competitive progression: set from as far off the net as possible while delivering accurate Zone-4 sets.
+Flick-Williams teaches setters to "circle the ball" rather than run straight to it, this orients them to the target early and makes squaring up easier. Points of emphasis: toes/nose on target at contact, fewest-possible steps, final cadence "left, right, walking through." Competitive progression: set from as far off the net as possible while delivering accurate Zone-4 sets.
 
 ## Key claims / ideas
-- Common inexperienced-setter error: running straight to the ball — kills the pivot.
-- Fix: "circle the ball" — begin moving in the direction of the set early, square up before contact.
+- Common inexperienced-setter error: running straight to the ball, kills the pivot.
+- Fix: "circle the ball", begin moving in the direction of the set early, square up before contact.
 - Final footwork cadence: left, right, walking through.
 - Nose-to-toes facing target at contact.
 - Get feet to the ball in the fewest steps possible.
@@ -37,6 +37,5 @@ Flick-Williams teaches setters to "circle the ball" rather than run straight to 
 ## Access
 - Raw file: [[aoc-2023-flick-williams-setter-footwork-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/setting-drill-to-improve-setter-footwork/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

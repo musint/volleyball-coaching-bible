@@ -19,7 +19,7 @@ trust-tier: 2
 A conversation between Karch Kiraly and Luka Slabe on how to respond in-match to opponents' offensive and defensive tactics. Short descriptor page for a premium video.
 
 ## Key claims / ideas
-- In-game tactical response is a coaching skill, not just a pre-match plan.
+- In-game tactical response is a coaching skill rather than a pre-match plan.
 - Offense and defense must be adjusted in concert with what the opponent is doing.
 - Topic is treated as premium AOC content (video-centric).
 
@@ -35,5 +35,5 @@ A conversation between Karch Kiraly and Luka Slabe on how to respond in-match to
 ## Access
 - Raw file: [[aoc-2024-kiraly-in-game-tactics]]
 - URL: https://www.theartofcoachingvolleyball.com/in-game-tactics/
-- Trust tier: 2 — AOC, Kiraly named
+- Trust tier: 2: AOC, Kiraly named
 - Ingested via: aoc-mcp on 2026-04-23

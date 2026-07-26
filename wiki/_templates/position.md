@@ -2,7 +2,7 @@
 type: position
 position: <slug>                     # setter | outside-hitter | middle-blocker | opposite | libero | defensive-specialist
 role: <role>
-physical-profile: "<1–2 sentences>"
+physical-profile: "<1 to 2 sentences>"
 key-skills: [<technique-slug>]
 common-drills: [<drill-slug>]
 related-coaches: [<coach-slug>]

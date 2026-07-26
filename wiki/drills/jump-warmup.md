@@ -18,19 +18,19 @@ variations: [dynamic-warmup-volleyball, reactive-jumping]
 # Jump Warmup
 
 ## Setup
-Run after a general [[dynamic-warmup-volleyball]] is complete. Half-court; players line up on the 3-meter line facing the net. No balls, no net contact required. Keep total jump volume modest — this is preparation for a hitting or blocking block, not a jump-training session.
+Run after a general [[dynamic-warmup-volleyball]] is complete. Half-court; players line up on the 3-meter line facing the net. No balls, no net contact required. Keep total jump volume modest, this is preparation for a hitting or blocking block, not a jump-training session.
 
 ## Execution
-1. **Pogo bounces** — 10 low, stiff bounces in place; fast ground contact.
-2. **Squat jumps** — 5 reps; full squat, drive up vertically with arms.
-3. **Tuck jumps** — 5 reps, knees to chest.
-4. **Flamingo 2-step approach-and-land** — 5 reps using Mattox's Flamingo-stance teach [aoc-2021-teach-spiking]: step-close plant, two-footed land, shoulders in front of hips.
-5. **3-step approach-and-land** — 5 reps into a zone 4 spot; no ball.
-6. **Vertical reach** — 5 reps touching a fixed target; reset between reps.
+1. **Pogo bounces**: 10 low, stiff bounces in place; fast ground contact.
+2. **Squat jumps**: 5 reps; full squat, drive up vertically with arms.
+3. **Tuck jumps**: 5 reps, knees to chest.
+4. **Flamingo 2-step approach-and-land**: 5 reps using Mattox's Flamingo-stance teach [aoc-2021-teach-spiking]: step-close plant, two-footed land, shoulders in front of hips.
+5. **3-step approach-and-land**: 5 reps into a zone 4 spot; no ball.
+6. **Vertical reach**: 5 reps touching a fixed target; reset between reps.
 
 ## Coaching points
 - Land soft, shoulders over hips: athletic landings prevent the backward lean that stresses knees and lower back [aoc-2021-teach-spiking].
-- Approach reps rehearse the last two steps of the [[hitting-approach]] — not full-speed maximal efforts.
+- Approach reps rehearse the last two steps of the [[hitting-approach]]: not full-speed maximal efforts.
 - Keep reps at or below the scheme above; this is a warmup.
 - **Medical disclaimer.** Consult an AT/CSCS on high-volume jumping load; this is preparation, not conditioning. Athletes with knee, ankle, or back history should clear jumping volume with a qualified professional before adding reps.
 

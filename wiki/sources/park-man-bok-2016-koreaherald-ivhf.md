@@ -17,7 +17,7 @@ trust-tier: 2
 
 ## Summary
 
-Korea Herald news feature published in summer 2016 announcing Park Man-bok's induction into the International Volleyball Hall of Fame as the first Korean recipient. The induction ceremony took place October 22, 2016, at the Volleyball Hall of Fame in Holyoke, Massachusetts. The article provides a chronological highlight reel of Park's Peruvian competitive results and the seven South American Volleyball Championship titles that anchored his regional dominance with Peru. It does not include philosophy quotes, training-doctrine material, or detail on his earlier Korean tenure — those are gaps for future Korean-language source ingest.
+Korea Herald news feature published in summer 2016 announcing Park Man-bok's induction into the International Volleyball Hall of Fame as the first Korean recipient. The induction ceremony took place October 22, 2016, at the Volleyball Hall of Fame in Holyoke, Massachusetts. The article provides a chronological highlight reel of Park's Peruvian competitive results and the seven South American Volleyball Championship titles that anchored his regional dominance with Peru. It does not include philosophy quotes, training-doctrine material, or detail on his earlier Korean tenure, those are gaps for future Korean-language source ingest.
 
 ## Key claims / ideas
 - Park, age 79 in July 2016, became the first Korean inducted in IVHF history
@@ -29,7 +29,7 @@ Korea Herald news feature published in summer 2016 announcing Park Man-bok's ind
 ## Topics covered
 - Korean diaspora volleyball coaching recognition
 - Hall of Fame induction ceremony detail
-- Peruvian women's volleyball results timeline 1974–2000
+- Peruvian women's volleyball results timeline 1974 to 2000
 - Korean press framing of an emigrant Korean coach's return to international recognition
 
 ## Where it's cited
@@ -38,4 +38,4 @@ Korea Herald news feature published in summer 2016 announcing Park Man-bok's ind
 ## Access
 - Raw file: `raw/articles/park-man-bok-koreaherald-2016.md`
 - URL: https://www.koreaherald.com/article/1014378
-- Trust tier: 2 — established Korean English-language daily, factual reporting on confirmed external (IVHF) record.
+- Trust tier: 2, established Korean English-language daily, factual reporting on confirmed external (IVHF) record.

@@ -16,11 +16,11 @@ trust-tier: 2
 # Training transitions with Mark Rosen
 
 ## Summary
-Mark Rosen (Michigan) 2017 MGVCA Clinic segment on training transitions. MCP returned only metadata — the lesson is video-only premium content; no body text was captured.
+Mark Rosen (Michigan) 2017 MGVCA Clinic segment on training transitions. MCP returned only metadata, the lesson is video-only premium content; no body text was captured.
 
 ## Key claims / ideas
 - Source is 2017 MGVCA Clinic; Rosen is the clinician.
-- Topic is transition training — specifics video-gated and not in MCP payload.
+- Topic is transition training, specifics video-gated and not in MCP payload.
 - Companion piece to other Rosen transition content already in the wiki (e.g., aoc-2016-rosen-training-transition-in-out-system).
 - Future transcript fetch recommended.
 
@@ -35,5 +35,5 @@ Mark Rosen (Michigan) 2017 MGVCA Clinic segment on training transitions. MCP ret
 ## Access
 - Raw file: [[aoc-2017-rosen-training-transitions]]
 - URL: https://www.theartofcoachingvolleyball.com/training-transitions-with-mark-rosen/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

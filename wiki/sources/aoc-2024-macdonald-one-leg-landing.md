@@ -20,8 +20,8 @@ Volleyball Canada's Kerry MacDonald (formerly UBC men's head coach) targets the 
 
 ## Key claims / ideas
 - One-leg landings are an injury risk pattern commonly ingrained during club years.
-- Fix 1 (hitter): stay level through the shoulders — don't reach across the body on contact. Depends on arriving on time.
-- Fix 2 (setter): err toward inside-the-net sets, not outside the antenna — hitter can reroute inside more safely than reach across.
+- Fix 1 (hitter): stay level through the shoulders, don't reach across the body on contact. Depends on arriving on time.
+- Fix 2 (setter): err toward inside-the-net sets, not outside the antenna, hitter can reroute inside more safely than reach across.
 - Injury prevention is a setter-hitter shared responsibility, not purely a hitter-side problem.
 
 ## Topics covered
@@ -36,5 +36,5 @@ Volleyball Canada's Kerry MacDonald (formerly UBC men's head coach) targets the 
 ## Access
 - Raw file: [[aoc-2024-macdonald-one-leg-landing]]
 - URL: https://www.theartofcoachingvolleyball.com/attack-landing-mechanics-how-to-stop-the-one-leg-landing/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

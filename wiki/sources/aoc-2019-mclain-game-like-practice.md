@@ -19,7 +19,7 @@ Kim McLain (Corban University) recommends opening practice with a competition to
 
 ## Key claims / ideas
 
-- Opening drill should be a competition — prevents "practice lag."
+- Opening drill should be a competition, prevents "practice lag."
 - Running 5th-set (decision-game) scenarios nearly every practice normalizes late-match pressure.
 - Clutch capability is trainable through repeated exposure, not willpower.
 

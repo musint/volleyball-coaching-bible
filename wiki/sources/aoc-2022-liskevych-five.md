@@ -36,5 +36,5 @@ Liskevych describes a rolling in-match evaluation heuristic: judge a player by h
 ## Access
 - Raw file: [[aoc-2022-liskevych-five]]
 - URL: https://www.theartofcoachingvolleyball.com/the-liskevych-5/
-- Trust tier: 2 — AOC, Liskevych
+- Trust tier: 2: AOC, Liskevych
 - Ingested via: aoc-mcp on 2026-04-23

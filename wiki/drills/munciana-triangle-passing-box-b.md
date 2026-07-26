@@ -24,19 +24,19 @@ Triangle of three passers in the back court. Setter at the net target. Box hitte
 1. Box B hitter strikes a ball into the triangle of passers.
 2. Passers communicate, move, and one of three passes the ball to the setter target.
 3. "Middles are up. Setters are working targeting. Passers are working communicating and moving" **[00:08:23]**.
-4. Run the drill on the left side, then flip to the right — Mike: "we either go two and a half minutes left, two and a half minutes right. Or we go 25 quality passes, setter scoring" **[00:08:35]**.
-5. Coach scores via the setter's target catch — only quality passes count toward the target number.
+4. Run the drill on the left side, then flip to the right: Mike: "we either go two and a half minutes left, two and a half minutes right. Or we go 25 quality passes, setter scoring" **[00:08:35]**.
+5. Coach scores via the setter's target catch, only quality passes count toward the target number.
 
 ## Coaching points
-- "Stay big. Keep that ball high" **[00:09:08]** — passers don't shrink under attack.
+- "Stay big. Keep that ball high" **[00:09:08]**: passers don't shrink under attack.
 - This is the Munciana signature triangle geometry: three corners, multiple skills, small space.
-- Setter scoring keeps the standard high — the setter decides what counts as a "quality pass," not the passer.
-- Note framing: "this is also a drill that you would run on the left side and the right side" — every passing drill in this section flips L/R for symmetric reps.
+- Setter scoring keeps the standard high, the setter decides what counts as a "quality pass," not the passer.
+- Note framing: "this is also a drill that you would run on the left side and the right side", every passing drill in this section flips L/R for symmetric reps.
 
 ## Variations
-- **No hitter:** coach tosses or down-balls so the read is simpler — appropriate for younger groups.
+- **No hitter:** coach tosses or down-balls so the read is simpler, appropriate for younger groups.
 - **Live hitter:** swap the box for a live attacker on the stand for HS/college.
-- **No BIC:** Mike notes "we will go no BIC today" **[00:08:16]** — toggle the BIC/B inclusion based on what the team is working.
+- **No BIC:** Mike notes "we will go no BIC today" **[00:08:16]**: toggle the BIC/B inclusion based on what the team is working.
 - Move to [[munciana-seam-to-attack]] next to layer attack reads on top of the triangle.
 
 ## Adaptations by level

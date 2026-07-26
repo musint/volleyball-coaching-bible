@@ -33,6 +33,5 @@ Mattox's partner drill for setting high spinning balls: flip-the-wrist high toss
 ## Access
 - Raw file: [[aoc-2022-mattox-setting-spinning]]
 - URL: https://www.theartofcoachingvolleyball.com/setting-spinning-balls/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

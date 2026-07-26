@@ -9,14 +9,14 @@ sources: [aoc-2025-cc-playing-time-roles, notes-gozansky-2001-coaching-volleybal
 
 ## Purpose
 
-Standardized parent-facing email templates for the recurring touchpoints in a club season: tryouts, team selection, kickoff, tournament logistics, mid-season check-ins, end-of-season feedback, injuries, and playing-time conversations. Pre-written templates do three things: they remove ad-hoc decision-making at high-emotion moments (a parent's post-match text, an injury phone call), they enforce a consistent program voice across coaching staff, and they create a paper trail when a conversation later requires SafeSport documentation, escalation to the club director, or a return to a stated boundary. Use these as starting points — adapt the tone to your program's voice, but keep the boundaries (no playing-time promises, no match-day decision arguments, document everything sensitive).
+Standardized parent-facing email templates for the recurring touchpoints in a club season: tryouts, team selection, kickoff, tournament logistics, mid-season check-ins, end-of-season feedback, injuries, and playing-time conversations. Pre-written templates do three things: they remove ad-hoc decision-making at high-emotion moments (a parent's post-match text, an injury phone call), they enforce a consistent program voice across coaching staff, and they create a paper trail when a conversation later requires SafeSport documentation, escalation to the club director, or a return to a stated boundary. Use these as starting points, adapt the tone to your program's voice, but keep the boundaries (no playing-time promises, no match-day decision arguments, document everything sensitive).
 
 Cross-links: [[recruiting]], [[philosophy]], [[mental]], [[season-planning]].
 
 ## Process
 
 1. **Build a season template folder** in your email client (or shared club Drive). One template per scenario below.
-2. **Personalize only the named fields** ({{athlete}}, {{tournament}}, {{date}}). Keep the boundaries identical across families — uneven enforcement is what creates parent grievances.
+2. **Personalize only the named fields** ({{athlete}}, {{tournament}}, {{date}}). Keep the boundaries identical across families, uneven enforcement is what creates parent grievances.
 3. **For sensitive categories** (injury, playing-time, conduct), CC the club director on the outbound email. This is your SafeSport-aware paper trail.
 4. **Never respond to a heated parent text within 30 minutes** of a match ending. Use the playing-time response template; move the conversation to a scheduled call or in-person meeting.
 5. **Save outbound copies** to a per-athlete file. End-of-season parent disputes almost always reference an earlier email; you want it retrievable.
@@ -25,14 +25,14 @@ Cross-links: [[recruiting]], [[philosophy]], [[mental]], [[season-planning]].
 
 ### Tryout-day welcome email (sent T-3 days before tryouts)
 
-> Subject: {{Club}} {{age-group}} Tryouts — Logistics for {{date}}
+> Subject: {{Club}} {{age-group}} Tryouts: Logistics for {{date}}
 >
 > Hi {{parent}},
 >
 > Thank you for registering {{athlete}} for {{age-group}} tryouts on {{date}}. A few logistics:
 >
 > - Arrive 15 minutes early for check-in at {{venue}}. Wear athletic clothing and indoor court shoes; bring a water bottle, knee pads, and one labeled volleyball if you have one.
-> - Tryouts run {{start-time}}–{{end-time}}. Parents are welcome to watch from the {{spectator-area}}; please do not approach the court during evaluations.
+> - Tryouts run {{start-time}}-{{end-time}}. Parents are welcome to watch from the {{spectator-area}}; please do not approach the court during evaluations.
 > - We will evaluate ball-control, athleticism, position-skill, and competitive demeanor across multiple stations.
 > - Selection notifications go out by email on {{notification-date}}, {{notification-time}}. Please do not contact coaches before that window.
 >
@@ -40,21 +40,21 @@ Cross-links: [[recruiting]], [[philosophy]], [[mental]], [[season-planning]].
 >
 > {{coach-name}}
 
-### Team-selection notification — accepted
+### Team-selection notification, accepted
 
-> Subject: {{Club}} {{age-group}} {{team-name}} — Offer for {{athlete}}
+> Subject: {{Club}} {{age-group}} {{team-name}}: Offer for {{athlete}}
 >
 > Hi {{parent}} and {{athlete}},
 >
-> Congratulations — {{athlete}} has been offered a roster spot on {{team-name}} for the {{season}} season. To accept, please complete the commitment form and pay the deposit at {{link}} by {{deadline}}.
+> Congratulations, {{athlete}} has been offered a roster spot on {{team-name}} for the {{season}} season. To accept, please complete the commitment form and pay the deposit at {{link}} by {{deadline}}.
 >
 > Next steps: parent-and-athlete kickoff meeting on {{date}}. Practice schedule, fee schedule, and tournament calendar are attached.
 >
 > {{coach-name}}
 
-### Team-selection notification — non-accepted
+### Team-selection notification, non-accepted
 
-> Subject: {{Club}} {{age-group}} Tryouts — Update for {{athlete}}
+> Subject: {{Club}} {{age-group}} Tryouts: Update for {{athlete}}
 >
 > Hi {{parent}} and {{athlete}},
 >
@@ -68,7 +68,7 @@ Cross-links: [[recruiting]], [[philosophy]], [[mental]], [[season-planning]].
 
 ### Season kickoff
 
-> Subject: {{team-name}} {{season}} — Kickoff Reminders
+> Subject: {{team-name}} {{season}}: Kickoff Reminders
 >
 > Hi families,
 >
@@ -83,7 +83,7 @@ Cross-links: [[recruiting]], [[philosophy]], [[mental]], [[season-planning]].
 
 ### Tournament-week logistics (sent Monday of tournament week)
 
-> Subject: {{tournament}} — Logistics
+> Subject: {{tournament}}: Logistics
 >
 > Hi families,
 >
@@ -99,7 +99,7 @@ Cross-links: [[recruiting]], [[philosophy]], [[mental]], [[season-planning]].
 
 ### Mid-season check-in (sent ~halfway through season)
 
-> Subject: {{athlete}} — Mid-Season Check-In
+> Subject: {{athlete}}: Mid-Season Check-In
 >
 > Hi {{parent}},
 >
@@ -111,11 +111,11 @@ Cross-links: [[recruiting]], [[philosophy]], [[mental]], [[season-planning]].
 
 ### End-of-season feedback (sent within 2 weeks of season end)
 
-> Subject: {{athlete}} — End-of-Season Feedback
+> Subject: {{athlete}}: End-of-Season Feedback
 >
 > Hi {{parent}} and {{athlete}},
 >
-> Season recap and development summary attached. Three skills {{athlete}} should prioritize this offseason: {{list}}. Tryout consideration for next season is independent of this season's roster — every athlete re-evaluates.
+> Season recap and development summary attached. Three skills {{athlete}} should prioritize this offseason: {{list}}. Tryout consideration for next season is independent of this season's roster, every athlete re-evaluates.
 >
 > Thank you for a great year.
 >
@@ -123,7 +123,7 @@ Cross-links: [[recruiting]], [[philosophy]], [[mental]], [[season-planning]].
 
 ### Injury notification (sent within 24 hours, CC director + AT)
 
-> Subject: Injury Report — {{athlete}} — {{date}}
+> Subject: Injury Report, {{athlete}}, {{date}}
 >
 > Hi {{parent}},
 >
@@ -135,7 +135,7 @@ Cross-links: [[recruiting]], [[philosophy]], [[mental]], [[season-planning]].
 
 ### Playing-time conversation request response
 
-> Subject: Re: Playing Time — {{athlete}}
+> Subject: Re: Playing Time, {{athlete}}
 >
 > Hi {{parent}},
 >
@@ -149,7 +149,7 @@ Cross-links: [[recruiting]], [[philosophy]], [[mental]], [[season-planning]].
 
 - **Promising playing time** in writing or in person to recruit or retain a family. Roles are earned weekly; promises become grievances the moment they are not met.
 - **Arguing match-day decisions over text.** Emotions run hot for 24 hours; defer the conversation, then have it in person.
-- **Failing to document SafeSport-relevant interactions.** Any parent message about coach conduct, athlete conduct, injury, or 1-on-1 contact gets forwarded to the club director the same day — not later.
+- **Failing to document SafeSport-relevant interactions.** Any parent message about coach conduct, athlete conduct, injury, or 1-on-1 contact gets forwarded to the club director the same day, not later.
 - **Inconsistent enforcement of communication boundaries** across families. The squeaky wheel cannot get faster responses than the quiet family; that is how grievances form.
 - **Vague feedback.** "Working hard" is not feedback. Name the skill, name the next development step, name the timeline.
 

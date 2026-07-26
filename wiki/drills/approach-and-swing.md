@@ -18,7 +18,7 @@ variations: [line-vs-angle-shot, high-ball-hitting]
 # Approach and Swing
 
 ## Setup
-Hitter line at zone 4. Coach or feeder stands on a box at the setter position, either holding a ball at contact height or tossing a repeatable ball. Ball cart behind the feeder; one shagger. No block, no defense — pure approach-and-swing reps.
+Hitter line at zone 4. Coach or feeder stands on a box at the setter position, either holding a ball at contact height or tossing a repeatable ball. Ball cart behind the feeder; one shagger. No block, no defense, pure approach-and-swing reps.
 
 ## Execution
 1. Hitter starts 12-15 ft off the net with feet set for her footwork (right-left last two steps for right-handers).
@@ -28,7 +28,7 @@ Hitter line at zone 4. Coach or feeder stands on a box at the setter position, e
 5. 8-12 swings per hitter, then rotate sides.
 
 ## Coaching points
-- Start slow, accelerate on the last two steps — tempo is the point.
+- Start slow, accelerate on the last two steps, tempo is the point.
 - Exaggerate the arm movement during the approach to gain jump height.
 - Plant two-footed; kill horizontal momentum before takeoff.
 - Non-hitting shoulder points at the target at the plant; torso rotates through contact.
@@ -36,7 +36,7 @@ Hitter line at zone 4. Coach or feeder stands on a box at the setter position, e
 
 ## Variations
 - **Held ball first, tossed ball second.** Remove set variance while the footwork is new.
-- **Box-hit swings.** Hitter on a low box at a held ball — isolates arm swing.
+- **Box-hit swings.** Hitter on a low box at a held ball, isolates arm swing.
 - **Pass-then-hit.** Passer takes a coach toss, passes to the setter, then becomes the next hitter (Schmidt's format).
 
 ## Adaptations by level

@@ -21,7 +21,7 @@ Four cues for reading the opposing setter on defense: (1) pass location reveals 
 
 - Pass location is the single biggest tell for what's coming next.
 - Setter body language is teachable as a defensive cue.
-- Coaches should vary toss origin + tempo — not just spot-feed — to train real defensive reads.
+- Coaches should vary toss origin + tempo rather than spot-feed, to train real defensive reads.
 
 ## Topics covered
 

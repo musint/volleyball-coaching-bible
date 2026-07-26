@@ -6,17 +6,17 @@ level: college
 sources: [age-lens-college, recruiting, mccutcheon-2022-championship-behaviors, smith-2025-acl-return-to-play-volleyball, sassi-2025-acl-volleyball-systematic-review, lockie-2020-power-speed-cod-volleyball, bari-2023-jump-serve-efficacy-kinematics, mesagno-2017-choking-models-interventions, usav-nd-college-recruitment-timeline, aoc-2026-bunch-read-blocking]
 ---
 
-# Tryout Rubric — College Walk-On
+# Tryout Rubric: College Walk-On
 
 ## Purpose
 
-This rubric grades a college walk-on tryout candidate against the standard a freshman entering preseason on August 1 must meet. Parent context is [[age-lens-college]]; the unifying principle from [[18s]] applies in reverse — the criteria a 18s player needs to graduate are the criteria a walk-on tryout evaluates against. Calibration scales by tier: D1 demands above-baseline at all eight criteria; D2/D3 and NAIA tolerate gaps in 2-3 criteria offset by elite strength in another; JUCO operates as a development pipeline where physical-baseline + coachability outweigh polish. See [[recruiting]] for tier-mapping context.
+This rubric grades a college walk-on tryout candidate against the standard a freshman entering preseason on August 1 must meet. Parent context is [[age-lens-college]]; the unifying principle from [[18s]] applies in reverse, the criteria a 18s player needs to graduate are the criteria a walk-on tryout evaluates against. Calibration scales by tier: D1 demands above-baseline at all eight criteria; D2/D3 and NAIA tolerate gaps in 2-3 criteria offset by elite strength in another; JUCO operates as a development pipeline where physical-baseline + coachability outweigh polish. See [[recruiting]] for tier-mapping context.
 
 The walk-on tryout is a 60-90-minute session typically run alongside roster try-back. Decision is binary (offer / no-offer), but the rubric forces graded observation rather than gut-feel.
 
 ## Evaluation criteria
 
-| Criterion | 1 — Does not demonstrate | 2 — Occasional | 3 — Consistent at age-appropriate (walk-on floor) | 4 — Above age-appropriate | 5 — Roster-impact-ready |
+| Criterion | 1: Does not demonstrate | 2: Occasional | 3: Consistent at age-appropriate (walk-on floor) | 4: Above age-appropriate | 5: Roster-impact-ready |
 |---|---|---|---|---|---|
 | **Passing** | Cannot platform jump-float consistently; reads broken | Passes serve-receive at 1.5-1.8 average; seam communication absent | Passes 2.0+ tournament average vs. jump-float; libero-split lane discipline holds; pre-serve seam call audible | Handles jump-topspin in libero-split at 2.0-2.2; four-passer adjustment callable | Passes 2.3+ vs. mixed top-spin / float; pass quality dictates offense run, not just contact |
 | **Setting** (or 2nd-ball if non-setter) | Hands not college-clean; no tempo vocabulary | 5-1 partial; tempo vague; back-set telegraphed | Full 5-1 across rotations; jump-set from Z2/Z3; OOS two-handed redirect attempted | Three-tempo (T1/T2/T3) callable real-time; back-set disguise; OOS redirect consistent | Late-match rotational drift auditable + correcting; runs hybrid 5-1 install [aoc-2022-hybrid-5-1-two-setters] |
@@ -24,7 +24,7 @@ The walk-on tryout is a 60-90-minute session typically run alongside roster try-
 | **Blocking** | Step-block static; closes late; no swing footwork | Swing-block footwork emerging; doesn't penetrate; pulls hands | Swing-blocking operational default; outside-foot-forward pin stance on the close; controlled stick / step-back landing | Bunch-read overlay install-ready; commit situational; hand-press penetrates plane [aoc-2026-bunch-read-blocking] | Hands-on-ball stuff rate at college floor; reads opposing setter pre-contact |
 | **Serving** | Float misses zones; no jump-serve attempt | Jump-float 70%+ in but unaggressive; no top-spin | Jump-float reliable + zone-targeted; aim-small-miss-small architecture | Jump-topspin attempted with controlled miss rate; pressure-rehearsal visible | Jump-topspin recruiting-differentiator-quality; approach velocity drives serve velocity [bari-2023-jump-serve-efficacy-kinematics] |
 | **Defense** | Out of position; doesn't read hitter | Reads ball not hitter; pursuit incomplete | Rotation-specific scheme operational; libero-in-6 default; Three P's automatic | Reads hitter pre-contact; pursuit-and-recovery automatic; arrives stopped-then-platform | Late-match knee-valgus drift absent; pursuit converts to attack-able 2nd ball |
-| **Transition** | Block-to-approach broken; OOS unrecognized | Recovery sluggish; setter-2nd-ball unclean | Block-to-approach + dig-to-approach automatic; OOS detect-call-bail-to-pin rehearsed | Libero 2nd-ball overhead from behind 3m operational; 3rd-rally execution clean | Transition rallies the differentiator — wins at college-bridge floor |
+| **Transition** | Block-to-approach broken; OOS unrecognized | Recovery sluggish; setter-2nd-ball unclean | Block-to-approach + dig-to-approach automatic; OOS detect-call-bail-to-pin rehearsed | Libero 2nd-ball overhead from behind 3m operational; 3rd-rally execution clean | Transition rallies the differentiator, wins at college-bridge floor |
 | **Mental / coachability** | Visible frustration on errors; no self-correct; resists feedback | Accepts feedback but no in-rep correction; routine absent | Pre-performance routines visible; self-talk programmed; ownership audible; explicit role-acceptance | All four pressure interventions installed (acclimatization, routines, attentional cue, quiet-eye) [mesagno-2017-choking-models-interventions]; superpower defined | Championship-behavior identity already operating; teammate-level leadership presence in tryout context [mccutcheon-2022-championship-behaviors] |
 
 ## Scoring
@@ -44,9 +44,9 @@ Sum the eight rows for a 0-40 raw score. Apply tier-calibrated thresholds:
 | D1 (MB) | 7'8"+ | 10'5"+ | 22"+ |
 | D1 (S/L/DS) | 7'0"+ | 9'8"+ | 20"+ |
 | D2 / D3 / NAIA | -3" off D1 across position | -3" off D1 | 18"+ |
-| JUCO | development; baseline 9'4" approach touch | — | 16"+ |
+| JUCO (all positions) | development tier, not a gate | 9'4" baseline | 16"+ |
 
-Numbers reflect published recruiting-board norms aggregated from college-pathway material [usav-nd-college-recruitment-timeline]; verify against the program's own card before applying — staff thresholds drift year-to-year.
+Numbers reflect published recruiting-board norms aggregated from college-pathway material [usav-nd-college-recruitment-timeline]; verify against the program's own card before applying, staff thresholds drift year-to-year.
 
 ## Calibration notes
 

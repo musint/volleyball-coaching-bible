@@ -36,5 +36,5 @@ DePaul's Marie Zidek runs two pre-match OOS drills: (1) blockers start pinched t
 ## Access
 - Raw file: [[aoc-2024-zidek-oos-drills]]
 - URL: https://www.theartofcoachingvolleyball.com/out-of-system-offense-and-defense-drills/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

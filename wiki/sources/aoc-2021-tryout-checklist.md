@@ -26,7 +26,7 @@ trust-tier: 2
 - Separate skill levels quickly so best players see each other.
 - Vertical jump testing adds a cheap proxy for athletic potential.
 - Parent meetings should run concurrent with tryouts to communicate format, selection criteria, fees.
-- Have a plan for notifying cut athletes — parents, coach, director present together.
+- Have a plan for notifying cut athletes, parents, coach, director present together.
 
 ## Topics covered
 

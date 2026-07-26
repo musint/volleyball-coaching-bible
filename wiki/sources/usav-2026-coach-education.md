@@ -17,7 +17,7 @@ trust-tier: 1
 
 ## Summary
 
-USA Volleyball's official Coach Education landing page defines the three mandatory eligibility components for all member coaches — IMPACT training, SafeSport training, and a background check — all processed through the SportsEngine Member Management System. IMPACT ("Increased Mastery and Professional Application of Coaching Theory") is the baseline requirement for junior club coaches, free for members, approximately four hours, self-paced, and delivered on-demand through the USAV Academy with an accompanying e-book and PDF manual.
+USA Volleyball's official Coach Education landing page defines the three mandatory eligibility components for all member coaches: IMPACT training, SafeSport training, and a background check, all processed through the SportsEngine Member Management System. IMPACT ("Increased Mastery and Professional Application of Coaching Theory") is the baseline requirement for junior club coaches, free for members, approximately four hours, self-paced, and delivered on-demand through the USAV Academy with an accompanying e-book and PDF manual.
 
 The page also documents the transition away from the Coaching Accreditation Program (CAP). CAP has been discontinued, but prior certifications and educational achievements will be recognized in a new points, badge, and leaderboard system. In-person learning continues via USAV National Faculty and Regional Instructors. The Coach Academy operates as a separate online platform aligned with the USA Volleyball Development Model.
 
@@ -45,4 +45,4 @@ The page also documents the transition away from the Coaching Accreditation Prog
 ## Access
 - Raw file: `raw/usav/coach-education.md`
 - URL: https://usavolleyball.org/resources-for-coaches/coach-education/
-- Trust tier: 1 — official USA Volleyball resource
+- Trust tier: 1, official USA Volleyball resource

@@ -15,7 +15,7 @@ trust-tier: 2
 # Types of serves
 
 ## Summary
-AOC primer cataloging the main serve types — float, short serve, jump top spin, and second tempo — and noting that coach-to-server hand signals are used at higher levels to direct serve location.
+AOC primer cataloging the main serve types, float, short serve, jump top spin, and second tempo, and noting that coach-to-server hand signals are used at higher levels to direct serve location.
 
 ## Key claims / ideas
 - Float serve: little to no spin, producing an unpredictable ball path.
@@ -36,5 +36,5 @@ AOC primer cataloging the main serve types — float, short serve, jump top spin
 ## Access
 - Raw file: [[aoc-2020-types-of-serves]]
 - URL: https://www.theartofcoachingvolleyball.com/types-of-serves/
-- Trust tier: 2 — AOC, fundamentals article
+- Trust tier: 2: AOC, fundamentals article
 - Ingested via: aoc-mcp on 2026-04-23

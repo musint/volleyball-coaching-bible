@@ -16,10 +16,10 @@ trust-tier: 2
 # Don't train passing in isolation
 
 ## Summary
-Doug Beal (1984 Olympic gold coach) and Ben Josephson argue passing must be trained with a hitting approach and always with two passers — because aces come from seams, not shanks, and you pass+approach in the game, never pass and stand.
+Doug Beal (1984 Olympic gold coach) and Ben Josephson argue passing must be trained with a hitting approach and always with two passers, because aces come from seams, not shanks, and you pass+approach in the game, never pass and stand.
 
 ## Key claims / ideas
-- Pass and hitting approach are married — train them together, always
+- Pass and hitting approach are married, train them together, always
 - Players should never pass alone; always at least two passers in the drill
 - Most aces come from gaps and seams between passers, not shanked passes
 - Most vulnerable spot on the court is between two passers
@@ -37,5 +37,5 @@ Doug Beal (1984 Olympic gold coach) and Ben Josephson argue passing must be trai
 ## Access
 - Raw file: [[aoc-2025-beal-josephson-dont-train-passing-isolation]]
 - URL: https://www.theartofcoachingvolleyball.com/dont-train-passing-in-isolation/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

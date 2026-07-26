@@ -28,8 +28,8 @@ sources:
 ## Overview
 John Dunning is one of the most accomplished head coaches in American women's
 collegiate volleyball history and a co-founder of [[art-of-coaching-volleyball]]
-(AOC). Across 32 Division I seasons — 16 at the [[university-of-pacific]] and
-16 at [[stanford-cardinal]] — he compiled an 888–185 record (.828 winning
+(AOC). Across 32 Division I seasons: 16 at the [[university-of-pacific]] and
+16 at [[stanford-cardinal]]: he compiled an 888 to 185 record (.828 winning
 percentage) and won five NCAA titles, the second-most in women's D1 history
 [aoc-2017-liskevych-dunning-tribute][dunning-2016-aoc-difference-maker]. He is
 remembered equally for a care-first coaching ethic ("Never act in a way that
@@ -54,18 +54,18 @@ began [dunning-2016-aoc-difference-maker].
   period established him as a clinician-coach whose teaching systems produced
   repeatable results, not single-cohort peaks.
 
-- **Stanford University (2001–2016, 16 seasons).** At Stanford the program
-  won three NCAA titles — 2001, 2004, and 2016
-  [dunning-2016-aoc-difference-maker] — and reached seven national
-  championship matches, compiling a 58–13 NCAA tournament record
+- **Stanford University (2001 to 2016, 16 seasons).** At Stanford the program
+  won three NCAA titles: 2001, 2004, and 2016
+  [dunning-2016-aoc-difference-maker]: and reached seven national
+  championship matches, compiling a 58 to 13 NCAA tournament record
   [dunning-2016-aoc-difference-maker]. The 2016 title, won just weeks before
   his retirement announcement at age 66, is the career capstone and the
   reference case for his system-flexibility doctrine (see below)
-  [aoc-2017-liskevych-dunning-tribute]. His AOC by-line across 2018–2024
-  content continues to list him as "Stanford University '01–'16"
+  [aoc-2017-liskevych-dunning-tribute]. His AOC by-line across 2018 to 2024
+  content continues to list him as "Stanford University '01-'16"
   [aoc-2018-dunning-serve-warmup][aoc-2024-setting-hand-hinge].
 
-- **AOC and AVCA service (2011–present).** Dunning co-founded AOC in 2011
+- **AOC and AVCA service (2011-present).** Dunning co-founded AOC in 2011
   with [[terry-liskevych]] and [[russ-rose]] to scale coaching education
   beyond any one program [dunning-2016-aoc-difference-maker]. He also served
   in American Volleyball Coaches Association (AVCA) leadership roles during
@@ -94,13 +94,13 @@ run: injuries forced a mid-season conversion from a 6-2 to a 5-1 and a
 repositioning of key players, and the adjusted lineup carried Stanford through
 the bracket to a championship [aoc-2017-liskevych-dunning-tribute][dunning-2016-aoc-difference-maker].
 Liskevych uses the same episode as the canonical illustration of
-player-first system design — build systems around the roster you have, not
+player-first system design, build systems around the roster you have, not
 the roster you planned for [aoc-2017-liskevych-dunning-tribute].
 
 **Teach clearly; develop incrementally.** Dunning prefers explaining skills,
 techniques, and tactics with clarity to relying on motivational speeches
 [dunning-2016-aoc-difference-maker]. Meaningful player development in his
-framing happens through consistent daily actions, not isolated interventions —
+framing happens through consistent daily actions, not isolated interventions, 
 the kind of longitudinal teaching that shows up in his AOC fundamentals
 articles on [[setting-hands]] hand-hinge mechanics
 [aoc-2024-setting-hand-hinge], the float-serve toss [aoc-2024-float-serve-toss],
@@ -121,7 +121,7 @@ every day" [aoc-2024-dunning-non-starter-side].
 **Culture and chemistry as deliberate coaching outputs.** Team culture and
 chemistry in Dunning's view are built on purpose, not accidents of roster
 composition [aoc-2018-dunning-team-culture]. Communication is the central
-mechanic — coaches must build it deliberately — and the principle applies
+mechanic, coaches must build it deliberately, and the principle applies
 across the age range from youth to collegiate [aoc-2018-dunning-team-culture].
 The tone-setting cues are small and specific: Stanford's standard
 "punishment" for lapses like slow ball-rounding after a drill was having the
@@ -136,7 +136,7 @@ priority is the opponent's strength, not only their weakness, and Stanford's
 serve-receive preparation deliberately includes serves passers aren't used
 to passing, building unfamiliarity resistance before the match arrives
 [aoc-2017-dunning-stanford-character]. He also explicitly delegates a staff
-member to keep him in character before important matches — even if that means
+member to keep him in character before important matches, even if that means
 ordering him to sit outside and listen to birds for an hour
 [aoc-2017-dunning-stanford-character]. The coach's emotional regulation is
 treated as a coaching system, not a personality feature.
@@ -146,7 +146,7 @@ treated as a coaching system, not a personality feature.
 **The five-NCAA-title résumé.** Pacific x2 plus Stanford x3 (2001, 2004, 2016)
 gives Dunning the second-most NCAA titles in women's D1 volleyball history
 [aoc-2017-liskevych-dunning-tribute][dunning-2016-aoc-difference-maker]. Seven
-national championship-match appearances and a 58–13 NCAA tournament record at
+national championship-match appearances and a 58 to 13 NCAA tournament record at
 Stanford round out the on-court case [dunning-2016-aoc-difference-maker]. The
 32-season .828 winning percentage [aoc-2017-liskevych-dunning-tribute] is the
 kind of longevity-plus-peak combination that anchors him alongside
@@ -154,7 +154,7 @@ kind of longevity-plus-peak combination that anchors him alongside
 modern era.
 
 **Co-founding [[art-of-coaching-volleyball]] (2011).** With Liskevych and
-Rose, Dunning launched AOC as a coaching-education platform — the teach-the-
+Rose, Dunning launched AOC as a coaching-education platform, the teach-the-
 coaches infrastructure that now distributes much of American volleyball
 pedagogy at scale [dunning-2016-aoc-difference-maker][aoc-2017-liskevych-dunning-tribute].
 The platform's reach is substantial: as of 2026 the affiliated Instagram
@@ -167,7 +167,7 @@ program management [aoc-2024-dunning-non-starter-side].
 
 **Fundamentals documentation.** Through AOC, Dunning has produced durable
 coaching references for individual skills. On setting, he describes the
-hand-hinge wrist motion as the gating mechanic for a setter — hands contact
+hand-hinge wrist motion as the gating mechanic for a setter, hands contact
 the side of the ball rather than behind it, and players who cannot replicate
 the motion may be better served at another position [aoc-2024-setting-hand-hinge].
 On float serving, the toss is "the worst skill in volleyball" and the single
@@ -175,7 +175,7 @@ biggest leverage point; better tosses give players control of ball contact and
 produce tougher, flatter serves, and he prescribes isolated toss reps to
 build consistency [aoc-2024-float-serve-toss]. On serving warm-ups, he argues
 serving and hitting place different demands on the shoulder and kinetic chain
-and deserve separate progressions — start at the 10-foot line and walk back
+and deserve separate progressions, start at the 10-foot line and walk back
 to the service line, serving slow and short before adding distance and speed
 [aoc-2018-dunning-serve-warmup]. On attacking, he asks every hitter to
 articulate what type of hitter she is, so she can invest in the strengths of
@@ -184,7 +184,7 @@ that style and target its gaps [aoc-2018-dunning-hitter-types].
 **Cross-generational coaching panels and clinics.** Dunning is a regular
 clinician on AOC's major events. The 2017 "One Big Thing" panel placed him
 alongside Liskevych, Canadian men's national-team head coach Glenn Hoag, and
-University of Alberta head coach Laurie Eisler — a cross-federation forum
+University of Alberta head coach Laurie Eisler, a cross-federation forum
 pitched at HS, club, and youth coaches [aoc-2017-one-big-thing-panel]. The
 2020 AOC Virtual Clinic paired him with [[russ-rose]] and Jim Stone on
 principles of passing, framing passing as a set of trainable principles
@@ -196,11 +196,11 @@ preparation to working coaches through the late 2010s
 ## Quotes & representative passages
 
 - "Never act in a way that makes someone you interact with doubt you care."
-  — paraphrased from Dunning by Stanford captain Inky Ajanaku and adopted as
+ , paraphrased from Dunning by Stanford captain Inky Ajanaku and adopted as
   his defining principle [dunning-2016-aoc-difference-maker][aoc-2017-liskevych-dunning-tribute].
 
 - "Listen. Stop solving things. Just listen, and maybe ask questions. You
-  will evolve." — first of his "10 things I've learned"
+  will evolve.", first of his "10 things I've learned"
   [aoc-2017-dunning-10-things].
 
 - "One of the cornerstones of success is competing. Focus on it, practice
@@ -209,7 +209,7 @@ preparation to working coaches through the late 2010s
 
 - "As soon as you're sure you have found 'The Way,' turn around and look
   back to find the place you went off the road, then go there and decide
-  what's next." — on the limits of methodological certainty
+  what's next.", on the limits of methodological certainty
   [aoc-2017-dunning-10-things].
 
 - On the 2016 title: "One of the reasons our team won at the end of the
@@ -222,20 +222,20 @@ preparation to working coaches through the late 2010s
   tougher, more accurate serves [aoc-2024-float-serve-toss].
 
 - On serve warm-ups: "Start serving slow and short before moving back and
-  adding speed" — Stanford's standard 10-foot-line-to-service-line
+  adding speed", Stanford's standard 10-foot-line-to-service-line
   progression [aoc-2018-dunning-serve-warmup].
 
 ## Sources
-- [[dunning-2016-aoc-difference-maker]] — John Dunning: A Difference-Maker in Volleyball (AOC editorial, 2016)
-- [[aoc-2017-liskevych-dunning-tribute]] — Liskevych's retirement tribute to Dunning (AOC, 2017)
-- [[aoc-2017-dunning-10-things]] — 10 things John Dunning has learned about coaching volleyball (AOC, 2017)
-- [[aoc-2017-dunning-makes-players-sing]] — Why players sing in John Dunning's practices (AOC, 2017)
-- [[aoc-2017-dunning-stanford-character]] — Stanford match analysis and character preservation (AOC, 2017)
-- [[aoc-2018-dunning-team-culture]] — Team culture & chemistry (AOC / 2017 Chapel Hill Clinic)
-- [[aoc-2018-dunning-serve-warmup]] — Stanford serve warm-ups: start slow (AOC, 2018)
-- [[aoc-2018-dunning-hitter-types]] — What kind of hitter are you? (AOC, 2018)
-- [[aoc-2024-dunning-non-starter-side]] — Motivating the non-starter side of the net (AOC, 2024)
-- [[aoc-2024-setting-hand-hinge]] — Setting fundamentals: the hand-hinge movement (AOC, 2024)
-- [[aoc-2024-float-serve-toss]] — Great float serves start with a great toss (AOC, 2024)
-- [[aoc-2020-passing-principles]] — The principles of passing (AOC Virtual Clinic, 2020)
-- [[aoc-2017-one-big-thing-panel]] — "One Big Thing" panel with Dunning, Liskevych, Hoag, Eisler (AOC, 2017)
+- [[dunning-2016-aoc-difference-maker]]: John Dunning: A Difference-Maker in Volleyball (AOC editorial, 2016)
+- [[aoc-2017-liskevych-dunning-tribute]]: Liskevych's retirement tribute to Dunning (AOC, 2017)
+- [[aoc-2017-dunning-10-things]]: 10 things John Dunning has learned about coaching volleyball (AOC, 2017)
+- [[aoc-2017-dunning-makes-players-sing]]: Why players sing in John Dunning's practices (AOC, 2017)
+- [[aoc-2017-dunning-stanford-character]]: Stanford match analysis and character preservation (AOC, 2017)
+- [[aoc-2018-dunning-team-culture]]: Team culture & chemistry (AOC / 2017 Chapel Hill Clinic)
+- [[aoc-2018-dunning-serve-warmup]]: Stanford serve warm-ups: start slow (AOC, 2018)
+- [[aoc-2018-dunning-hitter-types]]: What kind of hitter are you? (AOC, 2018)
+- [[aoc-2024-dunning-non-starter-side]]: Motivating the non-starter side of the net (AOC, 2024)
+- [[aoc-2024-setting-hand-hinge]]: Setting fundamentals: the hand-hinge movement (AOC, 2024)
+- [[aoc-2024-float-serve-toss]]: Great float serves start with a great toss (AOC, 2024)
+- [[aoc-2020-passing-principles]]: The principles of passing (AOC Virtual Clinic, 2020)
+- [[aoc-2017-one-big-thing-panel]]: "One Big Thing" panel with Dunning, Liskevych, Hoag, Eisler (AOC, 2017)

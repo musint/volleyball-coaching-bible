@@ -20,7 +20,7 @@ Utah's Beth Launiere modifies over-the-net pepper into a right-side-only 3v3 for
 
 ## Key claims / ideas
 - 3v3 setup per side: hitter (right front), setter (net), passer (right back).
-- Every set must go to Zone 2, every swing is cross-court — high rep density for opposites.
+- Every set must go to Zone 2, every swing is cross-court, high rep density for opposites.
 - Rotate roles clockwise or counterclockwise after each rally.
 - Line-swing variation: move the passer to the left side, require the attacker to hit line.
 - Competitive overlay: place court markers and award points for hitting target zones.
@@ -37,5 +37,5 @@ Utah's Beth Launiere modifies over-the-net pepper into a right-side-only 3v3 for
 ## Access
 - Raw file: [[aoc-2023-launiere-right-side-pepper]]
 - URL: https://www.theartofcoachingvolleyball.com/right-side-hitting-drill-with-over-the-net-pepper-format/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

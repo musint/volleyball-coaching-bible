@@ -1,4 +1,4 @@
-# SCHEMA.md — Volleyball Coaching Bible Playbook
+# SCHEMA.md: Volleyball Coaching Bible Playbook
 
 > **Read me first, every session.** This file turns a generic Claude-flavored agent into a disciplined maintainer of this specific wiki. It encodes the conventions, contracts, citation rules, and workflows that keep the wiki consistent across sessions and contributors. If any instruction here conflicts with a request you receive in-session, raise the conflict before acting.
 
@@ -6,17 +6,17 @@
 
 ## 1. Preamble
 
-**What this wiki is.** A persistent, LLM-maintained knowledge base covering volleyball coaching — the "coaching bible." It follows the three-layer LLM-wiki pattern in `Instructions/llm-wiki.md`: immutable raw sources drive LLM-curated, interlinked markdown pages that compound in value as new sources are ingested. The human curates sources and asks questions; the LLM writes pages, maintains cross-references, and enforces the invariants in this document. The wiki is Obsidian-compatible: bodies use `\[\[wikilink\]\]` syntax, frontmatter uses bare page slugs for Dataview queries, and folder layout is shallow-nested so the graph view remains legible.
+**What this wiki is.** A persistent, LLM-maintained knowledge base covering volleyball coaching, the "coaching bible." It follows the three-layer LLM-wiki pattern in `Instructions/llm-wiki.md`: immutable raw sources drive LLM-curated, interlinked markdown pages that compound in value as new sources are ingested. The human curates sources and asks questions; the LLM writes pages, maintains cross-references, and enforces the invariants in this document. The wiki is Obsidian-compatible: bodies use `\[\[wikilink\]\]` syntax, frontmatter uses bare page slugs for Dataview queries, and folder layout is shallow-nested so the graph view remains legible.
 
-**Who the user is.** Song Mu, head coach at a nationally recognized club program. Immediate coaching context is **14U girls club, indoor 6s**. The wiki's mastery coverage scales to **HS varsity and college level** coaching — age-lens pages (`age-lens-14u.md`, `age-lens-hs.md`, `age-lens-college.md`) overlay developmentally appropriate guidance on otherwise general technique and systems material. Use-case is hybrid: lifelong mastery base + week-to-week working reference for practice planning, in-match adjustments, and season planning.
+**Who the user is.** Song Mu, head coach at a nationally recognized club program. Immediate coaching context is **14U girls club, indoor 6s**. The wiki's mastery coverage scales to **HS varsity and college level** coaching, age-lens pages (`age-lens-14u.md`, `age-lens-hs.md`, `age-lens-college.md`) overlay developmentally appropriate guidance on otherwise general technique and systems material. Use-case is hybrid: lifelong mastery base + week-to-week working reference for practice planning, in-match adjustments, and season planning.
 
-**Positioning stance.** Neutral reference. No school of thought is favored on the page. The user's preferred traditions — Japanese training, Karch Kiraly, Art of Coaching Volleyball (AOC), Gold Medal Squared (GMS), USA Volleyball CAP — are thoroughly documented alongside alternatives (Russian, Brazilian, Italian, constraints-led / ecological dynamics, game-based training). When schools disagree, present tradeoffs with attribution and do not resolve. Beach volleyball and coach-certification study guides are out of scope.
+**Positioning stance.** Neutral reference. No school of thought is favored on the page. The user's preferred traditions: Japanese training, Karch Kiraly, Art of Coaching Volleyball (AOC), Gold Medal Squared (GMS), USA Volleyball CAP, are thoroughly documented alongside alternatives (Russian, Brazilian, Italian, constraints-led / ecological dynamics, game-based training). When schools disagree, present tradeoffs with attribution and do not resolve. Beach volleyball and coach-certification study guides are out of scope.
 
 ---
 
 ## 2. Directory map
 
-### 2.1 `wiki/` — LLM-owned markdown
+### 2.1 `wiki/`: LLM-owned markdown
 
 ```
 wiki/
@@ -52,7 +52,7 @@ wiki/
 
 **Obsidian plugin requirement:** skill-hub, age-lens, position, and planning pages include `dataview` code blocks that render drill/source catalogs from frontmatter. Install the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) community plugin in Obsidian to render them; without the plugin the queries show as markdown source (harmless but not useful).
 
-### 2.2 `raw/` — immutable source material (LLM reads, never edits)
+### 2.2 `raw/`, immutable source material (LLM reads, never edits)
 
 ```
 raw/
@@ -66,7 +66,7 @@ raw/
   images/                    Figures, court diagrams, photos referenced from wiki pages
 ```
 
-**Copyright rule.** The agent will not source or download copyrighted books without rights. The user can legally drop owned PDFs into `raw/books/` and those become fair-use-summarizable. Otherwise, cite books using publisher previews, author interviews, clinic recordings, reviews, and course syllabi — all legal fair-use material.
+**Copyright rule.** The agent will not source or download copyrighted books without rights. The user can legally drop owned PDFs into `raw/books/` and those become fair-use-summarizable. Otherwise, cite books using publisher previews, author interviews, clinic recordings, reviews, and course syllabi, all legal fair-use material.
 
 ---
 
@@ -91,7 +91,7 @@ Ten page types. Basenames are globally unique, so Obsidian `\[\[wikilinks\]\]` r
 - **Folder / filename:** `wiki/<topic>.md`
 - **Required frontmatter:** `type: hub`, `area`, `subtopics`
 - **Required body sections:** `## Overview`, `## Major subtopics`, `## Schools of thought`, `## Getting started`, `## Related areas`, `## Sources`
-- **Target length:** 600–1200 words. Navigational, not expository.
+- **Target length:** 600 to 1200 words. Navigational, not expository.
 - **Citation weight:** Light (hub pages are entry points; claims belong on subordinate pages).
 - **Cross-link rules:** Every hub links to its high-volume subfolder(s) and to at least one related hub. Orphan hubs fail lint.
 
@@ -107,15 +107,15 @@ Ten page types. Basenames are globally unique, so Obsidian `\[\[wikilinks\]\]` r
 - **Folder / filename:** `schools/<slug>.md`
 - **Required frontmatter:** `type: school`, `name`, `origin`, `founders`, `core-principles`, `associated-coaches`, `sources` (≥1). Optional: `related-schools`.
 - **Required body sections:** `## Overview`, `## Core principles`, `## Methodology`, `## Notable practitioners`, `## Contrasts with other schools`, `## Critiques and limitations`, `## Sources`
-- **Target length:** 2000–2500 words (these are among the longest, most heavily cited pages).
+- **Target length:** 2000 to 2500 words (these are among the longest, most heavily cited pages).
 - **Citation weight:** Heavy. Inline `[citation-key]` for each core principle and each contrast claim.
-- **Cross-link rules:** `associated-coaches` must match each listed coach's `schools:` field (bidirectional — enforced by lint). `Contrasts with other schools` must wikilink to the contrasted school page and attribute the contrast to a source (no handwaving "some coaches say").
+- **Cross-link rules:** `associated-coaches` must match each listed coach's `schools:` field (bidirectional, enforced by lint). `Contrasts with other schools` must wikilink to the contrasted school page and attribute the contrast to a source (no handwaving "some coaches say").
 
 ### 3.4 Technique pages
 - **Folder / filename:** `techniques/<skill>-<subskill>.md` (e.g., `passing-forearm.md`, `blocking-read.md`)
-- **Required frontmatter:** `type: technique`, `skill` (enum, see §4), `subskill`, `positions`, `related-drills`, `sources`. Optional: `related-techniques`, `schools-perspectives` (**required if contested** — ≥2 entries).
+- **Required frontmatter:** `type: technique`, `skill` (enum, see §4), `subskill`, `positions`, `related-drills`, `sources`. Optional: `related-techniques`, `schools-perspectives` (**required if contested**: ≥2 entries).
 - **Required body sections:** `## Overview`, `## Teaching progressions`, `## Common errors`, `## Schools-perspectives` (include only if topic is contested), `## Related drills`, `## Sources`
-- **Target length:** 800–1500 words.
+- **Target length:** 800 to 1500 words.
 - **Citation weight:** Light. No inline citations in progressions/errors; `## Sources` at bottom.
 - **Cross-link rules:** Every `related-drills` slug must correspond to a real drill page (or be stubbed). Every `positions` slug must be valid. If `schools-perspectives` is present, each school referenced must have a `schools/` page.
 
@@ -123,7 +123,7 @@ Ten page types. Basenames are globally unique, so Obsidian `\[\[wikilinks\]\]` r
 - **Folder / filename:** `positions/<position>.md` (enum: `setter`, `outside-hitter`, `middle-blocker`, `opposite`, `libero`, `defensive-specialist`)
 - **Required frontmatter:** `type: position`, `position`, `role`, `physical-profile`, `key-skills`, `common-drills`. Optional: `related-coaches`.
 - **Required body sections:** `## Role and responsibilities`, `## Physical profile`, `## Key skills`, `## Common drills`, `## Position-specific coaching points`, `## Progression by level`, `## Sources`
-- **Target length:** 800–1200 words.
+- **Target length:** 800 to 1200 words.
 - **Citation weight:** Light.
 - **Cross-link rules:** `key-skills` links to technique pages. `common-drills` links to drill pages. `## Progression by level` must wikilink to `age-lens-14u.md`, `age-lens-hs.md`, `age-lens-college.md` as relevant.
 
@@ -131,7 +131,7 @@ Ten page types. Basenames are globally unique, so Obsidian `\[\[wikilinks\]\]` r
 - **Folder / filename:** `systems-detail/<category>-<name>.md` (e.g., `offense-5-1.md`, `defense-rotation.md`)
 - **Required frontmatter:** `type: system`, `category` (enum, see §4), `name`, `age-appropriateness`, `complexity` (enum), `when-to-use`, `alternatives`, `sources`.
 - **Required body sections:** `## Overview`, `## Personnel requirements`, `## Diagram or text description of alignment`, `## Strengths`, `## Weaknesses`, `## When to use / when not to use`, `## Alternatives and adjustments`, `## Sources`
-- **Target length:** 1000–1500 words.
+- **Target length:** 1000 to 1500 words.
 - **Citation weight:** Light.
 - **Cross-link rules:** `alternatives` must reference real system slugs (or be stubbed). `age-appropriateness` must only include recognized levels. Diagram images live in `raw/images/`.
 
@@ -152,7 +152,7 @@ Ten page types. Basenames are globally unique, so Obsidian `\[\[wikilinks\]\]` r
   - YouTube (non-coach-authored): `yt-<channel-slug>-<YYYYMMDD>-<slug>`
 - **Required frontmatter:** `type: source`, `source-type` (enum), `title`, `author`, `year`, `citation-key` (must match filename), `raw-file` (path under `raw/`), `topics`, `featured-coaches`, `schools`, `trust-tier` (enum 1/2/3). Optional: `url`. **For research / biomechanics / sports-medicine sources, also include `participants-sex` (enum: `female | male | mixed | unspecified`) and optionally `participants-n` (integer).** This lets coaches reading "spike biomechanics show X" know whether X was measured on women, men, or a mix.
 - **Required body sections:** `## Summary`, `## Key claims / ideas`, `## Topics covered`, `## Where it's cited`, `## Access`
-- **Target length:** 400–800 words.
+- **Target length:** 400 to 800 words.
 - **Citation weight:** N/A (sources are the targets of citations, not citers).
 - **Cross-link rules:** `raw-file` must point to an existing file in `raw/`. `featured-coaches` slugs must eventually resolve to coach pages (forward references allowed during bootstrap; must resolve after Wave 2). `## Where it's cited` is updated as wiki pages add this source.
 
@@ -160,16 +160,16 @@ Ten page types. Basenames are globally unique, so Obsidian `\[\[wikilinks\]\]` r
 - **Folder / filename:** `wiki/age-lens-<label>.md` (e.g., `age-lens-14u.md`). Labels: `14u`, `hs`, `college`.
 - **Required frontmatter:** `type: age-lens`, `label`, `scope`, `emphasis`, `age-ceilings`, `sources`.
 - **Required body sections:** `## Scope`, `## Development priorities`, `## Appropriate techniques & systems`, `## NOT appropriate at this level`, `## Practice design adaptations`, `## Season-planning adaptations`, `## Sources`
-- **Target length:** 1200–1800 words.
-- **Citation weight:** Heavy (age-appropriateness claims must be sourced — USAV age-appropriate guidelines are the strongest anchor).
+- **Target length:** 1200 to 1800 words.
+- **Citation weight:** Heavy (age-appropriateness claims must be sourced: USAV age-appropriate guidelines are the strongest anchor).
 - **Cross-link rules:** `## Appropriate techniques & systems` must wikilink to specific technique/system pages. `## NOT appropriate at this level` must name specific systems/techniques with reasons attributed to sources.
 
 ### 3.10 Practice-plan pages
 
-- **Folder / filename:** `wiki/practice-plans/<level>-<duration>-<label>.md`. Label is a descriptive kebab-case slug — typically the focus, or the season context when more identifying than the focus. Frontmatter carries the structured enums.
-- **Required frontmatter:** `type: practice-plan`, `level`, `duration-min`, `focus`, `season-phase`, `drills` (≥3 required — each must resolve to a drill page), `sources` (≥1 required). Optional: `audience` (manual-layer enum, see §4) — present on club-flavored plans (`level: 14u`, `level: hs`); college plans default to NCAA-women context and may omit.
+- **Folder / filename:** `wiki/practice-plans/<level>-<duration>-<label>.md`. Label is a descriptive kebab-case slug, typically the focus, or the season context when more identifying than the focus. Frontmatter carries the structured enums.
+- **Required frontmatter:** `type: practice-plan`, `level`, `duration-min`, `focus`, `season-phase`, `drills` (≥3 required, each must resolve to a drill page), `sources` (≥1 required). Optional: `audience` (manual-layer enum, see §4): present on club-flavored plans (`level: 14u`, `level: hs`); college plans default to NCAA-women context and may omit.
 - **Required body sections:** `## Context`, `## Learning objectives`, `## Time blocks` (with sub-sections per phase, each naming drills as wikilinks with time allocations), `## Coaching cues`, `## Variations`, `## Adaptations by level`, `## Sources`.
-- **Target length:** 500–800 words.
+- **Target length:** 500 to 800 words.
 - **Citation weight:** Light. No inline citations; `## Sources` at bottom.
 - **Cross-link rules:** Every `drills:` slug must correspond to a real drill page. Plans SHOULD wikilink to the applicable age-lens page.
 
@@ -191,7 +191,7 @@ Required body sections vary by scope:
   - `match-prep`: Purpose / Inputs / Form / Workflow / Sources
   - `tryout-rubric`: Purpose / Evaluation criteria / Scoring / Calibration notes / Sources
   - `club-ops`: Purpose / Process / Templates / Common pitfalls / Sources
-- **Target length:** 400–800 words.
+- **Target length:** 400 to 800 words.
 - **Citation weight:** Light. No inline citations; `## Sources` at bottom.
 - **Cross-link rules:** Should wikilink to relevant hub pages (e.g., match-prep templates link to [[match-prep]]; club-ops pages link to [[recruiting]] or other relevant context as appropriate).
 
@@ -200,7 +200,7 @@ Required body sections vary by scope:
 - **Folder / filename:** `wiki/age-guides/<age>.md` (e.g., `12s.md`).
 - **Required frontmatter:** `type: age-guide`, `age` (enum: 10s | 11s | 12s | 13s | 14s | 15s | 16s | 17s | 18s), `phase` (enum: introduction | fundamentals | late-fundamentals | specialization | advanced | college-bridge), `audience` (manual-layer enum, see §4), `sources` (≥3).
 - **Required body sections:** `## Overview & development phase`, `## Skill milestones` (with subsections per skill), `## Systems repertoire`, `## Athletic profile`, `## Mental & coachability markers`, `## Promotion criteria`, `## Common coaching corrections`, `## Recommended drills`, `## Recommended cues`, `## Sources`.
-- **Target length:** 2500–3000 words.
+- **Target length:** 2500 to 3000 words.
 - **Citation weight:** Heavy.
 - **Cross-link rules:** wikilink corresponding `wiki/drill-picks/<age>-drills.md` and `wiki/ops/tryout-rubric-<age>.md`; subskill mentions wikilink the relevant `wiki/cues/<skill>-cues.md`; adjacent age-guides cross-reference each other.
 
@@ -209,7 +209,7 @@ Required body sections vary by scope:
 - **Folder / filename:** `wiki/cues/<skill>-cues.md` (e.g., `passing-cues.md`).
 - **Required frontmatter:** `type: cue-dictionary`, `skill` (enum from existing skill set), `age-bands` (list of age enum values), `audience` (manual-layer enum, see §4), `sources` (≥3).
 - **Required body sections:** `## Overview`, `## Per-subskill canonical cues`, `## Anti-cues`, `## Voice consistency notes`, `## Sources`.
-- **Target length:** 1200–1800 words.
+- **Target length:** 1200 to 1800 words.
 - **Citation weight:** Heavy.
 - **Cross-link rules:** wikilinks to relevant technique pages and to coach pages whose cues are cited.
 
@@ -218,7 +218,7 @@ Required body sections vary by scope:
 - **Folder / filename:** `wiki/drill-picks/<age>-drills.md` (e.g., `12s-drills.md`).
 - **Required frontmatter:** `type: drill-pick-list`, `age` (enum), `season-context` (enum: composite | preseason | mid-season | pre-tournament | taper | tryout | postseason | match-day), `drills` (list, ≥10 real drill slugs from `wiki/drills/`), `audience` (manual-layer enum, see §4), `sources` (≥1).
 - **Required body sections:** `## Purpose`, `## Must-do drill list`, `## When-in-season-to-use mapping`, `## Adaptations`, `## Sources`.
-- **Target length:** 600–900 words.
+- **Target length:** 600 to 900 words.
 - **Citation weight:** Light.
 - **Cross-link rules:** every drill in `drills:` frontmatter must resolve to a real `wiki/drills/<slug>.md` page; the corresponding age-guide wikilinks back to this page.
 
@@ -388,11 +388,11 @@ sources: [...]                      # ≥1 required
 - `scope ∈ {single-session, week, macrocycle}` (practice-plan)
 - `kind ∈ {match-prep, tryout-rubric, club-ops}` (ops-doc)
 - `audience ∈ {coach, parent, club-director, front-office}` (ops-doc reader-role, optional)
-- `audience ∈ {womens-indoor-6s, mens-indoor-6s, mixed-indoor-6s, womens-beach, mens-beach, mixed}` (manual-layer pages — required on age-guide / drill-pick-list / cue-dictionary / ops-doc tryout-rubric / club practice-plans)
+- `audience ∈ {womens-indoor-6s, mens-indoor-6s, mixed-indoor-6s, womens-beach, mens-beach, mixed}` (manual-layer pages, required on age-guide / drill-pick-list / cue-dictionary / ops-doc tryout-rubric / club practice-plans)
 - `age ∈ {10s, 11s, 12s, 13s, 14s, 15s, 16s, 17s, 18s}` (age-guide / drill-pick-list / tryout-rubric)
 - `phase ∈ {introduction, fundamentals, late-fundamentals, specialization, advanced, college-bridge}` (age-guide)
 - `season-context ∈ {composite, preseason, mid-season, pre-tournament, taper, tryout, postseason, match-day}` (drill-pick-list)
-- `participants-sex ∈ {female, male, mixed, unspecified}` (research source pages only — required when `source-type: research` and topics include biomechanics / motor-learning / sports-medicine / training-load / injury-prevention; optional companion field `participants-n` is the integer cohort size)
+- `participants-sex ∈ {female, male, mixed, unspecified}` (research source pages only, required when `source-type: research` and topics include biomechanics / motor-learning / sports-medicine / training-load / injury-prevention; optional companion field `participants-n` is the integer cohort size)
 
 ---
 
@@ -421,10 +421,10 @@ sources: [...]                      # ≥1 required
 Any claim that cannot be backed by a source gets an inline `[unsourced]` tag AND an entry in `wiki/unsourced-queue.md`. The queue entry must include:
 - The page path and the exact sentence containing the claim
 - Why it's unsourced (couldn't find Tier 1/2 evidence, contested beyond reviewed material, personal observation, etc.)
-- A research hypothesis — where to look to source it later (specific book chapter, interview, paper, author to track down)
+- A research hypothesis, where to look to source it later (specific book chapter, interview, paper, author to track down)
 - The date added
 
-`[unsourced]` exists to keep intellectual honesty mechanical. Do not hide unsourced claims by omitting them — write them with the tag, queue them, and let lint surface them for future ingest sessions.
+`[unsourced]` exists to keep intellectual honesty mechanical. Do not hide unsourced claims by omitting them, write them with the tag, queue them, and let lint surface them for future ingest sessions.
 
 ---
 
@@ -434,7 +434,7 @@ Any claim that cannot be backed by a source gets an inline `[unsourced]` tag AND
 2. Every coach profile must link to ≥1 school page AND ≥1 source page (via `schools:` and `sources:` frontmatter).
 3. Every technique page where schools genuinely disagree must have ≥2 entries in `schools-perspectives` frontmatter AND a `## Schools-perspectives` body section.
 4. Every source page must exist before being cited anywhere in the wiki.
-5. No page may be orphaned (zero inbound wikilinks) — every page is reachable from a hub or peer.
+5. No page may be orphaned (zero inbound wikilinks): every page is reachable from a hub or peer.
 6. Every inline `[citation-key]` must resolve to a source page's `citation-key` field.
 
 **Enforcement:** the agent enforces these pre-commit on any page it writes or modifies. The lint workflow (§8.3) runs a periodic full-repo scan and reports violations.
@@ -445,12 +445,12 @@ Any claim that cannot be backed by a source gets an inline `[unsourced]` tag AND
 
 Priority-ordered; cite accordingly.
 
-**Tier 1 — Primary / authoritative. Cite freely.**
+**Tier 1: Primary / authoritative. Cite freely.**
 - Published books by credentialed coaches (Kiraly, McCutcheon, Hebert, Liskevych, Dunning, Rose, etc.)
 - USA Volleyball official resources (CAP, coaching toolbox, age-appropriate guidance, IMPACT course materials)
 - Peer-reviewed research on motor learning, skill acquisition, sports science, ecological dynamics
 
-**Tier 2 — Trusted secondary. Cite with affiliation noted.**
+**Tier 2: Trusted secondary. Cite with affiliation noted.**
 - Art of Coaching Volleyball (AOC) content
 - Gold Medal Squared (GMS) materials
 - The Net Live
@@ -458,7 +458,7 @@ Priority-ordered; cite accordingly.
 - Established federation sites (FIVB, JVA, CEV)
 - Clinic recordings from major conventions (AVCA Convention, USAV High Performance Coach Clinic, JVA Challenge)
 
-**Tier 3 — Corroborate before citing. Attribute clearly; use only if supported by a Tier 1/2 source OR coming from a verified coach/athlete account.**
+**Tier 3: Corroborate before citing. Attribute clearly; use only if supported by a Tier 1/2 source OR coming from a verified coach/athlete account.**
 - Instagram, TikTok (verified coach/athlete accounts only)
 - YouTube non-credentialed channels
 - Forum threads, uncredited blogs
@@ -484,7 +484,7 @@ Every source page's frontmatter has `trust-tier: 1|2|3`. Lint flags any claim in
 
 - **Never fabricate citations.** If a claim can't be sourced, tag `[unsourced]` and queue it. Making up author/year/title is a cardinal violation.
 - **Never pick sides** on school disagreements. Present tradeoffs with attribution.
-- **Never duplicate content** across pages — cross-link instead. If two pages are saying the same thing, the shared material belongs on a third page that both link to.
+- **Never duplicate content** across pages, cross-link instead. If two pages are saying the same thing, the shared material belongs on a third page that both link to.
 - **Never write content in `index.md` or `log.md`.** `index.md` is a catalog (one-line summaries only); `log.md` is chronological operations only. Substantive content goes in topical pages.
 - **Never cite a source page that doesn't exist.** Create the source page first, then cite it.
 - **Never write inline citations on light-citation pages.** Technique/drill/position/system pages get `## Sources` at bottom only.
@@ -498,7 +498,7 @@ Every source page's frontmatter has `trust-tier: 1|2|3`. Lint flags any claim in
 
 Every new session runs this 4-step drill before any read or write operation:
 
-1. **Read this file top-to-bottom** (`wiki/SCHEMA.md`). Don't skim — the invariants matter.
+1. **Read this file top-to-bottom** (`wiki/SCHEMA.md`). Don't skim, the invariants matter.
 2. **Read `wiki/index.md`** to see the current catalog of pages.
 3. **Tail the last 20 lines of `wiki/log.md`** to see recent activity:
    ```bash
@@ -514,13 +514,13 @@ Every new session runs this 4-step drill before any read or write operation:
 
 1. User drops file in `raw/<category>/` **or** provides URL. If URL: fetch, convert to markdown, save to appropriate `raw/` subfolder with a slugged filename. Update `raw/INDEX.md` with one-line entry.
 2. Read the source end-to-end.
-3. Brief the user: 2–3 key takeaways, anything surprising, anything that contradicts existing wiki claims.
+3. Brief the user: 2 to 3 key takeaways, anything surprising, anything that contradicts existing wiki claims.
 4. Create or update `sources/<citation-key>.md` with full frontmatter (including `trust-tier`). Populate Summary and Key claims sections.
-5. Identify every affected page (coaches, schools, techniques, drills, systems, hubs). A single rich source typically touches 10–15 pages.
+5. Identify every affected page (coaches, schools, techniques, drills, systems, hubs). A single rich source typically touches 10 to 15 pages.
 6. For each affected page:
    - Add the new citation-key to the page's `sources:` frontmatter
    - Add inline `[citation-key]` where claims are supported (per citation weight policy)
-   - Add a `## Contradictions` callout if this source disagrees with an existing claim — present both, attribute, do not resolve
+   - Add a `## Contradictions` callout if this source disagrees with an existing claim, present both, attribute, do not resolve
    - Create stub pages for any new entity (coach, drill, technique, system) introduced by the source
 7. Update `wiki/index.md` to reflect new pages and any re-categorizations.
 8. Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | <title> | touched N pages`.
@@ -530,7 +530,7 @@ Every new session runs this 4-step drill before any read or write operation:
 ### 8.2 Query (user asks a question)
 
 1. Read `wiki/index.md`; identify candidate pages.
-2. Read those pages in full (don't skim frontmatter — bodies often hold the nuance).
+2. Read those pages in full (don't skim frontmatter, bodies often hold the nuance).
 3. If the answer requires information outside the wiki, either:
    - Offer to research + ingest fresh sources before answering, OR
    - Answer best-effort with explicit `[unsourced]` tags queued for future backfill.
@@ -542,23 +542,23 @@ Every new session runs this 4-step drill before any read or write operation:
 
 Run on demand (the user says "lint the wiki" or similar). Produces a findings report; user triages fixes.
 
-1. **Orphan scan** — list pages with zero inbound wikilinks.
-2. **Cross-link invariant check** — enumerate violations of the 6 rules in §6.
-3. **Unsourced queue triage** — highlight entries with the highest wiki-coverage impact (i.e., claims cited on the most pages).
-4. **Stale-claim scan** — methodology and technique pages whose newest cited source is more than 5 years old.
-5. **Frontmatter validation** — every required field present, every enum value valid, every `citation-key` resolvable.
-6. **Concept-gap detection** — terms mentioned on ≥3 pages with no dedicated page of their own.
-7. **Contradiction reconciliation** — review outstanding `## Contradictions` callouts with user; file a follow-up query if the field has evolved since the callout was written.
+1. **Orphan scan**: list pages with zero inbound wikilinks.
+2. **Cross-link invariant check**: enumerate violations of the 6 rules in §6.
+3. **Unsourced queue triage**: highlight entries with the highest wiki-coverage impact (i.e., claims cited on the most pages).
+4. **Stale-claim scan**: methodology and technique pages whose newest cited source is more than 5 years old.
+5. **Frontmatter validation**: every required field present, every enum value valid, every `citation-key` resolvable.
+6. **Concept-gap detection**: terms mentioned on ≥3 pages with no dedicated page of their own.
+7. **Contradiction reconciliation**: review outstanding `## Contradictions` callouts with user; file a follow-up query if the field has evolved since the callout was written.
 8. Report findings; the user decides what to fix now vs. what to queue.
 
 ### 8.4 Research (bootstrap + gap-filling)
 
 **Priority order for a given topic:**
 
-1. Check `raw/` first — we may already have it.
+1. Check `raw/` first, we may already have it.
 2. Tier 1 sources (books, USAV, peer-reviewed research).
 3. Tier 2 (AOC, GMS, The Net Live, VolleyballMag, FIVB, JVA).
-4. Tier 3 (Instagram, YouTube non-credentialed, forums — corroborate with Tier 1/2 before citing).
+4. Tier 3 (Instagram, YouTube non-credentialed, forums, corroborate with Tier 1/2 before citing).
 
 **Per-source fidelity rules:**
 

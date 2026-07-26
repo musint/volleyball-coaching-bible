@@ -21,10 +21,10 @@ variations: [munciana-biggie-smalls, gold-medal-scrimmage]
 Full 6v6 on a regulation court. Whiteboard visible to both sides. Coach with a ball cart at the sideline. Mike's frame: **[00:55:08]** "Momentum is a simple momentum drill."
 
 ## Execution
-1. Coach enters the first ball as a free ball — point value = 1.
+1. Coach enters the first ball as a free ball, point value = 1.
 2. The team that wins the rally banks 1 point and **the next ball is worth +1 point** (so 2 points the next rally if the same team wins again).
 3. Each consecutive point in a row escalates the value: 1, 2, 3, 4, 5...
-4. Any rally won by the **other** side breaks the run and resets the next ball to 1 point — but the other side now begins their own run starting at 1 (and the next consecutive win for them is worth 2).
+4. Any rally won by the **other** side breaks the run and resets the next ball to 1 point, but the other side now begins their own run starting at 1 (and the next consecutive win for them is worth 2).
 5. **[00:55:25]** "I throw the ball in on team A. They score. It's now one to nothing. They get the make-it-take-it ball. So if I throw them, the next ball is worth two."
 6. Play to 25.
 

@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Slobodan Kovač — Wikipedia biography"
+title: "Slobodan Kovač, Wikipedia biography"
 author: "Wikipedia contributors"
 year: 2026
 citation-key: kovac-2026-wikipedia
@@ -21,13 +21,13 @@ Wikipedia biographical article on **Slobodan "Boba" Kovač** (b. 13 September 19
 
 ## Key claims / ideas
 
-- **Player: 2000 Sydney Olympic gold (FR Yugoslavia)** and **1996 Atlanta Olympic bronze (FR Yugoslavia)** — two Olympic medals as an outside hitter.
+- **Player: 2000 Sydney Olympic gold (FR Yugoslavia)** and **1996 Atlanta Olympic bronze (FR Yugoslavia)**: two Olympic medals as an outside hitter.
 - **Player: 1997 European Championship silver** (Netherlands) and **1995 European Championship bronze** (Greece).
 - **Domestic championships as a player** with Vojvodina Novi Sad (Yugoslavian 1988-89; Serbia and Montenegro 1991-92); 14 club-affiliations across Yugoslavia, Italy (Volley Lube, Taranto, Gioia del Colle, Agnone, Molfetta), Greece (Aris Thessaloniki), France (Ajaccio), Iran (Shahrdari Urmia 2004-2006).
 - **Position:** outside hitter, 2.00 m / 6 ft 7 in.
-- **Coach: Iran men's NT 2014-2015** — including 2014 Asian Games gold.
+- **Coach: Iran men's NT 2014-2015**: including 2014 Asian Games gold.
 - **Coach: Slovenia men's NT 2017-2018.**
-- **Coach: Serbia men's NT 2019-2021** — including **2019 European Championship gold** (Slovenia/France/Belgium/Netherlands).
+- **Coach: Serbia men's NT 2019-2021**: including **2019 European Championship gold** (Slovenia/France/Belgium/Netherlands).
 - **Coach: Turkey men's NT 2025-present.**
 - **Club coaching tenure pattern:** Italian (Sir Safety Perugia 2010-2014, 2015-2016), Turkish (Halkbank Ankara 2016-2018, two Turkish championships), Russian (Belogorie Belgorod 2018-2019, CEV Challenge Cup), Polish (Jastrzębski Węgiel, Skra Bełchatów), and Italian (Top Volley Cisterna) work; current at Fenerbahçe (2023-2024, 2024-2026).
 - **Coach of the Year multiple awards:** Serbia 2008/2009/2010; Italy 2013/2014; CEV 2019; Olympic Committee of Serbia 2019.
@@ -43,14 +43,14 @@ Wikipedia biographical article on **Slobodan "Boba" Kovač** (b. 13 September 19
 
 ## Where it's cited
 
-- [[slobodan-kovac]] — primary subject
-- (forward) [[serbian-school]] — once Track A.4 lands
+- [[slobodan-kovac]]: primary subject
+- (forward) [[serbian-school]]: once Track A.4 lands
 
 ## Access
 
 - **Raw file:** `raw/articles/kovac-wikipedia.md`
 - **URL:** https://en.wikipedia.org/wiki/Slobodan_Kova%C4%8D
-- **Trust tier: 3** — Wikipedia reference biography. Strong for career dates, medal years, club affiliations. Weak for doctrinal/methodological claims; the article preserves results, not coaching philosophy quotes.
+- **Trust tier: 3**: Wikipedia reference biography. Strong for career dates, medal years, club affiliations. Weak for doctrinal/methodological claims; the article preserves results, not coaching philosophy quotes.
 
 ## Limitations
 

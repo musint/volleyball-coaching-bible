@@ -20,7 +20,7 @@ Russ Rose (Penn State '79-'21) walks through how to design drills based on what 
 ## Key claims / ideas
 
 - Drill setup is a function of the learning target, not a catalog you pick from.
-- Same drill concept at different levels requires different parameters — not just "the same drill, slower."
+- Same drill concept at different levels requires different parameters rather than "the same drill, slower."
 
 ## Topics covered
 

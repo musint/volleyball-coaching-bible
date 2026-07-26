@@ -13,21 +13,21 @@ schools: [brazilian-school]
 trust-tier: 1
 ---
 
-# Transformando Suor em Ouro — Bernardinho, 2006
+# Transformando Suor em Ouro: Bernardinho, 2006
 
 ## Summary
 
 **Transformando Suor em Ouro** ("Turning Sweat into Gold") is Bernardinho's
 leadership-and-coaching book, published by Sextante in 2006 after the
-Brazil men's NT won Olympic gold at Athens 2004 — the first of his two
+Brazil men's NT won Olympic gold at Athens 2004, the first of his two
 Olympic golds with the program. Rather than an autobiography, the book is a
 framework text. It introduces the **Roda da Excelência** (Wheel of
 Excellence), Bernardinho's integrating model for preparation, discipline,
 team culture, pressure management, and continuous improvement. The book
-organizes 14 chapters into a personal-narrative arc (chapters 1–8: playing
+organizes 14 chapters into a personal-narrative arc (chapters 1 to 8: playing
 career, Italian exposure, Brazilian women's NT tenure, observations on
 other dominant programs like Cuba) and a leadership-framework arc (chapters
-9–14: the Wheel itself, discomfort as prerequisite for champions, breaking
+9 to 14: the Wheel itself, discomfort as prerequisite for champions, breaking
 through personal and organizational barriers, the pursuit of gold, new
 values, epilogue).
 
@@ -52,7 +52,7 @@ biographical sources.
   ideas assimilated across Bernardinho's playing career (1984 Olympic
   silver) and coaching exposure (Italy, Brazilian women's NT).
 - **Victory matters less than the certainty of complete conquest effort.**
-  Bernardinho reframes the success metric from outcome to process —
+  Bernardinho reframes the success metric from outcome to process, 
   emotional resilience depends on anchoring self-evaluation in preparation
   rather than result. This is the book's psychological-composure core.
 - **Emotional strengthening prevents task-execution focus loss.** Deciding-
@@ -72,12 +72,12 @@ biographical sources.
   Individual brilliance at the expense of team identity is treated as a
   developmental failure in the book.
 - **Study, read, observe, question.** Continuous learning is the coach's
-  professional obligation — with explicit citation of Greek philosophy
+  professional obligation, with explicit citation of Greek philosophy
   (Plato, Aristotle) and business-leadership literature as methodology
   influences.
 - **Work with Instituto Compartilhar** (Bernardinho's youth-development
   NGO) is framed as the pipeline-renewal responsibility of a national-team
-  coach — directly supporting the youth-development-through-club-pipelines
+  coach, directly supporting the youth-development-through-club-pipelines
   principle.
 
 ## Topics covered
@@ -90,29 +90,29 @@ biographical sources.
 - Italian-Brazilian methodology exchange (Perugia women's, Modena men's
   playing/coaching context)
 - Observations on other dominant programs (notably the Cuban women's teams
-  of the late 1980s–1990s)
-- Brazilian women's NT tenure (1990–2000) as coaching-development lab
+  of the late 1980s-1990s)
+- Brazilian women's NT tenure (1990 to 2000) as coaching-development lab
 - Instituto Compartilhar (youth-development NGO) as pipeline-renewal
   context
 
 ## Where it's cited
 
-- [[bernardinho]] — core teaching principles (all five numbered bullets),
+- [[bernardinho]]: core teaching principles (all five numbered bullets),
   Instituto Compartilhar reference, continuity-of-program-identity framing
-- [[brazilian-school]] — methodology cluster (speed-first, work-ethic,
+- [[brazilian-school]]: methodology cluster (speed-first, work-ethic,
   youth-pipeline, Italian-Brazilian exchange), structural-risk framing
 - Forward: philosophy.md, mental.md (pressure-management cross-reference)
 
 ## Access
 
 - **Raw file:** `raw/books/notes-bernardinho-2006-transformando-suor-em-ouro.md`
-  (fair-use synthesis — full book PDF is not ingested)
+  (fair-use synthesis, full book PDF is not ingested)
 - **ISBN-13:** 9788575422427 (2006 paperback)
 - **Publisher:** Sextante (Rio de Janeiro, Brazil)
-- **Language:** Portuguese (Brazilian) — English edition not currently
+- **Language:** Portuguese (Brazilian): English edition not currently
   published
 - **Amazon BR:** https://www.amazon.com/Transformando-Suor-Ouro-Portugues-Brasil/dp/8575422421
-- **Trust tier: 1** — Bernardinho's own authored volume. Primary-source
+- **Trust tier: 1**: Bernardinho's own authored volume. Primary-source
   authority for Bernardinho-methodology claims. Pairs with the IVHF
   induction bio (Tier 2) for tenure/record cross-checking and with the
   ResearchGate academic impression-management analysis (Schramm 2012) for

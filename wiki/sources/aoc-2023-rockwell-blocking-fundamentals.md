@@ -33,5 +33,5 @@ Notre Dame's Salima Rockwell outlines blocking fundamentals, emphasizing eye seq
 ## Access
 - Raw file: [[aoc-2023-rockwell-blocking-fundamentals]]
 - URL: https://www.theartofcoachingvolleyball.com/blocking-fundamentals-with-salima-rockwell/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

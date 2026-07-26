@@ -38,5 +38,5 @@ Diane Flick-Williams designs a libero range-expansion drill: one server, one lib
 ## Access
 - Raw file: [[aoc-2021-flick-williams-sr-range-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/drill-for-serve-receive-range/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

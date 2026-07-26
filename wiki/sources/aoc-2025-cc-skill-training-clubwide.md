@@ -15,11 +15,11 @@ trust-tier: 2
 
 ## Summary
 
-Coach Connection LIVE session with Munciana Volleyball Co-directors Mike and Alyssa Lingenfelter on aligning skill training across every age group in the club. Munciana's unified system keeps players progressing seamlessly from youngest teams to oldest without having to relearn technique or systems along the way. Includes a downloadable sample Munciana practice plan.
+Coach Connection LIVE session with Munciana Volleyball Co-directors Mike and Alyssa Lingenfelter on aligning skill training across every age group in the club. Munciana's unified system keeps players progressing from youngest teams to oldest without having to relearn technique or systems along the way. Includes a downloadable sample Munciana practice plan.
 
 ## Key claims / ideas
 
-- Club-wide consistency of skill technique and systems is a strategic advantage — players never have to relearn.
+- Club-wide consistency of skill technique and systems is a strategic advantage, players never have to relearn.
 - Two-team-on-one-court practice requires specific structure, not improvisation.
 - Short teams should not mechanically split hitting and blocking time equally; allocation follows what wins sets at that team's level.
 - A dual-position player's role during positional training needs a design answer.

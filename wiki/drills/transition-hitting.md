@@ -18,7 +18,7 @@ variations: [hitting-vs-block, high-ball-hitting]
 # Transition Hitting
 
 ## Setup
-Full 6v6 half on the training side — three-person front row, setter, back-row defense. Opposing side runs a coach-directed attacker or live hitter. Ball cart behind each endline. The drill trains defense/block → off-the-net → approach-from-deep → attack.
+Full 6v6 half on the training side, three-person front row, setter, back-row defense. Opposing side runs a coach-directed attacker or live hitter. Ball cart behind each endline. The drill trains defense/block → off-the-net → approach-from-deep → attack.
 
 ## Execution
 1. Coach enters a ball to the opposite side aimed at the training side's defense.
@@ -30,10 +30,10 @@ Full 6v6 half on the training side — three-person front row, setter, back-row 
 
 ## Coaching points
 - Off the net fast. Blockers clear at least 10 ft back before starting the approach; a blocker glued to the net has no approach.
-- Same footwork as a first-ball approach — do not shorten to a 2-step.
+- Same footwork as a first-ball approach, do not shorten to a 2-step.
 - Setter communicates loudly; hitters call "outside!" / "middle!" / "pipe!" on the dig.
 - Eyes up on the setter, arms load through the retreat, feet turn toward the set.
-- Adjust takeoff to where the hitter recovered — the set comes to the hitter.
+- Adjust takeoff to where the hitter recovered, the set comes to the hitter.
 
 ## Variations
 - **Block-then-transition:** every rep begins with a ball the blockers jump at; the block forces the retreat.

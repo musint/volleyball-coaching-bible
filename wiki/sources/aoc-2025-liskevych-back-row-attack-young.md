@@ -16,13 +16,13 @@ trust-tier: 2
 # Training back-row attack with younger players
 
 ## Summary
-Terry Liskevych argues back-row attacking is a great teaching tool for younger players because it forces them to strike the back of the ball rather than the top — a habit that transfers to all hitting once they grow into the net.
+Terry Liskevych argues back-row attacking is a great teaching tool for younger players because it forces them to strike the back of the ball rather than the top, a habit that transfers to all hitting once they grow into the net.
 
 ## Key claims / ideas
-- Hitting the top of the ball only works when the hitter is well above the net — rare with young players.
+- Hitting the top of the ball only works when the hitter is well above the net, rare with young players.
 - Back-row attacking forces contact on the back of the ball, reinforcing correct swing geometry.
 - Progression: hit without jumping first (easier, builds rhythm) → add approach/jump off coach toss.
-- At young ages, success criterion is simply "keep it in the court" — pace and placement come later.
+- At young ages, success criterion is simply "keep it in the court", pace and placement come later.
 - Once players mature, pace/placement on the back-row attack help keep the team in system.
 
 ## Topics covered
@@ -38,5 +38,5 @@ Terry Liskevych argues back-row attacking is a great teaching tool for younger p
 ## Access
 - Raw file: [[aoc-2025-liskevych-back-row-attack-young]]
 - URL: https://www.theartofcoachingvolleyball.com/training-back-row-attack-with-younger-players/
-- Trust tier: 2 — AOC, Olympic coach on youth methodology
+- Trust tier: 2: AOC, Olympic coach on youth methodology
 - Ingested via: aoc-mcp on 2026-04-23

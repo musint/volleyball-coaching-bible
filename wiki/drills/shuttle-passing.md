@@ -18,7 +18,7 @@ variations: [two-line-passing, butterfly-passing]
 # Shuttle Passing
 
 ## Setup
-Two lines of passers facing each other across a 7-9 m gap (split across the net or side-by-side on one court). A single target stands off to the side at the setter position — same target for both lines. A coach/tosser near the target with a ball cart.
+Two lines of passers facing each other across a 7-9 m gap (split across the net or side-by-side on one court). A single target stands off to the side at the setter position, same target for both lines. A coach/tosser near the target with a ball cart.
 
 ## Execution
 1. Lead passer from line A steps into the passing lane.
@@ -26,11 +26,11 @@ Two lines of passers facing each other across a 7-9 m gap (split across the net 
 3. Passer A sprints across to the back of line B.
 4. Lead passer from line B immediately steps in and receives the next ball from the coach.
 5. Passer B delivers to target and sprints to the back of line A.
-6. Continuous shuttle — every rep arrives with the passer already moving laterally.
+6. Continuous shuttle, every rep arrives with the passer already moving laterally.
 
 ## Coaching points
 - Finish the pass before the shuttle; contact is square to the target, not to the destination line.
-- Platform is the last thing to form — feet first, then shoulders, then arms.
+- Platform is the last thing to form, feet first, then shoulders, then arms.
 - Call "mine" on the move so communication is habit.
 - Target grades passes aloud; coach times the next toss to pressure the next passer's recovery.
 

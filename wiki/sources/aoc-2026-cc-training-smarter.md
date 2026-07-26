@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Coach Connection LIVE session with Jill Hunt (Director, Northern Kentucky Volleyball Club) on mid-season and late-season training adjustments. Covers how NKYVC adapts training frequency, structure, and focus as the season progresses to balance development, recovery, and performance — including teams still chasing bids, teams preparing for Nationals, and teams shifting toward long-term growth.
+Coach Connection LIVE session with Jill Hunt (Director, Northern Kentucky Volleyball Club) on mid-season and late-season training adjustments. Covers how NKYVC adapts training frequency, structure, and focus as the season progresses to balance development, recovery, and performance, including teams still chasing bids, teams preparing for Nationals, and teams shifting toward long-term growth.
 
 ## Key claims / ideas
 

@@ -35,5 +35,5 @@ Wisconsin's three-part progression trains blocking vision and independent-hand b
 ## Access
 - Raw file: [[aoc-2021-wisconsin-blocking-progression]]
 - URL: https://www.theartofcoachingvolleyball.com/wisconsin-blocking-progression/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -37,5 +37,5 @@ Ben Josephson (Texas associate HC) frames men's serve-receive formation design a
 ## Access
 - Raw file: [[aoc-2024-josephson-mens-passing-formations]]
 - URL: https://www.theartofcoachingvolleyball.com/mens-passing-formations-to-protect-your-hitters/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

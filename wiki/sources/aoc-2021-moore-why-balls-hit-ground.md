@@ -19,8 +19,8 @@ Club coach Craig Moore identifies two root causes for why balls hit the ground d
 
 ## Key claims / ideas
 
-- Six players on a small court should theoretically allow almost any ball to be dug — when balls hit the ground, the cause is psychological, not geometric.
-- Disbelief and hesitation are coachable — teach "if you think you can dig it, dig it."
+- Six players on a small court should theoretically allow almost any ball to be dug, when balls hit the ground, the cause is psychological, not geometric.
+- Disbelief and hesitation are coachable, teach "if you think you can dig it, dig it."
 - Constant on-court communication is a prerequisite for aggressive digging.
 - Aggression instruction belongs in practice, not only in pregame talk.
 

@@ -15,7 +15,7 @@ schools: []
 trust-tier: 1
 ---
 
-# Jiang et al. (2024) — Muscle-structure predictors of vertical jump in elite male volleyball
+# Jiang et al. (2024): Muscle-structure predictors of vertical jump in elite male volleyball
 
 ## Summary
 
@@ -23,9 +23,9 @@ Cross-sectional ultrasonography study of 15 elite male volleyball players (age 2
 
 ## Key claims / ideas
 
-- Vastus lateralis ACSA dominates jump-height prediction across attack, CMJ, SJ, and drop jumps (R² 0.25–0.52).
-- Lateral gastrocnemius fascicle length uniquely predicts attack-jump height — calf architecture matters specifically for the spike approach.
-- Rectus femoris does not predict any jump type — quad-dominant programming may be inefficient.
+- Vastus lateralis ACSA dominates jump-height prediction across attack, CMJ, SJ, and drop jumps (R² 0.25 to 0.52).
+- Lateral gastrocnemius fascicle length uniquely predicts attack-jump height, calf architecture matters specifically for the spike approach.
+- Rectus femoris does not predict any jump type, quad-dominant programming may be inefficient.
 - Combined VL-ACSA + LG-FL + training age model: R² = 0.73 for attack jump.
 - Attack jump is biomechanically distinct from generic vertical-jump tests; sport-specific training required.
 - Long-term training-age effect supports continuous, year-round S&C over fragmented programming.
@@ -49,5 +49,5 @@ Cross-sectional ultrasonography study of 15 elite male volleyball players (age 2
 - Full text: https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1427748/full
 - PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11319176/
 - DOI: 10.3389/fphys.2024.1427748
-- Trust tier: **1** — peer-reviewed primary research (cross-sectional ultrasonography).
+- Trust tier: **1**: peer-reviewed primary research (cross-sectional ultrasonography).
 - Ingested: 2026-04-24

@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Eugenio George Lafita — Wikipedia biography"
+title: "Eugenio George Lafita, Wikipedia biography"
 author: "Wikipedia contributors"
 year: 2026
 citation-key: george-2026-wikipedia-biography
@@ -13,10 +13,10 @@ schools: [cuban-school]
 trust-tier: 3
 ---
 
-# Eugenio George Lafita — Wikipedia biography
+# Eugenio George Lafita: Wikipedia biography
 
 ## Summary
-Reference-level biography of Rafael Eugenio George Lafita (March 29, 1933 – June 1, 2014), the Cuban head coach who built the women's NT into the dominant program of the 1990s — three consecutive Olympic golds (1992 Barcelona, 1996 Atlanta, 2000 Sydney), three World Championships (1978, 1994, 1998), four consecutive World Cups (1989, 1991, 1995, 1999), eight Pan American Games golds, and FIVB Best Women's Coach of the 20th Century (2000) and IVHF induction (2005). Includes coaching career arc (Cuban men's junior 1963; Cuban men's senior 1966 CAC gold; Cuban women's NT head coach from 1968 with subsequent assistant role through 2008 Beijing) and chronology of medals/awards.
+Reference-level biography of Rafael Eugenio George Lafita (March 29, 1933, June 1, 2014), the Cuban head coach who built the women's NT into the dominant program of the 1990s, three consecutive Olympic golds (1992 Barcelona, 1996 Atlanta, 2000 Sydney), three World Championships (1978, 1994, 1998), four consecutive World Cups (1989, 1991, 1995, 1999), eight Pan American Games golds, and FIVB Best Women's Coach of the 20th Century (2000) and IVHF induction (2005). Includes coaching career arc (Cuban men's junior 1963; Cuban men's senior 1966 CAC gold; Cuban women's NT head coach from 1968 with subsequent assistant role through 2008 Beijing) and chronology of medals/awards.
 
 Used as the **primary chronology source** for [[eugenio-george]] and as a corroborating source for [[antonio-perdomo]] and the [[cuban-school]] page on dynasty-era result anchors.
 
@@ -37,17 +37,17 @@ Used as the **primary chronology source** for [[eugenio-george]] and as a corrob
 - NORCECA Technical and Coaches Commission President; FIVB Coaches Commission member.
 
 ## Topics covered
-- Cuban women's volleyball dynasty chronology (1968–2008).
+- Cuban women's volleyball dynasty chronology (1968 to 2008).
 - Cuban federation institutional history.
-- Olympic and World Championship results 1976–2008.
+- Olympic and World Championship results 1976 to 2008.
 - FIVB and NORCECA administrative roles.
 
 ## Where it's cited
-- [[eugenio-george]] — primary biographical source.
-- [[antonio-perdomo]] — corroborating source for parallel-career chronology with George.
-- [[cuban-school]] — dynasty-era result anchors (when school page is created).
+- [[eugenio-george]]: primary biographical source.
+- [[antonio-perdomo]]: corroborating source for parallel-career chronology with George.
+- [[cuban-school]]: dynasty-era result anchors (when school page is created).
 
 ## Access
 - Raw file: `raw/articles/george-2026-wikipedia-biography.md`
 - URL: https://en.wikipedia.org/wiki/Eugenio_George_Lafita
-- Trust tier: 3 — Wikipedia reference biography. Reliable on dates and result chronology; should be cross-corroborated with [[george-2005-volleyhall-bio]] (Tier 1/2 institutional record) and [[george-2014-amateursport-tribute]] for methodology and quote material.
+- Trust tier: 3: Wikipedia reference biography. Reliable on dates and result chronology; should be cross-corroborated with [[george-2005-volleyhall-bio]] (Tier 1/2 institutional record) and [[george-2014-amateursport-tribute]] for methodology and quote material.

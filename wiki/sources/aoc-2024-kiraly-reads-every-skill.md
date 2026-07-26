@@ -16,7 +16,7 @@ trust-tier: 2
 # Karch Kiraly on training reading as part of every skill
 
 ## Summary
-Kiraly frames reading as a skill embedded in every volleyball action and offers a three-question framework — What do I see? What do I know? How do I respond? — using the B-S-B-H (ball-setter-ball-hitter) eye-work sequence for defense and blocking.
+Kiraly frames reading as a skill embedded in every volleyball action and offers a three-question framework: What do I see? What do I know? How do I respond?, using the B-S-B-H (ball-setter-ball-hitter) eye-work sequence for defense and blocking.
 
 ## Key claims / ideas
 - Reading is not separate from skill; it is part of every skill.
@@ -37,5 +37,5 @@ Kiraly frames reading as a skill embedded in every volleyball action and offers 
 ## Access
 - Raw file: [[aoc-2024-kiraly-reads-every-skill]]
 - URL: https://www.theartofcoachingvolleyball.com/karch-kiraly-trains-reading/
-- Trust tier: 2 — AOC, Kiraly named
+- Trust tier: 2: AOC, Kiraly named
 - Ingested via: aoc-mcp on 2026-04-23

@@ -17,7 +17,7 @@ trust-tier: 1
 
 ## Summary
 
-The USA Volleyball Coach Academy is the organization's online learning platform, delivered on Litmos and accessed through SportsEngine. Its curriculum is organized into three achievement tiers — Bronze (foundational), Silver (intermediate technical), and Gold (advanced live sessions) — and is anchored by the USA Volleyball Development Model's five Bronze categories: Craft, Body, Mind, Heart, and Team.
+The USA Volleyball Coach Academy is the organization's online learning platform, delivered on Litmos and accessed through SportsEngine. Its curriculum is organized into three achievement tiers: Bronze (foundational), Silver (intermediate technical), and Gold (advanced live sessions): and is anchored by the USA Volleyball Development Model's five Bronze categories: Craft, Body, Mind, Heart, and Team.
 
 Bronze content covers fundamental skills and team systems (Craft), health/safety/nutrition/motor learning (Body), mental training and sport psychology (Mind), parent communication and athlete wellness (Heart), and legal responsibilities and team culture (Team). Silver offers technical modules including serve-receive mechanics with national team staff, out-of-system beach setting, transition play, and motor-learning frameworks. Gold features live sessions with elite coaches and U.S. National Team staff on defensive systems, practice-design optimization, and world-championship analysis.
 
@@ -47,4 +47,4 @@ Bronze content covers fundamental skills and team systems (Craft), health/safety
 ## Access
 - Raw file: `raw/usav/coach-academy.md`
 - URL: https://usavolleyball.org/resources-for-coaches/coach-academy/
-- Trust tier: 1 — official USA Volleyball resource
+- Trust tier: 1, official USA Volleyball resource

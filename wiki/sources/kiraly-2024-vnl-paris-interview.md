@@ -25,7 +25,7 @@ However, the transcript and detailed content could not be retrieved: WebFetch to
 
 - Interview exists; subject is Kiraly's coaching strategy and preparation adjustments heading into Paris 2024.
 - Context: 2024 VNL Women's run, ahead of Paris Olympic Games (where the U.S. Women would earn silver under Kiraly).
-- [transcript-unavailable] — no direct quotes retrievable from this fetch.
+- [transcript-unavailable]: no direct quotes retrievable from this fetch.
 
 ## Topics covered
 
@@ -39,4 +39,4 @@ However, the transcript and detailed content could not be retrieved: WebFetch to
 ## Access
 - Raw file: `raw/transcripts/karch-vnl-paris-2024-interview.md`
 - URL: https://www.youtube.com/watch?v=5biMJcAC2gs
-- Trust tier: 2 — primary voice (Kiraly on camera) but content not retrievable; reassess if captions become accessible.
+- Trust tier: 2, primary voice (Kiraly on camera) but content not retrievable; reassess if captions become accessible.

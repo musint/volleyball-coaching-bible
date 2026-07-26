@@ -18,8 +18,8 @@ trust-tier: 2
 ## Summary
 A GMS blog article presenting the organization's operational view of practice
 design. The piece distinguishes blocked practice (slower, isolated,
-predictable — useful for cognitive-stage learners) from random practice
-(game-speed, variable — the driver of real improvement once foundational
+predictable, useful for cognitive-stage learners) from random practice
+(game-speed, variable, the driver of real improvement once foundational
 skills exist) and invokes the motor-learning concept of the "challenge
 point" to argue that coaches should move to random, game-like conditions as
 quickly as possible.
@@ -38,7 +38,7 @@ philosophy on their website.
   having played a lot of volleyball." → maximize game-like reps.
 - External focus of attention (movement effects, analogies like "cracking a
   whip") is preferred over internal body-mechanic cues.
-- Feedback should be intentional, not applied to every repetition — athletes
+- Feedback should be intentional, not applied to every repetition, athletes
   need to develop self-evaluation.
 - Warm-ups should be re-purposed as ball-contact opportunities.
 
@@ -55,5 +55,5 @@ philosophy on their website.
 ## Access
 - Raw file: `raw/articles/gms-structure-practice-for-maximum-improvement.md`
 - URL: https://www.goldmedalsquared.com/post/how-to-structure-volleyball-practice-for-maximum-improvement
-- Trust tier: 2 — first-party GMS coaching article; no byline or date
+- Trust tier: 2, first-party GMS coaching article; no byline or date
   visible on page as of 2026-04-23.

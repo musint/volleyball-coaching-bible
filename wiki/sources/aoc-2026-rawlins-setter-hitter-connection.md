@@ -19,12 +19,12 @@ trust-tier: 2
 Omaha Supernovas / Volleyball Club Nebraska coach Blake Rawlins details a hitter-driven communication system (slow/go/fast) plus quantitative set-timing measurement to train setter-hitter tempo connection.
 
 ## Key claims / ideas
-- Earlier eye-work on the ball expands attack decision time — "the earlier you find the ball, the more time you have."
+- Earlier eye-work on the ball expands attack decision time, "the earlier you find the ball, the more time you have."
 - Time every set from setter hand-release to hitter contact to define and audit offensive tempo.
-- Hitter-side verbal cues: "slow" / "go" / "fast" regulate approach speed as a function of pass quality — shifts tempo responsibility to the hitter.
+- Hitter-side verbal cues: "slow" / "go" / "fast" regulate approach speed as a function of pass quality, shifts tempo responsibility to the hitter.
 - Common hitter error: running every approach at the same speed, then blaming the setter when timing is off.
 - Pin-hitter contact target: three feet off the net and three feet inside the sideline.
-- Preferred miss direction on sets: inside (never tight, never far) — right-handed left-side hitter can hit with range from inside but gets trapped at the antenna.
+- Preferred miss direction on sets: inside (never tight, never far): right-handed left-side hitter can hit with range from inside but gets trapped at the antenna.
 
 ## Topics covered
 - Hitter-regulated approach tempo communication
@@ -39,5 +39,5 @@ Omaha Supernovas / Volleyball Club Nebraska coach Blake Rawlins details a hitter
 ## Access
 - Raw file: [[aoc-2026-rawlins-setter-hitter-connection]]
 - URL: https://www.theartofcoachingvolleyball.com/training-the-setter-hitter-connection/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

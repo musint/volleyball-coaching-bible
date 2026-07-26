@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Hirofumi Daimatsu — Wikipedia"
+title: "Hirofumi Daimatsu, Wikipedia"
 author: "Wikipedia contributors"
 year: 2026
 citation-key: daimatsu-wikipedia-biography
@@ -13,7 +13,7 @@ schools: [japanese-training]
 trust-tier: 2
 ---
 
-# Hirofumi Daimatsu — Wikipedia
+# Hirofumi Daimatsu: Wikipedia
 
 ## Summary
 Wikipedia biographical article on Hirofumi (Hirobumi) Daimatsu. Used in this
@@ -43,4 +43,4 @@ kaiten reshibu drill in any biographical detail.
 ## Access
 - Raw file: `raw/articles/daimatsu-wikipedia-biography.md`
 - URL: https://en.wikipedia.org/wiki/Hirofumi_Daimatsu
-- Trust tier: 2 — Wikipedia biographical article; cross-checked against Hall of Fame record (daimatsu-2000-hall-of-fame).
+- Trust tier: 2: Wikipedia biographical article; cross-checked against Hall of Fame record (daimatsu-2000-hall-of-fame).

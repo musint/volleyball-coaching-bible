@@ -15,14 +15,14 @@ trust-tier: 2
 
 ## Summary
 
-An AOC Founder's Chat from the early COVID-19 period offering three ways to keep players engaged at home. (1) **Video challenge** — assign a drill and have players film themselves doing it; highest rep count wins. (2) **Home drills with wall + ball** — passing, setting, peppering against a wall. (3) **Skill log** — players keep a written record of what they practiced and improved while at home; share when the team reconvenes.
+An AOC Founder's Chat from the early COVID-19 period offering three ways to keep players engaged at home. (1) **Video challenge**: assign a drill and have players film themselves doing it; highest rep count wins. (2) **Home drills with wall + ball**: passing, setting, peppering against a wall. (3) **Skill log**: players keep a written record of what they practiced and improved while at home; share when the team reconvenes.
 
 ## Key claims / ideas
 
 - Video challenges both motivate and give the coach evidence of practice quality.
 - A wall and a ball are enough to train the three cornerstone ball-control skills (pass, set, pepper).
 - A skill log creates accountability when coaches can't observe practice directly.
-- At-home work can legitimately improve skills — it's not just maintenance.
+- At-home work can legitimately improve skills, beyond maintaining them.
 - These patterns apply beyond COVID: summer breaks, travel, injury-return, and off-weeks all benefit from them.
 
 ## Topics covered
@@ -34,7 +34,7 @@ An AOC Founder's Chat from the early COVID-19 period offering three ways to keep
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``at-home`` coverage, `[[practice-planning]]` (off-day work), ``ball-control`` hub, `[[age-lens-14u]]` (summer/holiday breaks), and `[[season-planning]]` (off-season).
+Forward-reference, to be cited on ``at-home`` coverage, `[[practice-planning]]` (off-day work), ``ball-control`` hub, `[[age-lens-14u]]` (summer/holiday breaks), and `[[season-planning]]` (off-season).
 
 ## Access
 

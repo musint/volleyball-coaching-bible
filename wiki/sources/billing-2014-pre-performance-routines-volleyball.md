@@ -17,9 +17,9 @@ trust-tier: 1
 
 ## Summary
 
-Billing's (2014) Master's thesis at the University of Minnesota investigated whether **pre-performance routines (PPRs)** — the habitual sequences of physical and cognitive actions performed immediately before serving — improve volleyball serving accuracy in club competitive play. Secondary aims examined gender differences in routine consistency and the relationship between PPRs and competitive anxiety.
+Billing's (2014) Master's thesis at the University of Minnesota investigated whether **pre-performance routines (PPRs)**: the habitual sequences of physical and cognitive actions performed immediately before serving, improve volleyball serving accuracy in club competitive play. Secondary aims examined gender differences in routine consistency and the relationship between PPRs and competitive anxiety.
 
-The headline result is a null one: **no effect of PPRs on serving accuracy** was observed. Players with stable, observable pre-serve routines did not serve more accurately than players without them. There was also no meaningful relationship between competitive anxiety levels and routine maintenance — anxious players did not abandon routines under pressure more than calm players. Women maintained routines more consistently than men, but this consistency did not translate into a serving-percentage advantage. The author concludes that PPR effectiveness documented in basketball free-throws, golf, and tennis serves does not transfer cleanly to volleyball serving in this sample, and proposes future work isolating routine *components* (breath, ball bounces, focal point, cue word) rather than presence/absence. The thesis is a useful counterweight to coaching dogma that "build a routine" automatically improves serve performance — the empirical support is weaker in volleyball than coaches typically assume.
+The headline result is a null one: **no effect of PPRs on serving accuracy** was observed. Players with stable, observable pre-serve routines did not serve more accurately than players without them. There was also no meaningful relationship between competitive anxiety levels and routine maintenance, anxious players did not abandon routines under pressure more than calm players. Women maintained routines more consistently than men, but this consistency did not translate into a serving-percentage advantage. The author concludes that PPR effectiveness documented in basketball free-throws, golf, and tennis serves does not transfer cleanly to volleyball serving in this sample, and proposes future work isolating routine *components* (breath, ball bounces, focal point, cue word) rather than presence/absence. The thesis is a useful counterweight to coaching dogma that "build a routine" automatically improves serve performance, the empirical support is weaker in volleyball than coaches typically assume.
 
 ## Key claims / ideas
 
@@ -28,7 +28,7 @@ The headline result is a null one: **no effect of PPRs on serving accuracy** was
 - Women maintained routines more consistently than men, but this did not translate into better serving performance.
 - PPR efficacy demonstrated in golf, basketball, and tennis does not transfer cleanly to volleyball serving.
 - Methodologically, future PPR research should isolate routine components rather than treating routines as binary (present/absent).
-- This finding sits in tension with strong PPR research in other sports — the disagreement is unresolved.
+- This finding sits in tension with strong PPR research in other sports, the disagreement is unresolved.
 
 ## Topics covered
 
@@ -46,4 +46,4 @@ The headline result is a null one: **no effect of PPRs on serving accuracy** was
 
 - Raw file: `raw/research/billing-2014-pre-performance-routines-volleyball.md`
 - URL: https://conservancy.umn.edu/items/f7327eda-58f3-4a9a-925d-becc9e7a9e88
-- Trust tier: 1 — University of Minnesota Master's thesis (open access via UMN Digital Conservancy). Note: this is a thesis rather than a peer-reviewed journal article; trust-tier 1 for the empirical content but flagged in this access note for transparency.
+- Trust tier: 1: University of Minnesota Master's thesis (open access via UMN Digital Conservancy). Note: this is a thesis rather than a peer-reviewed journal article; trust-tier 1 for the empirical content but flagged in this access note for transparency.

@@ -21,7 +21,7 @@ Ken Murczek's FBK drill trains sideout urgency: receiving team gets three consec
 ## Key claims / ideas
 - First ball kill (FBK) focus ratchets up serve-receive practice intensity
 - Play entry scales with team level: free ball → down ball → live serve
-- Play stops once receiving team gets its swing — keeps drill dense in FBK opportunities
+- Play stops once receiving team gets its swing, keeps drill dense in FBK opportunities
 - Point per FBK to make it competitive
 - Pairs well with the 21 Down drill for additional serve-receive work
 
@@ -37,5 +37,5 @@ Ken Murczek's FBK drill trains sideout urgency: receiving team gets three consec
 ## Access
 - Raw file: [[aoc-2025-murczek-first-ball-kill-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/first-ball-kill-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

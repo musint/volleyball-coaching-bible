@@ -12,7 +12,7 @@ schools: [italian-school]
 trust-tier: 1
 ---
 
-# La generosità è la base della vita — Julio Velasco
+# La generosità è la base della vita: Julio Velasco
 
 ## Summary
 
@@ -22,21 +22,21 @@ philosophical framework underlying his 35-year coaching career. The
 book is published in Italian (no English translation as of 2026-04-24)
 and was released in the wake of Velasco's return to the Italy women's
 national team head-coach role (2024 Olympic gold, 2025 FIVB Women's
-World Championship gold — making him the first coach ever to win both
+World Championship gold, making him the first coach ever to win both
 the men's and women's World title).
 
 For the wiki, the book is the primary-source Velasco voice that
 underpins the [[italian-school]] and [[julio-velasco]] coach pages.
 The wiki's existing Velasco sourcing leans on Mark Lebedew's English-
 language retrospectives and the MOK Umag "10 cult phrases" interview
-piece — useful but secondary capture (coach commentary on Velasco's
+piece, useful but secondary capture (coach commentary on Velasco's
 commentary). This book is analogous in role to what Bernardinho's
 *Transformando Suor em Ouro* (2006) is for the [[brazilian-school]] page.
 
-This citation key also covers Velasco's earlier "clinic books" — the
+This citation key also covers Velasco's earlier "clinic books", the
 cluster of typeset transcripts of Italian coaching seminars and
 federation-distributed methodology handbooks produced over the
-1990s–2010s. Those materials remain Italian-language only.
+1990s-2010s. Those materials remain Italian-language only.
 
 ## Key claims / ideas
 
@@ -63,11 +63,11 @@ a working pass exists.
   the lower the chance of conflict."
 - **Defense as cultural thermometer.** "Defence is the thermometer of
   the soul of a team."
-- **Internal accountability — "spikers don't talk about the set."**
+- **Internal accountability, "spikers don't talk about the set."**
   Each position solves its own problem rather than litigating upstream
   teammate contribution.
 - **"Champions seek solutions; losers seek alibis."**
-- **The "square" — team unity over specialization.** The 1980s
+- **The "square", team unity over specialization.** The 1980s
   specialization trend Velasco actively pushed back on; book-length
   philosophical grounding rather than the tactical claim already
   documented on [[italian-school]]. [translation-needed]
@@ -88,19 +88,19 @@ a working pass exists.
 - Method-driven team management
 - Argentine origins of Velasco's coaching voice (philosophy
   background, La Plata university)
-- Generazione di Fenomeni (Italy men's NT 1989–1996) as case study
-- 2024–2025 Italy women's NT golden cycle context (book release timing)
+- Generazione di Fenomeni (Italy men's NT 1989 to 1996) as case study
+- 2024 to 2025 Italy women's NT golden cycle context (book release timing)
 - Crossover applicability of team-leadership principles outside
   volleyball
 
 ## Where it's cited
 
-- [[julio-velasco]] — primary-source backing for core teaching
+- [[julio-velasco]]: primary-source backing for core teaching
   principles (already cited via lebedew/MOK Umag); future ingest
   cycles should replace [unsourced] tags on Velasco's specific
   philosophical claims with this citation key once the
   Italian → English working pass occurs
-- [[italian-school]] — methodology cluster (Theory of Alibis,
+- [[italian-school]]: methodology cluster (Theory of Alibis,
   generosity, method-as-anti-conflict, defense as thermometer)
 - Forward: [[philosophy]] and [[mental]] for leadership / pressure
   cross-references
@@ -112,17 +112,17 @@ a working pass exists.
   previously-ingested Velasco secondary-capture material; full Italian
   text not yet ingested)
 - **Language:** Italian (no English translation as of 2026-04-24)
-- **Trust tier: 1** — Velasco's own authored volume. Primary-source
+- **Trust tier: 1**: Velasco's own authored volume. Primary-source
   authority for Velasco-methodology claims. Pairs with
   `lebedew-2015-velasco-thinker-of-game`,
   `lebedew-2020-velasco-12-quotes`, and
   `mokumag-2020-velasco-10-cult-phrases` (Tier 2 secondary capture)
   for English-language cross-checking until full Italian text is
   ingested.
-- **Translation status:** [translation-needed] — specific quotations
+- **Translation status:** [translation-needed]: specific quotations
   and chapter-level claims tagged accordingly on wiki pages until a
   full-text Italian → English working pass occurs.
-- **ISBN, exact publisher, pagination:** [unsourced] — Italian
+- **ISBN, exact publisher, pagination:** [unsourced]: Italian
   retailer pages were not reachable during the 2026-04-24 fetch
   session; future cycle should backfill from IBS.it / Feltrinelli /
   Mondadori catalog.

@@ -35,5 +35,5 @@ Terry Liskevych's time-boxed passing streak drill: in a limited window (he uses 
 ## Access
 - Raw file: [[aoc-2017-liskevych-5353-passing-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/terry-liskevych-and-his-5353-passing-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

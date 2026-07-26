@@ -19,7 +19,7 @@ trust-tier: 2
 Michigan's Mark Rosen: don't pull off the net just because the opponent is out of system. Pin blockers load to the antennas, drop hands on the bad pass to prepare for transition, then aggressively block the pin hit.
 
 ## Key claims / ideas
-- Don't reflexively peel on opponent OOS — stick with the block.
+- Don't reflexively peel on opponent OOS, stick with the block.
 - Pin blockers load near the antennas (OOS balls usually go pin).
 - Drop hands on bad pass to enable quick transition.
 - Aggressive block on the pin attacker is the play.
@@ -35,5 +35,5 @@ Michigan's Mark Rosen: don't pull off the net just because the opponent is out o
 ## Access
 - Raw file: [[aoc-2020-rosen-block-oos]]
 - URL: https://www.theartofcoachingvolleyball.com/block-opponent/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

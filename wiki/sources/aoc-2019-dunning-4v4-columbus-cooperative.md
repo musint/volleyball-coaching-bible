@@ -15,14 +15,14 @@ trust-tier: 2
 
 ## Summary
 
-John Dunning's 4v4 Columbus cooperative drill. Each side runs three back-row attackers plus a middle-front setter. A free ball starts the rally. Play is normal except attackers cannot jump — standing swings only. After every swing, both teams rotate one position. Once players handle the basic pattern, the coach initiates free balls into harder spots to force adjustment.
+John Dunning's 4v4 Columbus cooperative drill. Each side runs three back-row attackers plus a middle-front setter. A free ball starts the rally. Play is normal except attackers cannot jump, standing swings only. After every swing, both teams rotate one position. Once players handle the basic pattern, the coach initiates free balls into harder spots to force adjustment.
 
 ## Key claims / ideas
 
 - No-jump attack forces crisp hand contact and arm swing without relying on height or tempo.
 - Rotate-every-swing mirrors how chaotic in-rally substitution feels and trains adaptability.
 - Back-row attackers in every position keeps the drill moving and avoids front-row specialization.
-- Difficult free-ball entry is the progression lever — same drill, harder entry.
+- Difficult free-ball entry is the progression lever, same drill, harder entry.
 - Cooperative counting still rewards ball control and communication over winning rallies.
 
 ## Topics covered
@@ -34,7 +34,7 @@ John Dunning's 4v4 Columbus cooperative drill. Each side runs three back-row att
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``ball-control`` hub, ``warm-up``, `[[drills/4v4-columbus-cooperative]]`, ``back-row-attack``, and `[[john-dunning]]` profile.
+Forward-reference, to be cited on ``ball-control`` hub, ``warm-up``, `[[drills/4v4-columbus-cooperative]]`, ``back-row-attack``, and `[[john-dunning]]` profile.
 
 ## Access
 

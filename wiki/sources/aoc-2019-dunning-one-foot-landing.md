@@ -19,10 +19,10 @@ This is AOC curricular content; defer to qualified AT/CSCS/MD on programming spe
 
 ## Key claims / ideas
 
-- One-foot landings cause injury — not just suboptimal mechanics.
+- One-foot landings cause injury, beyond being a mechanics flaw.
 - Root cause is typically outside hitters leaning to contact off-shoulder balls, not weak landing technique.
 - Fix: angle approach so the hand is centered on the ball, starting wider if needed.
-- Enforcement: Dunning pulled players from practice if they repeatedly one-foot-landed — hard stop, not soft cue.
+- Enforcement: Dunning pulled players from practice if they repeatedly one-foot-landed, hard stop, not soft cue.
 - Implicit philosophy: coaches must be willing to interrupt reps to protect long-term joint health.
 
 ## Topics covered

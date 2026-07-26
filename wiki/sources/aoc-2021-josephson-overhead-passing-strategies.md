@@ -21,7 +21,7 @@ Ben Josephson argues the overhead pass has a lower error rate than the forearm p
 ## Key claims / ideas
 - Overhead pass has a lesser chance of error than forearm passing (men's game)
 - Drill setup: 3 passers, 1 setter, rest serve
-- All receives must use the hands (overhead) — no forearm passes allowed
+- All receives must use the hands (overhead): no forearm passes allowed
 - First 10 balls: normal positions
 - Next 10 balls: one or two passers move several feet closer to the net, opening the back
 - Experiment with passer depth based on player skill set
@@ -38,5 +38,5 @@ Ben Josephson argues the overhead pass has a lower error rate than the forearm p
 ## Access
 - Raw file: [[aoc-2021-josephson-overhead-passing-strategies]]
 - URL: https://www.theartofcoachingvolleyball.com/overhead-passing-strategies/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

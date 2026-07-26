@@ -16,7 +16,7 @@ trust-tier: 2
 # Running the middle from center court
 
 ## Summary
-Tod Mattox drills running the middle when the setter is behind the 10-foot line — an out-of-system look. Setter starts at 10-ft line right of center, pushes antenna-high to middle of the net. Hitter cadence: soft right, hard left, step, close, jump, hit. Add "push" call by hitter as progression.
+Tod Mattox drills running the middle when the setter is behind the 10-foot line, an out-of-system look. Setter starts at 10-ft line right of center, pushes antenna-high to middle of the net. Hitter cadence: soft right, hard left, step, close, jump, hit. Add "push" call by hitter as progression.
 
 ## Key claims / ideas
 - Off-the-net setters can still run the middle with an antenna-high push to the middle of the net.
@@ -35,6 +35,5 @@ Tod Mattox drills running the middle when the setter is behind the 10-foot line 
 ## Access
 - Raw file: [[aoc-2022-mattox-middle-from-center]]
 - URL: https://www.theartofcoachingvolleyball.com/running-the-middle-from-center-court/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

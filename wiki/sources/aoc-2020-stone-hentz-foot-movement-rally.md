@@ -15,14 +15,14 @@ trust-tier: 2
 
 ## Summary
 
-Jim Stone frames defender movement as a continuous "dance" across the rally — feet never stop, tracking the ball and opposing tactics to be ready for block, attack, or out-of-system. Key traits: speed, agility, low balanced posture.
+Jim Stone frames defender movement as a continuous "dance" across the rally, feet never stop, tracking the ball and opposing tactics to be ready for block, attack, or out-of-system. Key traits: speed, agility, low balanced posture.
 
 ## Key claims / ideas
 
-- Defender footwork is a continuous "dance" — feet never stop across the rally, not just before contact.
+- Defender footwork is a continuous "dance", feet never stop across the rally.
 - Light feet + low balanced posture is the combo that produces fast reaction.
 - Tracking focus expands beyond the ball: block location, attacker position, out-of-system probability.
-- Applies throughout the rally, not just defensive ball-contact moments.
+- Applies throughout the rally, including moments away from defensive ball contact.
 
 ## Topics covered
 

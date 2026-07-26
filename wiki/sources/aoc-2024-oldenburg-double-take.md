@@ -20,7 +20,7 @@ Ohio State head coach Jen Flynn Oldenburg's "Double Take" drill forces whoever d
 
 ## Key claims / ideas
 - 6v6 with coach-entered rip at a player; that player digs, then sets.
-- Two consecutive touches by the same player — simulates true out-of-system chaos.
+- Two consecutive touches by the same player, simulates true out-of-system chaos.
 - Coach spreads initial entries across all positions because every player must be able to set out-of-system for the team to get a quality swing.
 - Flexible scoring based on what the coach wants to emphasize.
 - Implicit claim: out-of-system setting is a universal skill, not a setter-only responsibility.
@@ -37,5 +37,5 @@ Ohio State head coach Jen Flynn Oldenburg's "Double Take" drill forces whoever d
 ## Access
 - Raw file: [[aoc-2024-oldenburg-double-take]]
 - URL: https://www.theartofcoachingvolleyball.com/out-of-system-double-take-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

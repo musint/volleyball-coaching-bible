@@ -35,5 +35,5 @@ Jim Stone frames serve-receive pattern design as a two-lever optimization: the b
 ## Access
 - Raw file: [[aoc-2020-stone-organizing-serve-receive]]
 - URL: https://www.theartofcoachingvolleyball.com/serve-receive-patterns/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

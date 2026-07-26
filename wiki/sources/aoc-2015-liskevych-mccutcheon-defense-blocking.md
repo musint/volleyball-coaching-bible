@@ -33,5 +33,5 @@ Clinic segment from the 2013 Calgary Clinic in which Terry Liskevych and Hugh Mc
 ## Access
 - Raw file: [[aoc-2015-liskevych-mccutcheon-defense-blocking]]
 - URL: https://www.theartofcoachingvolleyball.com/defense-blocking-terry-liskevych-hugh-mccutcheon/
-- Trust tier: 2 — AOC, named author
+- Trust tier: 2: AOC, named author
 - Ingested via: aoc-mcp on 2026-04-23

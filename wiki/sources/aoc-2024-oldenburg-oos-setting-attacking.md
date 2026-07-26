@@ -16,7 +16,7 @@ trust-tier: 2
 # Out-of-system setting and attacking drill
 
 ## Summary
-Jen Flynn Oldenburg extends her OOS dig-and-set drill by adding attacking: coach hits, digger digs to non-setter, non-setter sets OOS, pin hitter attacks. Everyone rotates through all roles — liberos included — to build cross-skill capability and empathy for hitters. Played to 25 in a row, tape = zero.
+Jen Flynn Oldenburg extends her OOS dig-and-set drill by adding attacking: coach hits, digger digs to non-setter, non-setter sets OOS, pin hitter attacks. Everyone rotates through all roles, liberos included, to build cross-skill capability and empathy for hitters. Played to 25 in a row, tape = zero.
 
 ## Key claims / ideas
 - "Everybody should be able to dig a ball. Everybody should be able to set an out-of-system ball. Everybody should be able to hit a ball hard to a corner."
@@ -36,6 +36,5 @@ Jen Flynn Oldenburg extends her OOS dig-and-set drill by adding attacking: coach
 ## Access
 - Raw file: [[aoc-2024-oldenburg-oos-setting-attacking]]
 - URL: https://www.theartofcoachingvolleyball.com/out-of-system-setting-and-attacking-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

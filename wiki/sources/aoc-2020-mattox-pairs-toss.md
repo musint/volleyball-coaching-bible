@@ -35,5 +35,5 @@ Tod Mattox's Pairs Toss: partner tosses, passer freezes platform until partner c
 ## Access
 - Raw file: [[aoc-2020-mattox-pairs-toss]]
 - URL: https://www.theartofcoachingvolleyball.com/pairs-toss-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

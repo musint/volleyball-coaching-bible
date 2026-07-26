@@ -37,5 +37,5 @@ Trinity Western's Ryan Hofer and Doug Reimer demonstrate a single-court drill th
 ## Access
 - Raw file: [[aoc-2025-hofer-reimer-middle-reps]]
 - URL: https://www.theartofcoachingvolleyball.com/getting-your-middles-extra-reps-while-keeping-everyone-else-involved/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

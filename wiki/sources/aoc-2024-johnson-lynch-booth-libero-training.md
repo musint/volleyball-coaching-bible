@@ -37,5 +37,5 @@ Christy Johnson-Lynch (Iowa State) and Kirsten Bernthal Booth argue a great libe
 ## Access
 - Raw file: [[aoc-2024-johnson-lynch-booth-libero-training]]
 - URL: https://www.theartofcoachingvolleyball.com/ideas-and-drills-for-training-game-changing-liberos/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

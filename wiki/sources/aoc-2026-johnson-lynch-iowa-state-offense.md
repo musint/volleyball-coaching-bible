@@ -22,7 +22,7 @@ Christy Johnson-Lynch (Iowa State) walks through how Iowa State builds offense f
 - Offense starts with precise passing and setting fundamentals: early, straight platforms; efficient footwork; angles to control the ball.
 - Every player on the floor must develop strong ball-handling so they can take over setting in out-of-system scenarios.
 - Setting cues: create an early "window," get feet to the ball, deliver high, hittable sets.
-- High, hittable sets give attackers time to adjust — accepted tradeoff vs. fast tempo when passing is imperfect.
+- High, hittable sets give attackers time to adjust, accepted tradeoff vs. fast tempo when passing is imperfect.
 - Attackers should learn to score multiple ways and become less predictable.
 
 ## Topics covered
@@ -38,5 +38,5 @@ Christy Johnson-Lynch (Iowa State) walks through how Iowa State builds offense f
 ## Access
 - Raw file: [[aoc-2026-johnson-lynch-iowa-state-offense]]
 - URL: https://www.theartofcoachingvolleyball.com/iowa-state-offensive-skills/
-- Trust tier: 2 — AOC, coach video lesson
+- Trust tier: 2: AOC, coach video lesson
 - Ingested via: aoc-mcp on 2026-04-23

@@ -12,10 +12,10 @@ sources: []
 # Minnesota Volleyball Tradition
 
 ## Overview
-Stub for a school/program page — will be fleshed out in a later wave. This page exists to satisfy the SCHEMA §6 bidirectional-link invariant between the Minnesota-affiliated coach profiles ([[mike-hebert]], [[hugh-mccutcheon]]) and an actual `wiki/schools/minnesota-volleyball.md` file. The University of Minnesota women's volleyball program has operated as a Big Ten elite program across the Hebert era (1996-2010) and the McCutcheon era (2012-2021), reaching multiple Final Fours and producing national-team contributors. It functions here as a school-of-thought entry point for the GMS-inflected, motor-learning-grounded coaching lineage that runs from [[carl-mcgown]] through Hebert and McCutcheon.
+Stub for a school/program page, will be fleshed out in a later wave. This page exists to satisfy the SCHEMA §6 bidirectional-link invariant between the Minnesota-affiliated coach profiles ([[mike-hebert]], [[hugh-mccutcheon]]) and an actual `wiki/schools/minnesota-volleyball.md` file. The University of Minnesota women's volleyball program has operated as a Big Ten elite program across the Hebert era (1996-2010) and the McCutcheon era (2012-2021), reaching multiple Final Fours and producing national-team contributors. It functions here as a school-of-thought entry point for the GMS-inflected, motor-learning-grounded coaching lineage that runs from [[carl-mcgown]] through Hebert and McCutcheon.
 
 ## Core principles
-*(populated in a later wave — preliminary: motor-learning-grounded practice design, systems discipline at the NCAA level, program continuity across coach transitions, national-team-quality player development inside collegiate scholarship limits)*
+*(populated in a later wave, preliminary: motor-learning-grounded practice design, systems discipline at the NCAA level, program continuity across coach transitions, national-team-quality player development inside collegiate scholarship limits)*
 
 ## Methodology
 *(populated in a later wave)*
@@ -32,4 +32,4 @@ Stub for a school/program page — will be fleshed out in a later wave. This pag
 *(populated in a later wave)*
 
 ## Sources
-*(none yet — this is a bidirectional-link stub)*
+*(none yet, this is a bidirectional-link stub)*

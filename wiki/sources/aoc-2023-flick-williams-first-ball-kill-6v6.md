@@ -16,7 +16,7 @@ trust-tier: 2
 # 6 vs. 6 competitive drill: Going for first-ball kills
 
 ## Summary
-Diane Flick-Williams (Western Washington) runs a 6v6 rotational chase game — "1 swing, 2 times, 3 chances" — where teams race through all six rotations by chaining first-ball kills (FBK). Two consecutive FBKs earn a rotation; rally wins extend chances but don't advance without an FBK.
+Diane Flick-Williams (Western Washington) runs a 6v6 rotational chase game, "1 swing, 2 times, 3 chances", where teams race through all six rotations by chaining first-ball kills (FBK). Two consecutive FBKs earn a rotation; rally wins extend chances but don't advance without an FBK.
 
 ## Key claims / ideas
 - Objective: be first team through all six rotations.
@@ -37,5 +37,5 @@ Diane Flick-Williams (Western Washington) runs a 6v6 rotational chase game — "
 ## Access
 - Raw file: [[aoc-2023-flick-williams-first-ball-kill-6v6]]
 - URL: https://www.theartofcoachingvolleyball.com/6-vs-6-competitive-drill-going-for-first-ball-kills/
-- Trust tier: 2 — AOC, D2 head coach drill
+- Trust tier: 2: AOC, D2 head coach drill
 - Ingested via: aoc-mcp on 2026-04-23

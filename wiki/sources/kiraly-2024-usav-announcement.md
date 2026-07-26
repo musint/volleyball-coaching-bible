@@ -43,4 +43,4 @@ The announcement also restates Kiraly's women's tenure resume: 327-81 record; Ol
 ## Access
 - Raw file: `raw/articles/karch-usav-mens-announcement.md`
 - URL: https://usavolleyball.org/story/karch-kiraly-to-coach-u-s-mens-national-team/
-- Trust tier: 1 — primary federation source hosting the announcement.
+- Trust tier: 1, primary federation source hosting the announcement.

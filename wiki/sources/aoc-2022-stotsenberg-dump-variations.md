@@ -19,7 +19,7 @@ trust-tier: 2
 Jed Stotsenberg demonstrates three dump variations setters can use regardless of height: front-row sideways dump to the donut (flat trajectory), back-row dump from Zone 1 pushing deep, and front-row backward jump-set dump to Zone 4. Pair with calling for hitters to deepen the disguise.
 
 ## Key claims / ideas
-- Front-row dump: start off net, square as if setting a pin, dump sideways to the donut. Keep trajectory flat — harder to predict/dig.
+- Front-row dump: start off net, square as if setting a pin, dump sideways to the donut. Keep trajectory flat, harder to predict/dig.
 - Back-row dump: from right-back approaching the net, push the ball forcefully to the opponent's deep court.
 - Front-row backward dump: go up for a jump set, dump backward to Zone 4.
 - Call for hitters before the dump so the defense isn't set up for it.
@@ -36,6 +36,5 @@ Jed Stotsenberg demonstrates three dump variations setters can use regardless of
 ## Access
 - Raw file: [[aoc-2022-stotsenberg-dump-variations]]
 - URL: https://www.theartofcoachingvolleyball.com/dump-variations/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

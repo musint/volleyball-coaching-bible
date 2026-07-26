@@ -15,11 +15,11 @@ trust-tier: 2
 
 ## Summary
 
-Terry Liskevych presents his canonical six-person pepper drill. Six players on one side of the net initiate a cooperative rally — a front-row player drives a ball to middle back, who passes to middle front, who sets in the direction she's facing, the set is hit to a new teammate, that player digs, and the cycle repeats. The team's goal is simply to string together as many uninterrupted contacts in a row as possible. Liskevych frames it as the archetypal "player-oriented" drill: the coach does not enter balls, and the players self-organize passes, sets, hits, and digs that mirror the real game.
+Terry Liskevych presents his canonical six-person pepper drill. Six players on one side of the net initiate a cooperative rally, a front-row player drives a ball to middle back, who passes to middle front, who sets in the direction she's facing, the set is hit to a new teammate, that player digs, and the cycle repeats. The team's goal is simply to string together as many uninterrupted contacts in a row as possible. Liskevych frames it as the archetypal "player-oriented" drill: the coach does not enter balls, and the players self-organize passes, sets, hits, and digs that mirror the real game.
 
 ## Key claims / ideas
 
-- Six-person pepper is "a great example of a player-oriented drill" — the coach steps back and the players drive the reps.
+- Six-person pepper is "a great example of a player-oriented drill", the coach steps back and the players drive the reps.
 - It is simultaneously cooperative (no side wins, team tries to sustain the rally) and demanding of ball control, since one bad touch ends the sequence.
 - The format covers all four primary skills in one continuous sequence: passing, setting, hitting, and digging.
 - Can scale to 12 players by running both sides of the net simultaneously, still without any coach-fed entry balls.
@@ -34,7 +34,7 @@ Terry Liskevych presents his canonical six-person pepper drill. Six players on o
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[drills/six-person-pepper]]`, any page on [[pepper]] progressions, warmup hub coverage, and any Liskevych coach profile updates.
+Forward-reference, to be cited on `[[drills/six-person-pepper]]`, any page on [[pepper]] progressions, warmup hub coverage, and any Liskevych coach profile updates.
 
 ## Access
 

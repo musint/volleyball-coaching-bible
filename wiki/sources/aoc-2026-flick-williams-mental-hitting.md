@@ -16,7 +16,7 @@ trust-tier: 2
 # The mental side of hitting: Helping hitters understand their strengths
 
 ## Summary
-Western Washington's Diane Flick-Williams argues hitter development is as mental as technical — each attacker must identify her "superpower" skill rather than trying to mimic elite players wholesale.
+Western Washington's Diane Flick-Williams argues hitter development is as mental as technical, each attacker must identify her "superpower" skill rather than trying to mimic elite players wholesale.
 
 ## Key claims / ideas
 - Mental preparation is equal in weight to technical training for hitters.
@@ -37,5 +37,5 @@ Western Washington's Diane Flick-Williams argues hitter development is as mental
 ## Access
 - Raw file: [[aoc-2026-flick-williams-mental-hitting]]
 - URL: https://www.theartofcoachingvolleyball.com/the-mental-side-of-hitting-helping-hitters-understand-their-strengths/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -19,9 +19,9 @@ trust-tier: 2
 
 A Don Patterson feature for AOC built around Tod Mattox's (The Bishop's School, 30 years of HS and college coaching) approach to the first month of the season. The organizing frame is a season arc: early weeks emphasize technique, competitive season shifts toward systems and shortens practices, and post-season shortens further into opponent-specific preparation.
 
-Mattox's coaching stance is notable for directness — he uses honest feedback rather than constant praise, and believes players prefer candid assessment. The article lists tactical habits (simplify the system; analyze setter/blocker decisions rather than assume; eliminate double-arm-swing passing via one-arm partner drills; use regular- and slow-motion video review; do core work before water breaks) and a philosophical anchor — "Keep Big Things Big," meaning for younger groups, cohesion/effort/attitude should outweigh rotational perfection.
+Mattox's coaching stance is notable for directness, he uses honest feedback rather than constant praise, and believes players prefer candid assessment. The article lists tactical habits (simplify the system; analyze setter/blocker decisions rather than assume; eliminate double-arm-swing passing via one-arm partner drills; use regular- and slow-motion video review; do core work before water breaks) and a philosophical anchor, "Keep Big Things Big," meaning for younger groups, cohesion/effort/attitude should outweigh rotational perfection.
 
-The piece also surfaces three Mattox drills: **Kamikaze** (4-on-4 with blockers in front of and behind the 10-foot line — more game-realistic attacking angles than deep-court work); **Towel Drill** (hitters target a towel in deep middle, exploiting the often-undefended middle; miss right over left to avoid libero/transition complications); and **Six-on-Six with Bonus Points** (extra points for achieving emphasized objectives, e.g., tooling blockers out).
+The piece also surfaces three Mattox drills: **Kamikaze** (4-on-4 with blockers in front of and behind the 10-foot line, more game-realistic attacking angles than deep-court work); **Towel Drill** (hitters target a towel in deep middle, exploiting the often-undefended middle; miss right over left to avoid libero/transition complications); and **Six-on-Six with Bonus Points** (extra points for achieving emphasized objectives, e.g., tooling blockers out).
 
 ## Key claims / ideas
 
@@ -31,7 +31,7 @@ The piece also surfaces three Mattox drills: **Kamikaze** (4-on-4 with blockers 
 - Eliminate double-arm-swing in passing via one-arm-extend, other-arm-meets partner drills.
 - Slow-motion + regular-speed video review for technique correction.
 - Core strength work is slotted in before water breaks.
-- "Keep Big Things Big" — for younger teams, cohesion and effort matter more than rotation precision.
+- "Keep Big Things Big", for younger teams, cohesion and effort matter more than rotation precision.
 - Kamikaze (4v4 with in-front-of-10ft blockers), Towel Drill (deep middle target), and Bonus-Point 6v6 are the featured drill constructs.
 
 ## Topics covered
@@ -50,4 +50,4 @@ The piece also surfaces three Mattox drills: **Kamikaze** (4-on-4 with blockers 
 
 - Raw file: `raw/articles/aoc-2021-mattox-early-season-practice.md`
 - URL: https://www.theartofcoachingvolleyball.com/a-coaching-plan-for-the-first-month-of-the-volleyball-season/
-- Trust tier: 2 — AOC editorial
+- Trust tier: 2: AOC editorial

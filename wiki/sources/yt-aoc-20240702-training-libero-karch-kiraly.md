@@ -44,5 +44,5 @@ AoC-published segment featuring then-USA WNT head coach Karch Kiraly with assist
 
 - Raw file: `raw/transcripts/yt-aoc-20240702-training-libero-karch-kiraly.md`
 - URL: https://www.theartofcoachingvolleyball.com/training-your-libero/
-- Trust tier: 3 — verified-account (AoC + current USA NT coach), content captured from public AoC companion article; YouTube transcript unavailable
+- Trust tier: 3, verified-account (AoC + current USA NT coach), content captured from public AoC companion article; YouTube transcript unavailable
 - **Corroboration required before heavy use.**

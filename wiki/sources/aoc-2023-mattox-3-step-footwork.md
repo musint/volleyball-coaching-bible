@@ -19,8 +19,8 @@ trust-tier: 2
 Bishop's School coach Tod Mattox distills the three-step approach to three memorable cues: small-to-big, slow-to-fast, and arm backswing initiation on step two.
 
 ## Key claims / ideas
-- Step sizing principle: small to big — earlier steps short, later steps long and explosive.
-- Tempo principle: slow to fast — gather momentum progressively, not all at once.
+- Step sizing principle: small to big, earlier steps short, later steps long and explosive.
+- Tempo principle: slow to fast, gather momentum progressively, not all at once.
 - Arm timing: the arm backswing begins on the second step, not the first, not the third.
 - Three simple heuristics replace a stack of complicated cues, useful at any level.
 
@@ -36,5 +36,5 @@ Bishop's School coach Tod Mattox distills the three-step approach to three memor
 ## Access
 - Raw file: [[aoc-2023-mattox-3-step-footwork]]
 - URL: https://www.theartofcoachingvolleyball.com/3-step-footwork-drill-for-attackers/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

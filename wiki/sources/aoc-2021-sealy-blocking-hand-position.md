@@ -35,5 +35,5 @@ Mike Sealy's first building block for blocking: start with hands together and el
 ## Access
 - Raw file: [[aoc-2021-sealy-blocking-hand-position]]
 - URL: https://www.theartofcoachingvolleyball.com/blocking-hand-position/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

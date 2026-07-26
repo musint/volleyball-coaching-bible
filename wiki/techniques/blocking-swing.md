@@ -22,11 +22,11 @@ sources:
 Swing blocking is the individual blocking technique in which the blocker's
 arms swing back and forward through the lateral close (like a sprinter's
 arms) and then drive up and over the net at the jump. It is a distinct
-mechanical pattern from static blocking, not just a faster version. At
+mechanical pattern from static blocking rather than a faster version of it. At
 most competitive HS and college programs it is now the default teaching;
 at 14U it is typically deferred in favor of static blocking; above 14U
 there is ongoing disagreement about when and whether to install it. This
-page covers the individual mechanics — the system-level swing-block scheme
+page covers the individual mechanics, the system-level swing-block scheme
 belongs on a systems page.
 
 ## Teaching progressions
@@ -36,9 +36,9 @@ belongs on a systems page.
    athlete should have a solid static block: shuffle footwork, hands
    pressing over the net, balanced landing (see [[blocking-footwork]] and
    [[blocking-hand-position]]). Swing blocking is an acceleration layer on
-   top of that foundation, not a replacement for it.
+   top of that foundation.
 2. **Jump mechanics.** Athletes should be able to load and explode off two
-   feet with arms loading behind them — the same mechanical pattern as a
+   feet with arms loading behind them, the same mechanical pattern as a
    volleyball attack approach. If the jump mechanics aren't there yet, the
    swing layer has nothing to accelerate.
 
@@ -47,16 +47,16 @@ belongs on a systems page.
 3. **The lateral run-out, arms-only.** First rep without the block: pin
    blocker drives off the outside foot toward the middle (or middle drives
    off the inside foot toward the pin), arms swinging in sprint rhythm. The
-   arms stay relaxed and swing fully — not little pumps — shoulders remain
-   level. Emphasize that the arms lead the feet in rhythm, not the other
+   arms stay relaxed and swing through their full range, shoulders level.
+   Emphasize that the arms lead the feet in rhythm, not the other
    way around.
 4. **Add the arm load at the last step.** As the planting step arrives,
    both arms swing back together ("big arm back") like loading an attack
    approach. This is the single most important timing cue: the arms have
    to finish their backswing at the plant, not during the jump.
 5. **Add the jump.** From the loaded arms, drive forward and up. The arms
-   come through fast and finish pressed over the net — not swinging through
-   the ball and not still rising at contact.
+   come through fast and finish pressed over the net, already at full
+   extension when the hitter contacts.
 6. **Close the hands for the block shape.** The swing ends in the same
    finished shape as a static block: hands pressed, fingers spread, thumbs
    up, palms angled down into the opposing court. The swing is acceleration;
@@ -80,7 +80,7 @@ belongs on a systems page.
     height, and that advantage only cashes if the arms finish their drive
     through the block by contact. A swing that is still accelerating at
     hitter-contact has produced a lower block than a static close would
-    have — the worst-of-both outcome.
+    have, the worst-of-both outcome.
 11. **Drill against live timing.** Swing blocking can only be tested against
     real setters and real attackers. Coach-toss sets do not reproduce the
     timing problem the swing solves. Rep against live offense as soon as
@@ -102,15 +102,15 @@ belongs on a systems page.
   a continuation of the run; drill the last two steps at partial speed.
 - **Hands drop to pump, stay down.** Arm swing requires hands to drop for
   the pump, then must fully return over the net by contact. Blockers who
-  forget the return get stuffed. Fix: separate drilling — arms pump, then
-  arms return up — before integrating.
+  forget the return get stuffed. Fix: separate drilling, arms pump, then
+  arms return up, before integrating.
 - **Swinging on short closes.** Using a full swing block to travel one
   arm's reach wastes more time than it saves. Fix: teach blockers to
-  choose — short closes get a shuffle or short crossover, long closes
+  choose, short closes get a shuffle or short crossover, long closes
   get the swing.
 - **Using a swing block when the read is wrong.** A mistimed swing against
   a set the blocker shouldn't have moved for is worse than a late static
-  block — the blocker has fully committed. Fix: reading skill (see
+  block, the blocker has fully committed. Fix: reading skill (see
   [[blocking-read]]) has to keep up with the movement skill.
 
 ## Schools-perspectives
@@ -124,28 +124,28 @@ adoption.
 arm swing during blocking enables faster movement, higher jump, and net
 penetration, and swing blocking should be taught alongside static and
 combination blocking at HS and above. The AOC teaching cluster broadly
-agrees that not exposing HS-varsity and college-bound athletes to swing
-blocking leaves them behind the curve.
+agrees that HS-varsity and college-bound athletes need exposure to swing
+blocking to stay current.
 
 **The skeptical position.** Ken Murczek (Emporia State), in "Swing
 blocking: Is it right for your team?", argues that swing blocking's
-advertised advantage — higher jump — doesn't necessarily translate into
+advertised advantage, higher jump, doesn't necessarily translate into
 greater net penetration (the actual KPI). He demonstrates a player who
 gets no more penetration from the swing than the static. His opportunity-
 cost case: the hours required to teach swing blocking well may be better
 spent on attacking and passing, which correlate more strongly with winning.
 
-**The middle-ground voices.** Hugh McCutcheon is pragmatic — swing
+**The middle-ground voices.** Hugh McCutcheon is pragmatic, swing
 blocking has its place but shouldn't be used in every situation, and
 middles should have freedom to read and choose. Terry Liskevych is the
 strongest AOC dissenter; he calls swing blocking the "flavor of the month"
 and argues traditional footwork-and-hand technique is more durable. Read
-together, the AOC corpus itself is not a single voice on this question.
+together, the AOC corpus carries several positions on this question.
 
 **Adoption decision.** The practical call for a coach:
 
 - **14U club:** teach static blocking, including the 3-step crossover for
-  middles. Don't install swing blocking — the physical-literacy baseline
+  middles. Don't install swing blocking, the physical-literacy baseline
   isn't there yet, and the opportunity cost against ball-control is high.
 - **HS JV / first-year varsity:** teach static as the foundation; introduce
   swing-block footwork mechanics (run-out + arm swing) without yet requiring

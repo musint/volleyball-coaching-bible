@@ -15,11 +15,11 @@ trust-tier: 2
 
 ## Summary
 
-A 2020 AOC Virtual Clinic session with Morgan Hentz (Stanford All-American '16-'19) and John Dunning (Stanford head coach '01-'16) on how to teach defensive skills and coach players to dig more balls. Includes live Q&A with attending coaches. Metadata only from the MCP fetch — body is video-gated premium content.
+A 2020 AOC Virtual Clinic session with Morgan Hentz (Stanford All-American '16-'19) and John Dunning (Stanford head coach '01-'16) on how to teach defensive skills and coach players to dig more balls. Includes live Q&A with attending coaches. Metadata only from the MCP fetch, body is video-gated premium content.
 
 ## Key claims / ideas
 
-- Framed as a full session on teaching defensive skills, not a single tip — pairs Hentz (player perspective, current best defender) with Dunning (coach of defenders for 16 years at Stanford).
+- Framed as a full session on teaching defensive skills, not a single tip, pairs Hentz (player perspective, current best defender) with Dunning (coach of defenders for 16 years at Stanford).
 - Session is part of a broader "Training Exceptional Defenders" playlist on AOC (context for follow-up).
 
 ## Topics covered

@@ -20,7 +20,7 @@ Coach Connection LIVE session with Mac Barron, founder of Meraki Volleyball, on 
 ## Key claims / ideas
 
 - Coach evaluation is a club-level system problem, not a head-coach instinct.
-- Onboarding must explicitly transfer gym culture and expectations, not just drills.
+- Onboarding must explicitly transfer gym culture and expectations alongside drills.
 - Mid-season check-ins with coaches need a timing cadence, not drop-in conversations.
 - A single communication app for club coaches reduces friction versus scattered channels.
 - Teaching coaches to use stats and data is part of coach development, not a "head coach only" skill.

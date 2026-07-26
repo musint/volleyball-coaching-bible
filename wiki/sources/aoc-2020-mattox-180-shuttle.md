@@ -36,5 +36,5 @@ Tod Mattox's 180 Shuttle: toss over net, receiver passes to herself, spins 180°
 ## Access
 - Raw file: [[aoc-2020-mattox-180-shuttle]]
 - URL: https://www.theartofcoachingvolleyball.com/180-shuttle-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

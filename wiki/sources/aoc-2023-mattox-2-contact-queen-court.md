@@ -15,14 +15,14 @@ trust-tier: 2
 
 ## Summary
 
-Tod Mattox (The Bishop's School) uses a 3v3 queen-of-the-court variant as a dynamic warmup focused on back-row attacking. A bowled ball starts each rally. Teams get two contacts — so the digger must put the dig high (around the 10-foot line) to give the hitter time for a full approach and a hard back-row swing. Winners stay and rotate positions; losers come off the court. The emphasis is early hitter preparation: the moment a player reads the first ball isn't to them, they move into approach position.
+Tod Mattox (The Bishop's School) uses a 3v3 queen-of-the-court variant as a dynamic warmup focused on back-row attacking. A bowled ball starts each rally. Teams get two contacts, so the digger must put the dig high (around the 10-foot line) to give the hitter time for a full approach and a hard back-row swing. Winners stay and rotate positions; losers come off the court. The emphasis is early hitter preparation: the moment a player reads the first ball isn't to them, they move into approach position.
 
 ## Key claims / ideas
 
 - Two-contact queen-of-the-court constraints force a crisp, high dig rather than a reflexive up-ball.
 - Back-row hitters need time, and time is created by digging high near the 10-foot line.
 - "Hitting preparation mode" starts the instant the player reads they're not the first touch.
-- Winning team stays — a queen-of-the-court reward mechanic that keeps competitive pressure on.
+- Winning team stays, a queen-of-the-court reward mechanic that keeps competitive pressure on.
 - Variation: if the defending team earns a free ball, the set can move to the net instead of behind 10-foot.
 
 ## Topics covered
@@ -34,7 +34,7 @@ Tod Mattox (The Bishop's School) uses a 3v3 queen-of-the-court variant as a dyna
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``warm-up`` hub, `[[drills/queen-of-the-court-2-contact]]`, ``back-row-attack``, and `[[tod-mattox]]` profile.
+Forward-reference, to be cited on ``warm-up`` hub, `[[drills/queen-of-the-court-2-contact]]`, ``back-row-attack``, and `[[tod-mattox]]` profile.
 
 ## Access
 

@@ -16,13 +16,13 @@ sources:
   - walter-2019-self-talk-junior-athletes
 ---
 
-# Tryout rubric — 16U
+# Tryout rubric: 16U
 
-> Eight-row, five-column observable rubric for evaluating 16U club volleyball tryouts. Column 3 is the 16s standard ([[16s]] promotion criteria, mirrored). Column 5 is 17s-ready (early advanced markers — flag for 17U-or-above placement). Use alongside [[age-lens-hs]] (parent context) and [[recruiting]] (16s is the recruiting auto-evaluation year).
+> Eight-row, five-column observable rubric for evaluating 16U club volleyball tryouts. Column 3 is the 16s standard ([[16s]] promotion criteria, mirrored). Column 5 is 17s-ready (early advanced markers, flag for 17U-or-above placement). Use alongside [[age-lens-hs]] (parent context) and [[recruiting]] (16s is the recruiting auto-evaluation year).
 
 ## Purpose
 
-The 16U tryout evaluates against the same milestones the 16s age-guide says a player must demonstrate to graduate to 17s. Eight skill areas, five-point scale, observable cells. Specialization-phase year — every athlete should arrive with a position identity (libero / OH / MB / S / Opp), at least one HS varsity season behind her, and a settled offensive system. The rubric does the recruiting-relevant first-pass: which athletes are 16s-standard, which are 17s-ready, and which need targeted development to hold a roster spot. Pair with the matched [[16s]] age-guide for the underlying milestone rationale.
+The 16U tryout evaluates against the same milestones the 16s age-guide says a player must demonstrate to graduate to 17s. Eight skill areas, five-point scale, observable cells. Specialization-phase year, every athlete should arrive with a position identity (libero / OH / MB / S / Opp), at least one HS varsity season behind her, and a settled offensive system. The rubric does the recruiting-relevant first-pass: which athletes are 16s-standard, which are 17s-ready, and which need targeted development to hold a roster spot. Pair with the matched [[16s]] age-guide for the underlying milestone rationale.
 
 **Entry-calibrated rows.** The serving and back-row-attack criteria are calibrated to what a candidate can show on **tryout day**, before the 16s year has taught her anything. Topspin is introduced at 16s by program design, so no entering candidate has it, and the bottom half of most 15s rosters is still serving standing-float. Season-exit standards for those two rows (standing-topspin contact clean, jump-topspin in rotation, back-row kill rate) live in the [[16s]] promotion table, not here. Every other row is calibrated the same at entry and exit.
 
@@ -45,7 +45,7 @@ Each evaluator scores all 8 rows independently per athlete. Sum the row scores f
 
 - **Roster-bid 17s-ready:** column 5 in 4+ rows AND no row below column 3. Flag for 17U placement consideration; if 16U is the only roster, she anchors it.
 - **Roster-bid 16s standard:** column 3 across all 8 rows OR column 4 in 4+ rows with column 2 minimum elsewhere. This is the promotion bar from the [[16s]] age-guide and the default 16U roster offer.
-- **Development bid:** column 2 in 2-3 rows with column 3 elsewhere. Roster-edge case — discuss in evaluator panel; consider position-specific development plan.
+- **Development bid:** column 2 in 2-3 rows with column 3 elsewhere. Roster-edge case, discuss in evaluator panel; consider position-specific development plan.
 - **No bid:** column 1 in 2+ rows OR aggregate below the no-bid floor. Recommend 15U or club-development-team placement; communicate to family per [[club-ops-parent-comms-templates]].
 
 The setter row applies only to athletes auditioning for setter. Non-setters score the other 7 rows, maximum 35. Both threshold sets, stated rather than left to the evaluator to prorate:
@@ -61,11 +61,11 @@ The setter row applies only to athletes auditioning for setter. Non-setters scor
 
 **Session structure (90 min target).** 10 min warm-up observation (athleticism + work ethic baseline). 20 min skill stations (passing wave + setting wave + hitting lines + serve/receive). 25 min position-specific (setter audit, libero pursuit, MB block-and-attack, OH back-row). 30 min controlled 6v6 with scoring rules that punish casual play [aoc-2026-rose-no-free-balls] (giveaway free balls = -1, missed serves = -2, back-row kills count double). 5 min cooldown + flex/jump-touch measure.
 
-**Inter-rater agreement.** Three evaluators minimum; each scores independently before any panel discussion. After session, compare rows where evaluators disagree by 2+ points and re-watch the relevant clip if recorded. The bunch-read [aoc-2026-bunch-read-blocking] and libero-split [aoc-2024-sr-formations] reads are evaluator-skill-dependent — flag any evaluator whose blocking/passing scores diverge systematically from the panel mean for calibration video work pre-tryout.
+**Inter-rater agreement.** Three evaluators minimum; each scores independently before any panel discussion. After session, compare rows where evaluators disagree by 2+ points and re-watch the relevant clip if recorded. The bunch-read [aoc-2026-bunch-read-blocking] and libero-split [aoc-2024-sr-formations] reads are evaluator-skill-dependent, flag any evaluator whose blocking/passing scores diverge systematically from the panel mean for calibration video work pre-tryout.
 
-**Common biases to avoid.** Recency-bias on the last drill of the session (rotate evaluation order). Approach-touch halo (a 9'8" touch is a recruiting datum, not a skill column). Familiarity-bias toward returning athletes vs. tryout-only candidates (score the rep observed, not the player history). Single-rep panic (column 3 means "consistent at age-appropriate level" — one mishit doesn't drop a column). Pressure-acclimatization gap [mesagno-2017-choking-models-interventions] — first-time tryout athletes may underperform their true level; offer a shorter return-block on day 2 if scheduling allows.
+**Common biases to avoid.** Recency-bias on the last drill of the session (rotate evaluation order). Approach-touch halo (a 9'8" touch is a recruiting datum, not a skill column). Familiarity-bias toward returning athletes vs. tryout-only candidates (score the rep observed, not the player history). Single-rep panic (column 3 means "consistent at age-appropriate level", one mishit doesn't drop a column). Pressure-acclimatization gap [mesagno-2017-choking-models-interventions]: first-time tryout athletes may underperform their true level; offer a shorter return-block on day 2 if scheduling allows.
 
-**Recruiting hand-off.** Column 5 athletes are recruiting-relevant; flag for [[recruiting]] timeline check (NCAA D1 contact opens June 15 after sophomore year). Approach-touch, standing reach, and jump-touch numbers logged pre-tryout-day with handheld jump-touch device — these are recruiting-card data and belong in the athlete file regardless of bid.
+**Recruiting hand-off.** Column 5 athletes are recruiting-relevant; flag for [[recruiting]] timeline check (NCAA D1 contact opens June 15 after sophomore year). Approach-touch, standing reach, and jump-touch numbers logged pre-tryout-day with handheld jump-touch device, these are recruiting-card data and belong in the athlete file regardless of bid.
 
 **Self-talk and pressure routine [walter-2019-self-talk-junior-athletes].** Mental-row column 4 scores the *output* of a self-talk install, not attendance at one: constructive self-talk audible after an error, and an identical pre-serve routine held across ten consecutive serves. Score what you see on tryout day. A returning athlete who completed the program's 8-week block but shows neither behavior does not get the column; a first-year candidate who shows both does.
 

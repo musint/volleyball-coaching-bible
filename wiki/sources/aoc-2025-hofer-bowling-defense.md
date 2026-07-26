@@ -16,14 +16,14 @@ trust-tier: 2
 # Training your libero: Bowling defense drill
 
 ## Summary
-Trinity Western's Ryan Hofer uses a "bowling" drill — coach rolls balls instead of hitting for accuracy — to train forearm digs, overhead digs, sprawls, and pancakes. Cue: maintain a stable platform. Liberos should read the hitter, not watch the ball.
+Trinity Western's Ryan Hofer uses a "bowling" drill, coach rolls balls instead of hitting for accuracy, to train forearm digs, overhead digs, sprawls, and pancakes. Cue: maintain a stable platform. Liberos should read the hitter, not watch the ball.
 
 ## Key claims / ideas
 - Primary dig techniques: forearm, overhead, sprawl, pancake.
 - Stable platform is core to dig quality.
 - Bowling balls (vs. hitting) gives coaches more accurate delivery.
 - Socks on hands/arms soften the ground for reluctant divers.
-- Liberos must watch the hitter, not the ball — reading drives range.
+- Liberos must watch the hitter, not the ball, reading drives range.
 
 ## Topics covered
 - Libero digging technique and drill design.
@@ -36,5 +36,5 @@ Trinity Western's Ryan Hofer uses a "bowling" drill — coach rolls balls instea
 ## Access
 - Raw file: [[aoc-2025-hofer-bowling-defense]]
 - URL: https://www.theartofcoachingvolleyball.com/training-your-libero-bowling-defense-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

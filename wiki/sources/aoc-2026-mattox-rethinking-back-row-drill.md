@@ -16,7 +16,7 @@ trust-tier: 2
 # Rethinking the classic back row attacking drill
 
 ## Summary
-Tod Mattox (The Bishop's School) reframes back row attacking as a primary offensive option, not just a backup, and shares a queen-of-the-court variant that trains early release on bad passes, setter-dump defense, and aggressive transition play.
+Tod Mattox (The Bishop's School) reframes back row attacking as a primary offensive option rather than a backup, and shares a queen-of-the-court variant that trains early release on bad passes, setter-dump defense, and aggressive transition play.
 
 ## Key claims / ideas
 - Back row attacks should be treated as a legitimate first-option play, not a bail-out.
@@ -37,5 +37,5 @@ Tod Mattox (The Bishop's School) reframes back row attacking as a primary offens
 ## Access
 - Raw file: [[aoc-2026-mattox-rethinking-back-row-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/alternatives-deep-court/
-- Trust tier: 2 — AOC, drill/strategy
+- Trust tier: 2: AOC, drill/strategy
 - Ingested via: aoc-mcp on 2026-04-23

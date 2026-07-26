@@ -38,5 +38,5 @@ Ken Murczek's whiteboard-based sideout drill scores three rally outcomes per rot
 ## Access
 - Raw file: [[aoc-2023-murczek-3-circle-sideout]]
 - URL: https://www.theartofcoachingvolleyball.com/3-circle-sideout-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -19,10 +19,10 @@ Jim Stone: on an outside attack, Hentz leaves base at the left sideline and driv
 
 ## Key claims / ideas
 
-- Pre-contact movement is the distinguishing elite-defender trait — not post-contact reflex.
+- Pre-contact movement is the distinguishing elite-defender trait, not post-contact reflex.
 - For an outside attack, the left-side defender shifts into the middle (not sideways across the sideline).
-- "Drives hard with her body" — the initial movement is a commit, not a drift.
-- "Attack the dig" — frame the dig as an act of initiative, not a reaction.
+- "Drives hard with her body", the initial movement is a commit, not a drift.
+- "Attack the dig", frame the dig as an act of initiative, not a reaction.
 
 ## Topics covered
 

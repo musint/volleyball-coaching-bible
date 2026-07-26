@@ -23,14 +23,14 @@ Passer on the court. Tosser across with a ball. Target at setter position. Mike 
 ## Execution
 1. Tosser feeds the passer.
 2. Passer plays one ball with the inside shoulder dropped one direction, then the next ball with the inside shoulder dropped the *other* direction.
-3. Mike's pattern cue: "she's going to pass to the opposite hand. She passes opposite, spins opposite" **[00:02:20]** — the body angle alternates every contact.
+3. Mike's pattern cue: "she's going to pass to the opposite hand. She passes opposite, spins opposite" **[00:02:20]**: the body angle alternates every contact.
 4. "We're working on dropping the shoulder closest to the target. So you're working on angling balls" **[00:02:25]**.
 5. 45 seconds to a minute per passer.
 
 ## Coaching points
-- The angle comes from shoulder drop, not platform swing — the platform stays quiet, the body changes.
-- Alternate sides every contact — no two consecutive passes go the same direction.
-- This drill is part of the tilt chain — drop the shoulder closest to target, every rep.
+- The angle comes from shoulder drop, not platform swing, the platform stays quiet, the body changes.
+- Alternate sides every contact, no two consecutive passes go the same direction.
+- This drill is part of the tilt chain, drop the shoulder closest to target, every rep.
 
 ## Variations
 - Run as a 2-ball drill with two tossers at different angles.

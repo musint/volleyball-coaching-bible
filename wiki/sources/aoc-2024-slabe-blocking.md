@@ -16,11 +16,11 @@ trust-tier: 2
 # Luka Slabe teaches blocking: Static, swing and combination blocking
 
 ## Summary
-Luka Slabe teaches static, swing, and combination blocking with a clear thesis: the goal of blocking is to stuff the ball for points — not to funnel, soft-block, or deflect — and arm use plus efficient movement make that possible.
+Luka Slabe teaches static, swing, and combination blocking with a clear thesis: the goal of blocking is to stuff the ball for points, not to funnel, soft-block, or deflect, and arm use plus efficient movement make that possible.
 
 ## Key claims / ideas
 - Blocking goal: stuff for points; not funnel, soft-block, or deflect.
-- Maximize hands on the ball — get as many blockers as possible into the block.
+- Maximize hands on the ball, get as many blockers as possible into the block.
 - Move from point A to B dynamically and as fast as possible.
 - Arm swing during blocking enables efficient movement, higher jump, and net penetration.
 - Covers static, swing, and combination blocking as complementary tools.
@@ -37,5 +37,5 @@ Luka Slabe teaches static, swing, and combination blocking with a clear thesis: 
 ## Access
 - Raw file: [[aoc-2024-slabe-blocking]]
 - URL: https://www.theartofcoachingvolleyball.com/luka-slabe-teaches-blocking/
-- Trust tier: 2 — AOC, systems/strategy
+- Trust tier: 2: AOC, systems/strategy
 - Ingested via: aoc-mcp on 2026-04-23

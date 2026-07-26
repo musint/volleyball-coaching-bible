@@ -34,6 +34,5 @@ Mattox's triangle drill highlights the footwork difference between passing and s
 ## Access
 - Raw file: [[aoc-2020-mattox-ds-triangle-set]]
 - URL: https://www.theartofcoachingvolleyball.com/player-ds-triangle-set-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

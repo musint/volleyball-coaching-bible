@@ -16,7 +16,7 @@ trust-tier: 2
 # Triples pass drill
 
 ## Summary
-Tod Mattox's Triples Pass drills platform tilt and ball angle: three-player triangle — one tosses, one passes, one sets. Rotate roles every five balls. Core cue: face the ball, tilt the platform to target.
+Tod Mattox's Triples Pass drills platform tilt and ball angle: three-player triangle, one tosses, one passes, one sets. Rotate roles every five balls. Core cue: face the ball, tilt the platform to target.
 
 ## Key claims / ideas
 - Triangle of three players with toss / pass / set roles
@@ -37,5 +37,5 @@ Tod Mattox's Triples Pass drills platform tilt and ball angle: three-player tria
 ## Access
 - Raw file: [[aoc-2020-mattox-triples-pass]]
 - URL: https://www.theartofcoachingvolleyball.com/triples-pass-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

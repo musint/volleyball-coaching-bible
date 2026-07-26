@@ -6,17 +6,17 @@ age: 18s
 sources: [18s, age-lens-college, recruiting, mccutcheon-2022-championship-behaviors, munciana-2022-camp-drills, usav-nd-college-recruitment-timeline]
 ---
 
-# Tryout rubric — 18u
+# Tryout rubric: 18u
 
 ## Purpose
 
-This rubric translates the [[18s]] `## Promotion criteria` into a graded 1-5 evaluation tool for an 18u tryout. The 18u year is the **college bridge** — see [[age-lens-college]] for the parent context. The unifying frame: column 5 ("college-ready") is calibrated to "would survive a college preseason on August 1," not "completed an 18s season." For recruiting-active athletes, [[recruiting]] adds a parallel evaluation layer (target-list discipline, film standards, signing-date awareness) that runs alongside the on-court rubric.
+This rubric translates the [[18s]] `## Promotion criteria` into a graded 1-5 evaluation tool for an 18u tryout. The 18u year is the **college bridge**: see [[age-lens-college]] for the parent context. The unifying frame: column 5 ("college-ready") is calibrated to "would survive a college preseason on August 1," not "completed an 18s season." For recruiting-active athletes, [[recruiting]] adds a parallel evaluation layer (target-list discipline, film standards, signing-date awareness) that runs alongside the on-court rubric.
 
 The rubric reads against an 80-90 minute combined tryout session: 20 min warm-up + skill-station rotation, 30 min controlled drill (serve-receive + transition + 6v6 wash), 30 min open scrimmage with end-game pressure rules, 10 min interview + measurement station (height / wingspan / standing reach / approach jump touch / vertical).
 
 ## Evaluation criteria
 
-| Criterion | 1 — Does not demonstrate | 2 — Occasional | 3 — Consistent at age | 4 — Above age | 5 — College-ready |
+| Criterion | 1: Does not demonstrate | 2: Occasional | 3: Consistent at age | 4: Above age | 5: College-ready |
 |---|---|---|---|---|---|
 | **Passing** | Cannot reliably platform jump-float; no seam communication. | Platforms jump-float; jump-topspin passes drift; seam calls absent. | **2.0+ tournament pass average** in libero-split vs. jump-float and slow topspin; pre-serve seam call audible before every serve. | Passes high-velocity topspin in libero-split at 2.0+; calls the four-passer adjustment in-rotation without a coach prompt. | 2.0+ rating vs. college-tier topspin; pre-serve seam ownership instant; pass grades tied to **what offense ran**. |
 | **Setting** | 5-1 only in three rotations; back-set absent; OOS dumps. | 5-1 across six rotations; jump-set inconsistent; OOS one-handed. | Full 5-1; jump-set from Zone 2/3; OOS two-handed redirect functional. | Back-set disguise; tempo-call audible (T1/T2/T3); late-match rotational drift identified **on video** and correcting inside the same match. | Real-time tempo audibles; OOS two-handed consistent; rotational-component repeatability sustained under fatigue, video-verified across a tournament day rather than eyeballed from the bench. |
@@ -44,7 +44,7 @@ Athletic-profile measurements (the physical card: height, wingspan, standing rea
 
 ## Calibration notes
 
-**Inter-rater agreement.** Use 2-3 evaluators; average independent scores; flag any criterion with >2-point spread for live review. The 1-5 anchors are cell-text-specific — read the column header, not the number, when scoring.
+**Inter-rater agreement.** Use 2-3 evaluators; average independent scores; flag any criterion with >2-point spread for live review. The 1-5 anchors are cell-text-specific, read the column header, not the number, when scoring.
 
 **Tryout-session arc.** Warm-up + skill-station scores criteria in isolation (passing, setting, hitting, serving). Controlled drill scores blocking, defense, transition under cooperative load. Scrimmage with end-game pressure (Munciana Biggie Smalls / Prove It / Finish Strong style) scores mental/coachability and stress-tests every other criterion [munciana-2022-camp-drills]. Mental score weights scrimmage observation 70 / interview 30.
 
@@ -54,7 +54,7 @@ Athletic-profile measurements (the physical card: height, wingspan, standing rea
 - **Recruiting halo.** A committed athlete is not automatically a 5; column 5 is observable execution, not commitment status.
 - **Familiarity bias.** Returning club athletes default-score higher; calibrate against the cell text, not against last year.
 
-**Recruiting overlay.** For the recruiting-active subset, [[recruiting]] criteria (target-list discipline, film standards, coach-communication, camp investment, signing-date awareness — women's volleyball single initial signing date 2025-26 is November 12, 2025) run as a parallel evaluation. A college-ready scorecard with a chaotic recruiting process is a coachable gap, not a tryout-failure gap.
+**Recruiting overlay.** For the recruiting-active subset, [[recruiting]] criteria (target-list discipline, film standards, coach-communication, camp investment, signing-date awareness, women's volleyball single initial signing date 2025-26 is November 12, 2025) run as a parallel evaluation. A college-ready scorecard with a chaotic recruiting process is a coachable gap, not a tryout-failure gap.
 
 **Cross-links.** [[18s]] | [[age-lens-college]] | [[recruiting]] | [[17s]] | [[tryout-rubric-17s]] | [[tryout-rubric-college-walkon]].
 

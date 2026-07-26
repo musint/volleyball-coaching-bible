@@ -26,34 +26,34 @@ sources:
 # Blocking footwork
 
 ## Overview
-Blocking footwork is how the blocker — middle, outside, or opposite — travels
+Blocking footwork is how the blocker, middle, outside, or opposite, travels
 from ready position along the net to the point of attack without sacrificing
 jump, balance, or net penetration. The pattern depends on distance to cover,
 attacker tempo, and the player's age/level: 14U club players typically shuffle,
 HS/college players typically swing-block, and every level mixes in crossover
 steps on longer moves by the middle. The block is the first line of defense,
 so the feet must arrive on time, squared to the attacker's line, and planted
-before the jump — not drifting sideways at contact.
+before the jump. Feet still drifting sideways at contact cost the block.
 
 The post-block landing is where blocking footwork meets injury prevention. In
-3-D motion-capture comparisons of three landing variants — *stick*,
-*step-back*, and *run-back* — the step-back landing concentrates a higher
+3-D motion-capture comparisons of three landing variants, *stick*,
+*step-back*, and *run-back*, the step-back landing concentrates a higher
 first-peak vertical ground reaction force and a greater knee-valgus moment
 (a canonical ACL risk marker) on the dominant lower limb than a stick landing
 [zahradnik-2015-block-landing-acl-risk]. The female-specific replication finds
-*run-back* landings — the kind that occur when a blocker breaks down and
-sprints back to play backcourt defense — produce significantly higher
+*run-back* landings, the kind that occur when a blocker breaks down and
+sprints back to play backcourt defense, produce significantly higher
 knee-valgus moments than step-back landings [zahradnik-2014-block-landing-grf-valgus].
 The injury-risk gradient is **stick (safest) → step-back → run-back (highest)**,
 and this matters most for adolescent female blockers, who carry the highest
 volleyball-specific ACL incidence [sassi-2025-acl-volleyball-systematic-review].
-The teaching implication is concrete: the *tactical* choice of recovery pattern
+The teaching implication: the *tactical* choice of recovery pattern
 after a block carries an injury-risk price coaches typically don't account for,
 and the run-back-style landing is the highest-priority pattern to drill with
 explicit landing-mechanics emphasis.
 
 ## Teaching progressions
-**Static (shuffle) blocking — start here for 14U and novices.**
+**Static (shuffle) blocking, start here for 14U and novices.**
 
 1. **Ready stance, no movement.** Teach the athletic posture first: feet
    shoulder-width, knees slightly bent, hands up at face level, about six inches
@@ -68,7 +68,7 @@ explicit landing-mechanics emphasis.
    is overkill: open step, shuffle, plant. Used when the middle helps on an
    in-system quick and closes late to the pin.
 
-**Crossover step — middle-blocker staple on wide travel.**
+**Crossover step, middle-blocker staple on wide travel.**
 
 4. **3-step crossover (X3).** From the middle, open with the near foot, drive
    a "big running second step" (trail foot crosses over and covers the most
@@ -78,9 +78,9 @@ explicit landing-mechanics emphasis.
 5. **Drill the plant.** The common failure mode is not the travel but the
    turn-and-plant: the blocker arrives moving sideways, jumps drifting, and
    lands in the antenna. Rep the last two steps slowly: crossover → plant both
-   feet → jump vertical — before adding speed.
+   feet → jump vertical, before adding speed.
 
-**Swing blocking — modern HS/college/national standard.**
+**Swing blocking, modern HS/college/national standard.**
 
 6. **Basic run-out, arms swinging.** Teach the lateral run without the jump
    first: pin blocker drives off the outside foot toward the middle, middle
@@ -122,7 +122,7 @@ explicit landing-mechanics emphasis.
   separate the two patterns during teaching so athletes don't hybridize.
 - **Hips rotate, jump drifts.** Blocker jumps off a sideways plant and
   rotates in the air, splitting the seam. Fix: the planting step is the
-  rotation back to square — not the jump.
+  rotation back to square, not the jump.
 
 ## Schools-perspectives
 Blocking footwork is genuinely contested across schools, both on the
@@ -134,35 +134,34 @@ blocking skill guide: jump-in-place, 2-step shuffle, 3-step shuffle (Q3),
 left-side spacing, "hands to hands" right-side spacing, and a "big running
 second step" on crossover close-outs. The guide frames bunch-read blocking
 as GMS's default system of 25+ years, with footwork patterns selected for
-biomechanical efficiency — shortest path, least wasted motion — and early
+biomechanical efficiency, shortest path, least wasted motion, and early
 learning deliberately "allows athletes to be late" so mechanics are locked
 in before speed is demanded.
 
-**Art of Coaching Volleyball** is not monolithic but trends strongly toward
-teaching swing blocking as the modern default at HS and above. Luka Slabe
+**Art of Coaching Volleyball** carries a range of contributor positions and
+trends strongly toward teaching swing blocking as the modern default at HS
+and above. Luka Slabe
 (AOC) treats static, swing, and combination blocking as complementary tools
 and is explicit that arm swing during blocking enables faster movement,
 higher jump, and net penetration. Joe Sagula's static-blocking fundamentals
 sit underneath as the literacy layer every blocker still needs. Terry
-Liskevych, also on AOC, is the in-house dissenter — he calls swing
+Liskevych, also on AOC, is the in-house dissenter: he calls swing
 blocking the "flavor of the month" and argues traditional technique is
-more durable, which is worth noting before coaches assume AOC speaks with
-one voice.
+more durable.
 
 **Ken Murczek (Emporia State), via AOC**, pushes the dissent further in
 "Swing blocking: Is it right for your team?" He argues the main advertised
-advantage — higher jump — doesn't necessarily translate into greater net
+advantage, higher jump, doesn't necessarily translate into greater net
 penetration (the KPI that actually matters), and that the long learning
 curve is frequently not worth the opportunity cost against attacking and
-passing. This is the cleanest articulation of the adoption debate.
+passing.
 
 **Japanese training** has historically worked with shorter blockers and
 emphasized timing, hand work, and precise feet over raw reach. Footwork
 patterns are closer to efficient shuffles with deliberate planted jumps;
 the block is one layer of a defense-first system that expects to dig
-swings off the block, not necessarily stuff them. This is less a "don't
-swing-block" stance than a different allocation of priorities: dig-ability
-before block height.
+swings off the block, not necessarily stuff them. The stance reflects a
+different allocation of priorities: dig-ability before block height.
 
 **The generational shift.** Across these schools there is rough agreement
 that static-block footwork (shuffle + crossover) is the entry point and
@@ -171,8 +170,8 @@ ongoing disagreement about exactly when a coach should make the transition
 and whether the swing is worth the coaching hours it demands.
 
 **A reading-load risk that block-drill design under-states.** Lab studies of
-*anticipated* blocking — where the blocker knows the lateral direction in
-advance — systematically under-state real-game injury exposure. When elite
+*anticipated* blocking, where the blocker knows the lateral direction in
+advance, systematically under-state real-game injury exposure. When elite
 male blockers are tested with an **unanticipated** cue (cue arrives too late
 for full motor reorganization), the lower limb shows **higher vertical
 ground reaction force, greater hip moments, and reduced knee-flexion power
@@ -180,8 +179,8 @@ and ankle velocity** than the same athletes blocking with full anticipation;
 the unanticipation + lateral-movement combination is the highest-risk
 profile in the data [zhao-2024-block-jump-anticipated-unanticipated]. The
 practical implication: read-blocking and randomized-cue blocking drills are
-not just tactical pedagogy — they are injury-prevention work because the
-under-reading lower limb absorbs more impact than the under-reading lab
+injury-prevention work as well as tactical pedagogy, because the
+under-reading lower limb absorbs more impact than the anticipated-cue lab
 measurements imply.
 
 ## Related drills

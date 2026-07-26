@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Karch Kiraly — Wikipedia biography"
+title: "Karch Kiraly, Wikipedia biography"
 author: "Wikipedia contributors"
 year: 2026
 citation-key: kiraly-wikipedia-bio
@@ -13,11 +13,11 @@ schools: [usa-volleyball-cap]
 trust-tier: 3
 ---
 
-# Karch Kiraly — Wikipedia biography
+# Karch Kiraly: Wikipedia biography
 
 ## Summary
 
-The English Wikipedia biography of Karch Kiraly consolidates dates, positions, and events from primary sources and is the most complete single-page chronology of his life and career publicly available. It is useful as a cross-reference anchor when pinning down less-contested facts — birthplace, college record, publication list, broadcasting work — and is explicitly the only fetched source that enumerates all three of Kiraly's authored books in one place (*Championship Volleyball* 1996 paperback / 1990 original; *Beach Volleyball* 1999; *Chasing Greatness* 2023).
+The English Wikipedia biography of Karch Kiraly consolidates dates, positions, and events from primary sources and is the most complete single-page chronology of his life and career publicly available. It is useful as a cross-reference anchor when pinning down less-contested facts, birthplace, college record, publication list, broadcasting work, and is explicitly the only fetched source that enumerates all three of Kiraly's authored books in one place (*Championship Volleyball* 1996 paperback / 1990 original; *Beach Volleyball* 1999; *Chasing Greatness* 2023).
 
 Kept at trust tier 3 because Wikipedia is tertiary; specific claims should be re-cited to primary sources (USAV, FIVB, Volleyball Hall of Fame) where they're used in wiki content.
 
@@ -47,4 +47,4 @@ Kept at trust tier 3 because Wikipedia is tertiary; specific claims should be re
 ## Access
 - Raw file: `raw/articles/karch-wikipedia-bio.md`
 - URL: https://en.wikipedia.org/wiki/Karch_Kiraly
-- Trust tier: 3 — tertiary reference; use for cross-checking and for claims (bibliography, health history) not conveniently indexed elsewhere.
+- Trust tier: 3, tertiary reference; use for cross-checking and for claims (bibliography, health history) not conveniently indexed elsewhere.

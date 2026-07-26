@@ -16,15 +16,15 @@ trust-tier: 2
 # John Dunning: A Difference-Maker in Volleyball
 
 ## Summary
-An AOC profile of John Dunning covering his progression from Fremont High School and Bay Club through Pacific and Stanford, culminating in 3 NCAA titles at Stanford (2001, 2004, 2016) and an 888–185 (.828) career record across 32 collegiate seasons. The piece frames Dunning as "system-centric but never system-rigid" — he builds teaching systems rigorously but adjusts them when personnel or circumstances demand.
+An AOC profile of John Dunning covering his progression from Fremont High School and Bay Club through Pacific and Stanford, culminating in 3 NCAA titles at Stanford (2001, 2004, 2016) and an 888 to 185 (.828) career record across 32 collegiate seasons. The piece frames Dunning as "system-centric but never system-rigid", he builds teaching systems rigorously but adjusts them when personnel or circumstances demand.
 
-The article foregrounds Dunning's human-first philosophy: "Never act in a way that makes someone you interact with doubt you care." This is presented as foundational to his teaching effectiveness — players trusted him enough to accept hard coaching and tactical pivots, such as the 2016 switch from 6-2 to 5-1 that delivered the Cardinal's third title.
+The article foregrounds Dunning's human-first philosophy: "Never act in a way that makes someone you interact with doubt you care." This is presented as foundational to his teaching effectiveness, players trusted him enough to accept hard coaching and tactical pivots, such as the 2016 switch from 6-2 to 5-1 that delivered the Cardinal's third title.
 
 ## Key claims / ideas
 - Care is the foundation of credibility: "Never act in a way that makes someone … doubt you care."
 - Teach skills, techniques, and tactics with clarity rather than rely on motivational speeches.
 - Development happens incrementally through consistent daily actions.
-- Be nimble when the original plan isn't working — system flexibility over system dogma.
+- Be nimble when the original plan isn't working, system flexibility over system dogma.
 - Co-founded The Art of Coaching Volleyball with Russ Rose and Terry Liskevych (2011) to scale coaching education.
 
 ## Topics covered
@@ -39,4 +39,4 @@ The article foregrounds Dunning's human-first philosophy: "Never act in a way th
 ## Access
 - Raw file: `raw/articles/dunning-aoc-difference-maker.md`
 - URL: https://www.theartofcoachingvolleyball.com/john-dunning-a-difference-maker-in-volleyball/
-- Trust tier: 2 — AOC is run by Dunning's own coaching-education collective; reliable but partisan to him
+- Trust tier: 2: AOC is run by Dunning's own coaching-education collective; reliable but partisan to him

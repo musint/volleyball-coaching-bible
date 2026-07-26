@@ -20,8 +20,8 @@ Tony DiCicco (1996 Olympic Gold, 1999 Women's World Cup) on the hardest part of 
 ## Key claims / ideas
 
 - Coaches agree on the top 10 of 20 tryout players; real disagreement is on the bottom 5 spots.
-- A cut is not a personal attack — it's a needs/roles/numbers decision.
-- Parents' worst response: making excuses (political decision, bad coach) — trains the child to deflect responsibility.
+- A cut is not a personal attack, it's a needs/roles/numbers decision.
+- Parents' worst response: making excuses (political decision, bad coach): trains the child to deflect responsibility.
 - Best parental response: unwavering love + perspective; don't project upset onto the child.
 
 ## Topics covered

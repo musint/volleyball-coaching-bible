@@ -23,13 +23,13 @@ A dot in the middle of the court is the "campfire." Defenders cluster around the
 ## Execution
 1. All defenders start at the campfire dot.
 2. Coach feeds a ball anywhere on the court.
-3. Defenders explode out from the dot, pursue, and must dig + catch the ball — same exit rule as Mountain D: "somebody's got to dig it. Somebody's got to catch it to get out" **[00:18:49]**.
-4. **The campfire reset:** "if you don't dig and catch it, go back to where you started" **[00:18:52]** — a missed rep sends the whole group back to the campfire dot.
-5. Continuous reps with constant verbal pursuit — Mike: "Read. Run. Run, run, run, run, run. Teach. There you go. Everybody learns to pursue" **[00:19:13]**.
+3. Defenders explode out from the dot, pursue, and must dig + catch the ball, same exit rule as Mountain D: "somebody's got to dig it. Somebody's got to catch it to get out" **[00:18:49]**.
+4. **The campfire reset:** "if you don't dig and catch it, go back to where you started" **[00:18:52]**: a missed rep sends the whole group back to the campfire dot.
+5. Continuous reps with constant verbal pursuit: Mike: "Read. Run. Run, run, run, run, run. Teach. There you go. Everybody learns to pursue" **[00:19:13]**.
 
 ## Coaching points
-- "These things don't happen by accident. You have to teach them" **[00:18:45]** — same Munciana mantra as Mountain D; campfire D teaches the *transition* from clustered base to spread coverage.
-- The reset is the teacher: missing means going all the way back to the campfire — the team feels the cost of broken pursuit.
+- "These things don't happen by accident. You have to teach them" **[00:18:45]**: same Munciana mantra as Mountain D; campfire D teaches the *transition* from clustered base to spread coverage.
+- The reset is the teacher: missing means going all the way back to the campfire, the team feels the cost of broken pursuit.
 - This is one of two "teacher" drills (with [[munciana-figure-eight-defense]]) where the drill mechanic itself trains the habit.
 
 ## Variations

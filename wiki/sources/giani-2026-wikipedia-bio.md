@@ -47,5 +47,5 @@ Wikipedia biographical article covering the career of Italian coach and former p
 
 - Raw file: `raw/articles/andrea-giani-wikipedia-bio.md`
 - URL: https://en.wikipedia.org/wiki/Andrea_Giani
-- Trust tier: 2 — Wikipedia, corroboration-required for editorial claims; structured results are reliable.
+- Trust tier: 2: Wikipedia, corroboration-required for editorial claims; structured results are reliable.
 - Ingested via: webfetch on 2026-04-25

@@ -16,7 +16,7 @@ trust-tier: 2
 # What is "bunch read" blocking
 
 ## Summary
-Luka Slabe explains bunch read blocking: pin blockers pinch toward the middle to help on seam sets, then release to cover the pin based on their read of the set — a scheme best suited to advanced levels where pin blockers can read and react quickly.
+Luka Slabe explains bunch read blocking: pin blockers pinch toward the middle to help on seam sets, then release to cover the pin based on their read of the set, a scheme best suited to advanced levels where pin blockers can read and react quickly.
 
 ## Key claims / ideas
 - Pin blockers start pinched in, closer to the middle, to help block seam sets.
@@ -36,5 +36,5 @@ Luka Slabe explains bunch read blocking: pin blockers pinch toward the middle to
 ## Access
 - Raw file: [[aoc-2026-bunch-read-blocking]]
 - URL: https://www.theartofcoachingvolleyball.com/bunch-read-blocking/
-- Trust tier: 2 — AOC, systems/strategy
+- Trust tier: 2: AOC, systems/strategy
 - Ingested via: aoc-mcp on 2026-04-23

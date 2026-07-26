@@ -35,5 +35,5 @@ Emporia State coach Ken Murczek teaches that when the opponent's pass goes 10+ f
 ## Access
 - Raw file: [[aoc-2025-murczek-block-off-net-strategy]]
 - URL: https://www.theartofcoachingvolleyball.com/blocking-training-strategy-for-off-the-net-sets-2/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -16,7 +16,7 @@ trust-tier: 2
 # Effective libero training: Second ball setting drill
 
 ## Summary
-Former Notre Dame head coach Debbie Brown on whether/how to train your libero to set the second ball and to define target locations — a planning prompt for setter-out scenarios.
+Former Notre Dame head coach Debbie Brown on whether/how to train your libero to set the second ball and to define target locations, a planning prompt for setter-out scenarios.
 
 ## Key claims / ideas
 - Ask: do you have the libero set the second ball?
@@ -35,5 +35,5 @@ Former Notre Dame head coach Debbie Brown on whether/how to train your libero to
 ## Access
 - Raw file: [[aoc-2022-brown-libero-2ndball-setting]]
 - URL: https://www.theartofcoachingvolleyball.com/effective-libero-training-second-ball-setting-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

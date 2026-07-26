@@ -22,8 +22,8 @@ Thunder Volleyball's Nancy Dorsey runs a daily two-phase transition-to-offense d
 - Target: 10 kills per rep cycle; errors carry real penalty (reset to zero at high levels, or lose a point).
 - Block-to-hit variant: hitter puts up block at net, drops off, then approaches on coach entry.
 - Pass-to-hit variant: hitter starts in serve-receive, passes, then approaches to swing.
-- Drill is deliberately hard: the block knows where the set is going every time — trains shot selection and tool use.
-- Done "pretty much every day" — positions transition as a daily non-negotiable.
+- Drill is deliberately hard: the block knows where the set is going every time, trains shot selection and tool use.
+- Done "pretty much every day", positions transition as a daily non-negotiable.
 
 ## Topics covered
 - Block-to-attack transition (defensive-to-offensive movement)
@@ -37,5 +37,5 @@ Thunder Volleyball's Nancy Dorsey runs a daily two-phase transition-to-offense d
 ## Access
 - Raw file: [[aoc-2025-dorsey-outside-transition]]
 - URL: https://www.theartofcoachingvolleyball.com/training-outside-hitters-to-transition-to-offense/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -16,7 +16,7 @@ trust-tier: 2
 # Advanced volleyball serve receive drills: 21 Down
 
 ## Summary
-"21 Down" is a competitive 2-team serve-and-receive drill — each team starts at 21 and loses points based on pass quality (3-pass subtracts 0; 0-pass/ace subtracts 3). First to zero loses. Each team has 3 passers; others serve.
+"21 Down" is a competitive 2-team serve-and-receive drill, each team starts at 21 and loses points based on pass quality (3-pass subtracts 0; 0-pass/ace subtracts 3). First to zero loses. Each team has 3 passers; others serve.
 
 ## Key claims / ideas
 - Two teams, each starts at 21
@@ -40,5 +40,5 @@ trust-tier: 2
 ## Access
 - Raw file: [[aoc-2021-21-down-sr-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/21-down-serve-and-receive-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

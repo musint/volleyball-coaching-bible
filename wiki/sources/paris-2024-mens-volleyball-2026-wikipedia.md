@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Volleyball at the 2024 Summer Olympics — Men's tournament (Wikipedia)"
+title: "Volleyball at the 2024 Summer Olympics, Men's tournament (Wikipedia)"
 author: "Wikipedia contributors"
 year: 2026
 citation-key: paris-2024-mens-volleyball-2026-wikipedia
@@ -17,7 +17,7 @@ trust-tier: 2
 
 ## Summary
 
-Wikipedia reference for the men's volleyball tournament at the Paris 2024 Olympic Games. Captures France's defense of its Olympic title under head coach **Andrea Giani**, with a 3-0 final over Poland on home soil — France's second consecutive Olympic men's volleyball gold.
+Wikipedia reference for the men's volleyball tournament at the Paris 2024 Olympic Games. Captures France's defense of its Olympic title under head coach **Andrea Giani**, with a 3-0 final over Poland on home soil: France's second consecutive Olympic men's volleyball gold.
 
 ## Key claims / ideas
 
@@ -45,5 +45,5 @@ Wikipedia reference for the men's volleyball tournament at the Paris 2024 Olympi
 
 - Raw file: `raw/articles/paris-2024-mens-volleyball-wikipedia.md`
 - URL: https://en.wikipedia.org/wiki/Volleyball_at_the_2024_Summer_Olympics_%E2%80%93_Men%27s_tournament
-- Trust tier: 2 — Wikipedia.
+- Trust tier: 2: Wikipedia.
 - Ingested via: webfetch on 2026-04-25

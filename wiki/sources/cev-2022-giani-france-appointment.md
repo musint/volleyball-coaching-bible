@@ -13,7 +13,7 @@ schools: [french-school, italian-school]
 trust-tier: 2
 ---
 
-# Italian Legend Andrea Giani New Coach of Reigning Olympic Champions — CEV, 30 March 2022
+# Italian Legend Andrea Giani New Coach of Reigning Olympic Champions: CEV, 30 March 2022
 
 ## Summary
 
@@ -25,7 +25,7 @@ CEV (European volleyball federation) announcement of Andrea Giani's appointment 
 - Italian national-team caps record at the time of his retirement: 474.
 - 1995 World Cup gold; 1993 World Grand Champions Cup gold; seven World League titles.
 - Pre-France coaching career: 15 years across Slovenia (national team), Germany (national team, five years), and Modena Volley (club).
-- Giani statement: "I want to prepare them well physically and technically, because the goal will always be to win!" — slightly different rendering from the Volleyball World version, same substance.
+- Giani statement: "I want to prepare them well physically and technically, because the goal will always be to win!", slightly different rendering from the Volleyball World version, same substance.
 - CEV frames the appointment as Italian-school knowledge importing into French volleyball, leveraging Giani's Italian and German backgrounds.
 
 ## Topics covered
@@ -42,5 +42,5 @@ CEV (European volleyball federation) announcement of Andrea Giani's appointment 
 
 - Raw file: `giani-2022-cev-france-appointment`
 - URL: https://www.cev.eu/articles/volleyball/italian-legend-andrea-giani-new-coach-of-reigning-olympic-champions/
-- Trust tier: 2 — CEV federation media
+- Trust tier: 2: CEV federation media
 - Ingested via: webfetch on 2026-04-25

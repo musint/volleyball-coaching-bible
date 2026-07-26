@@ -22,7 +22,7 @@ Emporia State's Ken Murczek demonstrates a 6v6 drill where every set must go to 
 - Rule: only the middle can be set; coach enters balls bowling style; side alternates after each rally.
 - Race to 3; coach decides whether blocks earn points or only kills.
 - Live-serve variation raises difficulty.
-- Tempo warning: fast middle sets are fun for setters but high-risk and low-reward when the pass is off — e.g., 12 feet off the net and trying to run a 1 is a bad trade.
+- Tempo warning: fast middle sets are fun for setters but high-risk and low-reward when the pass is off, e.g., 12 feet off the net and trying to run a 1 is a bad trade.
 - Drill isolates middle attack decision-making and block read.
 
 ## Topics covered
@@ -37,5 +37,5 @@ Emporia State's Ken Murczek demonstrates a 6v6 drill where every set must go to 
 ## Access
 - Raw file: [[aoc-2023-murczek-middle-vs-middle]]
 - URL: https://www.theartofcoachingvolleyball.com/hitting-drill-middle-vs-middle/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

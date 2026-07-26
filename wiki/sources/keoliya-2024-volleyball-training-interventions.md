@@ -14,17 +14,17 @@ schools: []
 trust-tier: 1
 ---
 
-# Keoliya et al. (2024) — Volleyball training interventions: agility, power, strength (review)
+# Keoliya et al. (2024): Volleyball training interventions: agility, power, strength (review)
 
 ## Summary
 
-Systematic literature review (10 included studies, 2012–2023) published in *Cureus* synthesizing intervention research on strength, agility, and explosive power for volleyball athletes. Key practical findings: **cluster resistance training outperformed traditional resistance training** across multiple strength outcomes (short intra-set rest preserves bar speed); **sand training produced greater agility transfer than court training** (surface variability stimulus); **core stability training drove significant CMJ, vertical-jump, and pro-agility gains** in a randomized trial; **plyometrics + agility ladder + shuttle protocols all produced significant agility improvements**. Authors note "low quality of evidence" overall — small samples — but the directional signal is consistent. Useful as an entry point into the volleyball intervention literature; specific prescriptions should anchor to the underlying RCTs cited within.
+Systematic literature review (10 included studies, 2012 to 2023) published in *Cureus* synthesizing intervention research on strength, agility, and explosive power for volleyball athletes. Key practical findings: **cluster resistance training outperformed traditional resistance training** across multiple strength outcomes (short intra-set rest preserves bar speed); **sand training produced greater agility transfer than court training** (surface variability stimulus); **core stability training drove significant CMJ, vertical-jump, and pro-agility gains** in a randomized trial; **plyometrics + agility ladder + shuttle protocols all produced significant agility improvements**. Authors note "low quality of evidence" overall, small samples, but the directional signal is consistent. Useful as an entry point into the volleyball intervention literature; specific prescriptions should anchor to the underlying RCTs cited within.
 
 ## Key claims / ideas
 
 - Cluster resistance training (short intra-set rest) outperforms traditional straight-set resistance training for total-strength gains in volleyball.
 - Sand-surface training produces greater agility transfer than court training.
-- Core stability training has direct transfer to CMJ, vertical jump, and pro-agility — not just lower-back insurance.
+- Core stability training has direct transfer to CMJ, vertical jump, and pro-agility, beyond lower-back insurance.
 - Plyometrics, agility ladder, and shuttle-run protocols all generate significant agility improvements.
 - Strength supports serve-receive accuracy via mid-air body stabilization.
 - Novel modalities (dance video games) showed promise as agility interventions in one trial.
@@ -49,5 +49,5 @@ Systematic literature review (10 included studies, 2012–2023) published in *Cu
 - Full text (PMC): https://pmc.ncbi.nlm.nih.gov/articles/PMC10905049/
 - Cureus: https://www.cureus.com/articles/206310-enhancing-volleyball-athlete-performance
 - DOI: 10.7759/cureus.53273
-- Trust tier: **1** — peer-reviewed systematic review.
+- Trust tier: **1**: peer-reviewed systematic review.
 - Ingested: 2026-04-24

@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: video-series
-title: "Holly McPeak's beach workout series – session 6"
+title: "Holly McPeak's beach workout series - session 6"
 author: Holly McPeak
 year: 2015
 citation-key: aoc-2015-mcpeak-beach-workout-6
@@ -21,10 +21,10 @@ Session 6 of McPeak's beach workout series. Full menu: overhand-dig warmup, part
 
 - Higher jump-float contact = more ball dip = harder to pass.
 - Seal the net only when the dig/pass is tight; drop on off-net passes.
-- Don't drop prematurely on a bad pass — wait to see if the set is also bad.
+- Don't drop prematurely on a bad pass, wait to see if the set is also bad.
 - Freeze before contact when dropping to dig; improves dig quality.
 - Big-point format (3-in-a-row = 1 big point) trains sustained pressure.
-- Transition setting is the crucial skill separator at higher beach levels.
+- Transition setting is the main skill separator at higher beach levels.
 
 ## Topics covered
 

@@ -16,7 +16,7 @@ trust-tier: 2
 # Tod's tips: Serve receive footwork patterns
 
 ## Summary
-Tod Mattox names the two most common SR footwork patterns — step-shuffle and step-shuffle-knee-drop — and describes the short-serve emergency: sprint forward, table-top the platform, legs get low to contact while keeping the ball on your side.
+Tod Mattox names the two most common SR footwork patterns, step-shuffle and step-shuffle-knee-drop, and describes the short-serve emergency: sprint forward, table-top the platform, legs get low to contact while keeping the ball on your side.
 
 ## Key claims / ideas
 - Step-shuffle is the most common SR footwork move
@@ -37,5 +37,5 @@ Tod Mattox names the two most common SR footwork patterns — step-shuffle and s
 ## Access
 - Raw file: [[aoc-2022-mattox-sr-footwork-patterns]]
 - URL: https://www.theartofcoachingvolleyball.com/tods-tips-serve-receive-footwork-patterns/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

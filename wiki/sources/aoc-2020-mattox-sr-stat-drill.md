@@ -16,7 +16,7 @@ trust-tier: 2
 # Serve and receive stat drill
 
 ## Summary
-Tod Mattox's SR Stat drill rates every contact: serves 0-4, passes 0-3. Two servers, three passers, target player. Players record their own scores on whiteboard after coach calls out — drives self-awareness.
+Tod Mattox's SR Stat drill rates every contact: serves 0-4, passes 0-3. Two servers, three passers, target player. Players record their own scores on whiteboard after coach calls out, drives self-awareness.
 
 ## Key claims / ideas
 - Serves rated 0-4, passes rated 0-3
@@ -38,5 +38,5 @@ Tod Mattox's SR Stat drill rates every contact: serves 0-4, passes 0-3. Two serv
 ## Access
 - Raw file: [[aoc-2020-mattox-sr-stat-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/serve-receive-stat-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

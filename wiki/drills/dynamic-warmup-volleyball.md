@@ -21,14 +21,14 @@ variations: [jump-warmup, partner-pepper-warmup]
 Players line up on the end line facing the opposite end line, full court-length of open floor per player. No balls or equipment for the first half; balls on a cart at the sideline for a pepper closer. Run before any passing, hitting, or blocking work so the body is primed for volleyball's specific demands.
 
 ## Execution
-1. **Jog** — two end-to-ends, easy pace.
-2. **Open/close the gate** — one length each, hips through a low passing base.
-3. **Walking quad and hamstring pulls** — one length each.
-4. **Carioca and lateral shuffles** — one length each, low and defensive.
-5. **A-skip and B-skip** — one length each, rehearsing approach coordination.
-6. **Build-up strides** — two lengths, 50% to 80%.
-7. **Shoulder sweeps and arm circles** — ten each direction.
-8. **Ball-contact closer** — partner-toss 10 controlled contacts.
+1. **Jog**: two end-to-ends, easy pace.
+2. **Open/close the gate**: one length each, hips through a low passing base.
+3. **Walking quad and hamstring pulls**: one length each.
+4. **Carioca and lateral shuffles**: one length each, low and defensive.
+5. **A-skip and B-skip**: one length each, rehearsing approach coordination.
+6. **Build-up strides**: two lengths, 50% to 80%.
+7. **Shoulder sweeps and arm circles**: ten each direction.
+8. **Ball-contact closer**: partner-toss 10 controlled contacts.
 
 ## Coaching points
 - Dynamic before static; static stretching belongs in [[cool-down-mobility]].

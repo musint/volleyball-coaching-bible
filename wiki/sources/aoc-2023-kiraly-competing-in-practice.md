@@ -22,7 +22,7 @@ Kiraly argues the USA women's composure in high-pressure matches is built by com
 - Composure under pressure is trained, not innate.
 - Daily competition in practice teaches both how to win and how to lose.
 - Kiraly quote: "Lots of coaches don't have their teams compete in their gyms. They're handing us a competitive advantage."
-- Cited example: Rio pool match vs. Netherlands — down 1-2, held composure, won.
+- Cited example: Rio pool match vs. Netherlands, down 1-2, held composure, won.
 
 ## Topics covered
 - Competitive practice culture
@@ -36,5 +36,5 @@ Kiraly argues the USA women's composure in high-pressure matches is built by com
 ## Access
 - Raw file: [[aoc-2023-kiraly-competing-in-practice]]
 - URL: https://www.theartofcoachingvolleyball.com/karch-kiraly-gain-a-competitive-advantage-by-competing-in-practice/
-- Trust tier: 2 — AOC, Kiraly named
+- Trust tier: 2: AOC, Kiraly named
 - Ingested via: aoc-mcp on 2026-04-23

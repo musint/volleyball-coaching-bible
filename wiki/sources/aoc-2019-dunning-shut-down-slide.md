@@ -35,5 +35,5 @@ John Dunning drills middle blockers to swing-block left against the slide, with 
 ## Access
 - Raw file: [[aoc-2019-dunning-shut-down-slide]]
 - URL: https://www.theartofcoachingvolleyball.com/blocking-fundamentals-shutting-down-the-slide/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

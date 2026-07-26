@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Todd Dagenais — Wikipedia biography"
+title: "Todd Dagenais, Wikipedia biography"
 author: "Wikipedia contributors"
 year: 2024
 citation-key: dagenais-wikipedia-bio
@@ -13,7 +13,7 @@ schools: [central-florida-volleyball]
 trust-tier: 3
 ---
 
-# Todd Dagenais — Wikipedia biography
+# Todd Dagenais: Wikipedia biography
 
 ## Summary
 Tertiary-source biographical summary of Todd Dagenais. Most useful for post-UCF career context: director of league operations at League One Volleyball (LOVB), and founding head coach of the Pro Volleyball Federation's Atlanta franchise (2024) where the team went 19-5 and won the regular-season championship. Also documents an earlier snapshot of UCF records (212-140 through a cutoff earlier than his final tenure total) and his 2019 induction into the Upper Peninsula Sports Hall of Fame. Thin on playing-career detail.
@@ -33,10 +33,10 @@ Tertiary-source biographical summary of Todd Dagenais. Most useful for post-UCF 
 - Hall-of-Fame recognition
 
 ## Where it's cited
-- [[todd-dagenais]] — coach profile
+- [[todd-dagenais]]: coach profile
 
 ## Access
 - Raw file: [[dagenais-wikipedia-bio]]
 - URL: https://en.wikipedia.org/wiki/Todd_Dagenais
-- Trust tier: 3 — Wikipedia; corroborate any material claim against a Tier 1 or Tier 2 source (UCF bio, PVF release, interview) before citing.
+- Trust tier: 3: Wikipedia; corroborate any material claim against a Tier 1 or Tier 2 source (UCF bio, PVF release, interview) before citing.
 - Ingested via: WebFetch on 2026-04-24

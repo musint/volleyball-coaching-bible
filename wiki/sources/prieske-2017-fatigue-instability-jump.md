@@ -19,7 +19,7 @@ trust-tier: 1
 
 ## Summary
 
-Prieske and colleagues (2017) tested 20 elite volleyball players (10 women, 10 men, age 18 ± 2) performing repetitive box jumps to exhaustion. Jump height, ground reaction force, and knee angles were measured on stable and unstable surfaces, before and after the fatigue protocol. The design isolated the *biomechanical drift* that occurs as a match progresses — an under-studied dimension of injury exposure since most volleyball biomechanics research uses fresh athletes. Findings: fatigue significantly reduced drop-jump performance and ground reaction force, and reduced drop-jump knee flexion (the knee absorbed less under fatigue, indicating self-protection). Sex-specific knee strategies emerged: women showed higher knee-valgus angles under unstable conditions, while men showed the opposite pattern in countermovement jumps. Combined fatigue + instability drove the drift larger than either alone. The paper grounds two coaching arguments: (1) **late-match fatigue is a real biomechanical phenomenon, not just a perceptual one** — ACL risk rises with match minutes; and (2) injury-prevention work should be sex-asymmetric, since men and women drift in different directions under the same load.
+Prieske and colleagues (2017) tested 20 elite volleyball players (10 women, 10 men, age 18 ± 2) performing repetitive box jumps to exhaustion. Jump height, ground reaction force, and knee angles were measured on stable and unstable surfaces, before and after the fatigue protocol. The design isolated the *biomechanical drift* that occurs as a match progresses, an under-studied dimension of injury exposure since most volleyball biomechanics research uses fresh athletes. Findings: fatigue significantly reduced drop-jump performance and ground reaction force, and reduced drop-jump knee flexion (the knee absorbed less under fatigue, indicating self-protection). Sex-specific knee strategies emerged: women showed higher knee-valgus angles under unstable conditions, while men showed the opposite pattern in countermovement jumps. Combined fatigue + instability drove the drift larger than either alone. The paper grounds two coaching arguments: (1) **late-match fatigue is a real biomechanical phenomenon rather than a perceptual one**: ACL risk rises with match minutes; and (2) injury-prevention work should be sex-asymmetric, since men and women drift in different directions under the same load.
 
 ## Key claims / ideas
 
@@ -46,5 +46,5 @@ Prieske and colleagues (2017) tested 20 elite volleyball players (10 women, 10 m
 
 - Raw file: `raw/research/prieske-2017-fatigue-instability-jump.md`
 - URL / DOI: https://doi.org/10.1055/s-0043-111894 (PMID 28768338)
-- Trust tier: 1 — peer-reviewed research
+- Trust tier: 1, peer-reviewed research
 - Access note: abstract extracted from PubMed listing; full text behind Thieme paywall

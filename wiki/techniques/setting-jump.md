@@ -14,13 +14,13 @@ sources:
   - kiraly-1997-championship-volleyball
 ---
 
-# Setting — Jump Setting
+# Setting: Jump Setting
 
 ## Overview
 
 Jump setting is an in-system setting option where the setter leaves the ground to contact the ball above the top of the net. Done well, it compresses the hitter's decision window for the block, raises the net-cross height of every set (meaning faster arrival at the hitter's contact point), and gives the setter a credible second-contact attack threat that must be defended. It is a modern-era expectation at HS varsity and above for a lead setter, and an appropriate training target for a strong 14U setter once baseline [[setting-hands]] mechanics are stable.
 
-The jump set is not a different technique from the standing overhead set — it is the same hands, the same contact geometry, the same hand-hinge release, elevated. The training problem is not new hand mechanics; it is timing, tempo, and air control.
+The jump set uses the same hands, the same contact geometry, and the same hand-hinge release as the standing overhead set, elevated. The training problem is timing, tempo, and air control.
 
 ## Teaching progressions
 
@@ -35,11 +35,11 @@ The jump set is not a different technique from the standing overhead set — it 
 3. **Jump-set off a live pass.** Introduce variability in pass height and distance; setter reads the ball, commits to jump or stay down, executes either cleanly. The read-decision-execute chain is now the skill.
 4. **In-rhythm with middle.** Time the jump-set to a middle attacker's approach. The middle plants in rhythm with the setter's gather; the ball leaves the hands as the middle reaches maximum extension. If the setter releases late, the middle is past peak; if early, the middle is still loading.
 5. **Jump-set with pin tempo variation.** High ball to the outside, quick out-of-the-back-to-the-opposite, and middle attacks must all be deliverable from the same jump-set motion without a giveaway shoulder rotation.
-6. **Jump-set with attack threat.** The setter introduces a credible second-contact attack — a short push, a shoot to the antenna, or a drop ball — forcing the block to hold the setter rather than committing to the hitter. Only add this once distribution is reliable.
+6. **Jump-set with attack threat.** The setter introduces a credible second-contact attack, a short push, a shoot to the antenna, or a drop ball, forcing the block to hold the setter rather than committing to the hitter. Only add this once distribution is reliable.
 
 **Tempo and read.** The jump set's primary value is tempo: the set arrives at the hitter's contact point earlier than a standing set of the same length, compressing the block's read time. That value is forfeited if the setter telegraphs distribution via body rotation in the air. Eye-work should follow a ball-setter-hitter read pattern in which the setter is scanning the block position as the pass arrives, not as the set releases. Modern AOC instruction treats setter vision as part of every setting rep, not an add-on.
 
-**Disguise.** The neutral air-body — shoulders square, hips neutral, no visible lead — is the disguise baseline. From the same shoulder position the setter should be able to deliver forward, back, or a push attack. Any consistent cue that reveals distribution before release is a coachable error.
+**Disguise.** The neutral air-body, shoulders square, hips neutral, no visible lead, is the disguise baseline. From the same shoulder position the setter should be able to deliver forward, back, or a push attack. Any consistent cue that reveals distribution before release is a coachable error.
 
 ## Common errors
 
@@ -49,7 +49,7 @@ The jump set is not a different technique from the standing overhead set — it 
 - **Using the wrists to generate power because the legs have left the ground.** The setter loses ground leverage and tries to compensate with a wrist-snap; the ball floats or spins. Correction: emphasize the same hand-hinge the standing set uses, set height comes from air-time and elbow extension, not from the wrists.
 - **Loss of hand symmetry in the air.** Easier to produce a double-contact when airborne. Correction: film from front; check that both hands arrive at the ball together and leave together.
 - **Takeoff that drifts forward over the net.** Setter's body crosses the plane at contact, risking a net touch. Correction: emphasize vertical gather, plant directly under the intended contact point.
-- **Using the jump-set when it gains nothing.** A jump set on a perfect bucket pass to an outside hitter with no middle threat and no attack intention behind it costs energy without gaining tempo. Correction: match the decision to tempo context — if the middle is not running and the pin is not faster off the jump-set, stay down.
+- **Using the jump-set when it gains nothing.** A jump set on a perfect bucket pass to an outside hitter with no middle threat and no attack intention behind it costs energy without gaining tempo. Correction: match the decision to tempo context, if the middle is not running and the pin is not faster off the jump-set, stay down.
 
 ## Related drills
 

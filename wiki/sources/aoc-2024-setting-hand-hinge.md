@@ -22,7 +22,7 @@ John Dunning (Stanford '01-'16) demonstrates the hand-hinge wrist motion used by
 - Every great setter uses a hand-hinge movement at ball contact and release.
 - Hands should be placed on the side of the ball, not behind it.
 - Proper hand and wrist action determines delivery quality.
-- Dunning claims players who cannot replicate this motion may be better off playing another position — the hand-hinge is a gating skill for the setter role.
+- Dunning claims players who cannot replicate this motion may be better off playing another position, the hand-hinge is a gating skill for the setter role.
 
 ## Topics covered
 - Setter hand shape and wrist action
@@ -36,5 +36,5 @@ John Dunning (Stanford '01-'16) demonstrates the hand-hinge wrist motion used by
 ## Access
 - Raw file: [[aoc-2024-setting-hand-hinge]]
 - URL: https://www.theartofcoachingvolleyball.com/setting-fundamentals-the-hand-hinge-movement-necessary-for-great-sets/
-- Trust tier: 2 — AOC, fundamentals article
+- Trust tier: 2: AOC, fundamentals article
 - Ingested via: aoc-mcp on 2026-04-23

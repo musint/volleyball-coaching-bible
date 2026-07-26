@@ -21,7 +21,7 @@ Video clinic from the 2016 Phoenix Clinic in which Russ Rose discusses the impor
 ## Key claims / ideas
 - Back-row play is foundational.
 - Video demonstrates specific exercises and drills for back-row skill development.
-- (Video content — body text minimal; transcript needed for full detail.)
+- (Video content, body text minimal; transcript needed for full detail.)
 
 ## Topics covered
 - Back-row skill importance
@@ -33,6 +33,6 @@ Video clinic from the 2016 Phoenix Clinic in which Russ Rose discusses the impor
 ## Access
 - Raw file: [[aoc-2018-rose-back-row-skills]]
 - URL: https://www.theartofcoachingvolleyball.com/back-row-skills-with-russ-rose/
-- Trust tier: 2 — AOC, Russ Rose
+- Trust tier: 2: AOC, Russ Rose
 - Ingested via: aoc-mcp on 2026-04-23
 - Note: Video-only page; text body minimal. Consider running aoc_video_transcript for content.

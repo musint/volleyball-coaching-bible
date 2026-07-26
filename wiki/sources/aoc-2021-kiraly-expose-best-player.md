@@ -16,12 +16,12 @@ trust-tier: 2
 # Karch Kiraly's advice: Exposing your best player
 
 ## Summary
-Kiraly's rule: maximize exposure of your best specialist to the situation they're best at. Best passer sees the most serves, best digger sees the most attacks, one setter runs the offense — and the block can be shaped to funnel attacks to your best digger.
+Kiraly's rule: maximize exposure of your best specialist to the situation they're best at. Best passer sees the most serves, best digger sees the most attacks, one setter runs the offense, and the block can be shaped to funnel attacks to your best digger.
 
 ## Key claims / ideas
 - Always expose your best player to the role they're best at.
 - Best passer covers the biggest serve-receive area.
-- Best digger should face the most attacks — shape the defense around them.
+- Best digger should face the most attacks, shape the defense around them.
 - Single-setter offense is an application of the same principle.
 - Blocking schemes can intentionally leave lanes open to funnel attacks to your best defender.
 
@@ -37,5 +37,5 @@ Kiraly's rule: maximize exposure of your best specialist to the situation they'r
 ## Access
 - Raw file: [[aoc-2021-kiraly-expose-best-player]]
 - URL: https://www.theartofcoachingvolleyball.com/karch-kiralys-advice-exposing-your-best-player/
-- Trust tier: 2 — AOC, Kiraly named
+- Trust tier: 2: AOC, Kiraly named
 - Ingested via: aoc-mcp on 2026-04-23

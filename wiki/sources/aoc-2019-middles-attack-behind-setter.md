@@ -16,7 +16,7 @@ trust-tier: 2
 # Middles: Learning to attack behind the setter
 
 ## Summary
-Ryan Hofer (Trinity Western University) provides a combined drill that trains middle hitters to transition between three actions in sequence — hitting a quick, closing a pin block, and peeling off to hit a slide behind the setter when the rally continues. Drill is tagged to the 2018 Portland Clinic.
+Ryan Hofer (Trinity Western University) provides a combined drill that trains middle hitters to transition between three actions in sequence, hitting a quick, closing a pin block, and peeling off to hit a slide behind the setter when the rally continues. Drill is tagged to the 2018 Portland Clinic.
 
 ## Key claims / ideas
 - Drill purpose: train middles to make quick transitions between hitting the quick set in the middle and hitting the slide (behind the setter).
@@ -25,7 +25,7 @@ Ryan Hofer (Trinity Western University) provides a combined drill that trains mi
   - Sequence: coach initiates a free ball to offense → middle hits a quick "1" → middle immediately blocks a ball initiated by coach from the outside → if defenders dig the swing, middle peels off net and hits a slide behind the setter.
   - Reps: perform the sequence at least three times before rotating middle hitters.
   - Requirements: 12+ players, balls, full court.
-- The drill integrates attack-block-attack-slide into one uninterrupted chain — the core demand on the middle.
+- The drill integrates attack-block-attack-slide into one uninterrupted chain, the core demand on the middle.
 
 ## Topics covered
 - Middle attacker workload: quick → block → slide
@@ -39,5 +39,5 @@ Ryan Hofer (Trinity Western University) provides a combined drill that trains mi
 ## Access
 - Raw file: [[aoc-2019-middles-attack-behind-setter]]
 - URL: https://www.theartofcoachingvolleyball.com/middles-learning-to-attack-behind-the-setter/
-- Trust tier: 2 — AOC Premium, named coach (Hofer, Trinity Western), from 2018 Portland Clinic
+- Trust tier: 2: AOC Premium, named coach (Hofer, Trinity Western), from 2018 Portland Clinic
 - Ingested via: aoc-mcp on 2026-04-23

@@ -17,7 +17,7 @@ trust-tier: 1
 
 ## Summary
 
-The NCAA's authoritative 2025-26 signing-date calendar, covering the written offer of athletics aid across all Division I and II sports. This document replaces the older National Letter of Intent (NLI) early/regular signing-period structure, which was absorbed into the NCAA written-offer framework in 2024-25. For women's volleyball — which falls under "All Other Division I and II Sports" — the 2025-26 initial signing date is November 12, 2025, with final signing dates set by each institution's scholarship-awarding policy. There is no separate April "regular" period for volleyball under the current framework; the April 15, 2026 regular signing date is specific to D1 basketball.
+The NCAA's authoritative 2025-26 signing-date calendar, covering the written offer of athletics aid across all Division I and II sports. This document replaces the older National Letter of Intent (NLI) early/regular signing-period structure, which was absorbed into the NCAA written-offer framework in 2024-25. For women's volleyball, which falls under "All Other Division I and II Sports", the 2025-26 initial signing date is November 12, 2025, with final signing dates set by each institution's scholarship-awarding policy. There is no separate April "regular" period for volleyball under the current framework; the April 15, 2026 regular signing date is specific to D1 basketball.
 
 ## Key claims / ideas
 
@@ -37,10 +37,10 @@ The NCAA's authoritative 2025-26 signing-date calendar, covering the written off
 
 ## Where it's cited
 
-- `wiki/recruiting.md` — mid-November senior-year signing date for women's volleyball
+- `wiki/recruiting.md`, mid-November senior-year signing date for women's volleyball
 
 ## Access
 
 - Raw file: `raw/articles/ncaa-2025-26-signing-dates.md`
 - URL: https://athleticsaid.s3.amazonaws.com/2025-26DI_SigningDates.pdf
-- Trust tier: 1 — official NCAA compliance publication
+- Trust tier: 1, official NCAA compliance publication

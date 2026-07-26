@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Terry Liskevych — former Oregon State head coach and USA women's Olympic coach — walks through his library of pepper variations. His core teaching point: pepper should actively train spatial awareness, not just groove the three basic contacts. The variations he demonstrates include digging overhand (to rehearse reading high balls), jumping on the attack (to progress toward a live swing), and rotating partners to keep partners and angles changing.
+Terry Liskevych, former Oregon State head coach and USA women's Olympic coach, walks through his library of pepper variations. His core teaching point: pepper should actively train spatial awareness beyond grooving the three basic contacts. The variations he demonstrates include digging overhand (to rehearse reading high balls), jumping on the attack (to progress toward a live swing), and rotating partners to keep partners and angles changing.
 
 ## Key claims / ideas
 
@@ -34,7 +34,7 @@ Terry Liskevych — former Oregon State head coach and USA women's Olympic coach
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[pepper]]` coverage, `[[drills/pepper-variations]]`, `[[terry-liskevych]]` profile, and ``warm-up`` hub.
+Forward-reference, to be cited on `[[pepper]]` coverage, `[[drills/pepper-variations]]`, `[[terry-liskevych]]` profile, and ``warm-up`` hub.
 
 ## Access
 

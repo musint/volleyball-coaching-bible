@@ -19,7 +19,7 @@ trust-tier: 2
 
 ## Key claims / ideas
 
-- Hitter coverage isn't static — it reshapes based on setter/hitter reality.
+- Hitter coverage isn't static, it reshapes based on setter/hitter reality.
 - Penn State's culture of "cover for each other play after play" is a named factor in their NCAA title wins.
 - "Cup" framing separates near-cover from deep-cover responsibilities.
 

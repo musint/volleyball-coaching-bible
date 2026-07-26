@@ -18,7 +18,7 @@ variations: [butterfly-passing, shuttle-passing]
 # Weave Passing
 
 ## Setup
-Three passers across the back third of one side at the 5, 7, and 9 m seams. A tosser/coach at the net with a ball cart. A target (setter) at target area. Passers move in a continuous weave — pass, sprint behind the next passer, receive again — so every rep starts with the passer already in motion.
+Three passers across the back third of one side at the 5, 7, and 9 m seams. A tosser/coach at the net with a ball cart. A target (setter) at target area. Passers move in a continuous weave, pass, sprint behind the next passer, receive again, so every rep starts with the passer already in motion.
 
 ## Execution
 1. Coach tosses (or short-serves) a ball at the lead passer's seam.
@@ -28,10 +28,10 @@ Three passers across the back third of one side at the 5, 7, and 9 m seams. A to
 5. Target grades each pass aloud on a 0-3 scale.
 
 ## Coaching points
-- Pursue on the move — platform forms late, feet arrive early.
+- Pursue on the move, platform forms late, feet arrive early.
 - Finish the pass before the weave; do not drift before contact.
 - Eyes track the server/coach, not the teammate in front; trust the pattern.
-- Short quick steps in the weave — no crossover sprints.
+- Short quick steps in the weave, no crossover sprints.
 
 ## Variations
 - **Target window:** setter holds a hoop; only passes through the window count.

@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Todd Dagenais — UCF Athletics coach bio"
+title: "Todd Dagenais, UCF Athletics coach bio"
 author: "UCF Athletics"
 year: 2023
 citation-key: dagenais-ucf-athletics-bio
@@ -13,10 +13,10 @@ schools: [central-florida-volleyball, usa-volleyball]
 trust-tier: 2
 ---
 
-# Todd Dagenais — UCF Athletics coach bio
+# Todd Dagenais: UCF Athletics coach bio
 
 ## Summary
-Institutional bio maintained by UCF Athletics during Dagenais's 15-year (2008-2023) tenure as head volleyball coach. Captures career accomplishments (308-159 record, 5 consecutive AAC titles, 6 NCAA Tournament bids, 4 AAC Coach of the Year awards), prior coaching stops (USC 2005-2007 assistant on a Final Four team; Michigan State 1998-2003 associate head coach; Northern Michigan 1998 assistant), playing background (Central Michigan men's club team), and an unusually explicit philosophy statement crediting three mentors — Chuck Erbe, Toshi Yoshida, and Mick Haley — for disciplined, internationally-informed, people-centered coaching.
+Institutional bio maintained by UCF Athletics during Dagenais's 15-year (2008-2023) tenure as head volleyball coach. Captures career accomplishments (308-159 record, 5 consecutive AAC titles, 6 NCAA Tournament bids, 4 AAC Coach of the Year awards), prior coaching stops (USC 2005-2007 assistant on a Final Four team; Michigan State 1998-2003 associate head coach; Northern Michigan 1998 assistant), playing background (Central Michigan men's club team), and an unusually explicit philosophy statement crediting three mentors: Chuck Erbe, Toshi Yoshida, and Mick Haley, for disciplined, internationally-informed, people-centered coaching.
 
 ## Key claims / ideas
 - UCF head coach from January 2008; 308-159 overall (.660), 183-85 AAC (.683), 155-61 home, through the 2022-23 season.
@@ -36,12 +36,12 @@ Institutional bio maintained by UCF Athletics during Dagenais's 15-year (2008-20
 - USA Volleyball collegiate national team and high-performance involvement
 
 ## Where it's cited
-- [[todd-dagenais]] — coach profile
-- [[central-florida-volleyball]] — school stub
+- [[todd-dagenais]]: coach profile
+- [[central-florida-volleyball]]: school stub
 
 ## Access
 - Raw file: [[dagenais-ucf-athletics-bio]]
 - URL: https://ucfknights.com/staff/todd-dagenais
-- Trust tier: 2 — institutional athletic-department bio; self-reported but generally factual-record accurate
+- Trust tier: 2, institutional athletic-department bio; self-reported but generally factual-record accurate
 - Ingested via: WebFetch on 2026-04-24
 - Note: the bio page returns 404 at the legacy `/sports/womens-volleyball/roster/coaches/...` path but is mirrored at the `/staff/` URL shown above.

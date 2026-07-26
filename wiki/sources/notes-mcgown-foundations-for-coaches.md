@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: book
-title: "Carl McGown — Coaching Books (Composite: Science of Coaching Volleyball 1994 + Complete Volleyball for Coaches 1995 + Coaching Volleyball: Building a Winning Team 2000)"
+title: "Carl McGown, Coaching Books (Composite: Science of Coaching Volleyball 1994 + Complete Volleyball for Coaches 1995 + Coaching Volleyball: Building a Winning Team 2000)"
 author: "Carl McGown"
 year: 1994
 citation-key: notes-mcgown-foundations-for-coaches
@@ -13,7 +13,7 @@ schools: [gold-medal-squared, usa-volleyball]
 trust-tier: 1
 ---
 
-# Carl McGown — Coaching Books (Composite Notes Source)
+# Carl McGown: Coaching Books (Composite Notes Source)
 
 ## Summary
 
@@ -25,7 +25,7 @@ as co-authors of any McGown volleyball book in Open Library's authoritative
 McGown bibliography, the Gold Medal Squared website store, Amazon, Goodreads,
 Barnes & Noble, AbeBooks, or Web search. The Open Library bibliography lists six
 McGown works: three editions of his 1971-1978 doctoral motor-learning research
-plus three coaching books — *Science of Coaching Volleyball* (1994, solo author),
+plus three coaching books, *Science of Coaching Volleyball* (1994, solo author),
 *Complete Volleyball for Coaches* (1995, with Hilda Fronske), and *Coaching
 Volleyball: Building a Winning Team* (2000, with Hilda Fronske and Launa Moser).
 
@@ -40,7 +40,7 @@ peer-reviewed AVCA journal article on whole-vs-part training (with Steve Bain),
 are the published methodology spine of the [[gold-medal-squared]] school.
 
 The corpus's organizing thesis is that **coaching is an empirically answerable
-discipline grounded in motor-learning science** — that volleyball-specific skills
+discipline grounded in motor-learning science**: that volleyball-specific skills
 are task-specific and context-sensitive, that the transfer from general-athletic
 drills to volleyball performance is weak, and that the fastest route to competitive
 skill is practicing volleyball in volleyball-like conditions with intentional
@@ -114,7 +114,7 @@ for the composite source's standalone usefulness.)
 
 ## Topics covered
 
-### *Science of Coaching Volleyball* (1994) — primary methodology text
+### *Science of Coaching Volleyball* (1994): primary methodology text
 - Sport-science principles applied to everyday coaching situations
 - Motor-learning research base for skill acquisition
 - McGown enlists "the aid of sport science experts" per publisher copy
@@ -133,7 +133,7 @@ for the composite source's standalone usefulness.)
 - McGown's most comprehensive coaching textbook
 - Allyn & Bacon (academic textbook publisher); ISBN 0205309585 / 9780205309580
 - Multi-author treatment suggests broader topical coverage than the 1994 solo
-  methodology text — coaching theory + skill instruction + program management +
+  methodology text, coaching theory + skill instruction + program management +
   practice design
 - Likely target of the Task B.9 brief's "*Volleyball: Foundations for Coaches*"
   framing (with comprehensive textbook scope)
@@ -150,9 +150,9 @@ for the composite source's standalone usefulness.)
 *(populated as wiki pages cite this source)*
 
 Anticipated citations:
-- [[carl-mcgown]] — primary coach profile, methodology + contribution sections
-- [[gold-medal-squared]] — school-page methodology citations
-- [[hugh-mccutcheon]] — McCutcheon's BYU apprenticeship under McGown
+- [[carl-mcgown]]: primary coach profile, methodology + contribution sections
+- [[gold-medal-squared]]: school-page methodology citations
+- [[hugh-mccutcheon]]: McCutcheon's BYU apprenticeship under McGown
 - Future technique pages on passing, blocking, and serve-receive (this source
   documents the GMS-school perspective for the schools-perspectives frontmatter
   on contested techniques)
@@ -166,11 +166,11 @@ Anticipated citations:
   - GMS About Us: https://www.goldmedalsquared.com/about-us
   - Volleyball Coaching Wizards McGown profile: https://volleyballcoachingwizards.com/volleyball-coaching-wizard-carl-mcgown/
 - **Bibliographic anchors:**
-  - *Science of Coaching Volleyball* — Human Kinetics, 1994, ISBN 0873225724 / 9780873225724; solo author
-  - *Complete Volleyball for Coaches* — Brown & Benchmark, 1995; co-authored with Hilda Fronske
-  - *Coaching Volleyball: Building a Winning Team* — Allyn & Bacon, 2000, ISBN 0205309585 / 9780205309580; co-authored with Hilda A. Fronske and Launa Moser
-  - "Motor Learning Principles and the Superiority of Whole Training in Volleyball" — AVCA peer-reviewed article, with Dr. Steve Bain
-- **Trust tier:** 1 — primary published material from the subject coach; fair-use
+  - *Science of Coaching Volleyball*: Human Kinetics, 1994, ISBN 0873225724 / 9780873225724; solo author
+  - *Complete Volleyball for Coaches*: Brown & Benchmark, 1995; co-authored with Hilda Fronske
+  - *Coaching Volleyball: Building a Winning Team*: Allyn & Bacon, 2000, ISBN 0205309585 / 9780205309580; co-authored with Hilda A. Fronske and Launa Moser
+  - "Motor Learning Principles and the Superiority of Whole Training in Volleyball", AVCA peer-reviewed article, with Dr. Steve Bain
+- **Trust tier:** 1, primary published material from the subject coach; fair-use
   notes only, no book body text reproduced.
 - **Disambiguation note:** The Task B.9 brief's title "*Volleyball: Foundations
   for Coaches*" with co-authors "Hilary McGown" and "Mariv Adamson" could not be

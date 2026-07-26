@@ -34,6 +34,5 @@ Tod Mattox teaches bump setting (forearm-deliver-to-hitter) differently from reg
 ## Access
 - Raw file: [[aoc-2026-mattox-bump-set-lmr]]
 - URL: https://www.theartofcoachingvolleyball.com/improve-bump-setting/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

@@ -31,4 +31,4 @@ See [[minnesota-volleyball]].
 See [[minnesota-volleyball]].
 
 ## Sources
-*(none yet — alias stub for [[minnesota-volleyball]])*
+*(none yet, alias stub for [[minnesota-volleyball]])*

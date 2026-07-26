@@ -17,7 +17,7 @@ trust-tier: 2
 
 ## Summary
 
-A short AOC video-article from Stanford head coach John Dunning covering a single premise: serving and hitting place different physical demands on the shoulder and kinetic chain, so serves deserve their own dedicated warm-up progression — not just the hitting warm-up that usually precedes both. Dunning's Stanford-standard protocol starts players at the 10-foot line and walks them back to the service line in stages, "serving slow and short before moving back and adding speed."
+A short AOC video-article from Stanford head coach John Dunning covering a single premise: serving and hitting place different physical demands on the shoulder and kinetic chain, so serves deserve their own dedicated warm-up progression beyond the hitting warm-up that usually precedes both. Dunning's Stanford-standard protocol starts players at the 10-foot line and walks them back to the service line in stages, "serving slow and short before moving back and adding speed."
 
 The piece is short but points at a commonly under-coached practice-design decision: build a distinct serving ramp-up before either practice or match. The full video sits behind AOC's paywall; the public landing page carries the protocol summary captured above.
 
@@ -41,5 +41,5 @@ The piece is short but points at a commonly under-coached practice-design decisi
 
 - Raw file: `raw/articles/aoc-2018-dunning-serve-warmup.md`
 - URL: https://www.theartofcoachingvolleyball.com/stanford-serve-warm-ups/
-- Trust tier: 2 — AOC editorial / affiliated coach (Dunning is AOC co-founder)
+- Trust tier: 2: AOC editorial / affiliated coach (Dunning is AOC co-founder)
 - Note: full video is AOC Premium.

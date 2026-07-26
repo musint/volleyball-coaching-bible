@@ -29,15 +29,15 @@ Full 6v6 on a regulation court. Whiteboard with a single shared score, set at **
 6. First side to reach their target (0 or 20) wins.
 
 ## Coaching points
-- The number-as-rope is the teaching mechanism — every rally feels weighted because the score moves bidirectionally.
+- The number-as-rope is the teaching mechanism, every rally feels weighted because the score moves bidirectionally.
 - Pace: coach enters balls without long resets so the rope-feel stays continuous.
-- Talk on every rally — "we're at 13, going to 20" or "we're at 12, going to zero" so the team's target stays locked.
+- Talk on every rally, "we're at 13, going to 20" or "we're at 12, going to zero" so the team's target stays locked.
 - Useful as a tournament-week drill where pressure rehearsal is the focus, not skill technique.
 
 ## Variations
 - Tighter range: start at 5, target is 0 or 10.
-- Wider range: start at 15, target is 0 or 30 — longer block.
-- **Serve entry** instead of free ball — tug of war becomes a service-pressure game.
+- Wider range: start at 15, target is 0 or 30, longer block.
+- **Serve entry** instead of free ball, tug of war becomes a service-pressure game.
 
 ## Adaptations by level
 - **14U**: start at 5, target 0 or 10.

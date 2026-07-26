@@ -46,5 +46,5 @@ Bari et al. (2023) examined which kinematic predictors best explain jump topspin
 
 - Raw file: `raw/research/bari-2023-jump-serve-efficacy-kinematics.md`
 - URL / DOI: https://doi.org/10.1097/MD.0000000000034471 (PMC10402994)
-- Trust tier: 1 — peer-reviewed research (open access via PMC)
+- Trust tier: 1, peer-reviewed research (open access via PMC)
 - Access note: full open-access text via PubMed Central

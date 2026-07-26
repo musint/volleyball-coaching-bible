@@ -38,5 +38,5 @@ Emporia State's Ken Murczek runs an end-of-practice drill (used daily for three 
 ## Access
 - Raw file: [[aoc-2023-murczek-aggressive-swings]]
 - URL: https://www.theartofcoachingvolleyball.com/hitting-drill-train-players-to-take-more-aggressive-swings/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

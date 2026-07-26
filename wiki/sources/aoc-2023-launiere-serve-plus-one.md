@@ -19,7 +19,7 @@ trust-tier: 2
 Beth Launiere's 6v6 offensive-development drill. Teams alternate serve; after each serve a coach-tossed down ball goes to the team that just served. Each hitter tracks individual points: start +2, +1 per kill, -1 per error (floor at 0). Round ends when every hitter on one team simultaneously hits +3.
 
 ## Key claims / ideas
-- Per-hitter point tracking forces balanced offensive contribution — no one-player wins.
+- Per-hitter point tracking forces balanced offensive contribution, no one-player wins.
 - Simultaneous +3 target means a team can't coast on one hot hitter.
 - Coach-entered down ball after each serve trains both serve-receive AND serve + down-ball offense.
 - Non-rotating format isolates hitters in their specialized roles during the drill.
@@ -36,5 +36,5 @@ Beth Launiere's 6v6 offensive-development drill. Teams alternate serve; after ea
 ## Access
 - Raw file: [[aoc-2023-launiere-serve-plus-one]]
 - URL: https://www.theartofcoachingvolleyball.com/serve-1-offensive-development-drill-from-beth-launiere/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

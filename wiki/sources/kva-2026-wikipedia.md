@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Korea Volleyball Association — Wikipedia"
+title: "Korea Volleyball Association, Wikipedia"
 author: "Wikipedia contributors"
 year: 2026
 citation-key: kva-2026-wikipedia
@@ -13,7 +13,7 @@ schools: [kva-korea, korean-school]
 trust-tier: 2
 ---
 
-# Korea Volleyball Association — Wikipedia
+# Korea Volleyball Association: Wikipedia
 
 ## Summary
 Wikipedia institutional record for the Korea Volleyball Association (KVA), the governing body for volleyball in South Korea, founded March 1946 and a member of FIVB since 1959. Anchors federation founding, governance, and KVA-vs-KOVO scope distinction (KVA = national teams + amateur/youth; KOVO = V-League professional).
@@ -33,10 +33,10 @@ Wikipedia institutional record for the Korea Volleyball Association (KVA), the g
 - KVA / KOVO institutional separation
 
 ## Where it's cited
-- [[kva-korea]] — primary federation-stub source
-- [[korean-school]] — federation-governance context
+- [[kva-korea]]: primary federation-stub source
+- [[korean-school]]: federation-governance context
 
 ## Access
 - Raw file: `raw/articles/kva-wikipedia.md`
 - URL: https://en.wikipedia.org/wiki/Korea_Volleyball_Association
-- Trust tier: 2 — Wikipedia federation page; reliable for founding dates and governance scope.
+- Trust tier: 2: Wikipedia federation page; reliable for founding dates and governance scope.

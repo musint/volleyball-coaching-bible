@@ -16,7 +16,7 @@ trust-tier: 2
 # 10 Things Terry Liskevych Has Learned About Coaching Volleyball
 
 ## Summary
-A compact AOC piece in which Terry Liskevych — former USA Women's National Team head coach (1985–1996, bronze at Barcelona 1992), AOC co-founder, and editor of *The Volleyball Coaching Bible* — distills his career into ten principles for coaches. The principles are intentionally broad, spanning staff construction, personal-life priorities, written philosophy documents, mentorship, work ethic, continuous learning, positive energy, teaching systems, talent ID, and program marketing.
+A compact AOC piece in which Terry Liskevych, former USA Women's National Team head coach (1985 to 1996, bronze at Barcelona 1992), AOC co-founder, and editor of *The Volleyball Coaching Bible*, distills his career into ten principles for coaches. The principles are intentionally broad, spanning staff construction, personal-life priorities, written philosophy documents, mentorship, work ethic, continuous learning, positive energy, teaching systems, talent ID, and program marketing.
 
 Liskevych's teaching-systems point is particularly pointed: "Perfect practice makes perfect. Design systems for your players rather than forcing them into rigid frameworks. Build technical skills before tactical complexity." This player-first system design is a throughline across his USA NT tenure and his AOC teaching.
 
@@ -24,7 +24,7 @@ Liskevych's teaching-systems point is particularly pointed: "Perfect practice ma
 - Surround yourself with exceptional people; hire to complement your weaknesses.
 - Write a one-page coaching philosophy and review annually.
 - Seek mentors, reciprocate by mentoring others.
-- Perfect practice — build systems around players, not vice versa.
+- Perfect practice, build systems around players, not vice versa.
 - Recruit athletic talent but weight attitude, effort, and resilience.
 - Technical skills before tactical complexity.
 - Market your program beyond player families and alumni.
@@ -42,4 +42,4 @@ Liskevych's teaching-systems point is particularly pointed: "Perfect practice ma
 ## Access
 - Raw file: `raw/articles/liskevych-aoc-10-things-learned.md`
 - URL: https://www.theartofcoachingvolleyball.com/10-things-terry-liskevych-has-learned-from-coaching-volleyball/
-- Trust tier: 2 — AOC article authored by Liskevych himself
+- Trust tier: 2: AOC article authored by Liskevych himself

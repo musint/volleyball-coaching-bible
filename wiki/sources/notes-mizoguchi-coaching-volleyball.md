@@ -1,8 +1,8 @@
 ---
 type: source
 source-type: book
-title: "Mizoguchi & the JVA coaching-textbook lineage (composite — translation-needed)"
-author: "Various — Japan Volleyball Association (JVA)"
+title: "Mizoguchi & the JVA coaching-textbook lineage (composite, translation-needed)"
+author: "Various, Japan Volleyball Association (JVA)"
 year: 1971
 citation-key: notes-mizoguchi-coaching-volleyball
 raw-file: raw/books/notes-mizoguchi-coaching-volleyball.md
@@ -12,19 +12,19 @@ schools: [japanese-training]
 trust-tier: 3
 ---
 
-# Mizoguchi & the JVA coaching-textbook lineage (composite — translation-needed)
+# Mizoguchi & the JVA coaching-textbook lineage (composite, translation-needed)
 
 ## Summary
 
 This is a **composite source page** documenting the Japanese-language
 coaching-textbook lineage in which a "Mizoguchi"-attributed contribution sits.
-The cluster brief asked for "Mizoguchi (Japanese coaching texts)" — but
+The cluster brief asked for "Mizoguchi (Japanese coaching texts)", but
 specific Mizoguchi-authored volleyball coaching books cannot be verified in
 English-indexed publisher catalogs, library records, or coaching reviews as
 of 2026-04-24 [translation-needed]. Per SCHEMA §3.8 honesty rule and the
 cluster-brief instruction ("if specific titles can't be confirmed, document
-as a composite note"), this page documents the *category* — Japanese federation
-coaching-textbook output of the 1971-1985 era — anchored on the verifiable
+as a composite note"), this page documents the *category*: Japanese federation
+coaching-textbook output of the 1971-1985 era, anchored on the verifiable
 1971 IVBF Coach Training Course textbook published by JVA / FIVB (276 pages,
 held for the May 31 - June 10 1971 course in Tokyo). Specific Mizoguchi-
 attributed titles are flagged `[unsourced]` and `[translation-needed]` and
@@ -39,8 +39,8 @@ this composite should be split into a dedicated single-book source page and the
 
 - **JVA institutional textbook role.** The Japan Volleyball Association
   authored the canonical English-language federation textbook for the **First
-  IVBF Coach Training Course (Tokyo, 31 May - 10 June 1971)** — 276 pages,
-  co-published with FIVB / IVBF — establishing the institutional pattern of
+  IVBF Coach Training Course (Tokyo, 31 May - 10 June 1971)**: 276 pages,
+  co-published with FIVB / IVBF, establishing the institutional pattern of
   national federation → international federation textbook transmission that
   the JVA pioneered in the sport.
 - **The 1971 course is the institutional anchor** for Japanese federation
@@ -52,7 +52,7 @@ this composite should be split into a dedicated single-book source page and the
   Mizoguchi book, the surname plausibly refers to a JVA technical-commission
   contributor of the 1970s-1980s era, a regional coach with Japanese-language
   instructional materials, or a sports-science researcher in the volleyball
-  literature — all readings remain open `[unsourced]` `[translation-needed]`.
+  literature, all readings remain open `[unsourced]` `[translation-needed]`.
 - **Expected thematic content** of Japanese federation coaching textbooks of
   this era includes: multiple-quick-attack methodology, receive-platform
   fundamentals, read-block plus active-floor-defense, player-led practice
@@ -77,6 +77,6 @@ this composite should be split into a dedicated single-book source page and the
 - Anchor: Google Books listing for "Textbook for Volleyball Coaches: For First
   IVBF Coach Training Course 31 May - 10 June 1971, Tokyo" (JVA, 1971;
   Google Books ID 0YP-SAAACAAJ)
-- Trust tier: 3 — composite, pending Japanese-language ingest to upgrade.
+- Trust tier: 3, composite, pending Japanese-language ingest to upgrade.
   The 1971 IVBF textbook itself, if directly ingested, would be a Tier 1
   institutional source.

@@ -36,5 +36,5 @@ Tod Mattox's Perfect Pass Competition: tosser from across the net, passer passes
 ## Access
 - Raw file: [[aoc-2020-mattox-perfect-pass-competition]]
 - URL: https://www.theartofcoachingvolleyball.com/perfect-pass-competition-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

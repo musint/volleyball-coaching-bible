@@ -20,7 +20,7 @@ Pittsburgh head coach Dan Fisher runs a foundational setting progression emphasi
 
 ## Key claims / ideas
 - Maintain "ball-shaped hands" consistently for location accuracy.
-- "Up the chimney" cue — exaggerate the upward motion to get cleanly into setting position; minimize movement after the ball is tossed.
+- "Up the chimney" cue, exaggerate the upward motion to get cleanly into setting position; minimize movement after the ball is tossed.
 - Full elbow extension on the follow-through; hold the follow-through position until the target catches the ball.
 - Footwork mantra: "beat the ball" (feet set before the ball arrives) vs. "meet the ball".
 - Use a rotating setting line with coach-tossed feeds and live individual feedback.
@@ -37,5 +37,5 @@ Pittsburgh head coach Dan Fisher runs a foundational setting progression emphasi
 ## Access
 - Raw file: [[aoc-2024-setting-fundamentals]]
 - URL: https://www.theartofcoachingvolleyball.com/fundamentals-of-effective-volleyball-setting/
-- Trust tier: 2 — AOC, fundamentals article
+- Trust tier: 2: AOC, fundamentals article
 - Ingested via: aoc-mcp on 2026-04-23

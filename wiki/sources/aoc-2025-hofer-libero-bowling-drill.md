@@ -24,7 +24,7 @@ Ryan Hofer (Trinity Western University) demonstrates a libero defense drill wher
 - Effective digs require a stable platform regardless of which technique is being used.
 - "Bowling" balls (rolling them) is a superior coach-driven rep tool to hitting because coaches can place the ball more accurately than they can hit it.
 - Socks on the hands and arms cushion impact and reduce the fear barrier for players reluctant to dive.
-- "Liberos don't need to be ball watching" — reading the hitter produces a faster level jump than watching the ball.
+- "Liberos don't need to be ball watching", reading the hitter produces a faster level jump than watching the ball.
 
 ## Topics covered
 

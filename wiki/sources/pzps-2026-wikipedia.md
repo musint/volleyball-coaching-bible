@@ -45,5 +45,5 @@ Wikipedia institutional reference for the Polish Volleyball Federation (Polski Z
 
 - Raw file: `raw/articles/pzps-wikipedia.md`
 - URL: https://en.wikipedia.org/wiki/Polish_Volleyball_Federation
-- Trust tier: 2 — Wikipedia, reliable for structured institutional facts. Methodology / coach-development pipeline claims require pzps.pl or contemporary press source.
+- Trust tier: 2: Wikipedia, reliable for structured institutional facts. Methodology / coach-development pipeline claims require pzps.pl or contemporary press source.
 - Ingested via: webfetch on 2026-04-24

@@ -34,5 +34,5 @@ Companion Jim Stone piece (2 days earlier than the /serve-receive-patterns/ vers
 ## Access
 - Raw file: [[aoc-2020-stone-organizing-serve-receive-v2]]
 - URL: https://www.theartofcoachingvolleyball.com/organizing-serve-receive/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

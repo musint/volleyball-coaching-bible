@@ -37,5 +37,5 @@ Ruth Nelson outlines the key teaching points for introducing passing to kids age
 ## Access
 - Raw file: [[aoc-2024-kids-passing-fundamentals]]
 - URL: https://www.theartofcoachingvolleyball.com/volleyball-training-for-kids-teaching-the-fundamentals-of-passing/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

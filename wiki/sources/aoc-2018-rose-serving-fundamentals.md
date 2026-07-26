@@ -34,5 +34,5 @@ Short drill clip: players line up and serve one at a time, with coach-led debrie
 ## Access
 - Raw file: [[aoc-2018-rose-serving-fundamentals]]
 - URL: https://www.theartofcoachingvolleyball.com/serving-fundamentals-with-russ-rose/
-- Trust tier: 2 — AOC, Russ Rose
+- Trust tier: 2: AOC, Russ Rose
 - Ingested via: aoc-mcp on 2026-04-23

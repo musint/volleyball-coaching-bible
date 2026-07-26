@@ -20,8 +20,8 @@ John Dunning (Stanford) outlines three Stanford setter-training formats: fixed-t
 
 ## Key claims / ideas
 - Fixed-target drills: move to ball + set into a target (hoop at pin) trains location precision.
-- Setting-off-a-dig: two players near net, coach rips ball, one digs, the other sets to a pin target — trains the active ball.
-- Controlled toss drills are NOT useless — they give younger players feel before graduating to live/game-like drills.
+- Setting-off-a-dig: two players near net, coach rips ball, one digs, the other sets to a pin target, trains the active ball.
+- Controlled toss drills are NOT useless, they give younger players feel before graduating to live/game-like drills.
 - Progression is: controlled → live off passes → live off digs.
 
 ## Topics covered
@@ -35,6 +35,5 @@ John Dunning (Stanford) outlines three Stanford setter-training formats: fixed-t
 ## Access
 - Raw file: [[aoc-2025-dunning-setting-location-drills]]
 - URL: https://www.theartofcoachingvolleyball.com/setting-drills-game-like-touches-to-improve-location/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

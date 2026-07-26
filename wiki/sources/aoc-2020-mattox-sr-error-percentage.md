@@ -37,5 +37,5 @@ Tod Mattox's SR error-percentage drill scores each of 10 attempts as plus, minus
 ## Access
 - Raw file: [[aoc-2020-mattox-sr-error-percentage]]
 - URL: https://www.theartofcoachingvolleyball.com/serve-receive-error-percentage-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

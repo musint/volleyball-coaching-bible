@@ -19,13 +19,13 @@ variations: []
 
 ## Setup
 Coach on a box at zone 4 with a ball cart. Two blockers (outside +
-middle pair) in normal pin alignment. Full back-row defense — three
-diggers plus libero — plays out every deflection. A counter behind the
+middle pair) in normal pin alignment. Full back-row defense, three
+diggers plus libero, plays out every deflection. A counter behind the
 blockers tallies touches.
 
 ## Execution
 Coach hits controlled attacks from the box. The blocker's job: get a
-touch on every attack. Stuff, deflection, fingertip — any net contact
+touch on every attack. Stuff, deflection, fingertip, any net contact
 counts. A clean ball through the block counts as a non-touch.
 
 Run rounds of 15. After each round the counter reports touch rate
@@ -44,7 +44,7 @@ Hands over the net, not reaching up. Every clean ball through is a
 coaching moment about hand height and penetration. Watch hand position
 at contact: spread wide, thumbs up, fingers loaded. Diggers line up
 assuming the block funnels predictably; if it doesn't, the defense
-breaks down. Touch rate is the KPI — reward touches publicly, including
+breaks down. Touch rate is the KPI, reward touches publicly, including
 soft deflections that set up the dig.
 
 ## Variations
@@ -53,7 +53,7 @@ rebuilds the block every rep. Track kill rate against block + defense
 as a secondary metric.
 
 ## Adaptations by level
-14U: simplify to hand position — coach hits straight at a single
+14U: simplify to hand position, coach hits straight at a single
 blocker, the "win" is hands above the tape every rep. HS: full drill,
 60% touch target. College: add an opponent-side setter so the blocker
 reads a live set before committing.

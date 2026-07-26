@@ -30,11 +30,11 @@ Full court with net. Split players into teams of two or three. One team holds th
 ## Coaching points
 - The pass-grade gate is the point: a kill built on a dirty pass is still a process failure.
 - Target grades immediately before the rally resolves; the rule must be visible.
-- Queens hunt the weakest passer — targeted serving wins rallies before they start.
+- Queens hunt the weakest passer, targeted serving wins rallies before they start.
 - Every rally starts with a called seam; silent receptions lose the slot even on a kill.
 
 ## Variations
-- **Pass-for-points (Diane Flick):** only pass grade counts — challengers score by stacking 3s, not by winning rallies.
+- **Pass-for-points (Diane Flick):** only pass grade counts, challengers score by stacking 3s, not by winning rallies.
 - **Two-touch queen:** challengers must pass and set cleanly before attacking; a bump-set over the net is a loss.
 - **Libero-stay:** rotate the libero across every team; she stays on the queen side for continuity.
 

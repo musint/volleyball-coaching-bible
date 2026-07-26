@@ -16,7 +16,7 @@ trust-tier: 2
 # Positioning of a right-handed opposite attacker
 
 ## Summary
-Beth Launiere (Utah '90-'25) argues a right-handed opposite should start wider than the traditional on-the-line or just-outside-the-court start — the wide start gives a clear set view, lets the ball meet the hitter square, improves block vision, and still allows inside sets. For line shots, the cue is wrist-away with thumb down.
+Beth Launiere (Utah '90-'25) argues a right-handed opposite should start wider than the traditional on-the-line or just-outside-the-court start, the wide start gives a clear set view, lets the ball meet the hitter square, improves block vision, and still allows inside sets. For line shots, the cue is wrist-away with thumb down.
 
 ## Key claims / ideas
 - Right-handed opposites benefit from a wide approach start, not on-the-line.
@@ -36,5 +36,5 @@ Beth Launiere (Utah '90-'25) argues a right-handed opposite should start wider t
 ## Access
 - Raw file: [[aoc-2023-launiere-opposite-positioning]]
 - URL: https://www.theartofcoachingvolleyball.com/positioning-of-a-right-handed-opposite-attacker/
-- Trust tier: 2 — AOC, 35-year Utah head coach
+- Trust tier: 2: AOC, 35-year Utah head coach
 - Ingested via: aoc-mcp on 2026-04-23

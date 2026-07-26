@@ -33,5 +33,5 @@ Bishop's School players practice the decision tree on close-to-net free balls: f
 ## Access
 - Raw file: [[aoc-2019-mattox-free-balls-close-net]]
 - URL: https://www.theartofcoachingvolleyball.com/dealing-with-free-balls/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

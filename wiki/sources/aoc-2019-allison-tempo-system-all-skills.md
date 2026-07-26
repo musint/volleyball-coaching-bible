@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Marci Allison (UT Dallas) extends the pass-tempo system (0/3rd/4th tempo based on pass height relative to net) to all skills — free balls, digs, tips, setting, and serves — to give one unified language for ball-height and accuracy across every skill.
+Marci Allison (UT Dallas) extends the pass-tempo system (0/3rd/4th tempo based on pass height relative to net) to all skills, free balls, digs, tips, setting, and serves, to give one unified language for ball-height and accuracy across every skill.
 
 ## Key claims / ideas
 

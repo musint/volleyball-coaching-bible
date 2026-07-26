@@ -15,14 +15,14 @@ trust-tier: 2
 
 ## Summary
 
-Championship Performance (third-party publisher republished by AOC) describes how a high school team transformed a poor season by playing loud rock music during pre-game warm-up, practice drills, and scrimmages — using it both to mimic the loud home-gym environment and to raise energy.
+Championship Performance (third-party publisher republished by AOC) describes how a high school team transformed a poor season by playing loud rock music during pre-game warm-up, practice drills, and scrimmages, using it both to mimic the loud home-gym environment and to raise energy.
 
 ## Key claims / ideas
 
 - Music during warmup and practice can produce measurable energy and enthusiasm gains.
 - Team-chosen music increases buy-in; imposing music reduces it.
 - Ritualized locker-room music pre-game can serve as a team-identity anchor.
-- Not every moment is appropriate for music — coach judgment matters.
+- Not every moment is appropriate for music, coach judgment matters.
 
 ## Topics covered
 

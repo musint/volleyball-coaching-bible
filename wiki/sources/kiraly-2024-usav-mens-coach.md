@@ -40,4 +40,4 @@ The article is the single best cite for the 2024 coaching transition itself. It 
 ## Access
 - Raw file: `raw/articles/karch-2024-usa-mens-head-coach.md`
 - URL: https://volleyballmag.com/usa-volleyball-karch-kiraly-to-coach-men-102424/
-- Trust tier: 1 — VolleyballMag.com is the reigning trade publication for the sport; article published same-day as the official announcement and cross-confirmed against USAV and ESPN coverage.
+- Trust tier: 1: VolleyballMag.com is the reigning trade publication for the sport; article published same-day as the official announcement and cross-confirmed against USAV and ESPN coverage.

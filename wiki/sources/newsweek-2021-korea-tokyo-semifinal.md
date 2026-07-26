@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Tokyo 2020 — South Korea Fights to Win First Women's Volleyball Olympic Medal in 45 Years — Newsweek"
+title: "Tokyo 2020, South Korea Fights to Win First Women's Volleyball Olympic Medal in 45 Years, Newsweek"
 author: "Newsweek sports desk"
 year: 2021
 citation-key: newsweek-2021-korea-tokyo-semifinal
@@ -13,10 +13,10 @@ schools: [korean-school]
 trust-tier: 2
 ---
 
-# Tokyo 2020 — South Korea Fights to Win First Women's Volleyball Olympic Medal in 45 Years — Newsweek (2021)
+# Tokyo 2020: South Korea Fights to Win First Women's Volleyball Olympic Medal in 45 Years: Newsweek (2021)
 
 ## Summary
-US-published feature framing the Tokyo 2020 South Korea women's-volleyball semifinal vs Brazil and the historical 45-year drought from the 1976 Montreal bronze. Anchors the canonical "1976 → 2021" narrative gap, plus Lavarini's "one of the greatest in history" quote on Kim Yeon-koung — useful for the [[korean-school]] page in framing why Tokyo 2020 mattered to the lineage.
+US-published feature framing the Tokyo 2020 South Korea women's-volleyball semifinal vs Brazil and the historical 45-year drought from the 1976 Montreal bronze. Anchors the canonical "1976 → 2021" narrative gap, plus Lavarini's "one of the greatest in history" quote on Kim Yeon-koung, useful for the [[korean-school]] page in framing why Tokyo 2020 mattered to the lineage.
 
 ## Key claims / ideas
 - 45-year drought since 1976 Montreal bronze
@@ -31,9 +31,9 @@ US-published feature framing the Tokyo 2020 South Korea women's-volleyball semif
 - Lavarini's Italian-coach perspective on Korean leadership
 
 ## Where it's cited
-- [[korean-school]] — frames 1976 → 2021 narrative gap and Kim Yeon-koung's stature
+- [[korean-school]]: frames 1976 → 2021 narrative gap and Kim Yeon-koung's stature
 
 ## Access
 - Raw file: `raw/articles/newsweek-2021-korea-tokyo-semifinal.md`
 - URL: https://www.newsweek.com/tokyo-2020-olympics-semifinal-south-korea-brazil-womens-volleyball-history-1616911
-- Trust tier: 2 — major US news organization sports feature; reliable for direct quotation.
+- Trust tier: 2, major US news organization sports feature; reliable for direct quotation.

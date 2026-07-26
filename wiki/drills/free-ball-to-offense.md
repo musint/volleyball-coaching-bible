@@ -28,9 +28,9 @@ Six players on one side in their base rotation, with a setter, three front-row a
 5. Coach throws the next free ball within 3 seconds; run 8-12 reps per rotation, then rotate the lineup.
 
 ## Coaching points
-- Free ball pass target is higher and closer to the net than serve-receive — aim for the setter's forehead at the pin.
+- Free ball pass target is higher and closer to the net than serve-receive, aim for the setter's forehead at the pin.
 - Setters call location before the pass is off the platform; hitters hear their number early.
-- Every attacker approaches every rep, even if the set is going elsewhere — coverage is trained here.
+- Every attacker approaches every rep, even if the set is going elsewhere, coverage is trained here.
 - Celebrate attacks that beat the coned zone; accept in-system errors, penalize system breakdowns.
 - A shanked pass is a teaching moment: it is a free ball, it must be platformed.
 
@@ -42,7 +42,7 @@ Six players on one side in their base rotation, with a setter, three front-row a
 ## Adaptations by level
 - **14U:** free ball tossed high and deep to the middle; accept any attack or roll shot to the opposite court.
 - **HS:** full tempo, hitters attack into pin zones, middle option live.
-- **College:** add a blocker on the opposite side; free-ball becomes a decision — tip over or swing through.
+- **College:** add a blocker on the opposite side; free-ball becomes a decision, tip over or swing through.
 
 ## Sources
 - [[aoc-2024-kiraly-validation-6v6]]

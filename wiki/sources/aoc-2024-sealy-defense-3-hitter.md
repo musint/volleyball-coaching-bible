@@ -23,7 +23,7 @@ Mike Sealy explains that against a 3-hitter rotation, middles usually can't clos
 - Reaching over can close the low seam.
 - Alternatively, leave the seam open and defend with a well-positioned back-row digger.
 - Stable middle block (that doesn't chase wide to close) makes defense easier than an unstable, closer block.
-- Cheat toward the stronger pin hitter — most teams have an imbalanced pair.
+- Cheat toward the stronger pin hitter, most teams have an imbalanced pair.
 
 ## Topics covered
 - Defending 3-hitter / fast offenses.
@@ -37,5 +37,5 @@ Mike Sealy explains that against a 3-hitter rotation, middles usually can't clos
 ## Access
 - Raw file: [[aoc-2024-sealy-defense-3-hitter]]
 - URL: https://www.theartofcoachingvolleyball.com/playing-defense-against-a-3-hitter-rotation/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

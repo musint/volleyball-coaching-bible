@@ -34,6 +34,5 @@ Mattox's 5x5 target defines the OOS set zone: 5 feet off the sideline, 5 feet of
 ## Access
 - Raw file: [[aoc-2020-mattox-5x5-oos-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/5-x-5-setting-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

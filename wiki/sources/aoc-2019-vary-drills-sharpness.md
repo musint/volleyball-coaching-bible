@@ -15,11 +15,11 @@ trust-tier: 2
 
 ## Summary
 
-AOC editorial arguing mental skills (decision-making, pattern recognition, attention) are best reinforced during physical practice via varied drills and reward structures that score decisions, not just outcomes.
+AOC editorial arguing mental skills (decision-making, pattern recognition, attention) are best reinforced during physical practice via varied drills and reward structures that score decisions rather than outcomes.
 
 ## Key claims / ideas
 
-- Mental skills are physical-practice skills — they require reps in context, not classroom explanation.
+- Mental skills are physical-practice skills, they require reps in context, not classroom explanation.
 - Varying drills prevents players from adopting a mental set (coasting in predictable sections).
 - Scoring based on decision quality (passing accuracy, movement without the ball, calling out) produces different play than scoring based on outcome.
 - Coaches should experiment with altered scoring schemes; some will work, some won't.

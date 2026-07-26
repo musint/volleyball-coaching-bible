@@ -21,7 +21,7 @@ Kerry MacDonald (Volleyball Canada CSO, former UBC men's head coach) presents a 
 
 - Reordering wash so the serve finishes the sequence elevates the importance of serving under pressure.
 - 2-0 lead → 2-point serve; 1-1 tie → 1-point serve. Reward scales with momentum.
-- Free balls should be challenging to preserve drill integrity — easy bumps break the drill.
+- Free balls should be challenging to preserve drill integrity, easy bumps break the drill.
 - The drill isolates serving as a decisive competitive act, not a perfunctory start.
 - 6v6 team-drill with coach-initiated entry; fits conditioning, competitiveness, and situation training buckets.
 
@@ -34,7 +34,7 @@ Kerry MacDonald (Volleyball Canada CSO, former UBC men's head coach) presents a 
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``team-drill``, `[[wash-drill]]`, `[[serving]]`, `[[mental]]` (pressure), `[[drills/reverse-wash]]`, and `[[kerry-macdonald]]` profile.
+Forward-reference, to be cited on ``team-drill``, `[[wash-drill]]`, `[[serving]]`, `[[mental]]` (pressure), `[[drills/reverse-wash]]`, and `[[kerry-macdonald]]` profile.
 
 ## Access
 

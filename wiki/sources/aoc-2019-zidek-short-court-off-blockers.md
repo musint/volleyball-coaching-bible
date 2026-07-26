@@ -19,7 +19,7 @@ trust-tier: 2
 Marie Zidek's short-court 4v4 game (inside the 10-foot line) trains blockers to make quick joust-vs-peel decisions and to cover tips; coaches debrief each point on blocker judgment.
 
 ## Key claims / ideas
-- Play 4v4 inside the 10-foot line — short-court format.
+- Play 4v4 inside the 10-foot line, short-court format.
 - Service = a set over the net to the opponent.
 - Blocker decision focus: stay and joust vs. peel to cover tip.
 - Review decisions between points to coach judgment explicitly.
@@ -35,5 +35,5 @@ Marie Zidek's short-court 4v4 game (inside the 10-foot line) trains blockers to 
 ## Access
 - Raw file: [[aoc-2019-zidek-short-court-off-blockers]]
 - URL: https://www.theartofcoachingvolleyball.com/short-court-helping-organize-your-off-blockers/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

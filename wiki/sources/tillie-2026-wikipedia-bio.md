@@ -47,5 +47,5 @@ Wikipedia biographical article covering the career of French coach Laurent Tilli
 
 - Raw file: `raw/articles/laurent-tillie-wikipedia-bio.md`
 - URL: https://en.wikipedia.org/wiki/Laurent_Tillie
-- Trust tier: 2 — Wikipedia, corroboration-required for editorial claims; structured results are reliable.
+- Trust tier: 2: Wikipedia, corroboration-required for editorial claims; structured results are reliable.
 - Ingested via: webfetch on 2026-04-25

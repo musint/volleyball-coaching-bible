@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Volleyball at the 2020 Summer Olympics — Men's tournament (Wikipedia)"
+title: "Volleyball at the 2020 Summer Olympics, Men's tournament (Wikipedia)"
 author: "Wikipedia contributors"
 year: 2026
 citation-key: tokyo-2020-mens-volleyball-2026-wikipedia
@@ -17,7 +17,7 @@ trust-tier: 2
 
 ## Summary
 
-Wikipedia reference for the men's volleyball tournament at the Tokyo 2020 Olympic Games (held in 2021), with full bracket and results. Captures the France gold-medal run under head coach **Laurent Tillie** — a 4-seed-out-of-pool finish that turned into a quarterfinal-through-final knockout sweep, capped by a 3-2 final over the Russian Olympic Committee with **Earvin N'Gapeth** named tournament MVP.
+Wikipedia reference for the men's volleyball tournament at the Tokyo 2020 Olympic Games (held in 2021), with full bracket and results. Captures the France gold-medal run under head coach **Laurent Tillie**: a 4-seed-out-of-pool finish that turned into a quarterfinal-through-final knockout sweep, capped by a 3-2 final over the Russian Olympic Committee with **Earvin N'Gapeth** named tournament MVP.
 
 ## Key claims / ideas
 
@@ -45,5 +45,5 @@ Wikipedia reference for the men's volleyball tournament at the Tokyo 2020 Olympi
 
 - Raw file: `raw/articles/tokyo-2020-mens-volleyball-wikipedia.md`
 - URL: https://en.wikipedia.org/wiki/Volleyball_at_the_2020_Summer_Olympics_%E2%80%93_Men%27s_tournament
-- Trust tier: 2 — Wikipedia.
+- Trust tier: 2: Wikipedia.
 - Ingested via: webfetch on 2026-04-25

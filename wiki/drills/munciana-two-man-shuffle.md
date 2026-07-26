@@ -21,15 +21,15 @@ variations: []
 Pair partners off facing each other across the court, each pair holding a ball. Pairs spread along a long line so every athlete has room to shuffle laterally without colliding with the next pair. The Munciana opening: "the first drill we will be running will be a two man routine" **[00:00:38]**.
 
 ## Execution
-1. On the call, partners drop into a low passing posture and hold the ball at the floor — Mike's cue: "hold the ball right here. Slide down. Hold the ball down right there. Get low right there. Hold it" **[00:00:43]**.
-2. On "go," both partners shuffle down the court and back, staying low the whole way. No ball is passed — this is footwork only.
+1. On the call, partners drop into a low passing posture and hold the ball at the floor: Mike's cue: "hold the ball right here. Slide down. Hold the ball down right there. Get low right there. Hold it" **[00:00:43]**.
+2. On "go," both partners shuffle down the court and back, staying low the whole way. No ball is passed, this is footwork only.
 3. Coach can call holds, then add a "two man roll on the floor" segment where partners roll through the floor and pop back up, mirroring an emergency-pursuit reset.
 
 ## Coaching points
-- Hold low — hips below the knees on every freeze, not a half-squat.
+- Hold low, hips below the knees on every freeze, not a half-squat.
 - Shuffle, do not turn-and-run; the platform-ready posture is the point.
-- Roll-and-recover phase: get all the way to the floor, then up — partial reps build partial habits.
-- This is a "warm-up drill for everybody to try to get feet going in the right direction" **[00:01:15]** — treat it as the day's footwork primer, not as a passing drill.
+- Roll-and-recover phase: get all the way to the floor, then up, partial reps build partial habits.
+- This is a "warm-up drill for everybody to try to get feet going in the right direction" **[00:01:15]**: treat it as the day's footwork primer, not as a passing drill.
 
 ## Variations
 - Roll segment can be added or dropped depending on whether the day's plan includes pursuit work.

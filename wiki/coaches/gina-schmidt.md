@@ -28,7 +28,7 @@ contributor, and AOC material identifies her as a former Canadian
 national team player [aoc-2024-attack-approach]
 [aoc-2024-macdonald-advanced-attacking-block]
 [aoc-2021-schmidt-setter-eyes-off-ball]. She is one of the defining AOC
-voices on modern attack footwork — the tempo cue "start slow, accelerate
+voices on modern attack footwork, the tempo cue "start slow, accelerate
 during the last two steps" is her framing, and it is the tempo anchor
 on this wiki's [[hitting-approach]] and [[age-lens-14u]] pages
 [aoc-2024-attack-approach]. Her broader AOC catalog pairs a reading-first
@@ -49,7 +49,7 @@ Canadian U Sports circuit [aoc-2021-hofer-schmidt-overload-isolation]. By
 [aoc-2024-attack-approach], and she appears with Kerry MacDonald
 (Volleyball Canada Chief Sports Officer) on the 2024 "advanced attacking:
 using the block" video with her affiliation listed as Canada Youth
-National Team — a parallel federation role alongside the college job
+National Team, a parallel federation role alongside the college job
 [aoc-2024-macdonald-advanced-attacking-block]. Her 2025-2026 output
 covers serving mindset [aoc-2025-schmidt-serving-mindset], setter
 decision-making [aoc-2025-schmidt-setters-run-offense], and a 2026
@@ -67,8 +67,8 @@ spot in her approach when the ball leaves the setter's hands
 progression on [[age-lens-14u]] [aoc-2024-attack-approach].
 
 **Setters read the block and train their eyes off the ball.** Schmidt's
-repeated argument is that setters must look across the net — specifically
-at the block — and choose sets that create favorable hitter-blocker
+repeated argument is that setters must look across the net, specifically
+at the block, and choose sets that create favorable hitter-blocker
 matchups [aoc-2025-schmidt-setters-run-offense]. Every play contains both
 an overload (setting into the bunched block) and an isolation (setting
 the hitter with only one blocker); pick based on strongest attacker vs.
@@ -83,7 +83,7 @@ number; setter glances and calls it) for 10-20 reps
 **Serving is about targeting, not avoiding.** Schmidt names two
 failure-avoidance frames that increase service errors: "I just want to
 get the ball in" and "Don't miss" [aoc-2025-schmidt-serving-mindset]. The
-replacement is specificity — a passer's left shoulder, a jersey number —
+replacement is specificity, a passer's left shoulder, a jersey number, 
 because specific targets reduce miss rates [aoc-2025-schmidt-serving-mindset].
 Terry Liskevych's counterpoint on the same video frames the tradeoff
 between specific-zone serving and tough-serve-anywhere, arguing only a
@@ -93,7 +93,7 @@ tough-serve-anywhere usually outperforms easy-to-zone
 
 **Reading is embedded, not isolated; advanced attackers weaponize the
 block.** With Ben Josephson she argues reading is a thread through every
-phase — serve receive, attack, block, defense — built through targeted
+phase, serve receive, attack, block, defense, built through targeted
 questions and player verbalization, not standalone drills
 [aoc-2026-training-reading]. This converges with [[karch-kiraly]]'s
 "reading is part of every skill" frame and [[defense-reading]]'s
@@ -101,19 +101,19 @@ look-see-decide diagnostic [aoc-2026-training-reading]. Applied to
 attacking, her Kerry MacDonald co-byline teaches three ways attackers use
 the block itself: read strength/location/penetration/holes; find seams
 (especially one opened by a late middle blocker); tool the block with
-high hands, wipeoffs, and edge tips — vision precedes tactical execution
+high hands, wipeoffs, and edge tips, vision precedes tactical execution
 [aoc-2024-macdonald-advanced-attacking-block].
 
 ## Contributions to the game
 
 Schmidt's principal contribution is a **cue-compact modern
-attack-approach framework** — the "slow-slow, fast-fast" tempo anchoring
+attack-approach framework**: the "slow-slow, fast-fast" tempo anchoring
 the right-left 2-step through 4-step progression
 [aoc-2024-attack-approach]. That framework is the tempo cue on
 [[hitting-approach]] and the 14U progression on [[age-lens-14u]]. A
 secondary contribution is her **reading-plus-tactical-specificity voice
-on setters** — read the block, call the matchup, take your eyes off the
-ball, talk transparently with the team — which combines setter-vision
+on setters**: read the block, call the matchup, take your eyes off the
+ball, talk transparently with the team, which combines setter-vision
 pedagogy with explicit offensive decision-making often left implicit in
 other AOC material [aoc-2021-schmidt-setter-eyes-off-ball]
 [aoc-2025-schmidt-setters-run-offense]. Institutionally, her dual Simon
@@ -130,7 +130,7 @@ that if this is the matchup and it keeps working, keep doing it. If it
 ain't broke, don't fix it" [aoc-2025-schmidt-setters-run-offense].
 
 On serving mindset: never "I just want to get the ball in" or "Don't
-miss" — specificity ("passer's left shoulder") reduces miss rates
+miss", specificity ("passer's left shoulder") reduces miss rates
 [aoc-2025-schmidt-serving-mindset].
 
 On approach tempo: "When a ball leaves the setter's hands, a good
@@ -139,16 +139,16 @@ hitter should always be at the same spot in their approach"
 
 ## Sources
 
-- [[aoc-2024-attack-approach]] — AOC: "Keys to good attack approaches"
-- [[aoc-2021-schmidt-setter-eyes-off-ball]] — AOC: setter vision /
+- [[aoc-2024-attack-approach]]: AOC: "Keys to good attack approaches"
+- [[aoc-2021-schmidt-setter-eyes-off-ball]]: AOC: setter vision /
   take-your-eyes-off-the-ball drill
-- [[aoc-2021-hofer-schmidt-overload-isolation]] — AOC: overload vs.
+- [[aoc-2021-hofer-schmidt-overload-isolation]]: AOC: overload vs.
   isolation (with Ryan Hofer)
-- [[aoc-2025-schmidt-serving-mindset]] — AOC: serving mindset and
+- [[aoc-2025-schmidt-serving-mindset]]: AOC: serving mindset and
   target specificity
-- [[aoc-2025-schmidt-setters-run-offense]] — AOC: teaching setters to
+- [[aoc-2025-schmidt-setters-run-offense]]: AOC: teaching setters to
   run an offense
-- [[aoc-2024-macdonald-advanced-attacking-block]] — AOC: advanced
+- [[aoc-2024-macdonald-advanced-attacking-block]]: AOC: advanced
   attacking using the block (with Kerry MacDonald)
-- [[aoc-2026-training-reading]] — AOC: training players to read (with
+- [[aoc-2026-training-reading]]: AOC: training players to read (with
   Ben Josephson)

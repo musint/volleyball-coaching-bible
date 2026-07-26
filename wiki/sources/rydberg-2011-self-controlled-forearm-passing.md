@@ -18,11 +18,11 @@ trust-tier: 1
 
 ## Summary
 
-Rydberg (2011), advised by Gabriele Wulf at UNLV, is one of the few **volleyball-specific** tests of **self-controlled practice** — the idea, popularized by Wulf's OPTIMAL theory, that giving athletes autonomy over their own practice (drill choice, feedback timing, etc.) accelerates motor learning. Two groups of collegiate women's volleyball players were studied across two days. The self-controlled group designed their own forearm-passing drills; the yoked group followed predetermined matched exercises. Outcomes measured: passing accuracy, intrinsic motivation (Intrinsic Motivation Inventory), and affect (PANAS).
+Rydberg (2011), advised by Gabriele Wulf at UNLV, is one of the few **volleyball-specific** tests of **self-controlled practice**: the idea, popularized by Wulf's OPTIMAL theory, that giving athletes autonomy over their own practice (drill choice, feedback timing, etc.) accelerates motor learning. Two groups of collegiate women's volleyball players were studied across two days. The self-controlled group designed their own forearm-passing drills; the yoked group followed predetermined matched exercises. Outcomes measured: passing accuracy, intrinsic motivation (Intrinsic Motivation Inventory), and affect (PANAS).
 
 Results were null. **No significant differences between groups** on any of the three outcome measures.
 
-The thesis is cited here because it complicates the strong "autonomy is always good for motor learning" claim when extrapolated to advanced sport-specific skills with already-competent learners. In a short, low-dose protocol with collegiate women working on a passing skill, autonomy did not produce a measurable accuracy advantage — possibly due to ceiling effects, dose, or genuine limits on autonomy benefits at high skill level.
+The thesis is cited here because it complicates the strong "autonomy is always good for motor learning" claim when extrapolated to advanced sport-specific skills with already-competent learners. In a short, low-dose protocol with collegiate women working on a passing skill, autonomy did not produce a measurable accuracy advantage, possibly due to ceiling effects, dose, or genuine limits on autonomy benefits at high skill level.
 
 This is a useful counterweight when arguing for "let players design drills" in coach-education contexts, and a methodologically clean piece for the unsourced-queue-resolution work on self-controlled practice claims.
 
@@ -32,7 +32,7 @@ This is a useful counterweight when arguing for "let players design drills" in c
 - **No significant accuracy advantage** for the autonomy group vs. yoked control across two days.
 - Also no significant differences in intrinsic motivation (IMI) or affect (PANAS).
 - Caveats: low dose (2 days), already-skilled population (collegiate), possible ceiling effects.
-- Author concludes "further research needed" — does NOT claim self-controlled practice doesn't work, only that this study didn't find it.
+- Author concludes "further research needed", does NOT claim self-controlled practice doesn't work, only that this study didn't find it.
 
 ## Topics covered
 
@@ -50,5 +50,5 @@ This is a useful counterweight when arguing for "let players design drills" in c
 
 - Raw file: `raw/research/rydberg-2011-self-controlled-forearm-passing.md`
 - URL: https://oasis.library.unlv.edu/thesesdissertations/1045/
-- Trust tier: 1 — peer-defended Master's thesis (UNLV) under Wulf's lab.
+- Trust tier: 1, peer-defended Master's thesis (UNLV) under Wulf's lab.
 - Access note: public thesis; institutional/ProQuest summary used.

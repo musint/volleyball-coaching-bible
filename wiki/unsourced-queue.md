@@ -15,184 +15,184 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ## Entries
 
-### wiki/cues/blocking-cues.md — Pin-blocker outside-foot-forward closing stance
+### wiki/cues/blocking-cues.md: Pin-blocker outside-foot-forward closing stance
 - **Claim:** "Outside foot forward on the pin. Teaches the pin blocker's closing stance: the outside foot (the one nearer the antenna) sits forward of the inside foot so the torso angles back into the court, which seals the line-side seam and lets the blocker rotate into the attack instead of reaching across her own body."
 - **Why unsourced:** Previously credited to Lingenfelter's 2022 camp tape as a blocking cue, but that quote is a perimeter-defense cue from Three-Way Release (00:14:03-00:15:06) and the tape contains no blocking instruction. The program teaches this pin stance; nothing in the wiki currently sources it.
 - **Research hypothesis:** AOC blocking corpus on pin-blocker closing footwork and stance. Likely carriers already on file: aoc-2024-slabe-blocking, aoc-2024-blocking-fundamentals (Sagula), aoc-2021-sealy-blocking-hand-position, aoc-2021-ideal-hand-path-blocking, aoc-2021-wisconsin-blocking-progression, aoc-2021-barnard-sealy-blocker-recover; re-read the raw articles to confirm pin-stagger content. Resolving this entry also resolves the mirrored [unsourced] tags on 12s.md, 16s.md, and 18s.md blocking-stance lines.
 - **Added:** 2026-07-24
 
-### wiki/age-guides/16s.md — Pin-stance program convention (blocking)
+### wiki/age-guides/16s.md: Pin-stance program convention (blocking)
 - **Claim:** "The pin blocker's outside-foot-forward closing stance (outside foot ahead of the inside foot so the torso angles back into the court and seals the line-side seam) is the program's blocking convention and is taught deliberately, not assumed."
 - **Why unsourced:** Same miscategorization as the blocking-cues entry above; the prior [munciana-2022-camp-drills] attribution was a defense cue. One research pass resolves this family (blocking-cues, 12s, 16s, 18s).
 - **Research hypothesis:** See blocking-cues entry; also AVCA Convention blocking sessions, Rosen or Slabe AOC material on the closing stance specifically.
 - **Added:** 2026-07-24
 
-### wiki/age-guides/18s.md — Pin-stance program convention (blocking)
+### wiki/age-guides/18s.md: Pin-stance program convention (blocking)
 - **Claim:** "The outside-foot-forward closing stance (outside foot ahead of the inside foot, torso angled back into the court, line-side seam sealed) applies invariantly at 18s; only execution speed scales."
 - **Why unsourced:** Same family as the two entries above.
 - **Research hypothesis:** Same as above.
 - **Added:** 2026-07-24
 
-### wiki/age-guides/12s.md — Pin-stance program convention (blocking), two locations
+### wiki/age-guides/12s.md: Pin-stance program convention (blocking), two locations
 - **Claim:** (Skill milestones → Blocking) "the outside blocker's outside foot sits slightly ahead so her hips angle back into the court rather than square to the net"; (Recommended cues → Blocking) "'outside foot slightly ahead at the pin' as program blocking convention."
 - **Why unsourced:** The munciana-2022-camp-drills source page now states the tape contains no blocking instruction; the outside-foot-high passages at 00:13:57-00:15:19 are perimeter defense. The blocking-stance version has no source.
 - **Research hypothesis:** Check aoc-2026-swing-blocking-footwork-beginners and aoc-2024-blocking-fundamentals source pages first before hunting new material.
 - **Added:** 2026-07-24
 
-### wiki/cues/serving-cues.md — Jump-float readiness gate
+### wiki/cues/serving-cues.md: Jump-float readiness gate
 - **Claim:** "The gating rule itself (no jump float until the moving toss is repeatable) is program convention."
 - **Why unsourced:** Mattox (aoc-2025-float-serve-3-keys) and Dunning (aoc-2024-float-serve-toss) cover the standing float only; neither addresses readiness criteria for adding the approach. The mechanical jump-float content is cited to those two; only the gate is program convention.
 - **Research hypothesis:** AOC jump-float progression content (aoc-mcp search for "jump float progression" / "when to add the jump"); raw articles behind aoc-2018-dunning-serve-warmup and aoc-2022-mattox-serving-warmup; USAV age-appropriate serving progressions.
 - **Added:** 2026-07-24
 
-### wiki/age-guides/18s.md — Year-over-year approach-touch gain band
+### wiki/age-guides/18s.md: Year-over-year approach-touch gain band
 - **Claim:** "Measure on the identical protocol every time, and set each athlete's target as a personal delta from her own 17s baseline rather than against a cohort figure; the wiki carries no sourced year-over-year gain band for HS-aged female approach touch."
 - **Why unsourced:** No source in the wiki supports a specific progression target (e.g., +2 to +4 inches across the 17s year), so the page states the protocol and no number.
 - **Research hypothesis:** Longitudinal jump-testing data from a college women's S&C program; NSCA/CSCS adolescent vertical-development literature with female cohorts; USAV High Performance combine data if published.
 - **Added:** 2026-07-24
 
-### wiki/age-guides/18s.md + wiki/age-guides/16s.md — Elite-club 16U approach-touch and reach bands
+### wiki/age-guides/18s.md + wiki/age-guides/16s.md: Elite-club 16U approach-touch and reach bands
 - **Claim:** "Elite-club 16U approach touch runs roughly 9'2" to 9'8" for outsides (serious D1 prospects at 9'10"+) and 9'8" to 10'+ for middles, with standing reach 7'2" to 7'6" for outsides and 7'8" to 8'2" for middles."
 - **Why unsourced:** 16s.md states these bands as descriptive cohort ranges with no citation; 18s.md now carries them forward with an [unsourced] tag and an in-text note.
 - **Research hypothesis:** Club recruiting-board aggregates; JVA or AAU showcase measurement datasets; PrepVolleyball or university camp published norms.
 - **Added:** 2026-07-24
 
-### wiki/age-guides/10s.md + wiki/age-guides/11s.md — Program net height 7'0"
+### wiki/age-guides/10s.md + wiki/age-guides/11s.md: Program net height 7'0"
 - **Claim:** "This program plays 10s [and 11s] at 7'0"." (Also asserted as "USAV-recommended 7'0" for 10s competition" on 10s-drills.md.)
 - **Why unsourced:** usav-2026-simplified-youth-rules states net heights of 5-6 feet for the youngest players rising to 7 feet at 12U; it gives no 10s- or 11s-specific height. The 7'0" figure is program convention.
 - **Research hypothesis:** USAV Junior indoor age-group net-height chart on usavolleyball.org; the club's own age-group operations sheet; regional (JVA or local region) 10U/11U playing-format rules.
 - **Added:** 2026-07-24
 
-### wiki/age-guides/13s.md — Pin-stance program convention (blocking)
+### wiki/age-guides/13s.md: Pin-stance program convention (blocking)
 - **Claim:** "'Outside foot forward on the close,' the pin-blocker closing stance. This is program blocking convention, and a different cue from the Munciana perimeter-defense rule above."
 - **Why unsourced:** Previously cited [munciana-2022-camp-drills], which cannot support blocking-technique claims; no Tier 1/2 source found for pin-blocker closing-foot orientation. Same family as the blocking-cues / 12s / 16s / 18s entries above; one research pass resolves all of them.
 - **Research hypothesis:** AOC blocking-footwork corpus (Slabe, Rosen, Mardini) or a USAV blocking-fundamentals module.
 - **Added:** 2026-07-24
 
-### wiki/age-guides/14s.md — Pin-stance program convention (blocking)
+### wiki/age-guides/14s.md: Pin-stance program convention (blocking)
 - **Claim:** "the pin-blocker closing stance with the outside foot forward so the hips rotate back square to the net. That stance is program blocking convention."
 - **Why unsourced / research hypothesis:** Same family as the 13s entry above.
 - **Added:** 2026-07-24
 
-### wiki/age-guides/15s.md — Pin-stance program convention (blocking)
+### wiki/age-guides/15s.md: Pin-stance program convention (blocking)
 - **Claim:** "'outside foot forward on the close,' the pin-blocker closing stance: program blocking convention rather than a sourced cue."
 - **Why unsourced / research hypothesis:** Same family as the 13s entry above.
 - **Added:** 2026-07-24
 
-### wiki/cues/hitting-cues.md — Mattox Sight-90 / Elbow-Lead / Lift-and-Whip (pre-existing, re-flagged)
+### wiki/cues/hitting-cues.md: Mattox Sight-90 / Elbow-Lead / Lift-and-Whip (pre-existing, re-flagged)
 - **Note:** This claim already has a queue entry below (added 2026-04-25). Re-flagged during the 2026-07-24 transcript-fidelity pass: the tag remains honest and the entry remains open.
 - **Added:** 2026-07-24 (cross-reference)
 
-### wiki/coaches/marco-bonitta.md — Italian-school methodology elements specific to Bonitta
-- **Claim:** "Bonitta's coaching education at Porto Ravenna Volley (1990–96) places him inside the Italian-federation system at the height of the Velasco men's-team era. His subsequent Bergamo dynasty (1997–2000) and 2002 World Championship gold position him as the figure who carried the Italian-school methodology into the women's senior program before [[giovanni-guidetti]] internationalized it via VakıfBank. Specific methodological elements (tempo offense, defensive systems, training periodization) are not described in the Wikipedia source [unsourced]."
-- **Why unsourced:** Wikipedia (English and Italian) is a results-and-titles record with no on-record coaching-philosophy or methodology material from Bonitta. The lineage-level inference — that Bonitta carried Italian-school methodology into the women's NT — is consistent with his career placement but is not directly attested in any captured source.
-- **Research hypothesis:** Bonitta interview ingest needed. Specifically: Italian volleyball-press features on the 2002 World Championship gold (Gazzetta dello Sport, La Repubblica volleyball coverage 2002–06); FIVB or CEV federation features post-2002; any clinic recordings from the Bergamo 1998–2000 dynasty era; reflections Bonitta has given on his Italy U20 men's 2012 CEV gold.
+### wiki/coaches/marco-bonitta.md: Italian-school methodology elements specific to Bonitta
+- **Claim:** "Bonitta's coaching education at Porto Ravenna Volley (1990 to 96) places him inside the Italian-federation system at the height of the Velasco men's-team era. His subsequent Bergamo dynasty (1997 to 2000) and 2002 World Championship gold position him as the figure who carried the Italian-school methodology into the women's senior program before [[giovanni-guidetti]] internationalized it via VakıfBank. Specific methodological elements (tempo offense, defensive systems, training periodization) are not described in the Wikipedia source [unsourced]."
+- **Why unsourced:** Wikipedia (English and Italian) is a results-and-titles record with no on-record coaching-philosophy or methodology material from Bonitta. The lineage-level inference, that Bonitta carried Italian-school methodology into the women's NT, is consistent with his career placement but is not directly attested in any captured source.
+- **Research hypothesis:** Bonitta interview ingest needed. Specifically: Italian volleyball-press features on the 2002 World Championship gold (Gazzetta dello Sport, La Repubblica volleyball coverage 2002 to 06); FIVB or CEV federation features post-2002; any clinic recordings from the Bergamo 1998 to 2000 dynasty era; reflections Bonitta has given on his Italy U20 men's 2012 CEV gold.
 - **Added:** 2026-04-26
 
-### wiki/coaches/marco-bonitta.md — Roster-cycle peaking around major championships
-- **Claim:** "The 2001–2006 cycle's medal pattern (silver 2001 Euros → gold 2002 Worlds → silver 2004 Grand Prix → silver 2005 Grand Prix → silver 2005 Euros → bronze 2006 Grand Prix) suggests sustained top-three competitiveness with one peak result. The mechanism is not described in Wikipedia [unsourced]."
+### wiki/coaches/marco-bonitta.md: Roster-cycle peaking around major championships
+- **Claim:** "The 2001 to 2006 cycle's medal pattern (silver 2001 Euros → gold 2002 Worlds → silver 2004 Grand Prix → silver 2005 Grand Prix → silver 2005 Euros → bronze 2006 Grand Prix) suggests sustained top-three competitiveness with one peak result. The mechanism is not described in Wikipedia [unsourced]."
 - **Why unsourced:** The cycle-peaking inference is editorial pattern-reading on the medal record. Wikipedia does not describe Bonitta's selection, periodization, or peaking process.
 - **Research hypothesis:** Bonitta interview ingest needed (same sources as preceding entry).
 - **Added:** 2026-04-26
 
-### wiki/coaches/marco-bonitta.md — Domestic women's-club dominance translated to NT readiness
-- **Claim:** "The principle inferred — that a club program built to win every weekend transfers more directly to NT performance than a development-emphasis club — is consistent with the Italian-school approach but is not stated by Bonitta in any sourced material here [unsourced]."
+### wiki/coaches/marco-bonitta.md: Domestic women's-club dominance translated to NT readiness
+- **Claim:** "The principle inferred, that a club program built to win every weekend transfers more directly to NT performance than a development-emphasis club, is consistent with the Italian-school approach but is not stated by Bonitta in any sourced material here [unsourced]."
 - **Why unsourced:** Editorial inference on the Bergamo→Italy NT progression. Wikipedia documents the dual records but does not articulate the principle.
-- **Research hypothesis:** Bonitta interview ingest needed (same sources as preceding entries); could also be sourced from an Italian-coaching-academy treatment of the Bergamo 1998–2000 era.
+- **Research hypothesis:** Bonitta interview ingest needed (same sources as preceding entries); could also be sourced from an Italian-coaching-academy treatment of the Bergamo 1998 to 2000 era.
 - **Added:** 2026-04-26
 
-### wiki/coaches/massimo-barbolini.md — Velasco methodology elements retained or adapted
+### wiki/coaches/massimo-barbolini.md: Velasco methodology elements retained or adapted
 - **Claim:** "The specific Velasco-methodology elements Barbolini retained or adapted (tempo offense, defensive systems, training-load periodization) are not described in Wikipedia [unsourced]."
-- **Why unsourced:** Wikipedia (English and Italian) confirms the 1985–1989 Panini Modena vice-coach role but does not describe what specifically Barbolini carried forward into his subsequent four-decade head-coaching career.
-- **Research hypothesis:** Barbolini interview ingest needed. Specifically: Italian volleyball-press features on the 2007–2011 Italy women's NT cycle (Gazzetta dello Sport, La Repubblica); CEV Coach of the Year 2019 acceptance / interview material; reflections Barbolini has given on his Velasco apprenticeship; any clinic recordings from the Sirio Perugia 1997–2007 decade or the four-CEV-Champions-League-titles club tours.
+- **Why unsourced:** Wikipedia (English and Italian) confirms the 1985 to 1989 Panini Modena vice-coach role but does not describe what specifically Barbolini carried forward into his subsequent four-decade head-coaching career.
+- **Research hypothesis:** Barbolini interview ingest needed. Specifically: Italian volleyball-press features on the 2007 to 2011 Italy women's NT cycle (Gazzetta dello Sport, La Repubblica); CEV Coach of the Year 2019 acceptance / interview material; reflections Barbolini has given on his Velasco apprenticeship; any clinic recordings from the Sirio Perugia 1997 to 2007 decade or the four-CEV-Champions-League-titles club tours.
 - **Added:** 2026-04-26
 
-### wiki/coaches/massimo-barbolini.md — Long-tenure club-building principle
-- **Claim:** "The principle inferred — that women's-club program-building requires multi-cycle continuity rather than annual reset — is consistent with the Italian-school approach exemplified by [[giovanni-guidetti]]'s seventeen-plus-season VakıfBank tenure but is not stated by Barbolini in any sourced material here [unsourced]."
+### wiki/coaches/massimo-barbolini.md: Long-tenure club-building principle
+- **Claim:** "The principle inferred, that women's-club program-building requires multi-cycle continuity rather than annual reset, is consistent with the Italian-school approach exemplified by [[giovanni-guidetti]]'s seventeen-plus-season VakıfBank tenure but is not stated by Barbolini in any sourced material here [unsourced]."
 - **Why unsourced:** Editorial inference from the 10-season Sirio Perugia tenure. Wikipedia documents tenure length but does not articulate the principle.
 - **Research hypothesis:** Barbolini interview ingest needed (same sources as preceding entry).
 - **Added:** 2026-04-26
 
-### wiki/coaches/massimo-barbolini.md — Cross-club Champions League replication transferable elements
+### wiki/coaches/massimo-barbolini.md: Cross-club Champions League replication transferable elements
 - **Claim:** "Four Champions League / Champions Cup titles in four different clubs is unusual: most Champions League head coaches associate one title with one program. The pattern suggests Barbolini's methodology is portable rather than roster-bound. The specific transferable elements are not described in Wikipedia [unsourced]."
 - **Why unsourced:** Editorial inference on the cross-club title record. Wikipedia documents the four titles in four different clubs but does not describe the methodology.
 - **Research hypothesis:** Barbolini interview ingest needed (same sources). Could also be sourced from CEV Coach of the Year 2019 commentary or Eckert/Casalmaggiore/Igor Novara club-published season retrospectives.
 - **Added:** 2026-04-26
 
-### wiki/coaches/massimo-barbolini.md — Federation-cycle peaking around European events not Olympics
-- **Claim:** "The 2006–2012 Italy NT cycle's medal pattern — two Euros golds, two World Cup golds, four Grand Prix bronzes, but two consecutive Olympic quarterfinal exits — points to a program built to peak at annual / continental events rather than the four-year Olympic cycle. The mechanism (selection, periodization, peaking) is not described in Wikipedia [unsourced]."
+### wiki/coaches/massimo-barbolini.md: Federation-cycle peaking around European events not Olympics
+- **Claim:** "The 2006 to 2012 Italy NT cycle's medal pattern, two Euros golds, two World Cup golds, four Grand Prix bronzes, but two consecutive Olympic quarterfinal exits, points to a program built to peak at annual / continental events rather than the four-year Olympic cycle. The mechanism (selection, periodization, peaking) is not described in Wikipedia [unsourced]."
 - **Why unsourced:** Editorial inference on the medal-pattern asymmetry between annual events (consistent gold/bronze) and Olympics (two QF exits). Wikipedia documents the results but does not describe the periodization process.
 - **Research hypothesis:** Barbolini interview ingest needed (same sources). The 2008 and 2012 Olympic-cycle post-mortems in Italian volleyball-press would be the highest-yield target.
 - **Added:** 2026-04-26
 
-### wiki/cues/setting-cues.md — Munciana Tempo 1/2/3 left-foot-plant timing language
-- **Claim:** "**'Tempo 1 / Tempo 2 / Tempo 3.'** Introduced 14s. Refined 16s+. The Lingenfelter / Munciana-tradition tempo language [unsourced] tied to the timing of the hitter's left-foot plant relative to the set release: Tempo 1 (quick, ball released near the plant — middles), Tempo 2 (medium, ball released as the hitter is mid-approach — pipes, slides), Tempo 3 (high outside, ball released early enough for a full approach)."
+### wiki/cues/setting-cues.md: Munciana Tempo 1/2/3 left-foot-plant timing language
+- **Claim:** "**'Tempo 1 / Tempo 2 / Tempo 3.'** Introduced 14s. Refined 16s+. The Lingenfelter / Munciana-tradition tempo language [unsourced] tied to the timing of the hitter's left-foot plant relative to the set release: Tempo 1 (quick, ball released near the plant, middles), Tempo 2 (medium, ball released as the hitter is mid-approach, pipes, slides), Tempo 3 (high outside, ball released early enough for a full approach)."
 - **Why unsourced:** The Tempo 1/2/3 language tied to hitter left-foot-plant timing is named in the Manual implementation plan as a Munciana / Lingenfelter convention but does not appear verbatim in the captured `munciana-2022-camp-drills` transcript (transcript covers ball-control, defense, serving, OOS, and 6v6 drills but not a dedicated tempo-naming segment). Tempo language is consistent with general Munciana tactical instruction but the specific 1/2/3-by-left-foot-plant articulation is not captured in this wiki's source corpus.
 - **Research hypothesis:** Munciana setter-development clinic videos or follow-up interviews with Mike Lingenfelter; cross-reference with Stephen Bain (Munciana setter-coach) clinic sessions if available; AOC searches for "Lingenfelter setter tempo" or "Munciana 1 2 3 tempo"; possibly the "Munciana Drills" video library beyond the 2022 camp drills file.
 - **Added:** 2026-04-25
 
-### wiki/cues/hitting-cues.md — Mattox Sight-90 / Elbow-Lead / Lift-and-Whip arm-cue trio
-- **Claim:** "**'Sight-90 / Elbow-Lead / Lift-and-Whip.'** Introduced 13s. Refined 15s+. The Mattox three-cue arm-progression sequence [unsourced — Mattox AOC corpus, attributed to his teaching tradition]."
+### wiki/cues/hitting-cues.md: Mattox Sight-90 / Elbow-Lead / Lift-and-Whip arm-cue trio
+- **Claim:** "**'Sight-90 / Elbow-Lead / Lift-and-Whip.'** Introduced 13s. Refined 15s+. The Mattox three-cue arm-progression sequence [unsourced: Mattox AOC corpus, attributed to his teaching tradition]."
 - **Why unsourced:** The Sight-90 / Elbow-Lead / Lift-and-Whip cue trio is attributed to Tod Mattox's teaching tradition in the Manual implementation plan but is not directly present in the captured `aoc-2022-mattox-serving-warmup` or `aoc-2025-float-serve-3-keys` source pages (those cover serving, not hitting). The cue trio appears to be a known Mattox-tradition arm-mechanics sequence but the specific source citation is not yet in this wiki's corpus.
 - **Research hypothesis:** Mattox AOC arm-mechanics or hitting-instruction videos; The Bishop's School clinic recordings; AOC search for "Mattox hitting arm" or "Mattox attack mechanics"; cross-reference with broader Mattox teaching corpus on AOC Premium (Mattox is a prolific AOC contributor). The trio may also be documented in AVCA Convention recordings or USA High Performance Coach Clinic materials featuring Mattox.
 - **Added:** 2026-04-25
 
-### wiki/practice-plans/college-fall-14-week-macrocycle.md — NCAA 20-hour CARA cap and 8-hour off-season cap
-- **Claim:** "The plan operates inside the NCAA 20-hour weekly cap during the playing season — countable athletically related activities (CARA) include practice, competition, video review, and required strength training, with one mandatory day off per week. Spring/summer carry an 8-hour cap with skill instruction restrictions; current legislation should be verified each year."
+### wiki/practice-plans/college-fall-14-week-macrocycle.md: NCAA 20-hour CARA cap and 8-hour off-season cap
+- **Claim:** "The plan operates inside the NCAA 20-hour weekly cap during the playing season, countable athletically related activities (CARA) include practice, competition, video review, and required strength training, with one mandatory day off per week. Spring/summer carry an 8-hour cap with skill instruction restrictions; current legislation should be verified each year."
 - **Why unsourced:** The general structure of NCAA CARA hour-rules is widely documented but the specific limits and what counts toward them evolve regularly via NCAA legislation; no current-year primary citation has been ingested into this wiki yet.
-- **Research hypothesis:** NCAA Division I Manual current-year edition (Bylaw 17 — Playing and Practice Seasons); NCAA.org coaching education resources; AVCA compliance briefings; conference-specific compliance offices.
+- **Research hypothesis:** NCAA Division I Manual current-year edition (Bylaw 17: Playing and Practice Seasons); NCAA.org coaching education resources; AVCA compliance briefings; conference-specific compliance offices.
 - **Added:** 2026-04-24
 
-### wiki/coaches/eugenio-george.md — Magaly Carvajal "look of death" nickname
+### wiki/coaches/eugenio-george.md: Magaly Carvajal "look of death" nickname
 - **Claim:** Middle blocker Magaly Carvajal (1.90 m, 3.35 m spike reach) earned the nickname "the look of death" at the net.
 - **Why unsourced:** The nickname is documented on the Magaly Carvajal Wikipedia page (fetched 2026-04-24 during research for this profile) but no separate Carvajal source page has been created in this wiki, and the citation key is not yet resolvable. Inline tagged as `[unsourced]` pending source-page creation.
 - **Research hypothesis:** Create `wiki/sources/carvajal-2026-wikipedia-biography.md` with raw fetch from `https://en.wikipedia.org/wiki/Magaly_Carvajal`; resolve citation as `[carvajal-2026-wikipedia-biography]`.
 - **Added:** 2026-04-24
 
-### wiki/coaches/eugenio-george.md — Centralized Cuban federation NT model
-- **Claim:** "George's tenure was the institutionally centralized phase of Cuban women's volleyball — the program operated under a national federation in which the senior team was effectively a fixed-roster training group, players developed inside the same staff cohort across multiple Olympic cycles, and coaching continuity was the operating norm rather than the exception."
+### wiki/coaches/eugenio-george.md: Centralized Cuban federation NT model
+- **Claim:** "George's tenure was the institutionally centralized phase of Cuban women's volleyball, the program operated under a national federation in which the senior team was effectively a fixed-roster training group, players developed inside the same staff cohort across multiple Olympic cycles, and coaching continuity was the operating norm rather than the exception."
 - **Why unsourced:** The structural description of the centralized Cuban federation NT model is editorial inference grounded in the Mireya Luis 1985-1996 continuous-tenure datum and the George-Perdomo 40-year staff partnership; no captured source describes the centralized model as such in those terms.
 - **Research hypothesis:** Cuban Volleyball Federation institutional documents; FIVB or NORCECA institutional analyses of the Cuban federation; comparative academic studies of socialist-bloc national-team development models (USSR/Cuba/Cuba/East Germany pre-1989); IVHF "Cuban Volleyball School" institutional retrospectives.
 - **Added:** 2026-04-24
 
-### wiki/coaches/eugenio-george.md — "Power-and-tempo template" attribution
-- **Claim:** "George's methodology — practice at or above competition intensity, endurance and psychology as primary training axes, build the program around elite-athlete bodies — is what later analyses retroactively called the **power-and-tempo template** for women's volleyball."
+### wiki/coaches/eugenio-george.md, "Power-and-tempo template" attribution
+- **Claim:** "George's methodology, practice at or above competition intensity, endurance and psychology as primary training axes, build the program around elite-athlete bodies, is what later analyses retroactively called the **power-and-tempo template** for women's volleyball."
 - **Why unsourced:** "Power-and-tempo template" is the implementation-plan's framing language for George's contribution; no captured source uses that specific phrase, though the underlying technical framing (high-tempo power offense built around elite jumpers) is consistent with the methodology sources [george-2014-amateursport-tribute] and [luis-2026-wikipedia-biography].
-- **Research hypothesis:** AVCA Convention historical-retrospective sessions on women's-volleyball evolution; FIVB technical-analysis publications from the 2000-2010 period reflecting on the dynasty era; coaching-textbook chapters citing the Cuban women's program as a tactical template (Hebert *Thinking Volleyball* 2013, Kiraly *Championship Volleyball* 1996/1997 — would need re-read for explicit Cuban-template attribution).
+- **Research hypothesis:** AVCA Convention historical-retrospective sessions on women's-volleyball evolution; FIVB technical-analysis publications from the 2000-2010 period reflecting on the dynasty era; coaching-textbook chapters citing the Cuban women's program as a tactical template (Hebert *Thinking Volleyball* 2013, Kiraly *Championship Volleyball* 1996/1997, would need re-read for explicit Cuban-template attribution).
 - **Added:** 2026-04-24
 
-### wiki/coaches/eugenio-george.md — Subsequent generations' lineage tracing
+### wiki/coaches/eugenio-george.md: Subsequent generations' lineage tracing
 - **Claim:** "The template's influence on subsequent women's-volleyball generations (Brazilian women under [[jose-roberto-guimaraes]], Russian women's programs into the 2000s, U.S. women under [[karch-kiraly]] in the 2010s and 2020s) is widely acknowledged but specific lineage tracing is sparse in the English-language sources captured here."
 - **Why unsourced:** Lineage claim is editorial; while it is plausibly defended by the timing of Cuban dominance preceding the cited successor programs, no captured source directly traces methodological transmission from George's program to the cited successors.
 - **Research hypothesis:** Coaching-clinic recordings featuring Guimarães or Kiraly speaking about influences (AOC, AVCA Convention); academic sport-history publications on women's-volleyball methodological transmission; FIVB Coach of the Century 2000 designation citation contents (the FIVB-internal panel motivation for naming George should be retrievable).
 - **Added:** 2026-04-24
 
-### wiki/coaches/eugenio-george.md — Jump-serving early adoption attribution
-- **Claim:** "Cuban women's-NT teams of the 1990s are widely credited with early high-percentage jump-serving adoption in women's volleyball — the team rosters that won 1992 Barcelona and 1996 Atlanta featured players serving with jump-topspin technique that the Soviet, Chinese, and U.S. women's programs of the same era did not match for tournament-level frequency."
+### wiki/coaches/eugenio-george.md: Jump-serving early adoption attribution
+- **Claim:** "Cuban women's-NT teams of the 1990s are widely credited with early high-percentage jump-serving adoption in women's volleyball, the team rosters that won 1992 Barcelona and 1996 Atlanta featured players serving with jump-topspin technique that the Soviet, Chinese, and U.S. women's programs of the same era did not match for tournament-level frequency."
 - **Why unsourced:** The technical-system attribution is in the implementation-plan and is consistent with general historical understanding of women's-volleyball serving evolution, but the captured sources for this profile (Wikipedia bios, IVHF entry, 2014 obituary content) do not contain serving-technique-specific data on the dynasty rosters.
 - **Research hypothesis:** Match film of 1992 Barcelona / 1996 Atlanta gold-medal matches (FIVB archive); Cuban-federation technical reports; Mireya Luis or Magaly Carvajal interviews on serving development; Guimarães Brazilian-program retrospectives on Cuban serving as a study target.
 - **Added:** 2026-04-24
 
-### wiki/coaches/eugenio-george.md — NORCECA Cristóbal Marte tribute quote citation
+### wiki/coaches/eugenio-george.md: NORCECA Cristóbal Marte tribute quote citation
 - **Claim:** Quote attributed to NORCECA president (Cristóbal Marte): "Eugenio George Laffita has been a friend, advisor, and a benchmark for the volleyball world and especially for our America."
 - **Why unsourced:** Quote was reached via web-search-result excerpt from volleywood.net during research (Volleywood obituary post 2014). Direct fetch of the Volleywood URL succeeded but did not preserve the quote on the rendered page; the search-engine snippet is the only retrieved location. Until the source page is created, the citation is unresolvable.
 - **Research hypothesis:** Re-fetch `https://www.volleywood.net/volleyball-features/rip-volleyball-features/rip-coach-eugenio-george/` directly; archive.org snapshot of the same URL from 2014; create source page `volleywood-2014-george-tribute.md` and resolve citation.
 - **Added:** 2026-04-24
 
-### wiki/coaches/antonio-perdomo.md — Plan-anchor disambiguation flag
+### wiki/coaches/antonio-perdomo.md: Plan-anchor disambiguation flag
 - **Claim:** The implementation plan's anchor of "1976 Montreal Olympic men's bronze era" for Antonio Perdomo is incorrect; Perdomo's documented career is with the Cuban women's NT (assistant alongside George 1966 men's then 1973 women's onward; head coach women's NT 1998-2007; head coach 2008 Beijing). The 1976 men's bronze head coach is unidentified in the English-language sources captured during this research pass.
-- **Why unsourced:** Not a wiki claim per se — a plan/spec correction. Track-A plan task A.18 (line 437-438 of `docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`) and the [[cuban-school]] page (Task A.5, line 173 of the same plan) both reference Perdomo as men's-NT head coach in the 1976 Montreal context. Research establishes that this anchor is incorrect.
-- **Research hypothesis:** Update the plan file `docs/superpowers/plans/2026-04-25-tracks-a-b-c.md` Task A.5 (line 173 — Perdomo associated-coach reference for cuban-school) and Task A.18 (line 437-438 — career anchor) to reflect the documented Cuban-women's-NT career arc. Separately, identify the 1976 Cuban men's NT head coach by hunting Cuban federation institutional records, Cuban-language sport-history books, or 1976 Montreal Olympics official program/roster documents (which sometimes list staff as well as players).
+- **Why unsourced:** Not a wiki claim per se, a plan/spec correction. Track-A plan task A.18 (line 437-438 of `docs/superpowers/plans/2026-04-25-tracks-a-b-c.md`) and the [[cuban-school]] page (Task A.5, line 173 of the same plan) both reference Perdomo as men's-NT head coach in the 1976 Montreal context. Research establishes that this anchor is incorrect.
+- **Research hypothesis:** Update the plan file `docs/superpowers/plans/2026-04-25-tracks-a-b-c.md` Task A.5 (line 173: Perdomo associated-coach reference for cuban-school) and Task A.18 (line 437-438, career anchor) to reflect the documented Cuban-women's-NT career arc. Separately, identify the 1976 Cuban men's NT head coach by hunting Cuban federation institutional records, Cuban-language sport-history books, or 1976 Montreal Olympics official program/roster documents (which sometimes list staff as well as players).
 - **Added:** 2026-04-24
 
-### wiki/coaches/antonio-perdomo.md — Tournament-specific head-coach designation pattern
+### wiki/coaches/antonio-perdomo.md: Tournament-specific head-coach designation pattern
 - **Claim:** "The 1998-2007 head-coach period that overlaps with Calderón's 2000-2006 head-coach period suggests Perdomo's actual head-coach role was tournament-specific rather than continuous-cycle."
 - **Why unsourced:** The Wikipedia coach-succession listing for the Cuban women's NT acknowledges the overlap without explaining it; the captured sources do not document the Cuban federation's actual head-coach-designation policy during this period.
 - **Research hypothesis:** Cuban Volleyball Federation institutional records; Spanish-language interviews with Calderón or Perdomo about the dynasty's late-1990s and early-2000s head-coach assignments; FIVB tournament press materials from 1998 Worlds / 1999 World Cup / 2000 Sydney Olympics that should list head-coach attribution per tournament.
 - **Added:** 2026-04-24
 
-### wiki/coaches/antonio-perdomo.md — Centralized model framing
-- **Claim:** "The model — head coach plus a continuity-anchor co-leader — is the staff-side expression of the centralized Cuban federation's preference for institutional stability over personnel turnover, and it is the structural inverse of the U.S. and modern European model where assistant-coach turnover per Olympic cycle is the norm."
+### wiki/coaches/antonio-perdomo.md: Centralized model framing
+- **Claim:** "The model, head coach plus a continuity-anchor co-leader, is the staff-side expression of the centralized Cuban federation's preference for institutional stability over personnel turnover, and it is the structural inverse of the U.S. and modern European model where assistant-coach turnover per Olympic cycle is the norm."
 - **Why unsourced:** Editorial framing of the model architecture; no captured source describes the U.S. / European assistant-coach turnover norm in this comparative form, even though the underlying claim about U.S./European assistant-coach turnover is widely understood.
 - **Research hypothesis:** USA Volleyball staffing records 1992-2024 (assistant-coach turnover per Olympic cycle); CEV staffing comparisons; comparative analyses of centralized vs. federated NT staffing models (sport-management literature).
 - **Added:** 2026-04-24
@@ -204,7 +204,7 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-24
 
 ### wiki/schools/polish-school.md
-- **Claim:** Polish defense relies on a deep-perimeter base — the libero deep, outsides forward, opposite covering deep-cross — designed to keep blocking-touch deflections in play and convert them to transition counterattacks.
+- **Claim:** Polish defense relies on a deep-perimeter base, the libero deep, outsides forward, opposite covering deep-cross, designed to keep blocking-touch deflections in play and convert them to transition counterattacks.
 - **Why unsourced:** No schematic-level defensive-system source ingested for the Polish program; defensive identity inferred from the program's serving-and-blocking pressure profile.
 - **Research hypothesis:** PZPS coaching-clinic transcripts; Heynen/Grbić technical interviews; FIVB or CEV technical analyses of Polish defensive rotations 2014-2024.
 - **Added:** 2026-04-24
@@ -240,7 +240,7 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-25
 
 ### wiki/coaches/zoran-terzic.md
-- **Claim:** Direct doctrine quotes from Terzić — verbatim teaching philosophy, defensive-discipline framing, libero-driven defense rationale.
+- **Claim:** Direct doctrine quotes from Terzić, verbatim teaching philosophy, defensive-discipline framing, libero-driven defense rationale.
 - **Why unsourced:** terzic-2026-wikipedia and serbia-women-nt-2026-wikipedia are biographical/results-oriented; no first-person doctrine quotes preserved.
 - **Research hypothesis:** Serbian-language interview ingest (Politika, B92, Sportski Žurnal); FIVB/CEV technical-session recordings; OSS-Serbia federation publications; post-match press-conference transcripts from 2018 World Championship and 2016 Rio Olympic runs.
 - **Added:** 2026-04-25
@@ -300,7 +300,7 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-25
 
 ### wiki/coaches/slobodan-kovac.md
-- **Claim:** Direct doctrine quotes from Kovač — verbatim teaching philosophy, OH-perspective tactical voice rationale.
+- **Claim:** Direct doctrine quotes from Kovač, verbatim teaching philosophy, OH-perspective tactical voice rationale.
 - **Why unsourced:** kovac-2026-wikipedia is biographical; no first-person doctrine quotes preserved.
 - **Research hypothesis:** Serbian-language interview ingest; CEV/FIVB technical-session recordings featuring Kovač; post-2019-Euros press-conference transcripts.
 - **Added:** 2026-04-25
@@ -308,13 +308,13 @@ this list. Research passes hunt down primary sources and clear entries.
 ### wiki/coaches/stephane-antiga.md
 - **Claim:** "The specific drill design and systemic emphasis details are not documented in the source" (regarding outside-hitter serve-receive priority as a coaching emphasis under Antiga).
 - **Why unsourced:** Wikipedia source preserves results but not methodology.
-- **Research hypothesis:** Polish-language press archives during 2013–2016 covering the Polish-NT tenure; CEV / VolleyballWorld feature interviews from the 2014 Worlds cycle; AVCA / Volleyball Coaches Convention recordings featuring Antiga.
+- **Research hypothesis:** Polish-language press archives during 2013 to 2016 covering the Polish-NT tenure; CEV / VolleyballWorld feature interviews from the 2014 Worlds cycle; AVCA / Volleyball Coaches Convention recordings featuring Antiga.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/stephane-antiga.md
 - **Claim:** Direct first-person Antiga quotes are absent; quote section is structural-summary rather than verbatim.
 - **Why unsourced:** Wikipedia article does not preserve direct-quote tactical-philosophy material.
-- **Research hypothesis:** CEV / FIVB / VolleyballWorld feature interviews from the 2014–2016 Polish-NT cycle; Polish-language press archives during the 2014 Worlds run; AVCA / Volleyball Coaches Convention recordings; potential French-language federation-press archives from his 1998-2010 captain era.
+- **Research hypothesis:** CEV / FIVB / VolleyballWorld feature interviews from the 2014 to 2016 Polish-NT cycle; Polish-language press archives during the 2014 Worlds run; AVCA / Volleyball Coaches Convention recordings; potential French-language federation-press archives from his 1998-2010 captain era.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/stephane-antiga.md
@@ -326,13 +326,13 @@ this list. Research passes hunt down primary sources and clear entries.
 ### wiki/coaches/nikola-grbic.md
 - **Claim:** "Setter-perspective coaching emphasis on tempo control, set-distribution intelligence, and middle-attack frequency is a structural inference from his playing pedigree; specific tactical-installation details (which tempos, which set-patterns, which middle-attack-frequency targets) are not documented in available English-language sources."
 - **Why unsourced:** Wikipedia article documents results without methodology detail.
-- **Research hypothesis:** CEV / FIVB / VolleyballWorld feature interviews from the 2022–2025 Polish-NT cycle; Polish-language press coverage during the 2024 Paris run; PZPS federation publications; AVCA / Volleyball Coaches Convention recordings featuring Grbić; potential Italian-language interviews from his 2014–2015 Perugia tenure or 2016–2019 Verona role.
+- **Research hypothesis:** CEV / FIVB / VolleyballWorld feature interviews from the 2022 to 2025 Polish-NT cycle; Polish-language press coverage during the 2024 Paris run; PZPS federation publications; AVCA / Volleyball Coaches Convention recordings featuring Grbić; potential Italian-language interviews from his 2014 to 2015 Perugia tenure or 2016 to 2019 Verona role.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/nikola-grbic.md
-- **Claim:** "The structural characterization of the Polish offense under Grbić as 'tempo-pressure' is a synthesis based on the 2020–21 ZAKSA Champions League win plus the 2022–2025 Polish-NT results [unsourced as a direct quote-attested doctrine]."
+- **Claim:** "The structural characterization of the Polish offense under Grbić as 'tempo-pressure' is a synthesis based on the 2020 to 21 ZAKSA Champions League win plus the 2022 to 2025 Polish-NT results [unsourced as a direct quote-attested doctrine]."
 - **Why unsourced:** Editorial synthesis; not a doctrine attested verbatim in available sources.
-- **Research hypothesis:** Same as above plus comparative tactical analysis of ZAKSA 2020–21 Champions League run versus Polish-NT 2022–2025 offensive patterns; Polish federation technical briefings.
+- **Research hypothesis:** Same as above plus comparative tactical analysis of ZAKSA 2020 to 21 Champions League run versus Polish-NT 2022 to 2025 offensive patterns; Polish federation technical briefings.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/nikola-grbic.md
@@ -378,7 +378,7 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-25
 
 ### wiki/coaches/igor-kolakovic.md
-- **Claim:** Direct doctrine quotes from Kolaković — verbatim teaching philosophy and setter-perspective tactical voice rationale.
+- **Claim:** Direct doctrine quotes from Kolaković, verbatim teaching philosophy and setter-perspective tactical voice rationale.
 - **Why unsourced:** kolakovic-2026-wikipedia is biographical; no first-person doctrine quotes preserved.
 - **Research hypothesis:** Serbian-language and Iranian-Federation interview ingest; CEV/FIVB technical-session recordings; post-2011-Euros and post-2019-Asian-Championship press conferences.
 - **Added:** 2026-04-25
@@ -396,37 +396,37 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/vital-heynen.md
-- **Claim:** "The structural pattern — running a top-tier club and a top-tier national team in the same calendar window — is rare in modern men's volleyball and demands either an unusual delegation system or a tactical-installation method that travels well between rosters; details on how Heynen operationally split the two roles require interview / federation-press ingest."
+- **Claim:** "The structural pattern, running a top-tier club and a top-tier national team in the same calendar window, is rare in modern men's volleyball and demands either an unusual delegation system or a tactical-installation method that travels well between rosters; details on how Heynen operationally split the two roles require interview / federation-press ingest."
 - **Why unsourced:** Concurrent club + NT operations 2019-2021 documented but not the operational mechanics.
 - **Research hypothesis:** Italian / Polish press from the 2019-21 SuperLega + NT period; CEV feature interviews on dual-role coaching; PZPS federation announcements regarding the dual-tenure arrangement.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/vital-heynen.md
-- **Claim:** "Quote material — including any attestation of his much-cited blocking-and-serving frame, his motivational style, his jump-serve insistence, or his second-ball offensive design as a former setter — requires ingest of CEV / FIVB / VolleyballWorld feature interviews and his AVCA / VCC clinic recordings."
+- **Claim:** "Quote material, including any attestation of his much-cited blocking-and-serving frame, his motivational style, his jump-serve insistence, or his second-ball offensive design as a former setter, requires ingest of CEV / FIVB / VolleyballWorld feature interviews and his AVCA / VCC clinic recordings."
 - **Why unsourced:** Wikipedia source preserves no direct quotes.
-- **Research hypothesis:** As above — feature interviews, clinic recordings, post-tournament press conferences from the 2018 Worlds and 2019-2021 cycles.
+- **Research hypothesis:** As above, feature interviews, clinic recordings, post-tournament press conferences from the 2018 Worlds and 2019-2021 cycles.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/andrea-anastasi.md
-- **Claim:** "The decade of Polish-league head coaching has under-noticed importance for Polish-school continuity: Anastasi's club-coaching tenure overlaps the Antiga, Heynen, and early Grbić national-team eras and likely fed — though available sources do not document it directly — Italian-methodology continuity into Polish-club operations."
+- **Claim:** "The decade of Polish-league head coaching has under-noticed importance for Polish-school continuity: Anastasi's club-coaching tenure overlaps the Antiga, Heynen, and early Grbić national-team eras and likely fed, though available sources do not document it directly: Italian-methodology continuity into Polish-club operations."
 - **Why unsourced:** Editorial inference about methodological continuity through Polish-club coaching across Antiga/Heynen/Grbić national-team era; not directly attested in the Wikipedia source.
-- **Research hypothesis:** Polish-language press archives during 2014–2022 covering Trefl Gdańsk and Projekt Warsaw club-coaching tenures; CEV / Volleyball World feature articles on Polish-league coaching ecosystems; interviews with Anastasi's player-cohort across the 2010s Polish league.
+- **Research hypothesis:** Polish-language press archives during 2014 to 2022 covering Trefl Gdańsk and Projekt Warsaw club-coaching tenures; CEV / Volleyball World feature articles on Polish-league coaching ecosystems; interviews with Anastasi's player-cohort across the 2010s Polish league.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/andrea-anastasi.md
-- **Claim:** "The specific tactical details — what specifically Anastasi installed in Poland to lift it from 11th to a three-medal year — are not documented in available English-language sources."
+- **Claim:** "The specific tactical details, what specifically Anastasi installed in Poland to lift it from 11th to a three-medal year, are not documented in available English-language sources."
 - **Why unsourced:** Wikipedia article documents results without methodology detail.
-- **Research hypothesis:** Polish-language federation history (PZPS press archives 2011–2013); Italian / Polish coaching-clinic recordings featuring Anastasi; CEV feature interviews from his European-Championship-medal years; potentially [translation-needed] Polish-language books on the 2011–2014 Polish men's-NT renaissance.
+- **Research hypothesis:** Polish-language federation history (PZPS press archives 2011 to 2013); Italian / Polish coaching-clinic recordings featuring Anastasi; CEV feature interviews from his European-Championship-medal years; potentially [translation-needed] Polish-language books on the 2011 to 2014 Polish men's-NT renaissance.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/andrea-anastasi.md
 - **Claim:** Direct first-person Anastasi quotes are absent; quote section is structural-summary rather than verbatim.
 - **Why unsourced:** Wikipedia article does not preserve direct-quote tactical-philosophy material.
-- **Research hypothesis:** CEV / FIVB feature interviews; Polish-language press 2011–2013; Italian-language coaching-clinic transcripts from his Italy NT cycles; potential FIVB Hall of Fame / Italian volleyball federation coach-of-the-year recognition speeches.
+- **Research hypothesis:** CEV / FIVB feature interviews; Polish-language press 2011 to 2013; Italian-language coaching-clinic transcripts from his Italy NT cycles; potential FIVB Hall of Fame / Italian volleyball federation coach-of-the-year recognition speeches.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/mark-barnard.md
-- **Claim:** Specific season-by-season results of Mark Barnard's Oregon State tenure (2005-2022) — Pac-12 finish history, NCAA Tournament appearances, program win-loss record.
+- **Claim:** Specific season-by-season results of Mark Barnard's Oregon State tenure (2005-2022): Pac-12 finish history, NCAA Tournament appearances, program win-loss record.
 - **Why unsourced:** AOC bylines confirm the "Oregon State 2005-2022" dateline but do not enumerate season-level results; no Oregon State media guide is ingested.
 - **Research hypothesis:** Oregon State athletics media guides (archived); Pac-12 / AVCA historical standings; Oregon State women's volleyball Wikipedia or program-history page.
 - **Added:** 2026-04-24
@@ -438,20 +438,20 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/mike-lingenfelter.md
-- **Claim:** "Additional career details — years at Munciana, prior coaching roles, playing career, head-coaching assignments at specific Munciana age-group teams — are not documented in the sources on file here."
+- **Claim:** "Additional career details, years at Munciana, prior coaching roles, playing career, head-coaching assignments at specific Munciana age-group teams, are not documented in the sources on file here."
 - **Why unsourced:** The 5 AOC source pages on file focus on coaching content (tempo, passing, warmup, club-wide alignment) rather than biographical detail; they do not state when Lingenfelter joined Munciana, whether he came up as a Munciana player, or which Munciana team(s) he currently heads.
 - **Research hypothesis:** Munciana Volleyball Club website staff/coach-bio page; AVCA member directory; JVA club-coach listings; longer-form AOC bio page at theartofcoachingvolleyball.com/profile-mike-lingenfelter/; Muncie Star Press / Ball State local coverage.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/mike-lingenfelter.md
 - **Claim:** "The specific Munciana position on [pay-to-practice vs. pay-to-play] is not spelled out in the source on file here."
-- **Why unsourced:** The aoc-2025-cc-skill-training-clubwide source page lists pay-to-practice vs. pay-to-play as a topic addressed in the live session, but the raw article on file is the session landing-page promo (does not contain the session's actual Q&A content — that would require either the AOC paywalled session video or the linked downloadable notes PDF).
+- **Why unsourced:** The aoc-2025-cc-skill-training-clubwide source page lists pay-to-practice vs. pay-to-play as a topic addressed in the live session, but the raw article on file is the session landing-page promo (does not contain the session's actual Q&A content, that would require either the AOC paywalled session video or the linked downloadable notes PDF).
 - **Research hypothesis:** Re-ingest aoc-2025-cc-skill-training-clubwide via the linked notes PDF (https://www.theartofcoachingvolleyball.com/wp-content/uploads/2025/09/AOC-JVA-Coach-Connection-Live-9-25-52-Notes.pdf) or by pulling the session video transcript; alternatively, direct JVA articles on club economics.
 - **Added:** 2026-04-24
 
-### wiki/coaches/mike-lingenfelter.md — plan-source name correction
+### wiki/coaches/mike-lingenfelter.md, plan-source name correction
 - **Claim:** The Tracks 1+2 plan and design spec refer to this coach as "John Lingenfelter." All five ingested AOC sources and AOC's own coach-profile URL identify him as Mike Lingenfelter (co-director alongside Alyssa Lingenfelter).
-- **Why unsourced:** Not a wiki claim per se — a plan/spec naming error. Task 1.14 target file was renamed from `john-lingenfelter.md` to `mike-lingenfelter.md` to match sources; tracked here so the plan/spec can be corrected in a subsequent edit pass.
+- **Why unsourced:** Not a wiki claim per se, a plan/spec naming error. Task 1.14 target file was renamed from `john-lingenfelter.md` to `mike-lingenfelter.md` to match sources; tracked here so the plan/spec can be corrected in a subsequent edit pass.
 - **Research hypothesis:** Update `docs/superpowers/plans/2026-04-24-wiki-improvement-tracks-1-2.md` §Task 1.14 (lines 805, 807, 810, 814-815, 1255, 1659) and `docs/superpowers/specs/2026-04-24-wiki-improvement-tracks-1-2-design.md` line 219 to "Mike Lingenfelter." Verified against AOC profile URL (https://www.theartofcoachingvolleyball.com/profile-mike-lingenfelter/).
 - **Added:** 2026-04-24
 
@@ -476,18 +476,18 @@ this list. Research passes hunt down primary sources and clear entries.
 ### wiki/coaches/mary-wise.md
 - **Claim:** Measuring success by player impact as a cultural contribution to the profession.
 - **Why unsourced:** Values claim, not a documented profession-wide influence claim.
-- **Research hypothesis:** Wise interviews; AVCA induction speech / lifetime-achievement materials. Note (2026-04-24): the assistant-tree placement queue entry was resolved via Task 2.18 — Ryan Theis substantiated through [[florida-volleyball-wikipedia]]; a fuller tree inventory remains open.
+- **Research hypothesis:** Wise interviews; AVCA induction speech / lifetime-achievement materials. Note (2026-04-24): the assistant-tree placement queue entry was resolved via Task 2.18: Ryan Theis substantiated through [[florida-volleyball-wikipedia]]; a fuller tree inventory remains open.
 - **Added:** 2026-04-23
 
 ### wiki/coaches/karch-kiraly.md
 - **Claim:** [[gold-medal-squared]] wikilink points to a page that doesn't exist yet (GMS vs AOC reading/platform contrast).
 - **Why unsourced:** Dangling wikilink during bootstrap.
-- **Research hypothesis:** Wave 2.4 will create wiki/schools/gold-medal-squared.md — this is a known forward reference, not a missing source.
+- **Research hypothesis:** Wave 2.4 will create wiki/schools/gold-medal-squared.md, this is a known forward reference, not a missing source.
 - **Added:** 2026-04-23
 
 ### wiki/coaches/hugh-mccutcheon.md
 - **Claim:** Dangling wikilinks to [[laurie-eisler]], [[minnesota-volleyball]], [[mike-hebert]], [[carl-mcgown]], [[byu]], [[todd-dagenais]].
-- **Why unsourced:** Forward refs during bootstrap — will resolve as Wave 2 writes more pages.
+- **Why unsourced:** Forward refs during bootstrap, will resolve as Wave 2 writes more pages.
 - **Research hypothesis:** Covered by later W2.2 (Hebert, McGown), W2.3 (international) if applicable, and stub pages for Eisler/Dagenais/Minnesota-volleyball when those entities get profiles or stubs. RESOLVED for carl-mcgown (page exists) and todd-dagenais (page added 2026-04-24). Remaining: laurie-eisler, minnesota-volleyball, mike-hebert, byu.
 - **Added:** 2026-04-23
 
@@ -509,51 +509,51 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Research hypothesis:** AOC subscription access to the full iY-generation video; UCF assistant-coach or player interviews on practice-level academic support; coaching-profession profiles of mid-major program-building (Volleyball Mag, AVCA features on non-P5 success cases).
 - **Added:** 2026-04-24
 
-### wiki/coaches/daimatsu-hirobumi.md — RESOLVED 2026-04-24
+### wiki/coaches/daimatsu-hirobumi.md: RESOLVED 2026-04-24
 - **Claim:** Daimatsu was hired by Nichibo Kaizuka in 1953 (some sources give 1954).
 - **Resolution:** Two-stage institutional chronology via Wikipedia on Oriental Witches: Dai Nippon Spinning Co., Ltd. approved the team on November 27, 1953 (when Daimatsu was hired per daimatsu-wikipedia-biography); team officially stood up at the Kaizuka factory on March 15, 1954. Both dates are true at different granularities. Coach page body now resolves the ambiguity explicitly. Sources added: [[daimatsu-wikipedia-biography]], [[witches-of-orient-wikipedia]].
 
-### wiki/coaches/daimatsu-hirobumi.md — RESOLVED 2026-04-24
+### wiki/coaches/daimatsu-hirobumi.md: RESOLVED 2026-04-24
 - **Claim:** The 1964 women's Olympic final drew an enormous Japanese television audience widely cited in period coverage.
-- **Resolution:** Olympics.com editorial (citing NHK) documents the final at a **66.8% average television rating** with peak ratings **above 80%** during the match — the most-watched sporting event in Japanese television history. 66.8% figure independently corroborated at theolympians.co (Tomizawa, 2019). Coach page and japanese-training school page both updated with the specific figures. Source added: [[tokyo-1964-women-volleyball-japan-gold-olympics]].
+- **Resolution:** Olympics.com editorial (citing NHK) documents the final at a **66.8% average television rating** with peak ratings **above 80%** during the match, the most-watched sporting event in Japanese television history. 66.8% figure independently corroborated at theolympians.co (Tomizawa, 2019). Coach page and japanese-training school page both updated with the specific figures. Source added: [[tokyo-1964-women-volleyball-japan-gold-olympics]].
 
 ### wiki/coaches/bernardinho.md
-- **Claim:** 2017–2020 Brazil women's NT second stint.
-- **Why unsourced:** Research brief for this cluster mentioned a 2017–2020 women's NT second stint; the Wikipedia biography as fetched does not document it — it documents a 2021–2022 France men's stint and a 2023-present return to Brazil men's. Treated as [unverified] on the page. (Task 2.19 pass confirmed no corroboration in IVHF Class of 2022 bio, FIVB 2021 announcement, Guimarães Wikipedia, Dal Zotto Wikipedia, or Bebeto Wikipedia. Dal Zotto occupied the men's HC role 2017–2023 per FIVB; no women's-NT second stint is documented in any Tier-1/2/3 source on file.)
-- **Research hypothesis:** CBV (Confederação Brasileira de Voleibol) coach-roster archive; FIVB Brazil women's NT press history 2017–2020; Brazilian-volleyball journalism archives. Most likely resolution is that the brief's "2017–2020 women's second stint" is a confusion with Dal Zotto's 2017-on Brazil *men's* NT tenure; leaving [unverified] on the page is correct.
+- **Claim:** 2017 to 2020 Brazil women's NT second stint.
+- **Why unsourced:** Research brief for this cluster mentioned a 2017 to 2020 women's NT second stint; the Wikipedia biography as fetched does not document it, it documents a 2021 to 2022 France men's stint and a 2023-present return to Brazil men's. Treated as [unverified] on the page. (Task 2.19 pass confirmed no corroboration in IVHF Class of 2022 bio, FIVB 2021 announcement, Guimarães Wikipedia, Dal Zotto Wikipedia, or Bebeto Wikipedia. Dal Zotto occupied the men's HC role 2017 to 2023 per FIVB; no women's-NT second stint is documented in any Tier-1/2/3 source on file.)
+- **Research hypothesis:** CBV (Confederação Brasileira de Voleibol) coach-roster archive; FIVB Brazil women's NT press history 2017 to 2020; Brazilian-volleyball journalism archives. Most likely resolution is that the brief's "2017 to 2020 women's second stint" is a confusion with Dal Zotto's 2017-on Brazil *men's* NT tenure; leaving [unverified] on the page is correct.
 - **Added:** 2026-04-23 (re-checked 2026-04-24, still unresolved)
 
 ### wiki/schools/usa-volleyball.md
 - **Claim:** "USAV's curricular center of gravity historically tracks the indoor women's collegiate game, with proportionally less coverage of beach, boys' and men's programs … and masters / adult-recreational play."
-- **Why unsourced:** Inferred from the catalog of reviewed USAV pages (heavy women's-NT/Kessel-youth/college focus); a quantitative content-audit would source it cleanly. Task 2.24 research pass (2026-04-24) searched CoachingVB.com, AOC, and GMS for coverage-slant critique and found none — the claim is plausible and widely-felt among coaches but not substantiated in any Tier 1/2 source on file.
-- **Research hypothesis:** Content audit of full Coach Academy module list; comparison of USAV beach- vs. indoor-resource volume; First Point Volleyball founding rationale (Speraw) as corroborating evidence. USAV's NTDP Academy launch materials (usavolleyball.org/story/usav-launches-ntdp-academy/) describe "financial support for under-represented populations including boys' youth/college men" — an institutional acknowledgment of the imbalance; could be used in combination with a content-audit to source the claim.
+- **Why unsourced:** Inferred from the catalog of reviewed USAV pages (heavy women's-NT/Kessel-youth/college focus); a quantitative content-audit would source it cleanly. Task 2.24 research pass (2026-04-24) searched CoachingVB.com, AOC, and GMS for coverage-slant critique and found none, the claim is plausible and widely-felt among coaches but not substantiated in any Tier 1/2 source on file.
+- **Research hypothesis:** Content audit of full Coach Academy module list; comparison of USAV beach- vs. indoor-resource volume; First Point Volleyball founding rationale (Speraw) as corroborating evidence. USAV's NTDP Academy launch materials (usavolleyball.org/story/usav-launches-ntdp-academy/) describe "financial support for under-represented populations including boys' youth/college men", an institutional acknowledgment of the imbalance; could be used in combination with a content-audit to source the claim.
 - **Added:** 2026-04-23
 
 ### wiki/schools/usa-volleyball.md
 - **Claim:** "Coaches in less-served regions have had narrower access to high-quality clinic content than the curriculum nominally promises."
 - **Why unsourced:** Reasonable inference about volunteer-network density variance; not directly stated in reviewed USAV materials (which describe the National Faculty / Regional Instructor structure without auditing access equity). Task 2.24 research (2026-04-24) reviewed Forman's coachingvb.com continuing-education post and the ERIC comparative-systems paper (EJ1197258); Forman's "disparate set of educational offerings and requirements" frame is cross-national, not USAV-regional-within-U.S., so it does not directly support the claim.
-- **Research hypothesis:** Region-by-region clinic frequency data from USAV; coach surveys; Million Coaches Challenge regional uptake reports. Forman's Talent Zone regional-training-hub concept for Volleyball England implicitly acknowledges the regional-access problem — his writings on that model (coachingvb.com, Volleyball Coaching Wizards) could yield a directly-citable framing if extended to USAV-regional commentary.
+- **Research hypothesis:** Region-by-region clinic frequency data from USAV; coach surveys; Million Coaches Challenge regional uptake reports. Forman's Talent Zone regional-training-hub concept for Volleyball England implicitly acknowledges the regional-access problem, his writings on that model (coachingvb.com, Volleyball Coaching Wizards) could yield a directly-citable framing if extended to USAV-regional commentary.
 - **Added:** 2026-04-23
 
-### wiki/schools/brazilian-school.md — residual tactical-diagram gaps (Task 2.19 aftermath)
-- **Claim:** Specific tactical-system diagrams — fastball timing geometry at middle, 1-foot slide mechanics, pipe-integration timing, aggressive jump-float/topspin serve zone-targeting — for Bernardinho and Guimarães-era Brazil NT offense.
+### wiki/schools/brazilian-school.md, residual tactical-diagram gaps (Task 2.19 aftermath)
+- **Claim:** Specific tactical-system diagrams, fastball timing geometry at middle, 1-foot slide mechanics, pipe-integration timing, aggressive jump-float/topspin serve zone-targeting, for Bernardinho and Guimarães-era Brazil NT offense.
 - **Why unsourced:** Bernardinho's *Transformando Suor em Ouro* articulates methodology at the principle level (preparation, discipline, pressure management, team culture) but not at the tactical-diagram level. Task 2.19 ingest (April 2026) resolved the principle-level cluster but left on-court-system specifics [unsourced].
 - **Research hypothesis:** CBV coaching-clinic transcripts; FIVB technical-analysis documents; VolleyballMag or Volleyball World long-form tactical breakdowns of the 2004/2016 Olympic final tape; Bruno Rezende interview material about setter decision trees.
 - **Added:** 2026-04-23 (reframed 2026-04-24 post-Task-2.19)
 
-### wiki/schools/brazilian-school.md — residual gender-disparity editorial
-- **Claim:** Gender-disparity — media investment, sponsorship, and program visibility in Brazil tilt toward the men's team despite comparable or better women's results (back-to-back Olympic gold 2008/2012, 12 Grand Prix titles).
+### wiki/schools/brazilian-school.md, residual gender-disparity editorial
+- **Claim:** Gender-disparity, media investment, sponsorship, and program visibility in Brazil tilt toward the men's team despite comparable or better women's results (back-to-back Olympic gold 2008/2012, 12 Grand Prix titles).
 - **Why unsourced:** Task 2.19 pass (April 2026) added the 2015 Brazilian Ministry of Sport ranking via [theworld-2021-brazil-volleyball-nation], grounding the "volleyball is Brazil's second sport" claim and the household-name phenomenon. But **quantitative men's-vs-women's investment-disparity data for Brazilian NT volleyball specifically is not in any ingested source.** General-sport gender-disparity findings (15% of global coverage is women's; 0.4% of sponsorship) exist in secondary literature (World Economic Forum 2025; UN Women) but are not volleyball-specific or Brazil-specific. The comparative-investment claim remains editorial.
 - **Research hypothesis:** CBV annual reports for men's-vs-women's sponsorship data; Brazilian women's-sport investment research (Pesquisa Sport Marketing surveys); Folha de S.Paulo / Piauí features on women's-NT under-investment; FIVB gender-equity-in-broadcasting studies.
 - **Added:** 2026-04-23 (partially-grounded 2026-04-24)
 
-### wiki/schools/brazilian-school.md — residual hierarchical-culture critique
+### wiki/schools/brazilian-school.md, residual hierarchical-culture critique
 - **Claim:** Hierarchical federation-coaching culture has been critiqued in Brazilian sport media.
 - **Why unsourced:** Widely raised in Brazilian sport journalism but not substantiated in the ingested sources. Task 2.19 (April 2026) did not surface a named Brazilian-journalism critique piece.
 - **Research hypothesis:** Brazilian long-form journalism features (Piauí, Folha de S.Paulo sport retrospectives); post-2016 Rio and post-2020 Tokyo critique pieces on the Bernardinho legacy and CBV hierarchy; a Portuguese-language search rather than English-language.
 - **Added:** 2026-04-23 (unchanged 2026-04-24)
 
-### wiki/schools/brazilian-school.md — residual hypermedia-pressure editorial
+### wiki/schools/brazilian-school.md, residual hypermedia-pressure editorial
 - **Claim:** Brazilian NT volleyball's high public profile places substantial media-and-national-identity pressure on athletes, particularly at home-soil Olympic appearances (Rio 2016).
 - **Why unsourced:** Psychological-load claim. Task 2.19 ingest (April 2026) added [theworld-2021-brazil-volleyball-nation] for the baseline media-visibility framing, but the athlete-pressure-as-psychological-load framing is not directly captured in the sources on file.
 - **Research hypothesis:** Bernardinho's reflective writing (including later books beyond *Transformando Suor em Ouro*); Bruno Rezende interview material on home-soil pressure; sport-psychology literature on Olympic home-advantage vs. pressure tradeoffs; Brazilian journalism features on Rio 2016 athlete perspectives.
@@ -572,15 +572,15 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/brandon-rosenthal.md
-- **Claim:** Rosenthal's broader coaching biography — playing background, collegiate pathway, staff lineage, hiring dates at Lipscomb.
+- **Claim:** Rosenthal's broader coaching biography, playing background, collegiate pathway, staff lineage, hiring dates at Lipscomb.
 - **Why unsourced:** Both AOC pieces on file identify him only as "head coach of Lipscomb volleyball" as of publication; no biographical source (program bio, conference feature, media-guide excerpt, interview) is ingested.
 - **Research hypothesis:** Lipscomb athletics bio page; ASUN Conference coach directory; local Nashville-area volleyball coverage; AVCA profile if one exists; any AOC podcast episode featuring Rosenthal.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/brandon-rosenthal.md
 - **Claim:** Specific dates of Rosenthal's Lipscomb tenure (start year, assistant vs. head-coach arc).
-- **Why unsourced:** AOC sources document a 2015–2024 publication window during which he was already Lipscomb head coach; they do not name the hiring year or any predecessor/successor framing.
-- **Research hypothesis:** Lipscomb athletics archives; ASUN press releases from 2010–2015; regional volleyball-beat reporting.
+- **Why unsourced:** AOC sources document a 2015 to 2024 publication window during which he was already Lipscomb head coach; they do not name the hiring year or any predecessor/successor framing.
+- **Research hypothesis:** Lipscomb athletics archives; ASUN press releases from 2010 to 2015; regional volleyball-beat reporting.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/brandon-rosenthal.md
@@ -614,7 +614,7 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/diane-flick-williams.md
-- **Claim:** Full biographical arc — playing career, prior assistant appointments, and hire year at Western Washington University.
+- **Claim:** Full biographical arc, playing career, prior assistant appointments, and hire year at Western Washington University.
 - **Why unsourced:** The AOC article and video sources ingested for this profile are instructional/technical, not biographical. The "Pass for Points" YouTube page returned only title metadata on WebFetch (no description or captions), and no WWU athletics bio or long-form feature is present in the raw library.
 - **Research hypothesis:** WWU Athletics staff directory / women's volleyball bio page (wwuvikings.com); GNAC conference coach profiles; LinkedIn; any AOC-published long-form coach interview that includes career arc; AVCA D2 coach-of-the-year citations if applicable.
 - **Added:** 2026-04-24
@@ -663,7 +663,7 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/luka-slabe.md
-- **Claim:** Full biographical timeline — Ljubljana (Slovenia) birthplace; BYU outside-hitter 2000–2003 under McGown/McCutcheon; 2001 NCAA gold and 2003 silver; European HC seasons 2008–2015 (UKO Kropa, Calcit Kamnik, ACH Volley Ljubljana, Aich Dob with specific results); Slovenian Men's NT HC 2013–2015; BYU assistant 2015–2018 (75–16 record, 2016/2017 NCAA runners-up, 2018 semifinal); USA W-NT assistant defensive/blocking coach 2018–2021 (3x VNL titles + Tokyo 2020 gold); NC State HC 2020–2024; USA Men's NT assistant 2025–present; Omaha Supernovas HC for MLV 2026 inaugural season.
+- **Claim:** Full biographical timeline: Ljubljana (Slovenia) birthplace; BYU outside-hitter 2000 to 2003 under McGown/McCutcheon; 2001 NCAA gold and 2003 silver; European HC seasons 2008 to 2015 (UKO Kropa, Calcit Kamnik, ACH Volley Ljubljana, Aich Dob with specific results); Slovenian Men's NT HC 2013 to 2015; BYU assistant 2015 to 2018 (75 to 16 record, 2016/2017 NCAA runners-up, 2018 semifinal); USA W-NT assistant defensive/blocking coach 2018 to 2021 (3x VNL titles + Tokyo 2020 gold); NC State HC 2020 to 2024; USA Men's NT assistant 2025-present; Omaha Supernovas HC for MLV 2026 inaugural season.
 - **Why unsourced:** The four AOC Slabe articles cover technique and drills but not biography. Biographical facts were verified against en.wikipedia.org/wiki/Luka_Slabe, gopack.com (NC State), usavolleyball.org/coach/luka-slabe, and a provolleyball.com Omaha Supernovas announcement, but none of those have been ingested as source pages yet.
 - **Research hypothesis:** Ingest as sources: (a) Wikipedia bio → `slabe-wikipedia-bio`; (b) USA Volleyball official coach page → `slabe-usav-bio`; (c) NC State bio page → `slabe-ncstate-bio`; (d) MLV Omaha Supernovas 2025 announcement → `slabe-2025-omaha-supernovas-announcement`; (e) BYU men's volleyball assistant bio → `slabe-byu-bio`. A single research pass can clear ~8 biographical [unsourced] tags on this page.
 - **Added:** 2026-04-24
@@ -676,19 +676,19 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ### wiki/coaches/luka-slabe.md
 - **Claim:** Dangling wikilink to [[byu]].
-- **Why unsourced:** Forward reference during bootstrap — BYU men's volleyball school page does not yet exist.
+- **Why unsourced:** Forward reference during bootstrap: BYU men's volleyball school page does not yet exist.
 - **Research hypothesis:** A future task (analogous to the penn-state / florida / illinois school stubs) should create `wiki/schools/byu.md` capturing the McGown → McCutcheon → Olmstead men's-volleyball lineage and its influence on alums including Slabe.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/jen-flynn-oldenburg.md
-- **Claim:** Broader biographical material — playing career, specific hire date at Ohio State, prior assistant-coaching roles, conference-level results, roster-construction philosophy.
+- **Claim:** Broader biographical material, playing career, specific hire date at Ohio State, prior assistant-coaching roles, conference-level results, roster-construction philosophy.
 - **Why unsourced:** The six AOC drill articles in the reviewed source base identify her only as "Ohio State head coach" / "Buckeye coach" and describe drills. They contain no biographical detail beyond that.
 - **Research hypothesis:** Ohio State athletics official coach bio (ohiostatebuckeyes.com); Ohio State volleyball media guide; Big Ten media-day interview transcripts; AVCA awards/profile pages; any long-form coach interviews on AOC or VolleyballMag.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/jen-flynn-oldenburg.md
-- **Claim:** Ohio State program lineage framing — "The program sits in the Ohio State lineage that runs through Jim Stone (1982-2007) into her current head-coach tenure."
-- **Why unsourced:** The continuity framing between Stone and Oldenburg is editorial — the AOC drill articles do not draw that connection. Stone's tenure dates are asserted from the existing [[ohio-state-volleyball]] stub, which is itself a bidirectional-link stub with no primary source yet.
+- **Claim:** Ohio State program lineage framing, "The program sits in the Ohio State lineage that runs through Jim Stone (1982-2007) into her current head-coach tenure."
+- **Why unsourced:** The continuity framing between Stone and Oldenburg is editorial, the AOC drill articles do not draw that connection. Stone's tenure dates are asserted from the existing [[ohio-state-volleyball]] stub, which is itself a bidirectional-link stub with no primary source yet.
 - **Research hypothesis:** Ohio State volleyball program history page; Buckeye media guide historical section; AVCA tenure records; Jim Stone profile (Task 1.12) should source Stone's dates and any cross-reference to Oldenburg's appointment.
 - **Added:** 2026-04-24
 ### wiki/coaches/brian-rosen.md
@@ -698,7 +698,7 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/brian-rosen.md
-- **Claim:** Biographical specifics — years at Creighton, prior coaching stops, playing background, Creighton program record (NCAA tournament appearances, Big East conference finishes, All-Americans produced).
+- **Claim:** Biographical specifics, years at Creighton, prior coaching stops, playing background, Creighton program record (NCAA tournament appearances, Big East conference finishes, All-Americans produced).
 - **Why unsourced:** The sole Brian-Rosen source (`aoc-2025-rosen-creighton-ball-control`) is a drill-teaching session, not a biographical feature. No Creighton athletics bio, long-form profile, or coaching-history article has been ingested.
 - **Research hypothesis:** Creighton Athletics staff bio (gocreighton.com); Big East coach directories; AVCA coaching profiles; any AOC long-form interview with Rosen; Omaha-area sport journalism (Omaha World-Herald) archives; LinkedIn; AOC podcast appearances.
 - **Added:** 2026-04-24
@@ -710,9 +710,9 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/brian-rosen.md
-- **Claim:** Dangling wikilink to [[mark-rosen]] (Michigan head coach 1999-2022) — referenced in the overview disambiguation paragraph but no mark-rosen profile page exists yet.
-- **Why unsourced:** Forward reference. Mark Rosen is a substantial AOC contributor (swing-block, transition, competitive serve-pass, block-OOS, OH shot-selection, efficient hitting lines — eight source pages) whose profile is not yet in the plan as a named task, but the source base is clearly deep enough to warrant one.
-- **Research hypothesis:** Schedule a Task to author `wiki/coaches/mark-rosen.md` — source anchors: aoc-2016-rosen-training-transition-in-out-system, aoc-2016-rosen-transition-drills, aoc-2017-rosen-training-transitions, aoc-2019-rosen-competitive-serve-pass, aoc-2020-rosen-block-oos, aoc-2021-rosen-oh-shots-based-on-block, aoc-2025-rosen-efficient-hitting-lines, aoc-2026-rosen-swing-blocking-footwork, aoc-2026-swing-blocking-footwork-beginners. Likely ~1500w given depth; schools: art-of-coaching-volleyball + michigan (stub needed for michigan-volleyball).
+- **Claim:** Dangling wikilink to [[mark-rosen]] (Michigan head coach 1999-2022): referenced in the overview disambiguation paragraph but no mark-rosen profile page exists yet.
+- **Why unsourced:** Forward reference. Mark Rosen is a substantial AOC contributor (swing-block, transition, competitive serve-pass, block-OOS, OH shot-selection, efficient hitting lines, eight source pages) whose profile is not yet in the plan as a named task, but the source base is clearly deep enough to warrant one.
+- **Research hypothesis:** Schedule a Task to author `wiki/coaches/mark-rosen.md`, source anchors: aoc-2016-rosen-training-transition-in-out-system, aoc-2016-rosen-transition-drills, aoc-2017-rosen-training-transitions, aoc-2019-rosen-competitive-serve-pass, aoc-2020-rosen-block-oos, aoc-2021-rosen-oh-shots-based-on-block, aoc-2025-rosen-efficient-hitting-lines, aoc-2026-rosen-swing-blocking-footwork, aoc-2026-swing-blocking-footwork-beginners. Likely ~1500w given depth; schools: art-of-coaching-volleyball + michigan (stub needed for michigan-volleyball).
 - **Added:** 2026-04-24
 
 ### wiki/coaches/laurie-eisler.md
@@ -746,13 +746,13 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-24
 
 ### wiki/schools/alberta-volleyball.md
-- **Claim:** Anything beyond the bare institutional-stub framing — program record, Canada West title history, post-Eisler roster, coaching-tree downstream.
+- **Claim:** Anything beyond the bare institutional-stub framing, program record, Canada West title history, post-Eisler roster, coaching-tree downstream.
 - **Why unsourced:** Stub created as bidirectional-link for the Eisler profile; no Alberta-program source ingested into this wiki yet.
 - **Research hypothesis:** University of Alberta Golden Bears & Pandas athletics records; U Sports championship archive; Canada West all-time standings.
 - **Added:** 2026-04-24
 
 ### wiki/schools/illinois-volleyball.md
-- **Claim:** Post-Hebert Illinois volleyball history — subsequent head coaches, multi-decade record, NCAA tournament history after the 1980s.
+- **Claim:** Post-Hebert Illinois volleyball history, subsequent head coaches, multi-decade record, NCAA tournament history after the 1980s.
 - **Why unsourced:** Stub created as bidirectional-link for Hebert; plan spec also suggested Eisler linkage, not corroborated by any on-file source.
 - **Research hypothesis:** University of Illinois athletics media guides; AVCA Illinois program history; Big Ten women's volleyball archives.
 - **Added:** 2026-04-24
@@ -770,7 +770,7 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/doug-beal.md
-- **Claim:** Specific policy and programmatic decisions Beal owned as USAV CEO (2005-2017) — e.g., men's-program investment, coach-education architecture changes, High Performance pipeline design, SafeSport adoption, financial / governance milestones.
+- **Claim:** Specific policy and programmatic decisions Beal owned as USAV CEO (2005-2017): e.g., men's-program investment, coach-education architecture changes, High Performance pipeline design, SafeSport adoption, financial / governance milestones.
 - **Why unsourced:** Wikipedia summarizes dates and tenure length only; the existing USAV coach-education source set (Coach Academy, CAP discontinuation, HP Clinic) post-dates the Beal CEO era and doesn't directly credit decisions to his tenure.
 - **Research hypothesis:** USAV annual reports 2005-2017; *Volleyball USA* magazine archives; the 2016 retirement-announcement press materials; Beal's 2017 AOC interview ("state of volleyball in America: Part 1") for first-person retrospective framing; FIVB News archives for his international-federation roles during this period.
 - **Added:** 2026-04-24
@@ -778,7 +778,7 @@ this list. Research passes hunt down primary sources and clear entries.
 ### wiki/coaches/doug-beal.md
 - **Claim:** Marv Dunphy mention in doug-beal.md is plain text rather than a wikilink because no marv-dunphy coach page exists yet; multiple existing pages (carl-mcgown, hugh-mccutcheon, doug-beal, schools/gold-medal-squared) also reference Dunphy without a page.
 - **Why unsourced:** Forward reference held off as plain text until a dedicated Marv Dunphy profile is written (GMS co-founder; Pepperdine; 1988 Seoul gold head coach).
-- **Research hypothesis:** Author `wiki/coaches/marv-dunphy.md` in a follow-up coach-profile task — Pepperdine athletics bio, IVHF induction record (1994), USAV 1988 gold retrospective, GMS co-founder account already captured in gms-nd-about-us and mcgown-2017-usav-remembering. When created, convert the plain-text Dunphy mention back to a wikilink.
+- **Research hypothesis:** Author `wiki/coaches/marv-dunphy.md` in a follow-up coach-profile task: Pepperdine athletics bio, IVHF induction record (1994), USAV 1988 gold retrospective, GMS co-founder account already captured in gms-nd-about-us and mcgown-2017-usav-remembering. When created, convert the plain-text Dunphy mention back to a wikilink.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/mike-hebert.md
@@ -787,19 +787,19 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Research hypothesis:** Illinois and Minnesota women's volleyball media-guide archives (staff-history sections); AVCA member-directory historical staff listings; an AVCA or VolleyballMag retrospective on Hebert's coaching tree; personal LinkedIn or biographical tracing of named Minnesota/Illinois assistants from 1983-2010. If an Oral History interview with Hebert exists, check for self-report.
 - **Added:** 2026-04-24
 
-### wiki/coaches/mike-hebert.md — RESOLVED 2026-04-25 (downgraded)
+### wiki/coaches/mike-hebert.md: RESOLVED 2026-04-25 (downgraded)
 - **Claim:** Explicit line of influence from Hebert's reading-defense framing in *Thinking Volleyball* (2013) to the reading-oriented defensive teaching later common across [[gold-medal-squared]], Art of Coaching Volleyball, and USA Volleyball materials. Related: whether Hebert had a formal affiliation with GMS (clinics, shared authorship, staff overlap).
-- **Resolution:** [[notes-hebert-beyond-xs-and-os]] composite-notes source ingested in Track B B.10. Source confirms the methodological alignment with motor-learning-grounded reading defense at the framing level. Primary documentation of formal GMS / McGown collaboration (clinics, shared authorship, staff overlap) remains absent in the captured corpus, and Hebert is not on any GMS staff roster — but the GMS school page now resolves the inline `[unsourced]` to `[notes-hebert-beyond-xs-and-os][hebert-2013-thinking-volleyball]` reflecting the framing-level alignment without overclaiming the formal-affiliation question. Closing as "no evidence of formal affiliation" remains the honest stance.
+- **Resolution:** [[notes-hebert-beyond-xs-and-os]] composite-notes source ingested in Track B B.10. Source confirms the methodological alignment with motor-learning-grounded reading defense at the framing level. Primary documentation of formal GMS / McGown collaboration (clinics, shared authorship, staff overlap) remains absent in the captured corpus, and Hebert is not on any GMS staff roster, but the GMS school page now resolves the inline `[unsourced]` to `[notes-hebert-beyond-xs-and-os][hebert-2013-thinking-volleyball]` reflecting the framing-level alignment without overclaiming the formal-affiliation question. Closing as "no evidence of formal affiliation" remains the honest stance.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/julio-velasco.md
 - **Claim:** Velasco's methodological template has been exported into Brazilian, Polish, and Turkish modern men's programs (beyond his own direct-tenure programs of Italy, Argentina, and Iran).
-- **Why unsourced:** Direct-tenure propagation (Italy, Argentina, Iran) is sourced via `velasco-2026-wikipedia-bio` and Lebedew's 2015 framing of the 1990–2005 "Golden Age." The broader export to Brazil/Poland/Turkey is widely claimed in volleyball-coaching discourse (especially on Mark Lebedew's Polish-PlusLiga-era pieces) but is editorial synthesis at the page level and not enumerated in a single authoritative source.
+- **Why unsourced:** Direct-tenure propagation (Italy, Argentina, Iran) is sourced via `velasco-2026-wikipedia-bio` and Lebedew's 2015 framing of the 1990 to 2005 "Golden Age." The broader export to Brazil/Poland/Turkey is widely claimed in volleyball-coaching discourse (especially on Mark Lebedew's Polish-PlusLiga-era pieces) but is editorial synthesis at the page level and not enumerated in a single authoritative source.
 - **Research hypothesis:** FIVB or CEV long-form coaching-methodology comparisons; Lebedew's later PlusLiga / German Bundesliga essays tracing Velasco influence; Polish national-team or VakıfBank / Fenerbahçe staff-history write-ups identifying Velasco disciples or assistants on record; a Brazilian coaching-media retrospective comparing Bernardinho and Velasco.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/julio-velasco.md
-- **Claim:** The Italy men's 1989-1996 run was built on scouting and match-planning depth that set the 1990s benchmark for the sport — set-by-set tendency maps on every opponent, a staff culture of preparation that became the Italian school's signature.
+- **Claim:** The Italy men's 1989-1996 run was built on scouting and match-planning depth that set the 1990s benchmark for the sport, set-by-set tendency maps on every opponent, a staff culture of preparation that became the Italian school's signature.
 - **Why unsourced:** None of the four ingested English-language sources (Wikipedia bio, Lebedew 2015, Lebedew 2020, MOK Umag 2020) describes Velasco's scouting workflow or staff preparation structure. The claim is plausible and is repeated in Italian-language coaching retrospectives but cannot be cited from current material.
 - **Research hypothesis:** FIVB/CEV archival features on 1990s Italian men's preparation; FIPAV (Italian federation) historical accounts; interviews with Velasco-era staff members (e.g., his long-time assistants and video-analysts); Lebedew's podcast episodes on 1990s Italian methodology; any book-length retrospective on the Generazione di Fenomeni era.
 - **Added:** 2026-04-24
@@ -812,19 +812,19 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ### wiki/coaches/julio-velasco.md
 - **Claim:** Italy under Velasco combined high-risk jump serving and exceptional floor defense; the tempo-disrupting service game became a hallmark of the Italian school now extended by modern Polish, Russian, Turkish, and Brazilian men's programs.
-- **Why unsourced:** The defense-as-culture framing is directly sourced from Lebedew's Velasco quotes ("Defence is the thermometer of the soul of a team"), but the specific tactical-system claim — jump-serving-plus-floor-defense as a Velasco-era signature, and its later export across Eastern-European and Brazilian men's programs — is editorial synthesis and not in the English-language sources currently ingested.
+- **Why unsourced:** The defense-as-culture framing is directly sourced from Lebedew's Velasco quotes ("Defence is the thermometer of the soul of a team"), but the specific tactical-system claim, jump-serving-plus-floor-defense as a Velasco-era signature, and its later export across Eastern-European and Brazilian men's programs, is editorial synthesis and not in the English-language sources currently ingested.
 - **Research hypothesis:** FIVB match reports from Italy men's World Championships 1990 and 1994; VBStats or long-form tactical comparisons of Italian men's 1990s era versus modern Polish/Russian/Turkish national programs; Lebedew's PlusLiga-era tactical essays on service-reception disruption; VolleyballMag historical features on the evolution of the jump-serve as a tactical weapon.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/giovanni-guidetti.md
-- **Claim:** VakıfBank under Guidetti runs a specific tempo menu — first-tempo middle, 5m-tempo outsides, and 31 (inside shoot) off good pass.
+- **Claim:** VakıfBank under Guidetti runs a specific tempo menu, first-tempo middle, 5m-tempo outsides, and 31 (inside shoot) off good pass.
 - **Why unsourced:** Guidetti publicly names offensive quickness as the defining change in modern volleyball (Volleywood 2014, "3× quicker than 20 years ago"), but the specific play-call menu is not described in the sources on file here. Italian-school tempo vocabulary is consistent with the pattern, but attribution to the specific VakıfBank system still requires a primary source.
 - **Research hypothesis:** VakıfBank match-video tactical breakdowns on YouTube (with set-by-set charting); a CEV or FIVB Champions League technical-study report; any AOC / Volleyball World clinic reels from Guidetti assistants (e.g., Ferhat Akbaş, Marcello Abbondanza, former staff); a Pasta Coach / Volleyball-Source tactical essay; Italian-language Serie A retrospective features on Guidetti's Chieri Volley era that may detail the system he brought to VakıfBank.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/giovanni-guidetti.md
-- **Claim:** VakıfBank's defensive coverage map — first libero anchoring the backcourt while outsides play forward defense and the opposite takes deep-cross.
-- **Why unsourced:** The peer-reviewed Akyildiz et al. (2022) paper (Guidetti co-author) establishes that middle blockers carry notably lower external load than outsides/opposite/libero — a quantitative asymmetry — but does not publish the specific tactical coverage assignment. The "libero reads / OH forward / opposite deep-cross" scheme therefore remains a descriptive inference not anchored to a primary coverage-scheme source.
+- **Claim:** VakıfBank's defensive coverage map, first libero anchoring the backcourt while outsides play forward defense and the opposite takes deep-cross.
+- **Why unsourced:** The peer-reviewed Akyildiz et al. (2022) paper (Guidetti co-author) establishes that middle blockers carry notably lower external load than outsides/opposite/libero, a quantitative asymmetry, but does not publish the specific tactical coverage assignment. The "libero reads / OH forward / opposite deep-cross" scheme therefore remains a descriptive inference not anchored to a primary coverage-scheme source.
 - **Research hypothesis:** Match-video tactical breakdowns of VakıfBank's defensive alignment against specific rotations; a CEV Champions League technical report on women's defense trends; VolleyballMag or Volleyball World feature pieces on Turkish-national-team / VakıfBank libero Simge Aköz or Gizem Örge's defensive role; Russian-volley.ru or ChampionsLeague.cev.eu tactical essays; interviews with VakıfBank assistant Ferhat Akbaş on defensive philosophy.
 - **Added:** 2026-04-24
 
@@ -860,18 +860,18 @@ this list. Research passes hunt down primary sources and clear entries.
 
 ### wiki/coaches/park-man-bok.md
 - **Claim:** Park's Korea-to-Peru transnational coaching template's institutional importance is under-documented in English-language sources.
-- **Why unsourced:** Editorial framing claim — the under-documentation itself is observable, but the institutional-importance assertion would benefit from comparative research on transnational coaching mobility patterns in volleyball pre-2000.
+- **Why unsourced:** Editorial framing claim, the under-documentation itself is observable, but the institutional-importance assertion would benefit from comparative research on transnational coaching mobility patterns in volleyball pre-2000.
 - **Research hypothesis:** Comparative volleyball coaching mobility studies; FIVB historical records of expatriate national-team head coaches; IVHF panel discussion on transnational coaching careers.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/laurent-tillie.md
-- **Claim:** France under Tillie operationalized a multidirectional attack with high-frequency outside-hitter back-row attacking — "OH-backrow as normal option" rather than as an emergency outlet — and Earvin N'Gapeth's MVP performance at Tokyo 2020 exemplifies the design. The full tactical specification (set-tempo profiles per rotation, intended pass-quality-to-set-distribution dependencies, libero responsibility geometry) is widely discussed in French federation media but not yet ingested in detail.
+- **Claim:** France under Tillie operationalized a multidirectional attack with high-frequency outside-hitter back-row attacking, "OH-backrow as normal option" rather than as an emergency outlet, and Earvin N'Gapeth's MVP performance at Tokyo 2020 exemplifies the design. The full tactical specification (set-tempo profiles per rotation, intended pass-quality-to-set-distribution dependencies, libero responsibility geometry) is widely discussed in French federation media but not yet ingested in detail.
 - **Why unsourced:** The Wikipedia bio and Tokyo 2020 Wikipedia article confirm N'Gapeth as MVP and document the tournament results; they do not describe the offensive system at the play-call or set-distribution level. The OH-backrow-frequency observation is consistent with the public match record but the system-level attribution requires a primary tactical-analysis source.
 - **Research hypothesis:** CEV / FIVB technical-study post-tournament reports on Tokyo 2020; FFV federation tactical features on Tillie's offensive system; long-form pieces on French Pro Ligue and N'Gapeth's club deployment at Modena Volley / Lube Civitanova; Mark Lebedew or Volleyball-Source tactical essays on French men's NT post-Tokyo; AOC / Volleyball World clinic content from Tillie or his France assistant staff.
 - **Added:** 2026-04-25
 
 ### wiki/coaches/andrea-giani.md
-- **Claim:** The full theoretical exposition of Giani's coaching methodology — Italian-school formation, tactical fingerprints, in-tournament adjustment philosophy — is widely discussed in Italian-language coaching media but has not been ingested in detail in this wiki.
+- **Claim:** The full theoretical exposition of Giani's coaching methodology: Italian-school formation, tactical fingerprints, in-tournament adjustment philosophy, is widely discussed in Italian-language coaching media but has not been ingested in detail in this wiki.
 - **Why unsourced:** Giani has been less prolific than Velasco in publicly circulated long-form English-language interviews. His public voice in English is largely tournament press-conference and federation appointment statements; the methodological underpinnings remain in Italian-language Serie A retrospectives, CEV technical post-tournament reports, and federation interviews.
 - **Research hypothesis:** Italian-language Serie A long-form features on Giani's Calzedonia Verona / Modena Volley tenures; CEV technical-study reports on Slovenia 2015, Germany 2017, and France 2024 European/Olympic runs; Italian Volleyball Federation interview archives; Mark Lebedew tactical essays on Italian-school exports; ZAKSA Kędzierzyn-Koźle 2024+ coverage where Giani is also coaching in Polish.
 - **Added:** 2026-04-25
@@ -883,7 +883,7 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-25
 
 ### wiki/coaches/andrea-giani.md
-- **Claim:** Giani's coaching career validates the Generazione di Fenomeni roster as a generational source of head coaches — comparable to other multi-decade player-to-coach pipelines (Yugoslav-era 1990s/2000s women's basketball; Brazilian beach-volleyball-to-coaching).
+- **Claim:** Giani's coaching career validates the Generazione di Fenomeni roster as a generational source of head coaches, comparable to other multi-decade player-to-coach pipelines (Yugoslav-era 1990s/2000s women's basketball; Brazilian beach-volleyball-to-coaching).
 - **Why unsourced:** This is editorial framing comparing volleyball coaching pipelines to adjacent sports, not a direct claim from a primary source.
 - **Research hypothesis:** Comparative coaching-mobility research; sports-sociology studies of player-to-coach transitions in international team sports; FIVB / CEV panel discussions on coaching-pipeline development.
 - **Added:** 2026-04-25
@@ -901,7 +901,7 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-24
 
 ### wiki/coaches/kim-hyung-sil.md
-- **Claim:** Kim's tactical choices that surfaced Kim Yeon-koung as 2012 Olympic MVP — including reception-set rotation patterns and back-row attack integration.
+- **Claim:** Kim's tactical choices that surfaced Kim Yeon-koung as 2012 Olympic MVP, including reception-set rotation patterns and back-row attack integration.
 - **Why unsourced:** The London 2012 result is documented; the specific tactical mechanism in Kim Hyung-sil's voice is not surfaced in ingested English-language sources.
 - **Research hypothesis:** FIVB London 2012 match reports for Korea; Korean-language post-tournament tactical analysis from KBS, Yonhap, JoongAng Ilbo, Chosun Ilbo; any Kim interviews around the 2012-2013 World Championship cycle.
 - **Added:** 2026-04-24
@@ -973,7 +973,7 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Added:** 2026-04-25
 
 ### wiki/schools/cuban-school.md
-- **Claim:** The 1992 Barcelona Olympic semifinal between Cuba and the Unified Team (CIS) — won by Cuba, advancing them to the gold-medal final — as a canonical Cuba-vs-Russia head-to-head moment.
+- **Claim:** The 1992 Barcelona Olympic semifinal between Cuba and the Unified Team (CIS): won by Cuba, advancing them to the gold-medal final, as a canonical Cuba-vs-Russia head-to-head moment.
 - **Why unsourced:** Semifinal pairing not directly substantiated in the ingested sources; the result-anchor file documents the gold but not the bracket-by-bracket progression.
 - **Research hypothesis:** FIVB Barcelona 1992 official results; Olympedia tournament page; Wikipedia article on Volleyball at the 1992 Summer Olympics.
 - **Added:** 2026-04-25
@@ -996,297 +996,297 @@ this list. Research passes hunt down primary sources and clear entries.
 - **Research hypothesis:** Player-interview or athlete-retrospective material from dynasty-era roster (Mireya Luis, Regla Torres, Regla Bell, Yumilka Ruíz); Cuban-state-sports-system academic literature on athlete welfare; defection-era player accounts.
 - **Added:** 2026-04-25
 
-### wiki/age-guides/13s.md — sealing-the-seam introductory blocking concept
+### wiki/age-guides/13s.md, sealing-the-seam introductory blocking concept
 - **Claim:** "Hand-press at the net and basic penetration are the two coaching points; sealing the seam is an introductory concept."
 - **Why unsourced:** The sealing-the-seam concept is widely taught at HS+ level but a specific 13s-introductory-concept framing has not been ingested as a source.
 - **Research hypothesis:** AOC blocking video library; Liskevych ASICS blocking series; Slabe's hand-press materials.
 - **Added:** 2026-04-24
 
-### wiki/age-guides/13s.md — penalty-heavy wash drills can backfire at 13s
+### wiki/age-guides/13s.md, penalty-heavy wash drills can backfire at 13s
 - **Claim:** "Penalty-heavy wash drills can backfire by loading the cognitive stage with anxiety before the motor program is stable."
 - **Why unsourced:** The cognitive-load argument is supported in motor-learning literature generally; specific 13s-applicable backfire-of-penalty-drills evidence has not been ingested.
 - **Research hypothesis:** Schmidt & Lee motor-learning textbook; cognitive-load anxiety literature for adolescent skill acquisition; AOC commentary on wash-drill design.
 - **Added:** 2026-04-24
 
-### wiki/age-guides/13s.md — 13s transition centers on free-ball-to-offense and block-to-approach
+### wiki/age-guides/13s.md: 13s transition centers on free-ball-to-offense and block-to-approach
 - **Claim:** "13s transition work centers on free-ball-to-offense patterns and block-to-approach recovery footwork."
 - **Why unsourced:** Generally accepted age-progression for transition complexity but no specific 13s-transition-curriculum source ingested.
 - **Research hypothesis:** Lupo/Ludwig AOC transition-drill series; Hoag transition-drill materials; Munciana camp library transition-progression notes.
 - **Added:** 2026-04-24
 
-### wiki/age-guides/13s.md — high-tempo 31 not a 13s offensive default
-- **Claim:** "High-tempo 31 attack as a staple. No — introduce as a late-13s concept, not as an offensive default."
+### wiki/age-guides/13s.md, high-tempo 31 not a 13s offensive default
+- **Claim:** "High-tempo 31 attack as a staple. No, introduce as a late-13s concept, not as an offensive default."
 - **Why unsourced:** AOC source [aoc-2021-running-effective-31-attack] establishes timing demands but does not specifically gate 13s vs. older. The 13s ceiling framing is editorial extrapolation.
 - **Research hypothesis:** USAV age-appropriate 31-attack guidance; Lingenfelter middle-tempo materials specifically on age progression.
 - **Added:** 2026-04-24
 
-### wiki/age-guides/13s.md — read-then-jump blocking cue
+### wiki/age-guides/13s.md, read-then-jump blocking cue
 - **Claim:** Cue "Read, then jump" listed as a 13s blocking cue.
 - **Why unsourced:** Widely-used cue but no specific source page citation for it on this wiki yet; will be sourced when [[blocking-cues]] dictionary lands.
 - **Research hypothesis:** AOC blocking series; Liskevych blocking material; resolves once cue dictionary is written.
 - **Added:** 2026-04-24
 
-### wiki/age-guides/13s.md — block-to-approach-feet-first transition cue
-- **Claim:** Cue "Block to approach — feet first" listed as a 13s transition cue.
+### wiki/age-guides/13s.md, block-to-approach-feet-first transition cue
+- **Claim:** Cue "Block to approach, feet first" listed as a 13s transition cue.
 - **Why unsourced:** Standard transition coaching language but no source page yet on this wiki; resolves when [[transition-cues]] dictionary lands.
 - **Research hypothesis:** Rosen transition materials; Shymansky OH transition footwork article.
 - **Added:** 2026-04-24
 
-### wiki/age-guides/13s.md — full swing-blocking timing exceeds 13s
+### wiki/age-guides/13s.md, full swing-blocking timing exceeds 13s
 - **Claim:** "Full swing-blocking execution. Footwork-only at 13s; do not run swing-blocking as the default scheme. Timing exceeds 13s proprioception."
 - **Why unsourced:** Rosen's beginner-progression source [aoc-2026-swing-blocking-footwork-beginners] supports footwork-only entry but does not explicitly age-gate 13s as a ceiling. Editorial extension.
 - **Research hypothesis:** Murczek's swing-block opportunity-cost article; Mardini counter-case for finer age-gating; USAV age-appropriate blocking materials.
 - **Added:** 2026-04-24
 
-### wiki/schools/lovb.md — specific LOVB salary bands
-- **Claim:** "Roster size, salary structure, and contract length are not fully disclosed publicly. LOVB has acknowledged that veteran stars earn more than rookies, with prize-pool bonuses and positional awards atop base salary, but specific bands are not in the public record [unsourced — specific LOVB salary bands not disclosed in cited sources]."
-- **Why unsourced:** Volleyballmag's June 2024 LOVB preview confirms the qualitative structure (veterans > rookies, prize pool, positional awards) but does not publish a salary range comparable to PVF's $60K–$175K disclosure. LOVB has not made its salary tiers public as of the 2025 inaugural season.
+### wiki/schools/lovb.md, specific LOVB salary bands
+- **Claim:** "Roster size, salary structure, and contract length are not fully disclosed publicly. LOVB has acknowledged that veteran stars earn more than rookies, with prize-pool bonuses and positional awards atop base salary, but specific bands are not in the public record [unsourced, specific LOVB salary bands not disclosed in cited sources]."
+- **Why unsourced:** Volleyballmag's June 2024 LOVB preview confirms the qualitative structure (veterans > rookies, prize pool, positional awards) but does not publish a salary range comparable to PVF's $60K-$175K disclosure. LOVB has not made its salary tiers public as of the 2025 inaugural season.
 - **Research hypothesis:** LOVB players' agent disclosures via The Athletic / Volleyballmag follow-up reporting; SBJ deal-tracker coverage; player union activity if/when established; 2026 broadcast-contract filings (the USA Network / ESPN deal expansion may be accompanied by salary-floor disclosures).
 - **Added:** 2026-04-26
 
-### wiki/schools/lovb.md — same opacity flagged in Critiques
-- **Claim:** "Unlike PVF, LOVB has not publicly disclosed its salary bands [unsourced — specific LOVB salary bands not in cited sources]."
-- **Why unsourced:** Same root cause as the prior entry — LOVB hasn't published a salary band, and our cited sources confirm the structure but not specific dollar figures.
+### wiki/schools/lovb.md, same opacity flagged in Critiques
+- **Claim:** "Unlike PVF, LOVB has not publicly disclosed its salary bands [unsourced, specific LOVB salary bands not in cited sources]."
+- **Why unsourced:** Same root cause as the prior entry: LOVB hasn't published a salary band, and our cited sources confirm the structure but not specific dollar figures.
 - **Research hypothesis:** Same as prior entry. Potentially also a Sports Business Journal deep-dive on LOVB economics.
 - **Added:** 2026-04-26
 
-### wiki/schools/pvf.md — top European salaries above PVF ceiling
-- **Claim:** "PVF's top published salary ($175K) is competitive with mid-tier European and Turkish clubs but well below top VakıfBank-level offers, which can clear $300–500K+ for elite players [unsourced — top European salary figures cited in industry reports but not in our sourced documents]."
-- **Why unsourced:** Industry reporting on top European women's volleyball salaries (Volley Italia, Pallavolista, Sportico) puts top VakıfBank / Eczacıbaşı / Conegliano contracts in the $300K–$500K+ range, but our currently cited corpus does not include those primary reports.
+### wiki/schools/pvf.md, top European salaries above PVF ceiling
+- **Claim:** "PVF's top published salary ($175K) is competitive with mid-tier European and Turkish clubs but well below top VakıfBank-level offers, which can clear $300 to 500K+ for elite players [unsourced, top European salary figures cited in industry reports but not in our sourced documents]."
+- **Why unsourced:** Industry reporting on top European women's volleyball salaries (Volley Italia, Pallavolista, Sportico) puts top VakıfBank / Eczacıbaşı / Conegliano contracts in the $300K-$500K+ range, but our currently cited corpus does not include those primary reports.
 - **Research hypothesis:** Sportico women's-volleyball salary tracker if published; CEV financial-disclosure documents for member clubs; Turkish Sultanlar Ligi front-office reporting on Eczacıbaşı / VakıfBank payroll; Italian Lega Volley Femminile salary leaks in Italian sports press.
 - **Added:** 2026-04-26
 
-### wiki/schools/athletes-unlimited-volleyball.md — exact AU per-stat point formulas
-- **Claim:** "Points come from match outcomes (team result) plus per-stat individual contribution. The exact point-per-stat formulas are proprietary and not detailed in publicly cited sources [unsourced — specific AU per-stat point formulas not detailed in cited sources]."
+### wiki/schools/athletes-unlimited-volleyball.md, exact AU per-stat point formulas
+- **Claim:** "Points come from match outcomes (team result) plus per-stat individual contribution. The exact point-per-stat formulas are proprietary and not detailed in publicly cited sources [unsourced, specific AU per-stat point formulas not detailed in cited sources]."
 - **Why unsourced:** AU's Wikipedia summary describes the dual-points structure qualitatively but does not publish the per-stat point allocations (e.g., kill = X points, dig = Y points, ace = Z points). AU's own auprosports.com landing pages confirm the structure but link to a "scoring 101" page that has shifted formats with the 2025 rebrand.
 - **Research hypothesis:** AU Pro Volleyball's official scoring page (auprosports.com/volleyball/scoring); Cassidy Lichtman interviews on the format; The GIST / Sportico AU explainers that reverse-engineered the points-per-stat from box scores.
 - **Added:** 2026-04-26
 
-### wiki/schools/athletes-unlimited-volleyball.md — AU specific compensation figures
-- **Claim:** "AU has not publicly disclosed its athlete compensation structure beyond the equity-and-profit-share framework [unsourced — specific AU compensation figures not in cited sources]."
-- **Why unsourced:** AU's own announcements describe the equity model but do not publish base-pay or prize-pool dollar figures comparable to PVF's $60K–$175K disclosure.
+### wiki/schools/athletes-unlimited-volleyball.md: AU specific compensation figures
+- **Claim:** "AU has not publicly disclosed its athlete compensation structure beyond the equity-and-profit-share framework [unsourced, specific AU compensation figures not in cited sources]."
+- **Why unsourced:** AU's own announcements describe the equity model but do not publish base-pay or prize-pool dollar figures comparable to PVF's $60K-$175K disclosure.
 - **Research hypothesis:** AU Form 990s if AU's investor structure files them; investigative reporting from Sportico or The Athletic on AU economics across volleyball + softball + lacrosse + basketball; Cassidy Lichtman or Jon Patricof interviews where compensation is discussed quantitatively.
 - **Added:** 2026-04-26
 
-### wiki/coaches/kelly-sheffield.md — NPOY/All-American concentration as deliberate development model claim
+### wiki/coaches/kelly-sheffield.md: NPOY/All-American concentration as deliberate development model claim
 - **Claim:** "Producing two NPOYs in three years and the most-decorated AVCA All-American in association history within a single program tenure is, statistically, a deliberate development model rather than a recruiting accident [unsourced]."
 - **Why unsourced:** The factual achievements are sourced ([sheffield-wikipedia-bio]), but the framing as a "deliberate development model" rather than a recruiting outcome is editorial inference; no captured source narrates Sheffield's player-development methodology in those terms.
-- **Research hypothesis:** AOC long-form interviews with Sheffield (search beyond the 2018 drill clip); On Wisconsin Magazine "The Comeback Coach" feature; Wisconsin volleyball assistant-coach (Lauren Carlini) interviews on staff development methodology; Volleybrains podcast Sheffield episode (Volleybrains episode 82 — listed in WebSearch results).
+- **Research hypothesis:** AOC long-form interviews with Sheffield (search beyond the 2018 drill clip); On Wisconsin Magazine "The Comeback Coach" feature; Wisconsin volleyball assistant-coach (Lauren Carlini) interviews on staff development methodology; Volleybrains podcast Sheffield episode (Volleybrains episode 82, listed in WebSearch results).
 - **Added:** 2026-04-26
 
-### wiki/coaches/kelly-sheffield.md — "Championships are the expectation" quote attribution
-- **Claim:** "Sheffield's program identity at Wisconsin is built around the explicit standard 'championships are the expectation'... [unsourced — quote attributed to Wisconsin program / On Wisconsin Magazine reporting; not in this wiki's ingested source corpus]."
+### wiki/coaches/kelly-sheffield.md, "Championships are the expectation" quote attribution
+- **Claim:** "Sheffield's program identity at Wisconsin is built around the explicit standard 'championships are the expectation'... [unsourced, quote attributed to Wisconsin program / On Wisconsin Magazine reporting; not in this wiki's ingested source corpus]."
 - **Why unsourced:** Quote is attested in On Wisconsin Magazine and EssentiallySports articles surfaced in WebSearch results, but the source page for that reporting has not been fetched and ingested into this wiki's raw corpus.
 - **Research hypothesis:** Fetch and ingest On Wisconsin Magazine's "The Comeback Coach" feature (https://onwisconsin.uwalumni.com/the-comeback-coach/); also EssentiallySports profile and CapTimes Wisconsin volleyball reflection.
 - **Added:** 2026-04-26
 
-### wiki/coaches/kelly-sheffield.md — comparative tenure claims
-- **Claim:** "Reaching the final in four different seasons across an 11-year span is itself uncommon in women's D-I volleyball, where most programs that reach a final do not return inside the same head coach's tenure [unsourced — comparative tenure claim outside corpus]."
+### wiki/coaches/kelly-sheffield.md, comparative tenure claims
+- **Claim:** "Reaching the final in four different seasons across an 11-year span is itself uncommon in women's D-I volleyball, where most programs that reach a final do not return inside the same head coach's tenure [unsourced, comparative tenure claim outside corpus]."
 - **Why unsourced:** Comparative claim across women's D-I head-coaching tenures requires aggregated record review (AVCA / NCAA championship-final history); no aggregator source has been ingested.
 - **Research hypothesis:** AVCA championship-final history page; NCAA Volleyball Championship records book; AVCA hall-of-fame career-summary documents.
 - **Added:** 2026-04-26
 
-### wiki/coaches/kelly-sheffield.md — Wisconsin pre-Sheffield Big Ten title gap
-- **Claim:** "When Sheffield took over at Wisconsin in 2013, the program had not won a Big Ten regular-season title since 2000 [unsourced — pre-Sheffield Big Ten title history not in source corpus]"
+### wiki/coaches/kelly-sheffield.md: Wisconsin pre-Sheffield Big Ten title gap
+- **Claim:** "When Sheffield took over at Wisconsin in 2013, the program had not won a Big Ten regular-season title since 2000 [unsourced, pre-Sheffield Big Ten title history not in source corpus]"
 - **Why unsourced:** Pre-Sheffield Wisconsin Big Ten conference-title history not in the captured Wikipedia bio.
 - **Research hypothesis:** Wisconsin volleyball Wikipedia page for season-by-season Big Ten finishes; UW Badgers official athletics history page; Big Ten conference yearbook archives.
 - **Added:** 2026-04-26
 
-### wiki/coaches/jerritt-elliott.md — recruiting philosophy quote
-- **Claim:** "Elliott's stated recruiting principle is to recruit 'to win national championships' — not to fill perceived depth-chart needs of a current team [unsourced — attributed to NCAA.com 2021 feature on Texas, not in this wiki's ingested source corpus]."
+### wiki/coaches/jerritt-elliott.md, recruiting philosophy quote
+- **Claim:** "Elliott's stated recruiting principle is to recruit 'to win national championships', not to fill perceived depth-chart needs of a current team [unsourced, attributed to NCAA.com 2021 feature on Texas, not in this wiki's ingested source corpus]."
 - **Why unsourced:** Quote attested in NCAA.com 2021 "Ultimate Texas volleyball dream player" feature surfaced in WebSearch but not yet fetched as a raw article into this wiki's corpus.
 - **Research hypothesis:** Fetch https://www.ncaa.com/news/volleyball-women/article/2021-01-15/ultimate-texas-volleyball-dream-player-built-jerritt-elliott; ingest as raw article and create source page; also Volleybrains episode 82 on Elliott.
 - **Added:** 2026-04-26
 
-### wiki/coaches/jerritt-elliott.md — 18 AVCA All-Americans figure
-- **Claim:** "The cumulative record of 18 AVCA All-Americans coached at Texas through 2022 is the throughput-side of that principle [unsourced — figure attributed to Texas program reporting; not directly in the Wikipedia bio captured here]."
+### wiki/coaches/jerritt-elliott.md: 18 AVCA All-Americans figure
+- **Claim:** "The cumulative record of 18 AVCA All-Americans coached at Texas through 2022 is the throughput-side of that principle [unsourced, figure attributed to Texas program reporting; not directly in the Wikipedia bio captured here]."
 - **Why unsourced:** Figure attested in Texas program reporting / NCAA.com feature but not in the Wikipedia bio currently ingested.
 - **Research hypothesis:** Texas Longhorns athletics program-history page for All-American counts by season; AVCA All-American historical records cross-referenced with Texas roster years.
 - **Added:** 2026-04-26
 
-### wiki/coaches/jerritt-elliott.md — "speak the language of the coaches" quote
-- **Claim:** "Elliott has stated he looks for players 'able to make the players around them better, one that is able to speak the language of the coaches...' [unsourced — quote from NCAA.com 2021 feature, not yet ingested into this wiki's source corpus]."
-- **Why unsourced:** Same as recruiting-philosophy quote above — NCAA.com feature surfaced but not ingested.
+### wiki/coaches/jerritt-elliott.md, "speak the language of the coaches" quote
+- **Claim:** "Elliott has stated he looks for players 'able to make the players around them better, one that is able to speak the language of the coaches...' [unsourced, quote from NCAA.com 2021 feature, not yet ingested into this wiki's source corpus]."
+- **Why unsourced:** Same as recruiting-philosophy quote above: NCAA.com feature surfaced but not ingested.
 - **Research hypothesis:** Same as above. Fetch the NCAA.com feature and ingest.
 - **Added:** 2026-04-26
 
-### wiki/coaches/jerritt-elliott.md — back-to-back NCAA championship rarity
-- **Claim:** "Texas's 2022 → 2023 sequence is one of only a handful of back-to-back women's volleyball titles in the post-2010 NCAA era [unsourced — frequency claim outside corpus]."
+### wiki/coaches/jerritt-elliott.md, back-to-back NCAA championship rarity
+- **Claim:** "Texas's 2022 → 2023 sequence is one of only a handful of back-to-back women's volleyball titles in the post-2010 NCAA era [unsourced, frequency claim outside corpus]."
 - **Why unsourced:** Frequency claim across NCAA championship history requires aggregated review.
 - **Research hypothesis:** NCAA Volleyball Championship records book; AVCA championship-final history page.
 - **Added:** 2026-04-26
 
-### wiki/coaches/dan-fisher.md — defense quote attribution
-- **Claim:** "Fisher publicly attributed the 2025 NCAA semifinal loss to Texas A&M directly to defensive shortcoming: 'We were nowhere near as good as we needed to be defensively...' [unsourced — quote from ESPN / Pittsburgh Post-Gazette post-match reporting, not yet ingested into this wiki's source corpus]."
+### wiki/coaches/dan-fisher.md, defense quote attribution
+- **Claim:** "Fisher publicly attributed the 2025 NCAA semifinal loss to Texas A&M directly to defensive shortcoming: 'We were nowhere near as good as we needed to be defensively...' [unsourced, quote from ESPN / Pittsburgh Post-Gazette post-match reporting, not yet ingested into this wiki's source corpus]."
 - **Why unsourced:** Quote attested in ESPN ("Defense not good enough in NCAA volleyball loss") and ProFootballNetwork post-match reporting surfaced in WebSearch but not yet fetched as a raw article into this wiki.
 - **Research hypothesis:** Fetch ESPN article (https://www.espn.com/college-sports/story/_/id/47353129/dan-fisher-defense-not-good-enough-ncaa-volleyball-loss); also ProFootballNetwork article and Pittsburgh Post-Gazette feature; create raw articles and source pages.
 - **Added:** 2026-04-26
 
-### wiki/coaches/dan-fisher.md — five-Final-Four ranking claim
-- **Claim:** "Reaching the Final Four five years in a row inside one head-coaching tenure is, on the public record, a top-3 achievement among programs of any era [unsourced — comparative claim outside corpus]."
+### wiki/coaches/dan-fisher.md, five-Final-Four ranking claim
+- **Claim:** "Reaching the Final Four five years in a row inside one head-coaching tenure is, on the public record, a top-3 achievement among programs of any era [unsourced, comparative claim outside corpus]."
 - **Why unsourced:** Comparative claim across NCAA history requires aggregated NCAA Final Four streaks tabulation.
 - **Research hypothesis:** NCAA Volleyball Championship records book; AVCA program-history aggregations; Penn State / Stanford / Hawaii historical Final Four streaks for comparison.
 - **Added:** 2026-04-26
 
-### wiki/coaches/dan-fisher.md — "regular season as preparation" published analysis
+### wiki/coaches/dan-fisher.md, "regular season as preparation" published analysis
 - **Claim:** "Comprehensive published analysis of Fisher's regular-season-as-preparation methodology is not yet ingested into this wiki [unsourced]."
-- **Why unsourced:** Methodology framing is editorial inference from the on-record 15–0 / 45–1-set start to 2024.
+- **Why unsourced:** Methodology framing is editorial inference from the on-record 15 to 0 / 45 to 1-set start to 2024.
 - **Research hypothesis:** Volleybrains episode 76 (Fisher); 2025 AVCA Coach of the Year Super Clinic featuring Fisher (avca25.coachesinsider.com/speakers/dan-fisher/); Pittsburgh Post-Gazette long-form feature.
 - **Added:** 2026-04-26
 
-### wiki/coaches/john-cook.md — coaching tree comprehensive inventory
+### wiki/coaches/john-cook.md, coaching tree comprehensive inventory
 - **Claim:** "A comprehensive Cook coaching-tree inventory is not in the captured sources..."
 - **Why unsourced:** The Wikipedia bio names successor Dani Busboom Kelly and the AOC interview names assistant Tyler Hildebrand, but a comprehensive list of Cook assistants and their subsequent placements is not ingested.
-- **Research hypothesis:** AVCA Hall of Fame Cook profile; Nebraska athletics historical staff records 2000–2024; cross-referenced AVCA assistant-coach awards across Cook era.
+- **Research hypothesis:** AVCA Hall of Fame Cook profile; Nebraska athletics historical staff records 2000 to 2024; cross-referenced AVCA assistant-coach awards across Cook era.
 - **Added:** 2026-04-26
 
-### wiki/coaches/erin-virtue.md — NTDP institutional positioning
-- **Claim:** "The directorship shapes which young athletes get high-performance exposure, what coaching standards filter down through the development levels, and how players are routed to senior-NT consideration [unsourced — institutional framing]."
+### wiki/coaches/erin-virtue.md: NTDP institutional positioning
+- **Claim:** "The directorship shapes which young athletes get high-performance exposure, what coaching standards filter down through the development levels, and how players are routed to senior-NT consideration [unsourced, institutional framing]."
 - **Why unsourced:** Structural framing of the NTDP director role is editorial inference; no captured source describes the NTDP institutional position in those terms.
 - **Research hypothesis:** USA Volleyball NTDP official program description; USAV high-performance pipeline documentation; Karch Kiraly long-form interviews on NT staff structure.
 - **Added:** 2026-04-26
 
-### wiki/coaches/erin-virtue.md — NTDP selection criteria
+### wiki/coaches/erin-virtue.md: NTDP selection criteria
 - **Claim:** "A comprehensive published statement of the NTDP's selection criteria is not yet ingested into this wiki's corpus [unsourced]."
 - **Why unsourced:** No published NTDP selection-criteria document is in the captured corpus.
 - **Research hypothesis:** USA Volleyball NTDP program description on usavolleyball.org; USA Volleyball Coach Academy materials; AOC interviews with Virtue or NTDP staff describing selection criteria.
 - **Added:** 2026-04-26
 
-### wiki/coaches/erin-virtue.md — NTDP simultaneous-roles institutional signal
-- **Claim:** "The role is not commonly held simultaneously with senior-NT assistant duties, which is itself a signal of USA Volleyball's institutional confidence in Virtue's developmental judgment [unsourced — same]."
+### wiki/coaches/erin-virtue.md: NTDP simultaneous-roles institutional signal
+- **Claim:** "The role is not commonly held simultaneously with senior-NT assistant duties, which is itself a signal of USA Volleyball's institutional confidence in Virtue's developmental judgment [unsourced, same]."
 - **Why unsourced:** Comparative claim about USA Volleyball institutional staff structure outside the captured corpus.
 - **Research hypothesis:** Historical USA Volleyball staff org charts; USA Volleyball announcements describing how NTDP director role typically slots within high-performance staff.
 - **Added:** 2026-04-26
 
-### wiki/schools/wisconsin-volleyball.md — Sheffield "get the setter to run" serve metric
+### wiki/schools/wisconsin-volleyball.md: Sheffield "get the setter to run" serve metric
 - **Claim:** Sheffield treats the serve as the program's first weapon: "Can you get the setter to run?" framing.
 - **Why unsourced:** Quote sourced from a Captimes Sheffield interview surfaced in web search but no source page yet exists on this wiki for that interview.
 - **Research hypothesis:** Create `wiki/sources/captimes-sheffield-interview.md` from Captimes article (https://captimes.com/sports/wisconsin-volleyballs-sheffield-touts-predecessor-love-of-coaching/); also Sheffield AOC clinic recordings; On Wisconsin Magazine "The Comeback Coach" feature.
 - **Added:** 2026-04-26
 
-### wiki/schools/wisconsin-volleyball.md — Sheffield "we don't play a pretty style" quote
+### wiki/schools/wisconsin-volleyball.md: Sheffield "we don't play a pretty style" quote
 - **Claim:** Sheffield publicly described Wisconsin's identity as not pretty: "We don't play a pretty style of volleyball, and we're totally fine with that."
 - **Why unsourced:** Quote attributed in Badger Extra coverage; no dedicated source page yet.
-- **Research hypothesis:** Create source page for Badger Extra "Wisconsin volleyball team defined by determination and grit" article; Sheffield 2022–2025 press conference transcripts.
+- **Research hypothesis:** Create source page for Badger Extra "Wisconsin volleyball team defined by determination and grit" article; Sheffield 2022 to 2025 press conference transcripts.
 - **Added:** 2026-04-26
 
-### wiki/schools/wisconsin-volleyball.md — Wisconsin blocks-per-set national rank
+### wiki/schools/wisconsin-volleyball.md: Wisconsin blocks-per-set national rank
 - **Claim:** "The Badgers have ranked among the nation's best blocking teams in multiple Sheffield-era seasons."
 - **Why unsourced:** Bucky's 5th Quarter coverage notes specific seasons in which Wisconsin led or ranked second nationally in blocks/set; no source page yet.
-- **Research hypothesis:** AVCA team statistical archives; NCAA.com season summaries 2019–2024; Bucky's 5th Quarter "Defense Dominates" coverage.
+- **Research hypothesis:** AVCA team statistical archives; NCAA.com season summaries 2019 to 2024; Bucky's 5th Quarter "Defense Dominates" coverage.
 - **Added:** 2026-04-26
 
-### wiki/schools/wisconsin-volleyball.md — Sheffield AOC blocking progression
+### wiki/schools/wisconsin-volleyball.md: Sheffield AOC blocking progression
 - **Claim:** "Sheffield publishes a detailed blocking progression with Art of Coaching Volleyball that emphasizes hand penetration and shoulder shape over the swing-block-or-jump-block debate."
-- **Why unsourced:** AOC video "Wisconsin Volleyball blocking progression – Kelly Sheffield" exists; no dedicated source page on this wiki yet.
+- **Why unsourced:** AOC video "Wisconsin Volleyball blocking progression, Kelly Sheffield" exists; no dedicated source page on this wiki yet.
 - **Research hypothesis:** Ingest the AOC video as `wiki/sources/aoc-sheffield-blocking-progression.md` via aoc-mcp; review the underlying clinic curriculum.
 - **Added:** 2026-04-26
 
-### wiki/schools/wisconsin-volleyball.md — 2021 NCAA final game-tape claim
+### wiki/schools/wisconsin-volleyball.md: 2021 NCAA final game-tape claim
 - **Claim:** "Late in the fifth set, the pass is bad, the set goes to the pin, and the pin hitter terminates."
 - **Why unsourced:** Recall from 2021 NCAA championship telecast. No primary source ingested.
 - **Research hypothesis:** NCAA.com 2021 championship recap; AVCA highlight reel; box score with rally-by-rally play log.
 - **Added:** 2026-04-26
 
-### wiki/schools/wisconsin-volleyball.md — 2019 final pass-rating game-tape claim
+### wiki/schools/wisconsin-volleyball.md: 2019 final pass-rating game-tape claim
 - **Claim:** "Stanford's pass was clean enough that Wisconsin's block-and-back-row didn't get the volume of out-of-system attacks the system normally feasts on."
 - **Why unsourced:** Game-tape inference. No primary stat-line source ingested.
 - **Research hypothesis:** NCAA.com 2019 championship box score; AVCA pass-rating data if archived.
 - **Added:** 2026-04-26
 
-### wiki/schools/texas-volleyball.md — Texas Olympian alumnae count
+### wiki/schools/texas-volleyball.md: Texas Olympian alumnae count
 - **Claim:** "The program's downstream Olympic placement count (multiple alumnae across 2016, 2020, 2024 cycles) is consistent with that ceiling."
 - **Why unsourced:** General Olympic-pipeline claim; no Texas-athletics media-guide ingested.
 - **Research hypothesis:** Texas athletics media guide; USA Volleyball roster archives 2016/2020/2024.
 - **Added:** 2026-04-26
 
-### wiki/schools/texas-volleyball.md — Texas in-system efficiency stat claim
+### wiki/schools/texas-volleyball.md: Texas in-system efficiency stat claim
 - **Claim:** "Texas's strategy is 'pass at a 2.3+ rating, deliver an in-system set, and have your pin hitter terminate at a >.300 efficiency.'"
 - **Why unsourced:** Editorial framing of Texas's in-system aesthetic; specific stat claims need AVCA/NCAA stat archive backing.
 - **Research hypothesis:** AVCA team stat archives 2022, 2023; NCAA.com season-summary tables for Texas hitting efficiency.
 - **Added:** 2026-04-26
 
-### wiki/schools/texas-volleyball.md — Jordan Larson Texas transfer
-- **Claim:** "Jordan Larson — Nebraska alum and US national team veteran — joined Texas in a graduate-transfer/eligibility-extension capacity in 2022, contributing to the championship season."
+### wiki/schools/texas-volleyball.md: Jordan Larson Texas transfer
+- **Claim:** "Jordan Larson: Nebraska alum and US national team veteran, joined Texas in a graduate-transfer/eligibility-extension capacity in 2022, contributing to the championship season."
 - **Why unsourced:** Daily Texan coverage referenced in web search but not yet ingested as a source page.
 - **Research hypothesis:** Daily Texan article (https://thedailytexan.com/2022/01/22/jordan-larson-madisen-skinner-strengthen-texas-volleyballs-national-championship-campaign/); Texas athletics roster archive 2022.
 - **Added:** 2026-04-26
 
-### wiki/schools/texas-volleyball.md — 2025–26 Wisconsin-Texas matchup
+### wiki/schools/texas-volleyball.md: 2025 to 26 Wisconsin-Texas matchup
 - **Claim:** "The two programs would meet in the 2025 SEC-vs-Big-Ten challenge schedule."
 - **Why unsourced:** Texas athletics 2026 schedule announcement referenced in web search but not yet ingested.
 - **Research hypothesis:** Texas athletics April 20, 2026 release ("Volleyball to host Wisconsin in marquee Moody Center matchup").
 - **Added:** 2026-04-26
 
-### wiki/schools/nebraska-volleyball.md — Nebraska in-state recruiting percentage
+### wiki/schools/nebraska-volleyball.md: Nebraska in-state recruiting percentage
 - **Claim:** "A Cook-era Nebraska roster typically had 50%+ in-state players, with the remainder drawn from Iowa, the Dakotas, Kansas, and Minnesota."
 - **Why unsourced:** Roster-review claim; no Nebraska athletics media-guide ingested.
-- **Research hypothesis:** Nebraska athletics media guide 2000–2024; aggregate roster review across multiple seasons.
+- **Research hypothesis:** Nebraska athletics media guide 2000 to 2024; aggregate roster review across multiple seasons.
 - **Added:** 2026-04-26
 
-### wiki/schools/nebraska-volleyball.md — Cook ball-control primacy clinic statement
+### wiki/schools/nebraska-volleyball.md: Cook ball-control primacy clinic statement
 - **Claim:** "Cook's published coaching emphasis is that the first contact (the pass) determines the second contact (the set) which determines the third (the attack)."
 - **Why unsourced:** Cook clinic recordings on AOC are the canonical source; no specific AOC clip ingested as a source page yet.
 - **Research hypothesis:** Cook AOC clinic catalogue; *Dream Like a Champion* (Cook 2017) chapters on system philosophy; ingest as separate book/source pages.
 - **Added:** 2026-04-26
 
-### wiki/schools/nebraska-volleyball.md — Cook coaching tree primary citation
+### wiki/schools/nebraska-volleyball.md: Cook coaching tree primary citation
 - **Claim:** Documented Cook coaching tree: Busboom Kelly, Tamas, Johnson-Lynch, Skinner, Meske, Conners, Hildebrand.
 - **Why unsourced:** Tree corroborated by Omaha World-Herald and Lincoln Journal-Star coverage in web search; no dedicated source pages ingested for those articles yet.
 - **Research hypothesis:** Create `wiki/sources/omaha-world-herald-cook-tree.md` from "After learning from John Cook, many former Nebraska assistants have gone on to lead their own programs"; create `wiki/sources/journalstar-cook-tree-2023.md` from corresponding Lincoln Journal-Star article.
 - **Added:** 2026-04-26
 
-### wiki/schools/nebraska-volleyball.md — Cook block-reading philosophy
+### wiki/schools/nebraska-volleyball.md: Cook block-reading philosophy
 - **Claim:** "Cook's documented preference is read-blocking over committed swing-blocking."
 - **Why unsourced:** Cook AOC interview reference; no specific source page ingested yet.
 - **Research hypothesis:** Cook AOC clinic recordings on blocking philosophy; *Dream Like a Champion* (Cook 2017).
 - **Added:** 2026-04-26
 
-### wiki/schools/nebraska-volleyball.md — Nebraska culture-as-recruiting Hail Varsity coverage
-- **Claim:** "The Nebraska brand — 'we recruit the players who want to be Huskers, not the players we have to outbid for' — is the program's core advantage and limitation."
+### wiki/schools/nebraska-volleyball.md: Nebraska culture-as-recruiting Hail Varsity coverage
+- **Claim:** "The Nebraska brand, 'we recruit the players who want to be Huskers, not the players we have to outbid for', is the program's core advantage and limitation."
 - **Why unsourced:** Synthesized from Cook interviews and Hail Varsity feature coverage; no dedicated source page ingested.
 - **Research hypothesis:** Hail Varsity multi-year Cook interviews; *Dream Like a Champion* chapters on culture; ESPN feature on Cook's recruiting philosophy.
 - **Added:** 2026-04-26
 
-### wiki/schools/pittsburgh-volleyball.md — Fisher portal/international roster construction
+### wiki/schools/pittsburgh-volleyball.md: Fisher portal/international roster construction
 - **Claim:** "Pitt's championship roster construction has leaned heavily on transfer-portal additions and international-pipeline recruiting."
 - **Why unsourced:** Roster-review claim; no Pitt athletics media-guide ingested.
-- **Research hypothesis:** Pitt athletics media guide 2021–2025; aggregate roster review; international-pipeline reporting in Pittsburgh Post-Gazette and ACC media.
+- **Research hypothesis:** Pitt athletics media guide 2021 to 2025; aggregate roster review; international-pipeline reporting in Pittsburgh Post-Gazette and ACC media.
 - **Added:** 2026-04-26
 
-### wiki/schools/pittsburgh-volleyball.md — Fisher practice architecture inference
+### wiki/schools/pittsburgh-volleyball.md: Fisher practice architecture inference
 - **Claim:** Detailed Fisher practice-architecture claims (situational repetition, broken-play emphasis, setter improvisation primacy, hybrid block strategy, libero-led pursuit defense).
 - **Why unsourced:** Practice-tape inference; no Fisher AOC clinic recording or first-person published methodology source has been ingested.
 - **Research hypothesis:** Fisher AOC clinic search; AVCA Convention Fisher session recordings; Pitt athletics video coverage of practice; Pittsburgh Post-Gazette Fisher feature articles.
 - **Added:** 2026-04-26
 
-### wiki/schools/pittsburgh-volleyball.md — Pitt 2024 Petersen Penn State record crowd
+### wiki/schools/pittsburgh-volleyball.md: Pitt 2024 Petersen Penn State record crowd
 - **Claim:** "The 2024 Petersen match against Penn State drew a 'record crowd.'"
 - **Why unsourced:** Pitt athletics September 19, 2024 release referenced in web search but no source page ingested.
 - **Research hypothesis:** Create source page from Pitt athletics release "No. 1 Pitt Sweeps No. 3 Penn State in Front of Record Crowd" (https://pittsburghpanthers.com/news/2024/9/19/...).
 - **Added:** 2026-04-26
 
-### wiki/schools/pittsburgh-volleyball.md — Pitt vs Texas tournament head-to-head
+### wiki/schools/pittsburgh-volleyball.md: Pitt vs Texas tournament head-to-head
 - **Claim:** "Pitt has not yet beaten Texas in a tournament-elimination match (no documented NCAA-tournament Pitt-vs.-Texas matchup as of this writing; needs verification)."
 - **Why unsourced:** Negative claim; needs comprehensive head-to-head NCAA-tournament archive verification.
-- **Research hypothesis:** NCAA tournament results database 2013–2025 for Pitt-Texas matchups; Pitt athletics media guide tournament history section.
+- **Research hypothesis:** NCAA tournament results database 2013 to 2025 for Pitt-Texas matchups; Pitt athletics media guide tournament history section.
 - **Added:** 2026-04-26
 
-### wiki/schools/pittsburgh-volleyball.md — Fisher coaching tree completeness check
+### wiki/schools/pittsburgh-volleyball.md: Fisher coaching tree completeness check
 - **Claim:** "Pitt has not yet placed a Fisher-era assistant in a documented Power-Five HC role as of this writing."
 - **Why unsourced:** Negative claim requiring comprehensive HC database review.
-- **Research hypothesis:** AVCA HC roster cross-reference for former Pitt assistants 2013–2025; Pitt athletics staff-history archive.
+- **Research hypothesis:** AVCA HC roster cross-reference for former Pitt assistants 2013 to 2025; Pitt athletics staff-history archive.
 - **Added:** 2026-04-26
 
-### wiki/schools/pittsburgh-volleyball.md — Fisher GMS-affiliation
+### wiki/schools/pittsburgh-volleyball.md: Fisher GMS-affiliation
 - **Claim:** "Fisher's methodology is closer to GMS's random-practice-and-motor-learning emphasis than to Texas's high-volume-in-system-rep model."
 - **Why unsourced:** Inference from Fisher AOC appearances; no GMS clinic placement directly documented.
-- **Research hypothesis:** GMS clinic catalog cross-reference; Fisher AOC interview transcripts; AVCA Convention session catalog 2015–2025.
+- **Research hypothesis:** GMS clinic catalog cross-reference; Fisher AOC interview transcripts; AVCA Convention session catalog 2015 to 2025.
 - **Added:** 2026-04-26
 
 
-### wiki/techniques/serving-topspin.md — female-cohort jump-topspin biomechanics sequencing
+### wiki/techniques/serving-topspin.md, female-cohort jump-topspin biomechanics sequencing
 - **Claim:** "Bari's developmental-tier sequencing of jump-serve velocity predictors (approach velocity → shoulder cocking → CoG management) likely transfers to female servers" (implicit in the wiki's use of Bari 2023 across age-guides 14s/15s/16s/17s and age-lens-14u/hs).
-- **Why unsourced:** Bari 2023 (PMC10402994) is a 30-subject male cohort (U-19 boys, U-21 junior men, U-23 men). The wiki's 2026-04-26 women's jump-serve ingest established the match-analysis evidence base (Pawlik 2024 — 86% jump-float / 12% jump-topspin in women's pro; Kountouris 2015 — Olympic gender asymmetry) but did NOT secure a sex-disaggregated biomechanics replication of Bari's three-tier developmental sequencing. The Ikonomou et al. 2013 Medicina Sportiva paper (claimed by initial research agent as a possible candidate) could not be verified via Google Scholar / ResearchGate / Medicina Sportiva URLs and was dropped per SCHEMA's "never fabricate citations" rule.
+- **Why unsourced:** Bari 2023 (PMC10402994) is a 30-subject male cohort (U-19 boys, U-21 junior men, U-23 men). The wiki's 2026-04-26 women's jump-serve ingest established the match-analysis evidence base (Pawlik 2024: 86% jump-float / 12% jump-topspin in women's pro; Kountouris 2015: Olympic gender asymmetry) but did NOT secure a sex-disaggregated biomechanics replication of Bari's three-tier developmental sequencing. The Ikonomou et al. 2013 Medicina Sportiva paper (claimed by initial research agent as a possible candidate) could not be verified via Google Scholar / ResearchGate / Medicina Sportiva URLs and was dropped per SCHEMA's "never fabricate citations" rule.
 - **Research hypothesis:** Search for sex-disaggregated jump-serve kinematics studies. Authors known for women's-volleyball biomech: Ureña (Spain), Coleman, Marlow, Reeser cohorts. Possible queries: "women jump topspin volleyball biomechanics", "elite female volleyball serve kinematics", "U-19 OR U-21 female volleyball serve velocity predictors". Try recent (2022-2026) issues of Sports Biomechanics, Journal of Sports Sciences, International Journal of Sports Medicine. Could also check for an Ikonomou paper at Medicina Sportiva archives directly, or via PEDro/SportDiscus database access.
 - **Added:** 2026-04-26

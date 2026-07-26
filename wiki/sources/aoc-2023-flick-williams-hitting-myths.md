@@ -20,9 +20,9 @@ Western Washington's Diane Flick-Williams dismantles four common hitter beliefs 
 
 ## Key claims / ideas
 - Myth 1: "Don't repeat kill locations." Reframe: keep hitting the same spot until they prove they can dig it.
-- Myth 2: "Avoid the block at all costs." Reframe: the block — especially its edges — is a high-value point-earning tool because ricochets are unpredictable; train hitting the block intentionally.
-- Myth 3: "Bad approach = bad play." Reframe: every ball has a best play; it may not be a hit — a push to the corner or sharp flick is still offense.
-- Myth 4: "Swing in-system, tip out-of-system." Reframe: invert it — tip when opponent expects a swing (in-system) and swing when opponent expects a tip/free ball (out-of-system).
+- Myth 2: "Avoid the block at all costs." Reframe: the block, especially its edges, is a high-value point-earning tool because ricochets are unpredictable; train hitting the block intentionally.
+- Myth 3: "Bad approach = bad play." Reframe: every ball has a best play; it may not be a hit, a push to the corner or sharp flick is still offense.
+- Myth 4: "Swing in-system, tip out-of-system." Reframe: invert it, tip when opponent expects a swing (in-system) and swing when opponent expects a tip/free ball (out-of-system).
 - Training tip: use a pool-noodle-threaded net as a dummy block when live blockers aren't available.
 
 ## Topics covered
@@ -37,5 +37,5 @@ Western Washington's Diane Flick-Williams dismantles four common hitter beliefs 
 ## Access
 - Raw file: [[aoc-2023-flick-williams-hitting-myths]]
 - URL: https://www.theartofcoachingvolleyball.com/debunking-common-hitting-myths/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -20,11 +20,11 @@ Kentucky head coach Craig Skinner walks through a no-jump-to-dynamic arm-swing p
 
 ## Key claims / ideas
 - Start isolated: one knee, simulate attacking stance to groove elbow alignment, wrist position, and relaxed-hand snap.
-- Add core and footwork next via a shuffle approach without jumping — preserves rhythm without adding jump complexity.
+- Add core and footwork next via a shuffle approach without jumping, preserves rhythm without adding jump complexity.
 - Progression to full dynamic: shot-specific work on cross-body and "wrist away" hits to expand range.
 - Reactive element: coach calls direction mid-motion, forcing hitter to adjust not predetermine.
-- "No looky cookie": hit without watching the ball land — trust hand-contact feel to predict trajectory.
-- Core principle: hitters must adjust to set quality, blocker position, and approach — not pre-plan a swing.
+- "No looky cookie": hit without watching the ball land, trust hand-contact feel to predict trajectory.
+- Core principle: hitters must adjust to set quality, blocker position, and approach, not pre-plan a swing.
 
 ## Topics covered
 - Kneeling-to-dynamic arm-swing progression
@@ -38,5 +38,5 @@ Kentucky head coach Craig Skinner walks through a no-jump-to-dynamic arm-swing p
 ## Access
 - Raw file: [[aoc-2023-skinner-arm-swing-progression]]
 - URL: https://www.theartofcoachingvolleyball.com/volleyball-progression-drill-to-improve-arm-swing/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

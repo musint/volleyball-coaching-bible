@@ -19,8 +19,8 @@ Ray Bechard (Kansas, 1998-2024) walks through which statistics he tracks as most
 
 ## Key claims / ideas
 
-- Not all statistics are equally predictive of winning — a narrow set matters most.
-- Practice stat collection, not just match stat collection, drives coaching decisions.
+- Not all statistics are equally predictive of winning, a narrow set matters most.
+- Practice stat collection, alongside match stat collection, drives coaching decisions.
 - Stat analysis is an interpretation skill separate from stat collection.
 - Game-situation use of stats is distinct from season-long trend analysis.
 

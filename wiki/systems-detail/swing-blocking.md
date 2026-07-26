@@ -12,12 +12,12 @@ sources: [aoc-2024-slabe-blocking, aoc-2023-swing-blocking-when, aoc-2024-blocki
 # Swing Blocking
 
 ## Swing-blocking in one sentence
-Swing blocking is the technique of traveling laterally along the net by running with an athletic arm swing — rather than shuffling or crossover-stepping — to cover more ground in the same time window and to arrive at the block with more momentum transferred into jump height.
+Swing blocking is the technique of traveling laterally along the net by running with an athletic arm swing, rather than shuffling or crossover-stepping, to cover more ground in the same time window and to arrive at the block with more momentum transferred into jump height.
 
 ## Overview
-Swing blocking is a technique overlay applied on top of a team blocking scheme ([[read-blocking]] or [[commit-blocking]]), not a standalone system. It describes how a blocker moves from their starting position to the attack zone: instead of shuffling (feet parallel, small lateral steps) or crossover-stepping (longer lateral steps), the blocker runs several strides with a natural arm swing, loads on the final step, and jumps. The arm swing itself is the defining feature — it drives vertical force into the jump and lets the blocker cover more ground in the same time window as traditional footwork.
+Swing blocking is a technique overlay applied on top of a team blocking scheme ([[read-blocking]] or [[commit-blocking]]), not a standalone system. It describes how a blocker moves from their starting position to the attack zone: instead of shuffling (feet parallel, small lateral steps) or crossover-stepping (longer lateral steps), the blocker runs several strides with a natural arm swing, loads on the final step, and jumps. The arm swing itself is the defining feature, it drives vertical force into the jump and lets the blocker cover more ground in the same time window as traditional footwork.
 
-The technique has become the default at women's HS+ levels because closing distance is the single largest determinant of whether the middle arrives for the pin block. A middle who swings can cover the net in fewer steps with more momentum than a shuffler; a pin blocker who swings can help on a wide seam set and still recover to pin. Slabe's combination-blocking framework positions swing blocking alongside static as the blocker's two complementary tools — the arm swing specifically enables efficient movement, higher jump, and net penetration [aoc-2024-slabe-blocking]. But the technique is not unanimous. Murczek argues that swing blocking's main advertised advantage (higher jump) does not reliably produce better net penetration — the actual KPI of blocking — and that the long learning curve may cost more than it earns for many teams [aoc-2023-swing-blocking-when]. Liskevych is in the skeptical camp: hands-first technique and balanced stance matter more than the flavor-of-the-month footwork choice [aoc-2016-liskevych-blocking-what-matters]. McCutcheon takes the middle position: swing blocking has a place, but it should not be used in every situation [aoc-2015-mccutcheon-blocking-keys].
+The technique has become the default at women's HS+ levels because closing distance is the single largest determinant of whether the middle arrives for the pin block. A middle who swings can cover the net in fewer steps with more momentum than a shuffler; a pin blocker who swings can help on a wide seam set and still recover to pin. Slabe's combination-blocking framework positions swing blocking alongside static as the blocker's two complementary tools, the arm swing specifically enables efficient movement, higher jump, and net penetration [aoc-2024-slabe-blocking]. But the technique is not unanimous. Murczek argues that swing blocking's main advertised advantage (higher jump) does not reliably produce better net penetration, the actual KPI of blocking, and that the long learning curve may cost more than it earns for many teams [aoc-2023-swing-blocking-when]. Liskevych is in the skeptical camp: hands-first technique and balanced stance matter more than the flavor-of-the-month footwork choice [aoc-2016-liskevych-blocking-what-matters]. McCutcheon takes the middle position: swing blocking has a place, but it should not be used in every situation [aoc-2015-mccutcheon-blocking-keys].
 
 ## Personnel requirements
 Swing blocking as a technique rewards:
@@ -30,12 +30,12 @@ Swing blocking as a technique rewards:
 Swing blocking describes a technique, not an alignment. The team scheme (read or commit) determines the blocker starting positions; swing determines how they travel to the attack zone. Typical footwork patterns:
 - **Middle swing-close to pin:** the middle starts at zone 3 in a read or bunch base. On read of the set to the pin, the middle takes two to three strides with a natural arm swing, squares to the net on the gather step, and jumps with arms loading up into penetration.
 - **Pin swing to seam:** a pin blocker who reads a seam set takes one or two strides inward with an arm swing, gathers, and jumps on the seam rather than at the antenna.
-- **Combination variants:** Slabe's "combination blocking" description blends static, swing, and combination footwork as complementary tools — the blocker uses swing for long closes, static for quick middles or short closes, and combinations for intermediate situations [aoc-2024-slabe-blocking].
+- **Combination variants:** Slabe's "combination blocking" description blends static, swing, and combination footwork as complementary tools, the blocker uses swing for long closes, static for quick middles or short closes, and combinations for intermediate situations [aoc-2024-slabe-blocking].
 
 ## Strengths
 - **Lateral reach.** A middle who swings covers more of the net per unit time than one who shuffles; the difference shows up on pin-close percentages and on double-block formation rates.
 - **Jump height.** The arm swing loads momentum into the vertical; blockers typically get higher with a swing than with a jump from a static stance [aoc-2024-slabe-blocking].
-- **Momentum transfer.** The swing's forward/lateral momentum can be converted into penetration over the net — the blocker doesn't just get high, they get across.
+- **Momentum transfer.** The swing's forward/lateral momentum can be converted into penetration over the net, the blocker doesn't just get high, they get across.
 - **Modern technique consistency.** A team that swing-blocks is training movement that matches what their opponents are using; blockers scouting each other see consistent footwork rather than a patchwork [aoc-2017-liskevych-asics-blocking].
 
 ## Weaknesses
@@ -47,19 +47,19 @@ Swing blocking describes a technique, not an alignment. The team scheme (read or
 ## When to use / when not to use
 Use swing blocking when:
 - You coach HS+ and have practice time to install and maintain the technique.
-- Your middle has to cover the net on every pin set — swing is the movement technology that lets them arrive in time.
+- Your middle has to cover the net on every pin set, swing is the movement pattern that lets them arrive in time.
 - Your blockers have the athletic integration to layer arm swing on top of foot movement without losing posture.
 - You train balanced landings as a parallel block fundamental [aoc-2024-blocking-fundamentals].
 
 Avoid swing blocking when:
-- You coach 14U — the learning curve does not pay back at a developmental level where footwork fundamentals are still being established. Use shuffle and progressive footwork until swing becomes worth the investment.
+- You coach 14U, the learning curve does not pay back at a developmental level where footwork fundamentals are still being established. Use shuffle and progressive footwork until swing becomes worth the investment.
 - Your team's opportunity cost is clear: passing and attacking are larger win-rate levers and your practice time is finite [aoc-2023-swing-blocking-when].
-- Your blockers can't integrate the arm swing without losing hands discipline — hands matter more than feet at the point of block [aoc-2016-liskevych-blocking-what-matters].
+- Your blockers can't integrate the arm swing without losing hands discipline, hands matter more than feet at the point of block [aoc-2016-liskevych-blocking-what-matters].
 - Your schedule includes injuries or landing problems that need to be solved before adding momentum to the jump.
 
 ## Alternatives and adjustments
 - Stay with static or shuffle footwork at 14U; layer swing progressions in the second year once fundamentals are stable.
-- Run combination blocking — swing when closing long distances, static when the ball is in front of you [aoc-2024-slabe-blocking].
+- Run combination blocking, swing when closing long distances, static when the ball is in front of you [aoc-2024-slabe-blocking].
 - Pair with [[read-blocking]] or [[commit-blocking]] as the team scheme; swing is the technique, not the scheme.
 - Train landing explicitly. Balanced landings are first-line defense fundamentals and scale with swing velocity [aoc-2024-blocking-fundamentals].
 

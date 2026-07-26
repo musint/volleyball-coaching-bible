@@ -16,10 +16,10 @@ trust-tier: 2
 # Karch Kiraly’s 2-minute take: The stats that matter most
 
 ## Summary
-Video-backed, minimal text body. Kiraly attributes the line "You can't manage what you don't measure" to his former UCLA/USA coach Marv Dunphy and argues that stat-taking matters — but taking the right, limited set of stats matters more. Serving and passing are explicitly called out as high priority. (Note: feed-author field returned "Follow"; canonical author is Karch Kiraly per body copy and byline.)
+Video-backed, minimal text body. Kiraly attributes the line "You can't manage what you don't measure" to his former UCLA/USA coach Marv Dunphy and argues that stat-taking matters, but taking the right, limited set of stats matters more. Serving and passing are explicitly called out as high priority. (Note: feed-author field returned "Follow"; canonical author is Karch Kiraly per body copy and byline.)
 
 ## Key claims / ideas
-- Dunphy rule: "You can't manage what you don't measure!" — stat-taking is essential for improvement.
+- Dunphy rule: "You can't manage what you don't measure!", stat-taking is essential for improvement.
 - Quality over quantity: don't try to process too many numbers; pick the right few.
 - Serving and passing are explicitly named as top-priority stats at every level.
 - Stat focus is a leverage decision; pare the dashboard rather than expand it.
@@ -27,7 +27,7 @@ Video-backed, minimal text body. Kiraly attributes the line "You can't manage wh
 ## Topics covered
 - Statistics priorities for coaches
 - Serve and pass as leverage skills
-- Coaching philosophy — measurement discipline
+- Coaching philosophy, measurement discipline
 - Managing a program / scouting
 
 ## Where it's cited
@@ -36,5 +36,5 @@ Video-backed, minimal text body. Kiraly attributes the line "You can't manage wh
 ## Access
 - Raw file: [[aoc-2024-kiraly-stats-matter-most]]
 - URL: https://www.theartofcoachingvolleyball.com/karch-kiralys-2-minute-take-the-stats-that-matter-most/
-- Trust tier: 2 — AOC, Karch Kiraly named author (byline; feed author field returned generic "Follow")
+- Trust tier: 2: AOC, Karch Kiraly named author (byline; feed author field returned generic "Follow")
 - Ingested via: aoc-mcp on 2026-04-23

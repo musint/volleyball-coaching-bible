@@ -19,7 +19,7 @@ Russ Rose (2013 Fort Worth Clinic) on setter-takes-first-ball scenarios and the 
 
 ## Key claims / ideas
 
-- Setter-takes-first-ball is a distinct teaching module, not just a contingency.
+- Setter-takes-first-ball is a distinct teaching module rather than a contingency.
 - Multiple scenarios (dig by setter, scramble on first contact) require dedicated reps.
 
 ## Topics covered

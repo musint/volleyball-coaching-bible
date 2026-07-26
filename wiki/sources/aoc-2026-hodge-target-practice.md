@@ -20,7 +20,7 @@ Penn State's Megan Hodge Easy turns hitting lines into a point-based competition
 
 ## Key claims / ideas
 - Sharp-angle sideline targets count 1 point; deep corners in zones 1 and 5 count 2 points.
-- Deep corners scored double because defenders rarely occupy them — shot value follows defensive density.
+- Deep corners scored double because defenders rarely occupy them, shot value follows defensive density.
 - Drill combines free-ball pass, setter decision (zone 4 or zone 2), and attacker target selection.
 - Framing: hitting lines become competitive, with point totals tracked per player.
 
@@ -36,5 +36,5 @@ Penn State's Megan Hodge Easy turns hitting lines into a point-based competition
 ## Access
 - Raw file: [[aoc-2026-hodge-target-practice]]
 - URL: https://www.theartofcoachingvolleyball.com/target-practice-for-hitters/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

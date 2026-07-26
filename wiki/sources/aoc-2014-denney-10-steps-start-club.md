@@ -19,9 +19,9 @@ Shauna Denney (president of 403 Selects Volleyball, Calgary) gives 10 pragmatic 
 
 ## Key claims / ideas
 
-- Board must have coaches, teachers, business people, lawyers + experts in marketing/web/accounting — doers over talkers.
+- Board must have coaches, teachers, business people, lawyers + experts in marketing/web/accounting, doers over talkers.
 - Quality coaches are foundational; budget for their continued development (e.g., AOC membership).
-- Every club needs a "niche" — differentiation from competing clubs.
+- Every club needs a "niche", differentiation from competing clubs.
 - Enforced code of conduct signed by coaches, parents, athletes.
 - Liskevych: failures are "opportunities to begin again more intelligently."
 - $250 volunteer bond mechanism to convert parent labor into club capacity.

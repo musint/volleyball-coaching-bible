@@ -28,7 +28,7 @@ Two lines of passers in the deep corners of one side (around the 5 m line, left-
 5. Lead passer in line B steps in; cycle alternates. Run 3-4 minutes per set or to a target count of clean passes.
 
 ## Coaching points
-- One passer at a time in the seam — no helpers from the line; the test is owning the seam alone.
+- One passer at a time in the seam, no helpers from the line; the test is owning the seam alone.
 - Toss/serve tempo stays honest so each passer reads, moves, platforms.
 - Target grades aloud so the passer hears feedback before shagging.
 - Between reps, passer walks through the miss with an intentional shadow move instead of chatting in line.

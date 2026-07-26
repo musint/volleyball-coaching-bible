@@ -19,12 +19,12 @@ trust-tier: 2
 Italian 2-time Olympian setter Marco Meoni argues setting is the only volleyball skill requiring a pushing motion and that the push starts in the feet, not the hands. He lays out a 7-step setting sequence (release → position → examine platform → evaluate pass → run → stop → push), right-foot-forward orientation, contact-time stepping, ball-over-forehead delivery, hips-neutral on back sets, jump-and-land-in-place for jump sets, and observe-before-moving movement logic.
 
 ## Key claims / ideas
-- Setting is the only volleyball skill that requires a pushing motion — stability, stopping behind the ball, and spring-like loading matter more than hand shape.
+- Setting is the only volleyball skill that requires a pushing motion, stability, stopping behind the ball, and spring-like loading matter more than hand shape.
 - 7-step setter sequence: release → position (right foot forward) → examine passer's platform → evaluate pass → run → get stopped → push.
-- The step toward the ball is taken DURING contact, not before — the step is the first push of the body.
+- The step toward the ball is taken DURING contact, not before, the step is the first push of the body.
 - Push chain: feet → legs → shoulders → arms → wrists → hands.
 - Feet shoulder-width apart, entire sole on the floor; right foot forward at delivery (front OR back set), ball over forehead.
-- Do NOT let hips move forward on back sets — torso stays stable.
+- Do NOT let hips move forward on back sets, torso stays stable.
 - Successful jump set = jumping and landing in the same place. Floating in the air compromises shoulder/torso control and disrupts middle-hitter approach.
 - Movement: observe-evaluate-move, don't guess. Short steps for small distances; long steps to cover ground but finish with small precise steps.
 - Run with arms down; raise only to initiate contact. Raised arms during run cost speed, stability, peripheral vision and cause shoulder fatigue.
@@ -44,6 +44,5 @@ Italian 2-time Olympian setter Marco Meoni argues setting is the only volleyball
 ## Access
 - Raw file: [[aoc-2020-meoni-lower-body-setting]]
 - URL: https://www.theartofcoachingvolleyball.com/lower-body-setting/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

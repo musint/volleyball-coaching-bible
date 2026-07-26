@@ -19,12 +19,12 @@ trust-tier: 2
 Don Patterson's retirement retrospective on Russ Rose (43 seasons at Penn State, 7 NCAA titles, 1,330 wins) drawing on voices from Liskevych, Dunning, Schumacher-Cawley, and Micha Hancock to characterize Rose's directness, energy demand, and "everything matters" standard.
 
 ## Key claims / ideas
-- Rose won 7 NCAA titles and 1,330 matches — the winningest coach in D1 women's volleyball history at retirement (age 68, December 2021).
-- Communication style: "radical candor" — direct, truthful, same message to your face as behind your back.
+- Rose won 7 NCAA titles and 1,330 matches, the winningest coach in D1 women's volleyball history at retirement (age 68, December 2021).
+- Communication style: "radical candor", direct, truthful, same message to your face as behind your back.
 - No flatliners: players must bring energy, fight, and make plays; low-energy players are a liability.
-- "Everything matters" — how you train, how you talk, how you treat people.
+- "Everything matters", how you train, how you talk, how you treat people.
 - Coverage and pursuit are non-negotiable; failure to lay out for teammates breaks trust.
-- "Every team is different, and that's the art of coaching" — coach the personnel you have, not the team you wish you had.
+- "Every team is different, and that's the art of coaching", coach the personnel you have, not the team you wish you had.
 - Sacrificing for teammates and players caring more about each other than themselves is the floor for having a chance.
 - Katie Schumacher-Cawley named successor; served as Rose's assistant the prior four seasons.
 
@@ -41,5 +41,5 @@ Don Patterson's retirement retrospective on Russ Rose (43 seasons at Penn State,
 ## Access
 - Raw file: [[aoc-2022-rose-coach-for-life]]
 - URL: https://www.theartofcoachingvolleyball.com/russ-rose-a-coach-for-life/
-- Trust tier: 2 — AOC, profile of Russ Rose
+- Trust tier: 2: AOC, profile of Russ Rose
 - Ingested via: aoc-mcp on 2026-04-23

@@ -24,7 +24,7 @@ Karch Kiraly (USA W-NT) teaches servers to deliver "flean" (flat and clean) serv
 - At game point, the serve must be flean or the game continues.
 - Variation: every rally counts double for serving team if they serve flean.
 - Variation: run as offense-vs-defense with the serve as the drill's entry condition.
-- Central coaching focus is toughness — not high-arc safe serves.
+- Central coaching focus is toughness, not high-arc safe serves.
 
 ## Topics covered
 - Serving under pressure
@@ -38,5 +38,5 @@ Karch Kiraly (USA W-NT) teaches servers to deliver "flean" (flat and clean) serv
 ## Access
 - Raw file: [[aoc-2024-kiraly-serving-mini-games]]
 - URL: https://www.theartofcoachingvolleyball.com/karch-kiraly-mini-games-to-practice-serving/
-- Trust tier: 2 — AOC, USA W-NT head coach video
+- Trust tier: 2: AOC, USA W-NT head coach video
 - Ingested via: aoc-mcp on 2026-04-23

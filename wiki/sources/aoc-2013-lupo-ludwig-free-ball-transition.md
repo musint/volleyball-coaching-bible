@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Lupo Ludwig (2013 Calgary Clinic) free-ball transition drill — team-level transition off a free-ball initiation. Details paywalled.
+Lupo Ludwig (2013 Calgary Clinic) free-ball transition drill, team-level transition off a free-ball initiation. Details paywalled.
 
 ## Key claims / ideas
 

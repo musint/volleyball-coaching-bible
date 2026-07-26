@@ -23,7 +23,7 @@ Mark Barnard (Oregon State) uses a whiteboard walkthrough to explain the "why" o
 - Front-row overlap rules: each front-row player must be ahead of the back-row partner and inside their lane neighbors.
 - Back-row overlap rules: each back-row player must be behind their front-row partner and between their back-row neighbors.
 - Only the serve-receive team rotates (clockwise) on a won point; the serving team does not.
-- Server is exempt from overlap because they are "not on the court" — can serve from anywhere behind the end-line.
+- Server is exempt from overlap because they are "not on the court", can serve from anywhere behind the end-line.
 
 ## Topics covered
 - Overlap rules for all six positions
@@ -37,5 +37,5 @@ Mark Barnard (Oregon State) uses a whiteboard walkthrough to explain the "why" o
 ## Access
 - Raw file: [[aoc-2021-teach-rotations-beginners]]
 - URL: https://www.theartofcoachingvolleyball.com/understanding-rotations/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

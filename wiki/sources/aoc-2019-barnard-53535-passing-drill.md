@@ -19,7 +19,7 @@ trust-tier: 2
 Mark Barnard's 5-3-5-3-5 is a pressure passing drill: three passers and a target take 40 serves; they must accumulate 5 perfect passes, then 3 perfect in a row, repeating the pattern 5-3-5-3-5 within the 40-serve budget.
 
 ## Key claims / ideas
-- The "in a row" threshold forces consistency, not just occasional perfect balls.
+- The "in a row" threshold forces consistency rather than occasional perfect balls.
 - A fixed 40-serve budget creates a quantifiable pass/fail outcome.
 - Alternating non-consecutive (5) and consecutive (3) goals trains both volume and streak consistency.
 - Minimum 5 players: three passers, one target, one server.
@@ -35,5 +35,5 @@ Mark Barnard's 5-3-5-3-5 is a pressure passing drill: three passers and a target
 ## Access
 - Raw file: [[aoc-2019-barnard-53535-passing-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/5-3-5-3-5-passing-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -35,5 +35,5 @@ Luka Slabe's seam drill isolates serves down the middle to force passer communic
 ## Access
 - Raw file: [[aoc-2019-slabe-clarifying-seams-receive]]
 - URL: https://www.theartofcoachingvolleyball.com/clarifying-the-seams-on-serve-receive/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -35,5 +35,5 @@ Oregon State's Mark Barnard runs a competitive hitter drill progression: two hit
 ## Access
 - Raw file: [[aoc-2023-barnard-single-double-triple]]
 - URL: https://www.theartofcoachingvolleyball.com/hitter-training-attacking-vs-single/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

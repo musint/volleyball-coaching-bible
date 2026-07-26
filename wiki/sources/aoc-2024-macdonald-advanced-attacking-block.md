@@ -23,7 +23,7 @@ Kerry MacDonald (Volleyball Canada Chief Sports Officer, former UBC Men's head c
 - A late middle blocker opens a seam between two blockers; attack that seam into dig gaps.
 - Hit high off a tall blocker's hands to force scrambling, unpredictable digs.
 - Work around the block by swiping, tipping, or tooling the edges.
-- These are advanced attacking tactics — vision precedes tactical execution.
+- These are advanced attacking tactics, vision precedes tactical execution.
 
 ## Topics covered
 - Vision training for hitters
@@ -38,5 +38,5 @@ Kerry MacDonald (Volleyball Canada Chief Sports Officer, former UBC Men's head c
 ## Access
 - Raw file: [[aoc-2024-macdonald-advanced-attacking-block]]
 - URL: https://www.theartofcoachingvolleyball.com/advanced-attacking-using-the-block/
-- Trust tier: 2 — AOC, Volleyball Canada leadership
+- Trust tier: 2: AOC, Volleyball Canada leadership
 - Ingested via: aoc-mcp on 2026-04-23

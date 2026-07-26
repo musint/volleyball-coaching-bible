@@ -16,13 +16,13 @@ trust-tier: 2
 # Passing the deep ball using the drop step
 
 ## Summary
-Christy Johnson-Lynch (Iowa State) teaches the drop-step for passing serves that rise over the passer's shoulder — a critical emergency technique for high deep serves that can't be played from a forward-facing platform.
+Christy Johnson-Lynch (Iowa State) teaches the drop-step for passing serves that rise over the passer's shoulder, a critical emergency technique for high deep serves that can't be played from a forward-facing platform.
 
 ## Key claims / ideas
 - When the ball goes past the left shoulder, the passer drops her left foot and angles the platform back to target.
 - The platform should come up to shoulder height on the high deep ball.
 - Keep arms straight; don't let the ball crowd the body or collapse the platform.
-- These reps need daily repetition — comfort on deep serves is a coached-in skill, not a natural default.
+- These reps need daily repetition, comfort on deep serves is a coached-in skill, not a natural default.
 
 ## Topics covered
 - Drop-step footwork
@@ -35,5 +35,5 @@ Christy Johnson-Lynch (Iowa State) teaches the drop-step for passing serves that
 ## Access
 - Raw file: [[aoc-2019-johnson-lynch-drop-step-deep]]
 - URL: https://www.theartofcoachingvolleyball.com/passing-the-deep-ball-using-the-drop-step/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

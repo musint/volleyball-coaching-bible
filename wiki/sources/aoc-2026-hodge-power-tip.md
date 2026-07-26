@@ -20,7 +20,7 @@ Penn State assistant coach Megan Hodge Easy breaks down legal technique and tact
 
 ## Key claims / ideas
 - Two legality keys: keep the ball in front of the body (not behind the ear), and contact with fingertips, not palm, to avoid being whistled.
-- Best deployed when setter-middle timing or connection is off — the power tip tolerates imperfect timing the way a full swing does not.
+- Best deployed when setter-middle timing or connection is off, the power tip tolerates imperfect timing the way a full swing does not.
 - No need to disguise it: speed and downward power make it genuinely hard to dig.
 - Training cue: use a basketball for reps to force hitters to generate more force through the fingertips.
 
@@ -36,5 +36,5 @@ Penn State assistant coach Megan Hodge Easy breaks down legal technique and tact
 ## Access
 - Raw file: [[aoc-2026-hodge-power-tip]]
 - URL: https://www.theartofcoachingvolleyball.com/perfecting-the-power-tip/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

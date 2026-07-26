@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Mike Sealy (UCLA '10-'22) and Russ Rose (Penn State '79-'21) present contrasting approaches to practice consequences. Sealy generally avoids punishments but will use consequences when focus lags. Rose ties consequence magnitude to margin of loss — lose by 10 reps, run 10 suicides — so "every play matters."
+Mike Sealy (UCLA '10-'22) and Russ Rose (Penn State '79-'21) present contrasting approaches to practice consequences. Sealy generally avoids punishments but will use consequences when focus lags. Rose ties consequence magnitude to margin of loss, lose by 10 reps, run 10 suicides, so "every play matters."
 
 ## Key claims / ideas
 

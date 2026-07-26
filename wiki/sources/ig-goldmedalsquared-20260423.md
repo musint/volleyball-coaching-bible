@@ -21,7 +21,7 @@ Profile-level entry for Gold Medal Squared's Instagram account, captured 2026-04
 
 ## Key claims / ideas
 
-- (None captured — fetch-blocked.)
+- (None captured, fetch-blocked.)
 
 ## Topics covered
 
@@ -37,5 +37,5 @@ Profile-level entry for Gold Medal Squared's Instagram account, captured 2026-04
 
 - Raw file: `raw/instagram/goldmedalsquared-20260423-profile.md`
 - URL: https://www.instagram.com/goldmedalsquared/
-- Trust tier: 3 — verified-account, fetch-blocked
+- Trust tier: 3, verified-account, fetch-blocked
 - **Corroboration required before heavy use.**

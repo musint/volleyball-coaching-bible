@@ -18,18 +18,18 @@ variations: [six-player-defense, emergency-pursuit]
 # Digging Lines
 
 ## Setup
-Form two lines of defenders in the back row — one behind zone 5, one behind zone 6 or zone 1. A coach stands on a box (or the court with a tosser feeding) at the opposite 3-meter line. Place a target at the setter position and a ball cart next to the coach. One shagger rotates off each dig.
+Form two lines of defenders in the back row, one behind zone 5, one behind zone 6 or zone 1. A coach stands on a box (or the court with a tosser feeding) at the opposite 3-meter line. Place a target at the setter position and a ball cart next to the coach. One shagger rotates off each dig.
 
 ## Execution
 1. First defender in each line shows platform and holds a low, loaded stance.
-2. Coach attacks or firmly tosses one ball at a time into the line's zone — alternate lines or stay on one line for a set count.
+2. Coach attacks or firmly tosses one ball at a time into the line's zone, alternate lines or stay on one line for a set count.
 3. Defender plays a forearm dig to the target, then sprints off to shag.
 4. Next defender steps in on the coach's cue; target controls the dig and drops it into the cart.
 5. Run for a time block (3-4 minutes per line) or a clean-dig count (8-12 good reps).
 
 ## Coaching points
 - Feet arrive first; the platform forms as the ball is released, not while moving.
-- Watch the hitter's arm and shoulder — read before you react.
+- Watch the hitter's arm and shoulder, read before you react.
 - Deflect hard-driven balls high and toward the middle of the court, not flat.
 - Eyes stay up through the contact; no ducking or turning away.
 - Between reps, reset posture low; fatigue collapses defensive stance first.

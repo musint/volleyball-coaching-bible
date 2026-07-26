@@ -16,7 +16,7 @@ trust-tier: 2
 # Setting the middle when the setter digs
 
 ## Summary
-Tod Mattox (The Bishop's School) argues the right-front hitter, not the libero, should set when the primary setter digs and you want to run a middle — liberos have a bad angle from center court to deliver a middle set.
+Tod Mattox (The Bishop's School) argues the right-front hitter, not the libero, should set when the primary setter digs and you want to run a middle, liberos have a bad angle from center court to deliver a middle set.
 
 ## Key claims / ideas
 - When the setter digs, the default "libero sets" pattern creates a bad angle for middle attacks.
@@ -36,5 +36,5 @@ Tod Mattox (The Bishop's School) argues the right-front hitter, not the libero, 
 ## Access
 - Raw file: [[aoc-2022-mattox-setting-middle-setter-dig]]
 - URL: https://www.theartofcoachingvolleyball.com/setting-middle-off-setter-dig/
-- Trust tier: 2 — AOC, Mattox offensive-systems series
+- Trust tier: 2: AOC, Mattox offensive-systems series
 - Ingested via: aoc-mcp on 2026-04-23

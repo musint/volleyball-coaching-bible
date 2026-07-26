@@ -16,7 +16,7 @@ trust-tier: 2
 # Defensive system: Man up defense
 
 ## Summary
-Russ Rose (Penn State) breaks down the Man Up (Middle Up / Setter Up) defense — a system that brings a back-row player forward behind the block to contain tips, roll shots, and off-speed attacks while also enabling faster offensive transition.
+Russ Rose (Penn State) breaks down the Man Up (Middle Up / Setter Up) defense, a system that brings a back-row player forward behind the block to contain tips, roll shots, and off-speed attacks while also enabling faster offensive transition.
 
 ## Key claims / ideas
 - Man Up (also Middle Up / Setter Up) puts a back-row player forward behind the block to take away tips, rolls, and off-speed shots.
@@ -38,5 +38,5 @@ Russ Rose (Penn State) breaks down the Man Up (Middle Up / Setter Up) defense �
 ## Access
 - Raw file: [[aoc-2026-up-defense]]
 - URL: https://www.theartofcoachingvolleyball.com/up-defense/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

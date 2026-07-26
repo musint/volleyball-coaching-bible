@@ -12,7 +12,7 @@ sources: [aoc-2017-rose-pennstate-prep, aoc-2013-mccutcheon-eisler-cauldron, aoc
 
 ## Context
 
-This is a mid-week practice during NCAA conference play — typically a Tuesday or Wednesday session heading into a Friday/Saturday match pair against a ranked conference opponent. Scout is broken down, video is tagged, and the session's job is to sharpen serve-pass-defend execution under pressure, not install anything new. See [[age-lens-college]] for the priorities that shape the time budget: full-systems execution, analytics-driven prep, and a daily competitive-cauldron construct. This plan feeds directly into [[match-prep]] — rotation-specific scouts are the strategic block's scaffolding. Rose's framing from Penn State applies: engineer the session to live longer in the scoring rotations you want and survive the ones you don't.
+This is a mid-week practice during NCAA conference play, typically a Tuesday or Wednesday session heading into a Friday/Saturday match pair against a ranked conference opponent. Scout is broken down, video is tagged, and the session's job is to sharpen serve-pass-defend execution under pressure, not install anything new. See [[age-lens-college]] for the priorities that shape the time budget: full-systems execution, analytics-driven prep, and a daily competitive-cauldron construct. This plan feeds directly into [[match-prep]]: rotation-specific scouts are the strategic block's scaffolding. Rose's framing from Penn State applies: engineer the session to live longer in the scoring rotations you want and survive the ones you don't.
 
 ## Learning objectives
 
@@ -26,34 +26,34 @@ This is a mid-week practice during NCAA conference play — typically a Tuesday 
 
 ### Warm-up (15 min)
 
-Open with 10 minutes of ball-in-hand [[dynamic-warmup-volleyball]] — volleyball-specific movement, platform and hand shape, pepper progressions, and short-court control. Kiraly's rule applies: warmups are practice, not pre-practice. Close with 5 minutes of [[jump-warmup]] to prime the CNS for max-effort blocking and swinging in the skill and competition blocks.
+Open with 10 minutes of ball-in-hand [[dynamic-warmup-volleyball]]: volleyball-specific movement, platform and hand shape, pepper progressions, and short-court control. Kiraly's rule applies: warmups are practice, not pre-practice. Close with 5 minutes of [[jump-warmup]] to prime the CNS for max-effort blocking and swinging in the skill and competition blocks.
 
 ### Skill development (25 min)
 
-10 minutes of [[weave-passing]] with live servers from behind the endline — rotate passing triads so starters and rotational subs both get pressure reps. Transition to 15 minutes of [[out-of-system-setting]] — setters run reps from outside the 3 m zone, with coaches tossing balls to the 10-foot line seams. Track second-ball placement grades aloud; this addresses the scout's tough-serve pressure.
+10 minutes of [[weave-passing]] with live servers from behind the endline, rotate passing triads so starters and rotational subs both get pressure reps. Transition to 15 minutes of [[out-of-system-setting]]: setters run reps from outside the 3 m zone, with coaches tossing balls to the 10-foot line seams. Track second-ball placement grades aloud; this addresses the scout's tough-serve pressure.
 
 ### Strategic (25 min)
 
-Split the court. Court A: 12 minutes of [[read-blocking-progression]] walking through the scout's quick-middle and pin-combo looks — bunch-read overlays where appropriate, seam closure drilled against the opponent's primary attacker. Court B: 13 minutes of [[hitting-vs-block]] — attackers read block and hit lines, angles, and tools the scout identifies. Rotate groups at the halfway mark. Slabe's thesis governs the block work: stuff for points, not funnel.
+Split the court. Court A: 12 minutes of [[read-blocking-progression]] walking through the scout's quick-middle and pin-combo looks, bunch-read overlays where appropriate, seam closure drilled against the opponent's primary attacker. Court B: 13 minutes of [[hitting-vs-block]]: attackers read block and hit lines, angles, and tools the scout identifies. Rotate groups at the halfway mark. Slabe's thesis governs the block work: stuff for points, not funnel.
 
 ### Competition (45 min)
 
-The cauldron block. 15 minutes of [[pressure-serving]] — zone-targeted serves to the opponent's weakest passing seam, grade scale 0-3 with every miss counted on the daily ranking. 15 minutes of [[six-player-defense]] focused on rotation 1 and the rotation following the tough-server, with serving shifting to the scout's server profile. Close with 15 minutes of [[wash-drill]] scored side-out-to-point — serve team wins two rallies (serve + transition point) to score; receive team wins one to wash. Rotations rotate on wash.
+The cauldron block. 15 minutes of [[pressure-serving]]: zone-targeted serves to the opponent's weakest passing seam, grade scale 0-3 with every miss counted on the daily ranking. 15 minutes of [[six-player-defense]] focused on rotation 1 and the rotation following the tough-server, with serving shifting to the scout's server profile. Close with 15 minutes of [[wash-drill]] scored side-out-to-point, serve team wins two rallies (serve + transition point) to score; receive team wins one to wash. Rotations rotate on wash.
 
 ### Cool-down (10 min)
 
-10 minutes of [[king-of-the-court]] at small-sided tempo — 3v3 or 4v4 on half-court, quick transitions, coach-fed balls. Closes the session on rhythm and touch rather than grind. Arm-care and mobility run after athletes clear the court, outside the 120-minute window.
+10 minutes of [[king-of-the-court]] at small-sided tempo: 3v3 or 4v4 on half-court, quick transitions, coach-fed balls. Closes the session on rhythm and touch rather than grind. Arm-care and mobility run after athletes clear the court, outside the 120-minute window.
 
 ## Coaching cues
 
-- "Scout is the standard" — every rep referenced to the opponent, not generic.
-- "Measure every touch" — Kiraly's Dunphy-quote rule, stats are the accountability layer.
-- "Seam to seam, seam to pin" — block footwork is the week's priority.
-- "Out-of-system is in-system with less time" — setters own the placement no matter the pass.
-- "Win the next ball" — transition discipline over long-rally heroics.
-- "Cauldron stays unified" — compete hard, hold the locker room.
-- "Process over result" — grade the decision, not the outcome.
-- "Transfer or cut it" — if a rep doesn't look like Friday, cut it.
+- "Scout is the standard", every rep referenced to the opponent, not generic.
+- "Measure every touch", Kiraly's Dunphy-quote rule, stats are the accountability layer.
+- "Seam to seam, seam to pin", block footwork is the week's priority.
+- "Out-of-system is in-system with less time", setters own the placement no matter the pass.
+- "Win the next ball", transition discipline over long-rally heroics.
+- "Cauldron stays unified", compete hard, hold the locker room.
+- "Process over result", grade the decision, not the outcome.
+- "Transfer or cut it", if a rep doesn't look like Friday, cut it.
 
 ## Variations
 
@@ -64,7 +64,7 @@ The cauldron block. 15 minutes of [[pressure-serving]] — zone-targeted serves 
 ## Adaptations by level
 
 - **Down to HS varsity:** replace [[out-of-system-setting]] with a simpler target-setting block; reduce [[pressure-serving]] grade scale to 0-2; shorten the competition block to 30 minutes to match HS conditioning base.
-- **Up to USA-NT or pro club:** extend [[wash-drill]] to 25 minutes, layer in rotation-specific wash variants tied to the scout, and add a post-practice 15-minute video debrief of session tags. The competitive-cauldron framing carries up without modification — it was built at this ceiling.
+- **Up to USA-NT or pro club:** extend [[wash-drill]] to 25 minutes, layer in rotation-specific wash variants tied to the scout, and add a post-practice 15-minute video debrief of session tags. The competitive-cauldron framing carries up without modification, it was built at this ceiling.
 
 ## Sources
 

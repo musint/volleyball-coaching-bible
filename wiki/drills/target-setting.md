@@ -24,18 +24,18 @@ A hoop suspended from the antenna at setter-target height, or a large bucket on 
 
 Coach tosses three pass shapes in a pre-announced sequence:
 
-1. **Good pass** — clean in-system arrival, ball drops to setter's hands at waist-to-chest height two feet off the net.
-2. **Seam pass** — ball arrives between setter and the zone-1 area, forcing a short right-side shuffle before contact.
-3. **High overthrow** — ball passed above setter's forehead, forcing a vertical gather and a higher contact point.
+1. **Good pass**: clean in-system arrival, ball drops to setter's hands at waist-to-chest height two feet off the net.
+2. **Seam pass**: ball arrives between setter and the zone-1 area, forcing a short right-side shuffle before contact.
+3. **High overthrow**: ball passed above setter's forehead, forcing a vertical gather and a higher contact point.
 
 Setter delivers each set into the target hoop or bucket. Ten contacts in each pass shape. Track make rate per shape. Rotate setters after 30 reps.
 
 ## Coaching points
 
-- Same hand-hinge release on all three pass shapes. The pass is the variable; the hands are the constant. Dunning's hand-hinge framing — contact on the sides of the ball, wrist hinge at release — is the mechanic being trained.
+- Same hand-hinge release on all three pass shapes. The pass is the variable; the hands are the constant. Dunning's hand-hinge framing, contact on the sides of the ball, wrist hinge at release, is the mechanic being trained.
 - Footwork adjusts to the pass, not the hands. Beat the ball to the target zone, square up, set.
 - Held follow-through on every rep. The setter's hands should still be pointed at the target when the ball enters the hoop.
-- Miss pattern tells you the error. Short and low — hands under the ball, no leg drive. Long and flat — contact behind the ball instead of on the sides. High and wobbly — hands met the ball, did not wrap it.
+- Miss pattern tells you the error. Short and low, hands under the ball, no leg drive. Long and flat, contact behind the ball instead of on the sides. High and wobbly, hands met the ball, did not wrap it.
 - Track make rate. Setters who cannot make 7 of 10 on a good pass do not have the mechanic yet; regress to partner sets.
 
 ## Variations

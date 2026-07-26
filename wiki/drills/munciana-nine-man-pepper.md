@@ -26,12 +26,12 @@ variations: [munciana-full-corner-pepper, cooperative-25-goal]
 3. Front-row hitter swings a **controlled** ball at the three defenders across the net.
 4. **[00:51:23]** "After they hit, they run under." The hitter sprints under the net and joins the defensive side.
 5. Defenders stay put; they dig the cross-court ball.
-6. Repeat continuously — the side that just hit becomes the digging side; the side that just dug now hits.
+6. Repeat continuously, the side that just hit becomes the digging side; the side that just dug now hits.
 7. Mike's frame: **[00:51:31]** "My defenders stay put... she wants to hit a controlled ball. And you see them running under."
 
 ## Coaching points
 - Hit at the defender, not away. **[00:51:31]** "She wants to hit a controlled ball." Ball control is the whole drill.
-- Cross-court is the defended ball — defenders read the angle as standard cross.
+- Cross-court is the defended ball, defenders read the angle as standard cross.
 - Run under fast: if the hitter is late under the net the defenders pile up on one side; the rotation breaks.
 - Move your feet on every dig. **[00:51:43]** "Gotta move your feet."
 

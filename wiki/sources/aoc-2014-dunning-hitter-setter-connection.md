@@ -20,9 +20,9 @@ John Dunning (Stanford '01-'16) describes a Stanford drill where tosses come to 
 ## Key claims / ideas
 
 - Hitter-setter connection is a specific training target, not an emergent property.
-- Varied toss locations force setter location-awareness under pressure — the setter cannot pre-plan.
+- Varied toss locations force setter location-awareness under pressure, the setter cannot pre-plan.
 - Rip (front set) and slide (back set) require different setter and hitter mechanics; a drill should force both interchangeably.
-- Hitters must read the toss to adjust their approach — pre-scripted approaches fail against real passes.
+- Hitters must read the toss to adjust their approach, pre-scripted approaches fail against real passes.
 - Stanford philosophy: game-like drills over static hitting lines.
 
 ## Topics covered

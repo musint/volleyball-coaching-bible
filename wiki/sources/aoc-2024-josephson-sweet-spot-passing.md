@@ -16,7 +16,7 @@ trust-tier: 2
 # The 'sweet spot' is the foundation of good passing
 
 ## Summary
-Ben Josephson: the foundation of good passing is contacting the ball on the "sweet spot" — the fleshy part of the forearms. Target 8/10 passes on the sweet spot before shifting focus to location; once sweet-spotting is mastered, accuracy follows.
+Ben Josephson: the foundation of good passing is contacting the ball on the "sweet spot", the fleshy part of the forearms. Target 8/10 passes on the sweet spot before shifting focus to location; once sweet-spotting is mastered, accuracy follows.
 
 ## Key claims / ideas
 - Best passers "sweet spot" the ball on the fleshy part of the forearm
@@ -35,5 +35,5 @@ Ben Josephson: the foundation of good passing is contacting the ball on the "swe
 ## Access
 - Raw file: [[aoc-2024-josephson-sweet-spot-passing]]
 - URL: https://www.theartofcoachingvolleyball.com/the-sweet-spot-is-the-foundation-of-good-passing/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

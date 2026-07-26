@@ -16,10 +16,10 @@ trust-tier: 2
 # Practicing passing angles for serve receive
 
 ## Summary
-Jim Stone: rehearse every passing situation, not just balls into the platform. Angling the platform to the target — both right-to-left and left-to-right motions — must be trained based on where the serve lands relative to the body.
+Jim Stone: rehearse every passing situation, including balls away from the platform. Angling the platform to the target, both right-to-left and left-to-right motions, must be trained based on where the serve lands relative to the body.
 
 ## Key claims / ideas
-- Avoid drills that deliver serves straight into the platform — they skip the real challenge
+- Avoid drills that deliver serves straight into the platform, they skip the real challenge
 - Train both right-to-left and left-to-right platform-angle passing motions
 - Angle sharpness depends on depth and location of the serve
 - Passing in serve-receive is mostly about angles, not force
@@ -37,5 +37,5 @@ Jim Stone: rehearse every passing situation, not just balls into the platform. A
 ## Access
 - Raw file: [[aoc-2020-stone-passing-angles]]
 - URL: https://www.theartofcoachingvolleyball.com/practicing-passing-angles/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

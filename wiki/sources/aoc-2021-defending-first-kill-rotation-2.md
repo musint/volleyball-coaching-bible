@@ -22,7 +22,7 @@ Mike Sealy and Salima Rockwell continue their rotation-by-rotation defensive bre
 - Opponent's attack set in R2 for this breakdown: slide (middle) + two-ball (RS) + outside.
 - Three defensive considerations:
   - (1) Decide who the biggest threat is and shade the block toward that attacker.
-  - (2) Use one-on-one blocking when necessary — suboptimal but unavoidable if all attackers are threats; requires aggressive back-row defense to compensate.
+  - (2) Use one-on-one blocking when necessary, suboptimal but unavoidable if all attackers are threats; requires aggressive back-row defense to compensate.
   - (3) Pin blockers must signal line vs. angle clearly (hand signals) so floor defenders can position around the seam in a one-on-one scheme.
 - Video-backed (Vimeo/AOC Premium).
 
@@ -38,5 +38,5 @@ Mike Sealy and Salima Rockwell continue their rotation-by-rotation defensive bre
 ## Access
 - Raw file: [[aoc-2021-defending-first-kill-rotation-2]]
 - URL: https://www.theartofcoachingvolleyball.com/ro-2-defending-first-kill/
-- Trust tier: 2 — AOC Premium, named coaches (Sealy UCLA, Rockwell USA)
+- Trust tier: 2: AOC Premium, named coaches (Sealy UCLA, Rockwell USA)
 - Ingested via: aoc-mcp on 2026-04-23

@@ -22,7 +22,7 @@ Tod Mattox (The Bishop's School) flags overhead digging as an under-taught skill
 - Overhead digging is under-taught in women's volleyball relative to forearm defense.
 - Key 1: maximize hand surface area.
 - Key 2: hands in front of the forehead (not above, not behind).
-- Key 3: blockers hands — firm wrists and hands — not the soft-wrist setters hands.
+- Key 3: blockers hands, firm wrists and hands, not the soft-wrist setters hands.
 
 ## Topics covered
 

@@ -21,7 +21,7 @@ This is AOC curricular content; defer to qualified AT/CSCS/MD on programming spe
 
 - Injured players cycle through predictable mental states; knowing them helps coaches respond.
 - Early message to every team: "injuries happen; heal properly rather than rushing." Pre-empts the guilt narrative.
-- Give injured players specific jobs and inclusion in practice — "useless" feeling is mitigated by contribution.
+- Give injured players specific jobs and inclusion in practice, "useless" feeling is mitigated by contribution.
 - Return-to-play confidence is a distinct recovery phase; the first jump back is often terrifying.
 - Coach's "confidence and support" may be what the player needs most to feel ready.
 - "Volleyball is a game. Fun and smiles go a long way."

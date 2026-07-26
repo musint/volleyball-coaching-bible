@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Karch Kiraly — USA Volleyball Official Coach Bio"
+title: "Karch Kiraly, USA Volleyball Official Coach Bio"
 author: "USA Volleyball"
 year: 2024
 citation-key: kiraly-2024-usav-bio
@@ -13,7 +13,7 @@ schools: [usa-volleyball-cap]
 trust-tier: 1
 ---
 
-# Karch Kiraly — USA Volleyball Official Coach Bio
+# Karch Kiraly: USA Volleyball Official Coach Bio
 
 ## Summary
 
@@ -43,4 +43,4 @@ The page also summarizes his playing career (FIVB greatest player of the 20th ce
 ## Access
 - Raw file: `raw/articles/karch-usav-bio.md`
 - URL: https://usavolleyball.org/coach/karch-kiraly/
-- Trust tier: 1 — official USA Volleyball–hosted biography; canonical for factual coaching-resume claims.
+- Trust tier: 1, official USA Volleyball-hosted biography; canonical for factual coaching-resume claims.

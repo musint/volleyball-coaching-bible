@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Oriental Witches — Wikipedia"
+title: "Oriental Witches, Wikipedia"
 author: "Wikipedia contributors"
 year: 2026
 citation-key: witches-of-orient-wikipedia
@@ -13,7 +13,7 @@ schools: [japanese-training]
 trust-tier: 2
 ---
 
-# Oriental Witches — Wikipedia
+# Oriental Witches: Wikipedia
 
 ## Summary
 Wikipedia article on the Nichibo Kaizuka / Japan 1964 women's volleyball team.
@@ -26,7 +26,7 @@ decision and Daimatsu's coaching appointment, while sources that cite 1954
 are referring to the team's official establishment.
 
 Also documents the 1961 European tour, on which Nichibo Kaizuka won 24
-consecutive matches against national teams — the precursor to the 175-match
+consecutive matches against national teams, the precursor to the 175-match
 winning streak that followed through 1964.
 
 Does not contain the NHK television-ratings figure.
@@ -48,4 +48,4 @@ Does not contain the NHK television-ratings figure.
 ## Access
 - Raw file: `raw/articles/witches-of-orient-wikipedia.md`
 - URL: https://en.wikipedia.org/wiki/Oriental_Witches
-- Trust tier: 2 — Wikipedia article; institutional dates independently verifiable against company records.
+- Trust tier: 2: Wikipedia article; institutional dates independently verifiable against company records.

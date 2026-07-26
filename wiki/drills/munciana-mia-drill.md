@@ -18,12 +18,12 @@ variations: [munciana-five-and-five-setting, munciana-two-man-out-of-system]
 # Munciana Mia Drill (Defender-Sets-Out-of-System)
 
 ## Setup
-Hitters split left and right (any position — middles, outsides, opposites all rotate through both). Setters stack in one line, DS's in another. Coach has a ball cart on the sideline. Two adjacent back-row defenders work each side.
+Hitters split left and right (any position, middles, outsides, opposites all rotate through both). Setters stack in one line, DS's in another. Coach has a ball cart on the sideline. Two adjacent back-row defenders work each side.
 
 ## Execution
 1. Coach chops or hits a ball into the back court as the first ball.
 2. **The defender who digs the ball is the same player who must set it.** That forces the rep into out-of-system territory.
-3. Set a hittable ball (the goal: hittable, not perfect — see coaching points).
+3. Set a hittable ball (the goal: hittable, not perfect, see coaching points).
 4. Hitters approach and hit cross-court line, then shag.
 5. Setters cycle through to the back of the setter line; DS's stay defensive.
 

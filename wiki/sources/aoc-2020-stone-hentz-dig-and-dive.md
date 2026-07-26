@@ -15,11 +15,11 @@ trust-tier: 2
 
 ## Summary
 
-Jim Stone breaks down Morgan Hentz's "dig and dive" — an emergency play where the defender lunges to the ball, keeps shoulders up, digs, then falls into a chest dive after contact to protect the body. Stone emphasizes this move doesn't come naturally to young players; coaches must explicitly train aggressive pursuit of every ball.
+Jim Stone breaks down Morgan Hentz's "dig and dive", an emergency play where the defender lunges to the ball, keeps shoulders up, digs, then falls into a chest dive after contact to protect the body. Stone emphasizes this move doesn't come naturally to young players; coaches must explicitly train aggressive pursuit of every ball.
 
 ## Key claims / ideas
 
-- The "dig and dive" order matters: dig FIRST, then dive to absorb the fall — not the reverse.
+- The "dig and dive" order matters: dig FIRST, then dive to absorb the fall, not the reverse.
 - Drop hips, keep shoulders up while lunging laterally.
 - Chest dive after contact protects the body from crashing on the floor.
 - Young players don't do this naturally; coaches must explicitly cue pursuit of every single ball, including "impossible" ones.

@@ -23,7 +23,7 @@ Coach Connection LIVE session with AOC founders Russ Rose (7x NCAA Champion at P
 - Defensive strategy behind a short setter requires specific structural adjustments.
 - Pre-match speech against a much better opponent has a specific content profile.
 - Keys to training reading at the club level are different from college-level reading training.
-- Sideline coaching during matches has a philosophy, not just an instinct — attributable by coach.
+- Sideline coaching during matches has a philosophy behind the instinct, attributable by coach.
 - Rules for when to call a timeout are explicit decision criteria.
 - Integrating inexperienced and experienced players in practice and games is a design problem.
 - "Getting more sets to the middle" is a game-plan choice that requires setter conversation and rotation analysis.

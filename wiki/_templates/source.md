@@ -16,7 +16,7 @@ trust-tier: <1|2|3>
 # <title>
 
 ## Summary
-<2–3 paragraph summary of what this source covers and why it matters.>
+<2 to 3 paragraph summary of what this source covers and why it matters.>
 
 ## Key claims / ideas
 <Bulleted list of the source's most important contributions. Each point can be
@@ -31,4 +31,4 @@ cross-linked from wiki pages via `[<citation-key>]`.>
 ## Access
 - Raw file: `<raw-file>`
 - URL: <url>
-- Trust tier: <1|2|3> — <one-line rationale>
+- Trust tier: <1|2|3>, <one-line rationale>

@@ -16,7 +16,7 @@ trust-tier: 2
 # Teaching passing fundamentals with clear cues and daily drills
 
 ## Summary
-Amanda Berkley (Loyola Chicago head coach) teaches passing with a seven "S" cues framework — Soon, Simple, Strong, Stick, Shoulders, Space, Steps — anchored by her daily "Karch Kiraly" drill and a 6v6 "Susie" pass-rating game.
+Amanda Berkley (Loyola Chicago head coach) teaches passing with a seven "S" cues framework: Soon, Simple, Strong, Stick, Shoulders, Space, Steps, anchored by her daily "Karch Kiraly" drill and a 6v6 "Susie" pass-rating game.
 
 ## Key claims / ideas
 - Seven S cues for passing: Soon (early platform), Simple (clean, minimal), Strong (firm, can't be pushed), Stick (hold platform), Shoulders (down, ball forward), Space (gap between platform and body), Steps (move feet)
@@ -37,5 +37,5 @@ Amanda Berkley (Loyola Chicago head coach) teaches passing with a seven "S" cues
 ## Access
 - Raw file: [[aoc-2026-berkley-perfecting-passing]]
 - URL: https://www.theartofcoachingvolleyball.com/perfecting-passing/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -19,9 +19,9 @@ trust-tier: 2
 Kiraly's 4-key framework for teaching the forearm pass. Article is video-backed (Vimeo embed) with a concise bullet-list summary of the four technical priorities he teaches. Tagged by AOC as Passing Technique / Beach Volleyball / Premium Content / For Players / Videos. Published 2013-08-22.
 
 ## Key claims / ideas
-- Four keys Kiraly teaches for the forearm pass — the source page body enumerates them (see raw file for verbatim article text).
+- Four keys Kiraly teaches for the forearm pass, the source page body enumerates them (see raw file for verbatim article text).
 - Framed as a 2-minute instructional featurette from AOC's Premium catalog.
-- Kiraly's approach blends beach-volleyball reading-first emphasis with indoor platform mechanics — the video-backed delivery pairs verbal keys with on-court demonstration.
+- Kiraly's approach blends beach-volleyball reading-first emphasis with indoor platform mechanics, the video-backed delivery pairs verbal keys with on-court demonstration.
 
 ## Topics covered
 - Forearm-pass technique (fundamentals)
@@ -34,5 +34,5 @@ Kiraly's 4-key framework for teaching the forearm pass. Article is video-backed 
 ## Access
 - Raw file: 
 - URL: https://www.theartofcoachingvolleyball.com/karch-kiralys-4-keys-to-the-forearm-pass/
-- Trust tier: 2 — AOC Premium, named author (Karch Kiraly), authoritative coach
+- Trust tier: 2: AOC Premium, named author (Karch Kiraly), authoritative coach
 - Ingested via: aoc-mcp on 2026-04-23 (first E2E ingest)

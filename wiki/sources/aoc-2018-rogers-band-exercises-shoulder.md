@@ -19,10 +19,10 @@ This is AOC curricular content; defer to qualified AT/CSCS/MD on programming spe
 
 ## Key claims / ideas
 
-- Shoulder injuries don't require heroic-volume causation — rotator-cuff tissue is fragile enough to tear during trivial daily tasks.
+- Shoulder injuries don't require heroic-volume causation, rotator-cuff tissue is fragile enough to tear during trivial daily tasks.
 - Rehab can substitute for surgery in some labral tears if committed to consistent prehab.
 - Pre-practice and pre-match band work is how Rogers maintained his hitting shoulder through Olympic-level competition.
-- Applies to youth as strongly as to adults — "teenage athletes can hurt shoulders as easily as 35-year-olds."
+- Applies to youth as strongly as to adults, "teenage athletes can hurt shoulders as easily as 35-year-olds."
 - Specific 5-exercise routine: band pull-ups (2 variants), asymmetric cross-body band pull, behind-the-head down-the-line band motion, cross-body band motion.
 
 ## Topics covered

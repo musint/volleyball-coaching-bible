@@ -16,14 +16,14 @@ trust-tier: 2
 # Training good armswing technique for more powerful hitting
 
 ## Summary
-Mark Barnard (Oregon State) isolates the arm-swing attributes that maximize hitting power — loaded arms behind the body, non-hitting shoulder toward the net, back-and-open elbow — while warning against piking.
+Mark Barnard (Oregon State) isolates the arm-swing attributes that maximize hitting power, loaded arms behind the body, non-hitting shoulder toward the net, back-and-open elbow, while warning against piking.
 
 ## Key claims / ideas
 - Post-approach load: both arms behind the body, parallel to the floor.
-- Non-hitting shoulder is closer to the net — positions the body to rotate into the contact.
+- Non-hitting shoulder is closer to the net, positions the body to rotate into the contact.
 - Elbow starts back and open; starting position beyond that varies; elbow naturally rises through extension.
 - Torque (from body rotation) is the primary power source, combined with arm action.
-- Piking is explicitly discouraged — it lowers the contact point and sacrifices power.
+- Piking is explicitly discouraged, it lowers the contact point and sacrifices power.
 - Individual variation is expected, but these common attributes are the invariants.
 
 ## Topics covered
@@ -38,5 +38,5 @@ Mark Barnard (Oregon State) isolates the arm-swing attributes that maximize hitt
 ## Access
 - Raw file: [[aoc-2023-barnard-armswing-technique]]
 - URL: https://www.theartofcoachingvolleyball.com/training-good-armswing-technique-for-more-powerful-hitting/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

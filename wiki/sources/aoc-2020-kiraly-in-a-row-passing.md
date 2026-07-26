@@ -16,7 +16,7 @@ trust-tier: 2
 # Karch's "in a row" passing drill to simulate match stress
 
 ## Summary
-Karch Kiraly's match-pressure passing drill: set a consecutive perfect-pass target (2–8 based on level) and a serve budget to hit it (20 serves in the demo for 4-in-a-row). Miss the target = physical challenge.
+Karch Kiraly's match-pressure passing drill: set a consecutive perfect-pass target (2 to 8 based on level) and a serve budget to hit it (20 serves in the demo for 4-in-a-row). Miss the target = physical challenge.
 
 ## Key claims / ideas
 - Consecutive-perfect-pass targets simulate match stress
@@ -38,5 +38,5 @@ Karch Kiraly's match-pressure passing drill: set a consecutive perfect-pass targ
 ## Access
 - Raw file: [[aoc-2020-kiraly-in-a-row-passing]]
 - URL: https://www.theartofcoachingvolleyball.com/karchs-in-a-row-passing-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

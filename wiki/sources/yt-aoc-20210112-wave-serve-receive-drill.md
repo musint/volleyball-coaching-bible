@@ -22,7 +22,7 @@ AoC-distributed drill from Karin Keeney (Hebron HS, Texas), published 2021-01-12
 ## Key claims / ideas
 
 - Three groups of three passers run a fast-paced serve-receive: one team serves, one receives, one mirrors on the other side.
-- Servers may not target the same spot twice in a row — penalty (burpees, pushups) for repeats. This forces serve variety.
+- Servers may not target the same spot twice in a row, penalty (burpees, pushups) for repeats. This forces serve variety.
 - Receivers must hit 10 quality passes to target; overpasses or drops reset the count to zero.
 - Rotate receivers (L->R, R->M, M->L) every three successful passes so every player sees every angle.
 - Two-minute rounds; consequence conditioning if a team doesn't reach 10.
@@ -43,5 +43,5 @@ AoC-distributed drill from Karin Keeney (Hebron HS, Texas), published 2021-01-12
 
 - Raw file: `raw/transcripts/yt-aoc-20210112-wave-serve-receive-drill.md`
 - URL: https://www.theartofcoachingvolleyball.com/wave-serve-receive-drill/
-- Trust tier: 3 — verified-account (AoC), content drawn from public companion article; underlying YouTube transcript not captured
+- Trust tier: 3, verified-account (AoC), content drawn from public companion article; underlying YouTube transcript not captured
 - **Corroboration required before heavy use.**

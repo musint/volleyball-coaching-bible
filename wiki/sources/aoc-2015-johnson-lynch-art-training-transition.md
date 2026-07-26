@@ -19,7 +19,7 @@ Christy Johnson-Lynch (Iowa State) presents her go-to transition drills: hitter-
 
 ## Key claims / ideas
 
-- Competitive format is core to transition training — Johnson-Lynch explicitly loves competition in transition drills.
+- Competitive format is core to transition training: Johnson-Lynch explicitly loves competition in transition drills.
 - Hitter-vs-hitter trains the block-to-attack transition chain specifically.
 - In-a-row drills train consecutive-kill habit under fatigue.
 - Coach-on-six drills isolate defensive-to-offensive transition out of a specific defense.

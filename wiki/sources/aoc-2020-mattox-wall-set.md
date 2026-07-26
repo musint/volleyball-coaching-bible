@@ -16,7 +16,7 @@ trust-tier: 2
 # Wall set drill
 
 ## Summary
-Mattox's wall-set drill — high-volume setting reps, scalable to any level. Emphasis on balance and ball control during setting.
+Mattox's wall-set drill, high-volume setting reps, scalable to any level. Emphasis on balance and ball control during setting.
 
 ## Key claims / ideas
 - Wall set delivers high-volume reps.
@@ -33,6 +33,5 @@ Mattox's wall-set drill — high-volume setting reps, scalable to any level. Emp
 ## Access
 - Raw file: [[aoc-2020-mattox-wall-set]]
 - URL: https://www.theartofcoachingvolleyball.com/wall-set-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

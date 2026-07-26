@@ -18,7 +18,7 @@ variations: [serve-targets, zone-serving]
 # Jump Serve Progression
 
 ## Setup
-One or two servers at the endline with a feeder and cart. Focused skill block — no crossing servers. Post the four stages on a whiteboard:
+One or two servers at the endline with a feeder and cart. Focused skill block, no crossing servers. Post the four stages on a whiteboard:
 
 1. Standing float
 2. One-step float
@@ -37,7 +37,7 @@ Each server works the lowest stage they cannot yet execute cleanly. A stage is "
 ## Coaching points
 - Toss is the gate at every stage. Isolate toss reps whenever contact degrades.
 - Step timing: weight transfer completes as contact happens (Lift-Step-Swing). When rhythm breaks, reset the stage.
-- Stage 4 uses the hitter's approach — same footwork, same arm pull — linking serving to hitting-approach training.
+- Stage 4 uses the hitter's approach, same footwork, same arm pull, linking serving to hitting-approach training.
 - Do not skip stages. The cost of installing bad timing at stage 4 is rebuilding from stage 2.
 
 ## Variations

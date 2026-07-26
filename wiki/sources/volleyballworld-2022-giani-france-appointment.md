@@ -13,7 +13,7 @@ schools: [french-school, italian-school]
 trust-tier: 2
 ---
 
-# Andrea Giani at the Helm of France — Volleyball World (FIVB), 31 March 2022
+# Andrea Giani at the Helm of France: Volleyball World (FIVB), 31 March 2022
 
 ## Summary
 
@@ -24,8 +24,8 @@ FIVB / Volleyball World announcement of Andrea Giani's appointment as France men
 - Giani's mandate runs through the Paris 2024 Olympic Games.
 - Giani at appointment: 51 years old; prior national-team postings Slovenia (2015-2016) and Germany (2017-2021).
 - Stated objective: prepare France physically and technically with the goal "always to win," especially at Paris 2024.
-- On the player pool: "There is a large pool of very high-level players in France, who play in big clubs, and this will allow me to manage the team in a timely manner depending on the competitions" — explicit acknowledgement that France's Pro Ligue plus French players in international clubs (Italian Serie A, Polish PlusLiga) anchors the program.
-- Giani's framing: France is "this world-class team, the reigning Olympic champions, who have the potential to win all the competitions in which they participate" — sets the program's expectation as winning every event entered, not just Paris 2024.
+- On the player pool: "There is a large pool of very high-level players in France, who play in big clubs, and this will allow me to manage the team in a timely manner depending on the competitions", explicit acknowledgement that France's Pro Ligue plus French players in international clubs (Italian Serie A, Polish PlusLiga) anchors the program.
+- Giani's framing: France is "this world-class team, the reigning Olympic champions, who have the potential to win all the competitions in which they participate", sets the program's expectation as winning every event entered, Paris 2024 included.
 
 ## Topics covered
 
@@ -42,5 +42,5 @@ FIVB / Volleyball World announcement of Andrea Giani's appointment as France men
 
 - Raw file: `giani-2022-volleyballworld-france-appointment`
 - URL: https://en.volleyballworld.com/news/andrea-giani-at-the-helm-of-france
-- Trust tier: 2 — FIVB / Volleyball World federation media
+- Trust tier: 2: FIVB / Volleyball World federation media
 - Ingested via: webfetch on 2026-04-25

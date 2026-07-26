@@ -45,20 +45,20 @@ Run 20 reps. Score each rep on two axes: did the middle read the cue
 correctly, and did the pins react to the commit on time.
 
 ## Coaching points
-Commit is not a guess — it is a response to a specific cue decided on
+Commit is not a guess, it is a response to a specific cue decided on
 before the rally. A middle who commits on feeling gets baited; one who
 never commits gets beat on the quick. Commit is a weapon against the
 opponent's best hitter or their fast 1-set, not a default posture. Pins
 see the middle's feet in peripheral vision and react.
 
 ## Variations
-Rotate the cue mid-drill — switch from eye-tell to tempo-tell after 10
+Rotate the cue mid-drill, switch from eye-tell to tempo-tell after 10
 reps. Add a quick-set fake where the setter back-sets the right side;
 the commit is now punished and the pin rebuild must be sharp.
 
 ## Adaptations by level
 14U: skip this drill. Commit blocking demands reading and team
-coordination that aren't in place yet. HS: run with a single cue only —
+coordination that aren't in place yet. HS: run with a single cue only, 
 tempo-tell is easier than eye-tell. College: run both cues with setter
 disguise.
 

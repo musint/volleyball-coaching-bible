@@ -38,6 +38,5 @@ Blake Rawlins (Omaha Supernovas; Volleyball Club Nebraska) lays out a tempo-and-
 ## Access
 - Raw file: [[aoc-2026-rawlins-setter-hitter-timing]]
 - URL: https://www.theartofcoachingvolleyball.com/training-the-setter-hitter-connection/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

@@ -16,10 +16,10 @@ trust-tier: 2
 # 3-person pepper: Find your setter
 
 ## Summary
-Karch Kiraly's 3-person pepper variation: middle setter moves each rep (behind, lateral, close) forcing diggers to actually find the setter, not just pop the ball up.
+Karch Kiraly's 3-person pepper variation: middle setter moves each rep (behind, lateral, close) forcing diggers to actually find the setter instead of popping the ball up.
 
 ## Key claims / ideas
-- One setter between two passer/hitters — classic 3-pepper shape.
+- One setter between two passer/hitters, classic 3-pepper shape.
 - Setter varies position every rep: behind, lateral off-court, or close.
 - Diggers must direct their dig precisely to the moving setter.
 - Trains accountability on dig direction.
@@ -35,5 +35,5 @@ Karch Kiraly's 3-person pepper variation: middle setter moves each rep (behind, 
 ## Access
 - Raw file: [[aoc-2024-kiraly-3-person-pepper-setter]]
 - URL: https://www.theartofcoachingvolleyball.com/3-person-pepper-find-your-setter/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

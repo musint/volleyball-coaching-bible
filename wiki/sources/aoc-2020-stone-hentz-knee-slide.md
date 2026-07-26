@@ -21,7 +21,7 @@ Jim Stone breaks down Hentz's knee slide for digging short tips/off-speed attack
 
 - The knee slide is the tool for digging short off-speed attacks (tips, rolls) after charging forward from base.
 - Core tightness is what preserves the upright torso through the deceleration.
-- Dropping knees to the floor mid-slide maintains platform angle — she doesn't crumple.
+- Dropping knees to the floor mid-slide maintains platform angle, she doesn't crumple.
 - Reading the attacker's arm constraint (forced to tip) is what triggers the charge; without that read, she stays in base.
 
 ## Topics covered

@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Gold Medal Squared — About Us"
+title: "Gold Medal Squared, About Us"
 author: "Gold Medal Squared"
 year: null
 citation-key: gms-nd-about-us
@@ -13,14 +13,14 @@ schools: [gold-medal-squared]
 trust-tier: 2
 ---
 
-# Gold Medal Squared — About Us
+# Gold Medal Squared: About Us
 
 ## Summary
 The GMS organization's About page identifies Gold Medal Squared as founded
 in 1985 by Carl McGown with Hall of Fame coaches Marv Dunphy and Doug Beal.
 The page frames the GMS methodology as "simple, science-based" and
 tested across roughly four decades. Its main utility as a source is that it
-enumerates the current GMS coaching roster — a prosopography of the
+enumerates the current GMS coaching roster, a prosopography of the
 contemporary GMS network.
 
 The current roster (as of 2026-04-23) includes Carl McGown's son Chris
@@ -51,5 +51,5 @@ Cal State Bakersfield, Rob Nielson at Utah State).
 ## Access
 - Raw file: `raw/articles/gms-about-us-staff.md`
 - URL: https://www.goldmedalsquared.com/about-us
-- Trust tier: 2 — first-party organizational self-description. Reliable for
+- Trust tier: 2, first-party organizational self-description. Reliable for
   roster/lineage facts; promotional for philosophy claims.

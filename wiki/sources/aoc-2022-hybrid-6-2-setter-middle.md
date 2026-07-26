@@ -36,5 +36,5 @@ Tod Mattox details a hybrid 6-2 where setters sub for middles (rather than the u
 ## Access
 - Raw file: [[aoc-2022-hybrid-6-2-setter-middle]]
 - URL: https://www.theartofcoachingvolleyball.com/hybrid-systems-6-2-setter-middle-sub/
-- Trust tier: 2 — AOC, systems/strategy
+- Trust tier: 2: AOC, systems/strategy
 - Ingested via: aoc-mcp on 2026-04-23

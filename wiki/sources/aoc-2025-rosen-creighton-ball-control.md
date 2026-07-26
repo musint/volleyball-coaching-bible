@@ -19,12 +19,12 @@ Brian Rosen (Creighton) shares five ball-control drills his program uses to set 
 
 ## Key claims / ideas
 
-- Early touches matter — the first reps of practice set the tone for ball-control quality the rest of the day.
+- Early touches matter, the first reps of practice set the tone for ball-control quality the rest of the day.
 - Competitive energy + clear communication are the non-technical backbone of first-contact quality.
 - Four-corner passing uses multiple angles, movement patterns, and time pressure to hold precision under load.
 - 1v1 ladder tournament forces aggressive second contacts and shot variety on tiny courts.
 - Serve-receive relays add movement and decision-making under speed to passing training.
-- Each drill is tunable for age, team size, and environment — a pattern rather than a single prescription.
+- Each drill is tunable for age, team size, and environment, a pattern rather than a single prescription.
 
 ## Topics covered
 
@@ -36,7 +36,7 @@ Brian Rosen (Creighton) shares five ball-control drills his program uses to set 
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``ball-control`` hub, `[[passing-forearm]]`, `[[drills/four-corner-passing]]`, `[[drills/1v1-ladder]]`, `[[drills/serve-receive-relay]]`, and `[[brian-rosen]]` profile.
+Forward-reference, to be cited on ``ball-control`` hub, `[[passing-forearm]]`, `[[drills/four-corner-passing]]`, `[[drills/1v1-ladder]]`, `[[drills/serve-receive-relay]]`, and `[[brian-rosen]]` profile.
 
 ## Access
 

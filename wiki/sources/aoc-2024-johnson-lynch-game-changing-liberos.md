@@ -22,7 +22,7 @@ Christy Johnson-Lynch (Iowa State) and Kirsten Bernthal Booth assert that a grea
 - A great libero ranks alongside a great setter as the two most critical positional hires on a team.
 - Core libero attributes: platform / ball handling, reaction time, consistency, second-ball setting, serve toughness, leadership, resilience.
 - Libero training must explicitly cover serve-receive reading and where to position the libero on the court within the formation.
-- Libero development requires reps across ball-control, passing, defensive, and setting categories — not just passing.
+- Libero development requires reps across ball-control, passing, defensive, and setting categories.
 - Leadership is a trained skill for the libero, not an incidental one.
 
 ## Topics covered

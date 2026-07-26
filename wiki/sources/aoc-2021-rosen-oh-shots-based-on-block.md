@@ -22,7 +22,7 @@ Michigan's Mark Rosen drills OHs to read the block (single line, single angle, d
 - Middle blocker signals the block configuration each rep (variable block problem).
 - Hitters must identify block type and match shot: hard angle, high hands (tool), line, or cross-hand tool.
 - Uses boxes/benches to elevate "blockers" for consistent hand height.
-- Trains adaptive shot selection, not just swing mechanics.
+- Trains adaptive shot selection rather than swing mechanics.
 
 ## Topics covered
 - Shot selection against variable blocks.
@@ -35,5 +35,5 @@ Michigan's Mark Rosen drills OHs to read the block (single line, single angle, d
 ## Access
 - Raw file: [[aoc-2021-rosen-oh-shots-based-on-block]]
 - URL: https://www.theartofcoachingvolleyball.com/outside-hitter-shots/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

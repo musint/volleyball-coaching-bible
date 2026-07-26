@@ -22,7 +22,7 @@ Emporia State's Ken Murczek teaches middles a full backswing plus complete bow-a
 - Full arm backswing during jump maximizes jump height via arm contribution.
 - Complete bow-and-arrow at contact maximizes power transfer.
 - Acknowledged tradeoff: slower to develop than compact short-swing mechanics, but higher ceiling.
-- Secondary benefit: prepares players to hit at many contact points along the net — important for middles who may move to outside or opposite.
+- Secondary benefit: prepares players to hit at many contact points along the net, important for middles who may move to outside or opposite.
 - Targets long-term athletic ceiling over short-term in-match reliability.
 
 ## Topics covered
@@ -37,5 +37,5 @@ Emporia State's Ken Murczek teaches middles a full backswing plus complete bow-a
 ## Access
 - Raw file: [[aoc-2023-murczek-middle-jump-harder]]
 - URL: https://www.theartofcoachingvolleyball.com/training-middle-hitters-to-jump-higher-hit-harder/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

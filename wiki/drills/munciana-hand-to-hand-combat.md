@@ -23,16 +23,16 @@ Full 6v6 on a regulation court. Mike's frame: **[00:58:55]** "This is a drill to
 ## Execution
 1. Coach hits a ball into the court.
 2. **The first contact rule**: if the receiver plays the first ball with their **hands** (overhead), they earn all three contacts on that side.
-3. **If the first ball is played with a forearm platform, the next ball must go directly over** — the team gets only one contact, no setup, no swing.
+3. **If the first ball is played with a forearm platform, the next ball must go directly over**: the team gets only one contact, no setup, no swing.
 4. **[00:59:14]** "You play the first ball with your platform, next ball goes over."
 5. Make-it-take-it scoring; play to a target (5, 7, or 10).
 6. Hands on every ball is the rule that speeds the offense.
 
 ## Coaching points
 - The drill **forces the hands**. **[00:59:46]** "What we're looking to do is force people to use their hands to speed up the game."
-- A clean hand-played dig is faster than any platform-dig — by 0.3-0.5 seconds, which is exactly the gap between a runnable middle and a no-middle out-of-system set.
+- A clean hand-played dig is faster than any platform-dig, by 0.3-0.5 seconds, which is exactly the gap between a runnable middle and a no-middle out-of-system set.
 - The rule is psychological: nobody wants to give up two contacts, so the team will hand-dig anything they can.
-- Stay legal — hand-set defense with double-contact penalties enforced by ref-style coaching feedback.
+- Stay legal, hand-set defense with double-contact penalties enforced by ref-style coaching feedback.
 
 ## Variations
 - Reverse: only platform on the first ball is allowed; teams must adapt to one-contact-over offense.

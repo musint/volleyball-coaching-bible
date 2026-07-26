@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: book
-title: "Matsudaira — Japanese coaching philosophy & Winning Volleyball (composite — translation-needed)"
+title: "Matsudaira, Japanese coaching philosophy & Winning Volleyball (composite, translation-needed)"
 author: "Yasutaka Matsudaira (松平康隆)"
 year: 1975
 citation-key: notes-matsudaira-japanese-coaching-philosophy
@@ -12,12 +12,12 @@ schools: [japanese-training]
 trust-tier: 2
 ---
 
-# Matsudaira — Japanese coaching philosophy & Winning Volleyball (composite — translation-needed)
+# Matsudaira: Japanese coaching philosophy & Winning Volleyball (composite, translation-needed)
 
 ## Summary
 
 This composite documents Matsudaira's coaching-philosophy writings,
-anchored on the book widely referenced in English as **Winning Volleyball** —
+anchored on the book widely referenced in English as **Winning Volleyball**, 
 written by Matsudaira *before* the 1972 Munich Olympic gold and translated to
 English in 1975 (translator: Mr. Kikuchi; technical evaluator: Lorne Sawuala;
 permission arranged by Vic Lindal). The 1975 English translation appears to be
@@ -42,15 +42,15 @@ Hochi and Nikkan Sports archives; JVA institutional publications from his
 
 ## Key claims / ideas
 
-- **Winning Volleyball — pre-Munich book.** Matsudaira composed the book
+- **Winning Volleyball, pre-Munich book.** Matsudaira composed the book
   before the 1972 Munich gold; it documents the methodological work behind
   the bronze (1964 Tokyo) → silver (1968 Mexico City) → gold (1972 Munich)
   three-Olympic medal progression of the Japanese men's program.
-- **The "sacrifice system" in 9-person volleyball** — the domestic Japanese
+- **The "sacrifice system" in 9-person volleyball**: the domestic Japanese
   9-player tactical structure (five attackers, one setter receiving the set)
   is documented in the book as precursor methodology for the 6-player system
   Matsudaira built (per Vic Lindal commenter description of the book).
-- **The power of vision** — Matsudaira's program design was vision-driven
+- **The power of vision**: Matsudaira's program design was vision-driven
   across a long-arc commitment to Olympic gold, rather than year-by-year
   tactical optimization (per Lindal commentary).
 - **Soviet-study-trip methodology.** The early-1960s study of Soviet six-a-side
@@ -58,8 +58,8 @@ Hochi and Nikkan Sports archives; JVA institutional publications from his
   domestic 9-player game to the international 6-player game.
 - **Multiple-quick-attack design rationale.** The offensive system
   (staggered fast-tempo middle-and-combination attacks) is designed
-  specifically around Japanese players' physical reality — height
-  disadvantage against Soviet, Polish, East-German programs — not as
+  specifically around Japanese players' physical reality, height
+  disadvantage against Soviet, Polish, East-German programs, not as
   imitation of Soviet/Polish power volleyball.
 - **Orchestra-conductor metaphor.** The single most-quoted Matsudaira
   framing: coaching as integration-of-specialties, players as instruments,
@@ -71,7 +71,7 @@ Hochi and Nikkan Sports archives; JVA institutional publications from his
 ## Topics covered
 
 - Matsudaira's coaching career and methodology
-- The 1972 Munich men's gold — methodological precursors documented in
+- The 1972 Munich men's gold, methodological precursors documented in
   the book
 - Multiple-quick-attack offensive system design rationale
 - 9-player to 6-player Japanese tactical transition
@@ -81,7 +81,7 @@ Hochi and Nikkan Sports archives; JVA institutional publications from his
 
 ## Where it's cited
 
-*(populated as wiki pages cite this composite — currently the source-page-of-
+*(populated as wiki pages cite this composite, currently the source-page-of-
 record for any direct-Matsudaira-doctrine claim on the
 [[yasutaka-matsudaira]] coach profile)*
 
@@ -92,7 +92,7 @@ record for any direct-Matsudaira-doctrine claim on the
   https://marklebedew.com/2012/10/18/winning-volleyball-matsudaira/
 - Hall of Fame record: https://www.volleyhall.org/yasutaka-matsudaira.html
 - Wikipedia: https://en.wikipedia.org/wiki/Yasutaka_Matsudaira
-- Trust tier: 2 — coach-authored book documented by a credentialed
+- Trust tier: 2, coach-authored book documented by a credentialed
   coach-translator-blogger (Mark Lebedew); the underlying Japanese source
   text and its 1975 English translation are not directly ingested. Recovery
   of either would upgrade to Tier 1.

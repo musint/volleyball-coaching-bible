@@ -16,7 +16,7 @@ trust-tier: 2
 # What are you thinking when you go to the serving line?
 
 ## Summary
-Schmidt says servers should never think "just get it in" or "don't miss" — both are failure-avoidance frames that increase errors. Specificity (e.g., "passer's left shoulder") reduces misses. Liskevych adds that a tough serve anywhere beats an easy serve to a zone; only a fraction of servers can credibly hit a tough serve to a specified zone.
+Schmidt says servers should never think "just get it in" or "don't miss", both are failure-avoidance frames that increase errors. Specificity (e.g., "passer's left shoulder") reduces misses. Liskevych adds that a tough serve anywhere beats an easy serve to a zone; only a fraction of servers can credibly hit a tough serve to a specified zone.
 
 ## Key claims / ideas
 - Banned server mindsets: "I just want to get the ball in" and "Don't miss."
@@ -35,6 +35,5 @@ Schmidt says servers should never think "just get it in" or "don't miss" — bot
 ## Access
 - Raw file: [[aoc-2025-schmidt-serving-mindset]]
 - URL: https://www.theartofcoachingvolleyball.com/what-are-you-thinking-when-you-go-to-the-serving-line/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

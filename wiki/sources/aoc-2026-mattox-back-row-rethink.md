@@ -19,7 +19,7 @@ trust-tier: 2
 Tod Mattox of The Bishop's School reframes back-row attacks as a primary offensive weapon rather than a fallback, using a queen-of-the-court drill emphasizing early release and setter-dump defense.
 
 ## Key claims / ideas
-- Back-row attacks should be treated as a viable, aggressive offensive option, not merely a bailout for bad passes.
+- Back-row attacks should be treated as a viable, aggressive offensive option rather than a bailout for bad passes.
 - Early-release principle: back-row hitters commit to their approach as soon as the pass tells them they're going to be the target, even on bad passes.
 - Queen-of-the-court drill integrates back-row attack, setter-dump defense, and dynamic transition.
 - Positions the team to stay aggressive in out-of-system moments.
@@ -36,5 +36,5 @@ Tod Mattox of The Bishop's School reframes back-row attacks as a primary offensi
 ## Access
 - Raw file: [[aoc-2026-mattox-back-row-rethink]]
 - URL: https://www.theartofcoachingvolleyball.com/alternatives-deep-court/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

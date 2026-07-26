@@ -19,7 +19,7 @@ trust-tier: 2
 Steve Colpus runs a two-ball serve/receive game: both teams serve simultaneously; you must receive with forearms or set (no block/hit/jump/one-arm). A point scores when both balls land on one side; opponents can "erase" by returning a ball in time.
 
 ## Key claims / ideas
-- Two balls in play simultaneously — double the chaos.
+- Two balls in play simultaneously, double the chaos.
 - Receive only with two-forearm dig or set, nothing else.
 - Double-ball-down = point scored, but opponents can erase by returning before second point.
 - Missed serves can be retrieved and re-served to save a point.
@@ -36,5 +36,5 @@ Steve Colpus runs a two-ball serve/receive game: both teams serve simultaneously
 ## Access
 - Raw file: [[aoc-2023-colpus-sweden-serve-receive]]
 - URL: https://www.theartofcoachingvolleyball.com/competitive-serving-and-receiving-drill-from-sweden/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: book
-title: "Eastern-bloc federation coaching manual — Platonov, *My Profession: The Game* (composite)"
+title: "Eastern-bloc federation coaching manual, Platonov, *My Profession: The Game* (composite)"
 author: "Vyacheslav Platonov (Вячеслав Платонов); English translation prepared by the Lebedew family"
 year: 2014
 citation-key: notes-polish-or-russian-federation-manual
@@ -12,13 +12,13 @@ schools: [russian-school, polish-school]
 trust-tier: 1
 ---
 
-# Eastern-bloc federation coaching manual — Platonov, *My Profession: The Game* (composite)
+# Eastern-bloc federation coaching manual: Platonov, *My Profession: The Game* (composite)
 
 ## Summary
 
 This composite documents the Eastern-bloc federation-coaching-literature
 target of the cluster brief, anchored on **Vyacheslav Platonov's *My
-Profession: The Game*** — the legendary Soviet men's coach's final book,
+Profession: The Game***: the Soviet men's coach's final book,
 translated to English by the Lebedew family and released February 2014. This
 is the single most-substantial English-available Eastern-bloc coaching manual
 in volleyball, written by the architect of the 1977-1985 Soviet men's
@@ -40,7 +40,7 @@ profile at [[vyacheslav-platonov]] and feeds [[russian-school]] and
 
 ## Key claims / ideas
 
-**Platonov anchor — *My Profession: The Game*:**
+**Platonov anchor, *My Profession: The Game*:**
 
 - **Theory + practice without instructional drills.** Per the coachingvb.com
   review, the book is a coaching-philosophy and program-methodology manual,
@@ -50,7 +50,7 @@ profile at [[vyacheslav-platonov]] and feeds [[russian-school]] and
   team; qualities of a successful coach; training and preparation methods;
   in-game coaching strategies.
 - **Blocking-fundamentals chapter.** A single in-depth technical chapter on
-  blocking is the structural exception — the technical area Platonov treated
+  blocking is the structural exception, the technical area Platonov treated
   as the program's most distinctive doctrinal contribution, consistent with
   the Russian-school identification of block-and-defense as the program's
   center of gravity.
@@ -65,7 +65,7 @@ profile at [[vyacheslav-platonov]] and feeds [[russian-school]] and
 
 **Polish-federation composite (lower fidelity):**
 
-- **Hubert Wagner (1941-2002)** — Polish men's NT head coach, **1974 World
+- **Hubert Wagner (1941-2002)**: Polish men's NT head coach, **1974 World
   Championship and 1976 Olympic gold**, FIVB "Coach of the Century" (2000);
   1974-1979 Polish men's NT named "Team of the Century" (FIVB 2000).
   Methodology characteristics: demanding training intensity (1976 Olympics
@@ -73,12 +73,12 @@ profile at [[vyacheslav-platonov]] and feeds [[russian-school]] and
   serving emphasis, "Wonder Team" / "Cudowna Drużyna Wagnera" program
   identity. **No authored coaching textbook is surfaced in the search**
   `[unsourced]` `[translation-needed]`.
-- **Andrzej Niemczyk (1944-2016)** — Polish women's NT head coach during the
+- **Andrzej Niemczyk (1944-2016)**: Polish women's NT head coach during the
   "Golden Girls" era (2003 and 2005 European Championship golds). His memoir
   *Andrzej Niemczyk. Life tie-break* (with Marek Bobakovsky) is in Polish, a
   personal-narrative memoir rather than a federation methodology manual
   `[translation-needed]`.
-- **PZPS institutional publications** — entry point at www.pzps.pl. No
+- **PZPS institutional publications**: entry point at www.pzps.pl. No
   English-translated PZPS coaching-federation manual surfaced in the
   2026-04-24 fetch `[unsourced]` `[translation-needed]`.
 
@@ -94,7 +94,7 @@ profile at [[vyacheslav-platonov]] and feeds [[russian-school]] and
 
 ## Where it's cited
 
-*(populated as wiki pages cite this composite — feeds
+*(populated as wiki pages cite this composite, feeds
 [[vyacheslav-platonov]], [[russian-school]], and (with `[unsourced]` flags)
 [[polish-school]])*
 
@@ -110,6 +110,6 @@ profile at [[vyacheslav-platonov]] and feeds [[russian-school]] and
 - Wikipedia Platonov: https://en.wikipedia.org/wiki/Viacheslav_Platonov
 - Wikipedia Wagner: https://en.wikipedia.org/wiki/Hubert_Wagner
 - Wikipedia Niemczyk: https://en.wikipedia.org/wiki/Andrzej_Niemczyk
-- Trust tier: 1 (Platonov anchor — coach-authored, English-translated by
+- Trust tier: 1 (Platonov anchor, coach-authored, English-translated by
   credentialed coach-family) / 3 (Polish-federation composite content, which
   is biographical-record-level, not methodology-text ingest)

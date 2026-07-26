@@ -15,11 +15,11 @@ trust-tier: 2
 
 ## Summary
 
-This is AOC curricular content; defer to qualified AT/CSCS/MD on programming specifics. Chiropractor Abe Avender argues stretching doesn't resolve muscle stiffness — strengthening does. Fatigue-related tightening is the body's protective response and calls for rest, not stretch. Volleyball-specific: quad-dominant athletes with weak cores get chronic low-back pain; core strengthening resolves it where stretching cannot.
+This is AOC curricular content; defer to qualified AT/CSCS/MD on programming specifics. Chiropractor Abe Avender argues stretching doesn't resolve muscle stiffness, strengthening does. Fatigue-related tightening is the body's protective response and calls for rest, not stretch. Volleyball-specific: quad-dominant athletes with weak cores get chronic low-back pain; core strengthening resolves it where stretching cannot.
 
 ## Key claims / ideas
 
-- Muscle stiffness is not solved by stretching — it's solved by strengthening.
+- Muscle stiffness is not solved by stretching, it's solved by strengthening.
 - Fatigue-related tightening is protective; the answer is rest, not pushing through with stretches.
 - Volleyball players are quad-dominant and often core-weak.
 - Chronic low-back pain in volleyball players is usually a weak-core problem.
@@ -34,7 +34,7 @@ This is AOC curricular content; defer to qualified AT/CSCS/MD on programming spe
 
 ## Where it's cited
 
-- (Not yet cited. Candidate insertions: [[physical.md]], [[techniques/hitting-approach.md]] — low-back load, [[age-lens-hs.md]] — growth-related stiffness patterns.)
+- (Not yet cited. Candidate insertions: [[physical.md]], [[techniques/hitting-approach.md]]: low-back load, [[age-lens-hs.md]]: growth-related stiffness patterns.)
 
 ## Access
 

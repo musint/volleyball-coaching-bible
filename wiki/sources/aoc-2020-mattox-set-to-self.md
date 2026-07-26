@@ -34,6 +34,5 @@ Mattox's beginner progression: toss → catch, toss → set → catch, toss → 
 ## Access
 - Raw file: [[aoc-2020-mattox-set-to-self]]
 - URL: https://www.theartofcoachingvolleyball.com/set-to-self-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

@@ -16,7 +16,7 @@ trust-tier: 2
 # Fundamental volleyball drill: Triangle passing
 
 ## Summary
-Joe Sagula's triangle passing drill — three players, passer / target-at-net / tosser-across-net — drills platform angle and post-contact hold. A foot-stagger variation teaches taking the ball outside the body for tough float serves.
+Joe Sagula's triangle passing drill, three players, passer / target-at-net / tosser-across-net, drills platform angle and post-contact hold. A foot-stagger variation teaches taking the ball outside the body for tough float serves.
 
 ## Key claims / ideas
 - Triangle passing: passer + target at net + tosser across net
@@ -37,5 +37,5 @@ Joe Sagula's triangle passing drill — three players, passer / target-at-net / 
 ## Access
 - Raw file: [[aoc-2024-sagula-triangle-passing]]
 - URL: https://www.theartofcoachingvolleyball.com/fundamental-volleyball-drill-triangle-passing/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

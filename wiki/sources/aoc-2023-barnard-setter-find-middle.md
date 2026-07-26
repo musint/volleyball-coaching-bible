@@ -19,7 +19,7 @@ trust-tier: 2
 Mark Barnard (Oregon State 2005-2022) drills the common failure mode where a setter puts up a "textbook" middle set and the hitter isn't there. Middle can move anywhere along the net; setter must locate and set to current position. Forces the setter to read, not default.
 
 ## Key claims / ideas
-- A traditional middle set delivered to a spot the hitter isn't standing is a wasted rep — happens often.
+- A traditional middle set delivered to a spot the hitter isn't standing is a wasted rep, happens often.
 - The fix is a dynamic-middle drill: hitter free to move anywhere along the net, setter must find and set.
 - Trains setter scanning and location-matching in real time.
 
@@ -34,6 +34,5 @@ Mark Barnard (Oregon State 2005-2022) drills the common failure mode where a set
 ## Access
 - Raw file: [[aoc-2023-barnard-setter-find-middle]]
 - URL: https://www.theartofcoachingvolleyball.com/setter-middle-connection-setter-find-the-middle-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

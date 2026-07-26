@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Abe Avender — a licensed health and performance specialist — argues that static stretching before volleyball activity raises injury risk and reduces performance. He recommends dynamic preparation instead: simple movements like walking endline-to-net while circling the arms raise body temperature and get blood flowing. Static stretching and yoga-like work belong after practice, not before. Avender also notes that warmup needs scale with recent activity — bench players preparing for a second or third match of a day need more warmup than starters who just played a full match.
+Abe Avender, a licensed health and performance specialist, argues that static stretching before volleyball activity raises injury risk and reduces performance. He recommends dynamic preparation instead: simple movements like walking endline-to-net while circling the arms raise body temperature and get blood flowing. Static stretching and yoga-like work belong after practice, not before. Avender also notes that warmup needs scale with recent activity, bench players preparing for a second or third match of a day need more warmup than starters who just played a full match.
 
 ## Key claims / ideas
 
@@ -33,7 +33,7 @@ Abe Avender — a licensed health and performance specialist — argues that sta
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``warm-up`` hub, `[[physical]]` / injury prevention coverage, and ``dynamic-warmup`` technique/drill pages.
+Forward-reference, to be cited on ``warm-up`` hub, `[[physical]]` / injury prevention coverage, and ``dynamic-warmup`` technique/drill pages.
 
 ## Access
 

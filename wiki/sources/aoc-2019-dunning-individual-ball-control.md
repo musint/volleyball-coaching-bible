@@ -15,13 +15,13 @@ trust-tier: 2
 
 ## Summary
 
-John Dunning's (Stanford '01-'16) individual ball-control sequence: pass, set, right (shoulder), left (shoulder), head — repeat. The challenge version is to sustain the sequence for 5 minutes without the ball hitting the floor. The drill can be run solo, which makes it a natural at-home / pre-practice tool.
+John Dunning's (Stanford '01-'16) individual ball-control sequence: pass, set, right (shoulder), left (shoulder), head, repeat. The challenge version is to sustain the sequence for 5 minutes without the ball hitting the floor. The drill can be run solo, which makes it a natural at-home / pre-practice tool.
 
 ## Key claims / ideas
 
-- A fixed, named sequence (pass → set → right → left → head) is an easy accountability check — any break in order resets the count.
+- A fixed, named sequence (pass → set → right → left → head) is an easy accountability check, any break in order resets the count.
 - 5 minutes without a drop is a stiff but doable team standard.
-- Individual ball-control work doesn't require partners, a court, or a net — great at-home option.
+- Individual ball-control work doesn't require partners, a court, or a net, great at-home option.
 - The head contact introduces an unfamiliar surface, which builds ball-tracking under awkward conditions.
 
 ## Topics covered
@@ -33,7 +33,7 @@ John Dunning's (Stanford '01-'16) individual ball-control sequence: pass, set, r
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``ball-control`` hub, ``at-home``, `[[drills/individual-ball-control-sequence]]`, and `[[john-dunning]]` profile.
+Forward-reference, to be cited on ``ball-control`` hub, ``at-home``, `[[drills/individual-ball-control-sequence]]`, and `[[john-dunning]]` profile.
 
 ## Access
 

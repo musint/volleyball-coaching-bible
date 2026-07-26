@@ -20,7 +20,7 @@ Jim Stone breaks down Hentz's platform orientation on a hard dig outside her bod
 ## Key claims / ideas
 
 - Hips and shoulders stay faced to the action of the court, even when the dig is outside the body.
-- The common error is rotating the torso to "jab" the platform at the ball — it produces an un-playable dig.
+- The common error is rotating the torso to "jab" the platform at the ball, it produces an un-playable dig.
 - Correct behavior: slide the hips and shoulders behind the ball, letting platform angle produce a redirect to midcourt.
 - This is the mechanical explanation for why Hentz's hard-driven digs come back playable.
 

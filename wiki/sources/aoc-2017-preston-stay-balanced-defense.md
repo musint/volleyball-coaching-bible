@@ -19,10 +19,10 @@ trust-tier: 2
 Dave Preston (McMaster men's) reframes the dig as a transition tool, not a desperation move. Diving takes the digger out of the next play; staying on the feet preserves the transition to offense. Teaches balance from the ground up as mobility/stability trade-off.
 
 ## Key claims / ideas
-- Digging exists to enable transition — a dive that abandons the rally defeats its purpose.
+- Digging exists to enable transition, a dive that abandons the rally defeats its purpose.
 - Staying on your feet keeps you available for the next contact.
 - Mobility and stability are in tension; technique finds the balance.
-- "Starts from the ground up" — stance and footwork carry the defensive posture.
+- "Starts from the ground up", stance and footwork carry the defensive posture.
 
 ## Topics covered
 - Balanced defensive stance
@@ -35,5 +35,5 @@ Dave Preston (McMaster men's) reframes the dig as a transition tool, not a despe
 ## Access
 - Raw file: [[aoc-2017-preston-stay-balanced-defense]]
 - URL: https://www.theartofcoachingvolleyball.com/stay-balanced-for-better-defense/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

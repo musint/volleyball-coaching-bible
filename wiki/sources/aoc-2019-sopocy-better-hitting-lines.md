@@ -15,11 +15,11 @@ trust-tier: 2
 
 ## Summary
 
-Michael Sopocy (North Park University) upgrades the standard pre-game hitting lines into a three-drill progression that also trains transition and defense. Drill 1: a hitter starts at the net like a blocker, pulls off, gets a slap-and-toss set from the next hitter, and attacks against three defenders and a setter. Drill 2 adds one or two blockers. Drill 3 keeps score — defenders get a point for any playable touch.
+Michael Sopocy (North Park University) upgrades the standard pre-game hitting lines into a three-drill progression that also trains transition and defense. Drill 1: a hitter starts at the net like a blocker, pulls off, gets a slap-and-toss set from the next hitter, and attacks against three defenders and a setter. Drill 2 adds one or two blockers. Drill 3 keeps score, defenders get a point for any playable touch.
 
 ## Key claims / ideas
 
-- Pre-game hitting lines should do double duty — warm hitters up AND prep defenders.
+- Pre-game hitting lines should do double duty, warm hitters up AND prep defenders.
 - Layering the blocker-to-hitter transition into the warmup trains the specific attacker footwork of a middle or outside pulling off the net.
 - Adding blockers turns the drill into a live blocking read for defenders (off-the-block digging).
 - Scoring any playable touch as a defender point reframes the drill as pursuit over kills.
@@ -34,7 +34,7 @@ Michael Sopocy (North Park University) upgrades the standard pre-game hitting li
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``warm-up`` hub, `[[match-prep]]`, `[[hitting]]` (transition hitting), `[[defense]]` pages, and `**Michael Sopocy**` profile.
+Forward-reference, to be cited on ``warm-up`` hub, `[[match-prep]]`, `[[hitting]]` (transition hitting), `[[defense]]` pages, and `**Michael Sopocy**` profile.
 
 ## Access
 

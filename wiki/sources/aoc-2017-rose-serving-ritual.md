@@ -19,7 +19,7 @@ trust-tier: 2
 Rose argues every serve matters, and a consistent pre-serve ritual helps players stay focused, find rhythm, and escape the "serving demons."
 
 ## Key claims / ideas
-- Every serve matters — treat each as a discrete performance.
+- Every serve matters, treat each as a discrete performance.
 - A serving ritual helps players stay focused and get in the groove.
 - Rituals help banish the "serving demons" (Rose's term for in-match serving anxiety/doubt).
 - The video lays out steps Rose considers important for a serving ritual.
@@ -35,5 +35,5 @@ Rose argues every serve matters, and a consistent pre-serve ritual helps players
 ## Access
 - Raw file: [[aoc-2017-rose-serving-ritual]]
 - URL: https://www.theartofcoachingvolleyball.com/russ-rose-the-importance-of-a-serving-ritual/
-- Trust tier: 2 — AOC, Russ Rose
+- Trust tier: 2: AOC, Russ Rose
 - Ingested via: aoc-mcp on 2026-04-23

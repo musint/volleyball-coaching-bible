@@ -29,9 +29,9 @@ Full court, one side. Three-person unit on the receiving side: a passer in the b
 6. Grade each rep on three criteria: pass target (0-3), set location, attack result.
 
 ## Coaching points
-- Passer focuses on delivering a hittable ball — the test is whether the setter has options.
+- Passer focuses on delivering a hittable ball, the test is whether the setter has options.
 - Setter shows hands early and calls the attacker's number.
-- Attacker starts the approach off the passer's platform angle, not off the set — trains anticipation.
+- Attacker starts the approach off the passer's platform angle, not off the set, trains anticipation.
 - Coach holds tempo consistent; the drill collapses when feed quality drifts.
 
 ## Variations

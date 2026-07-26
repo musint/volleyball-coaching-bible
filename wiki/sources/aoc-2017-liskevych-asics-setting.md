@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "ASICS Skill Series with Terry Liskevych – Setting"
+title: "ASICS Skill Series with Terry Liskevych - Setting"
 author: "Terry Liskevych"
 year: 2017
 citation-key: aoc-2017-liskevych-asics-setting
@@ -13,7 +13,7 @@ schools: [art-of-coaching-volleyball, usa-volleyball-cap]
 trust-tier: 2
 ---
 
-# ASICS Skill Series with Terry Liskevych – Setting
+# ASICS Skill Series with Terry Liskevych, Setting
 
 ## Summary
 ASICS Skill Series instructional video with Liskevych on setting technique, aimed at high school and club players.
@@ -35,5 +35,5 @@ ASICS Skill Series instructional video with Liskevych on setting technique, aime
 ## Access
 - Raw file: [[aoc-2017-liskevych-asics-setting]]
 - URL: https://www.theartofcoachingvolleyball.com/asics-skill-series-with-terry-liskevych-setting/
-- Trust tier: 2 — AOC, Liskevych
+- Trust tier: 2: AOC, Liskevych
 - Ingested via: aoc-mcp on 2026-04-23

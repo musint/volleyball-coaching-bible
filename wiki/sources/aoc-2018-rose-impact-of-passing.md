@@ -33,6 +33,6 @@ Video lecture from Russ Rose on the impact of passing on team performance, relev
 ## Access
 - Raw file: [[aoc-2018-rose-impact-of-passing]]
 - URL: https://www.theartofcoachingvolleyball.com/the-impact-of-passing/
-- Trust tier: 2 — AOC, Russ Rose
+- Trust tier: 2: AOC, Russ Rose
 - Ingested via: aoc-mcp on 2026-04-23
 - Note: Video-only page; text body minimal. Consider running aoc_video_transcript for content.

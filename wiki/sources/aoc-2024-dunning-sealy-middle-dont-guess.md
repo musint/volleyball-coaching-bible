@@ -16,7 +16,7 @@ trust-tier: 2
 # Middle blocker training: Don't guess where the set is going
 
 ## Summary
-Dunning and Sealy correct a common middle-blocker fault — guessing and stepping the wrong way. Middles should wait, watch the setter, and see the set before moving; they have more time than they think.
+Dunning and Sealy correct a common middle-blocker fault, guessing and stepping the wrong way. Middles should wait, watch the setter, and see the set before moving; they have more time than they think.
 
 ## Key claims / ideas
 - Wrong-direction lateral steps are the most common middle-blocker mistake.
@@ -36,5 +36,5 @@ Dunning and Sealy correct a common middle-blocker fault — guessing and steppin
 ## Access
 - Raw file: [[aoc-2024-dunning-sealy-middle-dont-guess]]
 - URL: https://www.theartofcoachingvolleyball.com/middle-blocker-training-dont-guess-where-the-set-is-going/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

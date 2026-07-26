@@ -19,7 +19,7 @@ trust-tier: 2
 Stotsenberg drills an aggressive two-handed redirect where the setter runs the net, turns, and drops the ball forcefully with both hands instead of setting. Typically for physical setters.
 
 ## Key claims / ideas
-- The two-handed redirect is an aggressive setter attack — setter reaches the ball, turns, and drops with both hands.
+- The two-handed redirect is an aggressive setter attack, setter reaches the ball, turns, and drops with both hands.
 - Best suited to physical setters who can play above the net.
 - Drill: coach lobs to middle-front, setter line on right, setter runs net and redirects instead of setting.
 
@@ -33,6 +33,5 @@ Stotsenberg drills an aggressive two-handed redirect where the setter runs the n
 ## Access
 - Raw file: [[aoc-2025-stotsenberg-two-handed-redirect]]
 - URL: https://www.theartofcoachingvolleyball.com/expanding-your-setters-offensive-toolbox-two-handed-redirect-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

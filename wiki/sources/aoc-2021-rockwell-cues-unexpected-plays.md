@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Three visual cues for reading emergency plays: (1) anticipate the overpass — middles especially should practice overpass-conversion; (2) keep hitters in peripheral vision while the pass is in the air to setter; (3) note ball-speed-off-platform on a shank to predict setter's options.
+Three visual cues for reading emergency plays: (1) anticipate the overpass, middles especially should practice overpass-conversion; (2) keep hitters in peripheral vision while the pass is in the air to setter; (3) note ball-speed-off-platform on a shank to predict setter's options.
 
 ## Key claims / ideas
 

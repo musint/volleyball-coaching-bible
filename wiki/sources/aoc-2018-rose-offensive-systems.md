@@ -19,7 +19,7 @@ trust-tier: 2
 Video lecture from the 2016 Chicago Clinic in which Russ Rose discusses offensive systems, aimed at high-school and club coaches.
 
 ## Key claims / ideas
-- (Video content — transcript not available via article scrape; source is the video lecture itself.)
+- (Video content, transcript not available via article scrape; source is the video lecture itself.)
 - Categorized by AOC under Offensive Systems Strategy and Volleyball Offense Strategies.
 - Targeted at High School and Club competition level.
 
@@ -33,6 +33,6 @@ Video lecture from the 2016 Chicago Clinic in which Russ Rose discusses offensiv
 ## Access
 - Raw file: [[aoc-2018-rose-offensive-systems]]
 - URL: https://www.theartofcoachingvolleyball.com/offensive-systems-with-russ-rose/
-- Trust tier: 2 — AOC, Russ Rose
+- Trust tier: 2: AOC, Russ Rose
 - Ingested via: aoc-mcp on 2026-04-23
 - Note: Video-only page; text body minimal. Consider running aoc_video_transcript for content.

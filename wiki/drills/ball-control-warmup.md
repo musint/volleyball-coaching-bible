@@ -18,7 +18,7 @@ variations: [partner-pepper-warmup, butterfly-passing]
 # Ball Control Warmup
 
 ## Setup
-Six players minimum, one ball per two to three players. One half of the court for pair work and a short-court 3v3 closer. Run after dry movement warmup and [[partner-pepper-warmup]] to transition into higher-volume ball work. The goal is Kiraly's "50 percent" principle applied to warmup — half-speed attacks, long rallies, high touches, no kill-hunting [aoc-2024-kiraly-50-percent-drill].
+Six players minimum, one ball per two to three players. One half of the court for pair work and a short-court 3v3 closer. Run after dry movement warmup and [[partner-pepper-warmup]] to transition into higher-volume ball work. The goal is Kiraly's "50 percent" principle applied to warmup, half-speed attacks, long rallies, high touches, no kill-hunting [aoc-2024-kiraly-50-percent-drill].
 
 ## Execution
 1. **2-contact pairs (2 min).** Pass-set back to partner, starting with a catch on contact 2; remove the catch once pairs are stable.
@@ -29,8 +29,8 @@ Six players minimum, one ball per two to three players. One half of the court fo
 ## Coaching points
 - **Half-speed is the rule.** Kiraly's 50% cap forces placement, tips, and rolls over power [aoc-2024-kiraly-50-percent-drill].
 - **Platform wrists-thumbs-hands together** per Nelson's youth teaching cue [aoc-2024-kids-passing-fundamentals]; reinforce on every forearm contact.
-- **Set with the hands on contact 2** — warmup is when that becomes automatic.
-- **Call every ball early** — seam communication is a warmup habit.
+- **Set with the hands on contact 2**: warmup is when that becomes automatic.
+- **Call every ball early**: seam communication is a warmup habit.
 
 ## Variations
 - **Deep-short targets.** Add endline and 3-meter target lines so passers shape to two distances.

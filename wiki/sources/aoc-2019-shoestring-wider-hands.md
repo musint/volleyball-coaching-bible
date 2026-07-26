@@ -35,5 +35,5 @@ A shoestring tied between the blocker's wrists acts as a constraint: keep the st
 ## Access
 - Raw file: [[aoc-2019-shoestring-wider-hands]]
 - URL: https://www.theartofcoachingvolleyball.com/shoestring-drill-for-wider-blocking-hands/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

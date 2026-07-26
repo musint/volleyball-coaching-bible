@@ -37,5 +37,5 @@ Championship Performance applies organizational-leadership failure modes to spor
 ## Access
 - Raw file: [[aoc-2019-nine-reasons-teams-fail]]
 - URL: https://www.theartofcoachingvolleyball.com/9-reasons-teams-fail-to-reach-their-potential/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

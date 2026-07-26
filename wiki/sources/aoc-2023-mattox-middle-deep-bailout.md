@@ -16,15 +16,15 @@ trust-tier: 2
 # Middle hitters only drill: Deep court with a bailout
 
 ## Summary
-Tod Mattox (The Bishop's School) drills the middle attack on a high-percentage "push" (flare) set with a back-set bailout when the pass is shanked left. Structure: back-row setter + two diggers + middle per side, only the middle can jump, no tipping. Coaches the two critical details — ball 2+ feet off the net and delayed approach timing.
+Tod Mattox (The Bishop's School) drills the middle attack on a high-percentage "push" (flare) set with a back-set bailout when the pass is shanked left. Structure: back-row setter + two diggers + middle per side, only the middle can jump, no tipping. Coaches the two critical details, ball 2+ feet off the net and delayed approach timing.
 
 ## Key claims / ideas
 - High-percentage middle attack in this drill = the "push" set (aka "flare").
-- Set location target: no closer than 2 feet off the net — at 1 foot "we start having problems."
+- Set location target: no closer than 2 feet off the net, at 1 foot "we start having problems."
 - More space off the net lets the middle hit around the opposing middle.
-- Approach timing cue: "right, left" / "left" — hit the left plant when the ball is in the setter's hands; delay if needed.
+- Approach timing cue: "right, left" / "left", hit the left plant when the ball is in the setter's hands; delay if needed.
 - Premature approach puts the middle under the ball, killing vision and swing.
-- When pass is shanked left, call a "back" (back set to center) — lower-risk OOS bailout to keep the point alive.
+- When pass is shanked left, call a "back" (back set to center): lower-risk OOS bailout to keep the point alive.
 - Drill structure: back-row setter + 2 diggers + middle per side, middle only jumper, no tipping.
 
 ## Topics covered
@@ -40,5 +40,5 @@ Tod Mattox (The Bishop's School) drills the middle attack on a high-percentage "
 ## Access
 - Raw file: [[aoc-2023-mattox-middle-deep-bailout]]
 - URL: https://www.theartofcoachingvolleyball.com/middle-hitter-drill-deep-court-with-a-bailout/
-- Trust tier: 2 — AOC, Mattox drill library
+- Trust tier: 2: AOC, Mattox drill library
 - Ingested via: aoc-mcp on 2026-04-23

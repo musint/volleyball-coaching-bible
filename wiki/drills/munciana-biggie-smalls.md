@@ -31,12 +31,12 @@ Full 6v6 on a regulation court. Coach with a ball cart sideline. Whiteboard trac
 
 ## Coaching points
 - Three-in-a-row is hard at any level. The drill rewards consistency, not flashes.
-- Make-it-take-it means service-line consequences are real — a missed serve hands the streak back and the opponent's run continues.
-- Coverage and ball control matter most — a single bad swing kills three rallies of work.
+- Make-it-take-it means service-line consequences are real, a missed serve hands the streak back and the opponent's run continues.
+- Coverage and ball control matter most, a single bad swing kills three rallies of work.
 - Use the score psychology: at "two smalls" everyone is on edge; that pressure is the teaching tool.
 
 ## Variations
-- **Prove it**: stricter version — see [[munciana-prove-it]].
+- **Prove it**: stricter version, see [[munciana-prove-it]].
 - **Five smalls = one big** (harder ceiling).
 - Coach varies the entry: free ball, down-ball, or live serve to change the texture.
 

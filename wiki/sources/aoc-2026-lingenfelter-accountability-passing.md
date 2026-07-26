@@ -24,7 +24,7 @@ Mike Lingenfelter of Munciana Volleyball Club demonstrates how he teaches passin
 - Balance work (passing on one foot), quiet platform training (one-armed passes, side-to-side moving passes)
 - Pass-and-cover: pass then sprint to a designated spot to prevent passers from watching their pass
 - Avoiding jammed passes: train passers to hop back and take the ball lower on the platform
-- Communication after each pass — what each passer will do depending on serve situation
+- Communication after each pass, what each passer will do depending on serve situation
 
 ## Topics covered
 - Competitive passing drill design
@@ -39,5 +39,5 @@ Mike Lingenfelter of Munciana Volleyball Club demonstrates how he teaches passin
 ## Access
 - Raw file: [[aoc-2026-lingenfelter-accountability-passing]]
 - URL: https://www.theartofcoachingvolleyball.com/accountability-and-passing/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

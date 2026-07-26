@@ -16,7 +16,7 @@ trust-tier: 2
 # Blocking fundamentals: Blocking the slide
 
 ## Summary
-Duplicate-pattern post from AOC — drills middle blockers to swing-block left against the slide; setter-choice variation trains slide-vs-middle read.
+Duplicate-pattern post from AOC, drills middle blockers to swing-block left against the slide; setter-choice variation trains slide-vs-middle read.
 
 ## Key claims / ideas
 - Swing block left to cover the slide.
@@ -34,5 +34,5 @@ Duplicate-pattern post from AOC — drills middle blockers to swing-block left a
 ## Access
 - Raw file: [[aoc-2019-dunning-blocking-slide]]
 - URL: https://www.theartofcoachingvolleyball.com/blocking-fundamentals-blocking-the-slide/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

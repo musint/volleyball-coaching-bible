@@ -19,9 +19,9 @@ Jim Stone diagnoses the "shoulders down" habit: when moving forward to a dig, ke
 
 ## Key claims / ideas
 
-- Common defender error: rock shoulders back before moving forward — wastes motion and time.
+- Common defender error: rock shoulders back before moving forward, wastes motion and time.
 - Correct pattern: shoulders already down; drop further as you dive.
-- Young players in particular "get caught on their heels" — this is the mechanism.
+- Young players in particular "get caught on their heels", this is the mechanism.
 - Eliminating rock-back is what converts short tips into digs at volume.
 
 ## Topics covered

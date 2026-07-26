@@ -16,10 +16,10 @@ trust-tier: 2
 # Training tips: The importance of teaching swing blocking
 
 ## Summary
-Nabil Mardini (LA Volleyball Academy / LA Mission College) argues for teaching swing blocking because a pre-jump approach produces higher elevation — same reason no one tries to touch a basketball rim from a standing start.
+Nabil Mardini (LA Volleyball Academy / LA Mission College) argues for teaching swing blocking because a pre-jump approach produces higher elevation, same reason no one tries to touch a basketball rim from a standing start.
 
 ## Key claims / ideas
-- Analogy: trying to touch a basketball rim, nobody stands still — they run and jump; swing blocking applies the same principle at the net.
+- Analogy: trying to touch a basketball rim, nobody stands still, they run and jump; swing blocking applies the same principle at the net.
 - A pre-jump approach to the block produces higher elevation than a static jump.
 - Coaches should teach specific swing-blocking footwork patterns and hand positioning.
 - Points to a more detailed clinic session focused on footwork, arm work, and eye work for swing blocking.
@@ -36,5 +36,5 @@ Nabil Mardini (LA Volleyball Academy / LA Mission College) argues for teaching s
 ## Access
 - Raw file: [[aoc-2024-importance-teaching-swing-blocking]]
 - URL: https://www.theartofcoachingvolleyball.com/training-tips-the-importance-of-teaching-swing-blocking/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

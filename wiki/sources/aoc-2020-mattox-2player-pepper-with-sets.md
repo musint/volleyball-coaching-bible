@@ -32,6 +32,5 @@ Mattox's 2-player pepper with hand sets. Count hand sets above the antenna befor
 ## Access
 - Raw file: [[aoc-2020-mattox-2player-pepper-with-sets]]
 - URL: https://www.theartofcoachingvolleyball.com/player-pepper-with-sets/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

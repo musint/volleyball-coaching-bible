@@ -19,10 +19,10 @@ Jim Stone shows Hentz reading a block gap and moving to cover the open court whe
 
 ## Key claims / ideas
 
-- Reading block gaps in real time is a learnable and critical defender skill — separates good from elite.
+- Reading block gaps in real time is a learnable and critical defender skill, separates good from elite.
 - When a blocker misreads, the defender must shuffle to the uncovered zone before ball contact.
 - Drop knees/ankles/hips low while keeping torso upright as long as possible before committing to the floor.
-- Block-gap recognition requires watching the block, not just the ball.
+- Block-gap recognition requires watching the block as well as the ball.
 
 ## Topics covered
 

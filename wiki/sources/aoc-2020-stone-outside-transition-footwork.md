@@ -16,10 +16,10 @@ trust-tier: 2
 # Outside hitter transition footwork
 
 ## Summary
-Jim Stone's two footwork patterns for outside hitters — transition from serve-receive passing (three shuffles to outside of pin, then R-L-R-L four-step approach) and transition from blocking/sharp-angle dig (drop-step, crossover, hop, three-step approach).
+Jim Stone's two footwork patterns for outside hitters, transition from serve-receive passing (three shuffles to outside of pin, then R-L-R-L four-step approach) and transition from blocking/sharp-angle dig (drop-step, crossover, hop, three-step approach).
 
 ## Key claims / ideas
-- OH footwork is position-critical — multiple jobs require multiple distinct patterns.
+- OH footwork is position-critical, multiple jobs require multiple distinct patterns.
 - Receive-to-attack: three shuffles outside the pin, then four-step approach (right-left-right-left).
 - Block/dig-to-attack: drop step, crossover, hop, three-step approach.
 - OHs who pass in rotation must master the receive-to-attack pattern specifically.
@@ -35,5 +35,5 @@ Jim Stone's two footwork patterns for outside hitters — transition from serve-
 ## Access
 - Raw file: [[aoc-2020-stone-outside-transition-footwork]]
 - URL: https://www.theartofcoachingvolleyball.com/outside-hitter-footwork/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

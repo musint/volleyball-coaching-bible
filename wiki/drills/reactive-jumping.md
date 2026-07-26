@@ -18,7 +18,7 @@ variations: [jump-warmup, conditioning-court-sprints]
 # Reactive Jumping
 
 ## Setup
-Groups of 3-4 at the net in blocker-ready stance. Coach stands off the net with colored cards (or hand signals / voice). Dry warmup and [[jump-warmup]] are prerequisites — cold reactive-plyo is a bad idea. Keep total reactive-jump volume low; this is a short, quality-first block, not a conditioning grind.
+Groups of 3-4 at the net in blocker-ready stance. Coach stands off the net with colored cards (or hand signals / voice). Dry warmup and [[jump-warmup]] are prerequisites, cold reactive-plyo is a bad idea. Keep total reactive-jump volume low; this is a short, quality-first block, not a conditioning grind.
 
 ## Execution
 1. **Cue → block jump.** Blue = stay, Red = vertical block jump. 6-8 reps per athlete, full recovery between cues.
@@ -27,9 +27,9 @@ Groups of 3-4 at the net in blocker-ready stance. Coach stands off the net with 
 4. **Mixed cue block (90 seconds).** Random mix of stay, block-left, block-right, approach. Full reset between cues.
 
 ## Coaching points
-- **Quality over volume.** Stop when form breaks — sloppy plants, late reaction, heavy landings. Cap session total at a modest number of jumps.
-- **Reaction first, jump second.** If athletes pre-guess the cue, the drill fails. Mix intervals — some fast, some slow.
-- **Land soft, shoulders in front of hips** — same cue as [[jump-warmup]].
+- **Quality over volume.** Stop when form breaks, sloppy plants, late reaction, heavy landings. Cap session total at a modest number of jumps.
+- **Reaction first, jump second.** If athletes pre-guess the cue, the drill fails. Mix intervals, some fast, some slow.
+- **Land soft, shoulders in front of hips**: same cue as [[jump-warmup]].
 - **Medical disclaimer.** Plyometric load is highly skill-and-age-dependent; defer volume, frequency, and exercise selection to a qualified strength coach (CSCS) or athletic trainer. This is a reactive-movement template, not a plyometric program. Athletes with growth-plate, joint, or recent-injury concerns should be cleared first. Treat this as a brief block for youth, not a conditioning session [aoc-2024-kids-passing-fundamentals].
 
 ## Variations

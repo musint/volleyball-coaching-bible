@@ -21,8 +21,8 @@ Chris Catanach isolates the final right-left of the attacker's approach as the a
 ## Key claims / ideas
 - The final two steps of the approach are the adjustment window, not the early steps.
 - Light-and-loaded landing is the expected finish even when the set is off-location.
-- Tossing varied-location sets forces the attacker to problem-solve, not just rehearse.
-- Beginner-appropriate isolation drill: no serving, no passing — just footwork to set.
+- Tossing varied-location sets forces the attacker to problem-solve rather than rehearse.
+- Beginner-appropriate isolation drill: no serving, no passing, just footwork to set.
 
 ## Topics covered
 - Right-left approach footwork
@@ -35,5 +35,5 @@ Chris Catanach isolates the final right-left of the attacker's approach as the a
 ## Access
 - Raw file: [[aoc-2021-catanach-right-left-footwork]]
 - URL: https://www.theartofcoachingvolleyball.com/beginner-volleyball-training-right-left-attacking-footwork/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

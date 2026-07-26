@@ -20,11 +20,11 @@ trust-tier: 1
 
 Davids and colleagues present a comprehensive theoretical statement of **ecological dynamics** as applied to sport. Learners are treated as complex neurobiological systems whose inherent **self-organizing tendencies** produce adaptive behavior under interacting task, environmental, and organismic constraints. Intentions, perceptions, and actions are not separable stages but **intertwined processes** underpinning the functional movement solutions athletes assemble as they develop.
 
-Practical implications dominate the paper: skill-acquisition programs need to sample information from the real performance environment; practice tasks should give performers room to use movement variability to explore affordances rather than locking them into a prescribed template; and talent-assessment protocols should preserve the perception-action couplings of actual competition. Because sport is inherently unpredictable, the authors argue that talent development should emphasize **building individual expertise across time** rather than early identification of presumed high performers — a direct challenge to traditional selection-heavy talent models. The paper has been cited 200+ times and is freely available via QUT ePrints; full abstract and structured summary were accessed.
+Practical implications dominate the paper: skill-acquisition programs need to sample information from the real performance environment; practice tasks should give performers room to use movement variability to explore affordances rather than locking them into a prescribed template; and talent-assessment protocols should preserve the perception-action couplings of actual competition. Because sport is inherently unpredictable, the authors argue that talent development should emphasize **building individual expertise across time** rather than early identification of presumed high performers, a direct challenge to traditional selection-heavy talent models. The paper has been cited 200+ times and is freely available via QUT ePrints; full abstract and structured summary were accessed.
 
 ## Key claims / ideas
 
-- The **performer–environment system** is the proper unit of analysis, not the athlete alone.
+- The **performer-environment system** is the proper unit of analysis, not the athlete alone.
 - **Self-organization under constraints** produces functional movement solutions; the coach's job is to manipulate constraints rather than dictate technique.
 - **Movement variability is functional**, not error to be eliminated.
 - **Representative practice environments** are essential for both training and talent assessment.
@@ -49,5 +49,5 @@ Practical implications dominate the paper: skill-acquisition programs need to sa
 
 - Raw file: `raw/research/davids-2013-ecological-dynamics-talent.md`
 - URL / DOI: https://eprints.qut.edu.au/219712/
-- Trust tier: 1 — peer-reviewed journal article (open access)
+- Trust tier: 1, peer-reviewed journal article (open access)
 - Access note: abstract and structured summary from open-access landing page; full PDF available via QUT and British Judo repositories

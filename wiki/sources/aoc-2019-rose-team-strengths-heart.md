@@ -15,11 +15,11 @@ trust-tier: 2
 
 ## Summary
 
-Russ Rose (with Bay Bechard) on playing with "heart" — a trainable team property, not an innate quality. Rose weights competitive drills over pure-technique work in practice. Bechard underscores blocking + serving as team-level difference-makers.
+Russ Rose (with Bay Bechard) on playing with "heart", a trainable team property, not an innate quality. Rose weights competitive drills over pure-technique work in practice. Bechard identifies blocking + serving as team-level difference-makers.
 
 ## Key claims / ideas
 
-- "Everyone has a heart, but not everybody plays with heart." — Rose
+- "Everyone has a heart, but not everybody plays with heart.", Rose
 - Rose's practice design biases competitive, team-pressure drills over technical reps.
 - Team chemistry and competitive atmosphere are practice-built, not pep-talk built.
 - Blocking + serving are the rose/bechard-named team-level pressure points.

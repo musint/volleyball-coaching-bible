@@ -16,13 +16,13 @@ trust-tier: 2
 # Volleyball serve-receive patterns: Jim Stone chalk talk
 
 ## Summary
-Jim Stone's chalk-talk walkthrough of the three basic receive patterns — W, U, and line — with tradeoffs for each and an emphasis on overlap implications. The chalk-talk format connects pattern choice directly to rotational overlap rules.
+Jim Stone's chalk-talk walkthrough of the three basic receive patterns: W, U, and line, with tradeoffs for each and an emphasis on overlap implications. The chalk-talk format connects pattern choice directly to rotational overlap rules.
 
 ## Key claims / ideas
 - Three basic receive patterns: W, U, and line.
 - 5-passer W has both upside (whole-court coverage) and downside (seam density).
 - Pattern selection must consider how overlap rules are affected in each rotation.
-- Pattern choice is personnel-driven — best for your passers and setters and the attack looks you want.
+- Pattern choice is personnel-driven, best for your passers and setters and the attack looks you want.
 
 ## Topics covered
 - W, U, line receive patterns
@@ -35,5 +35,5 @@ Jim Stone's chalk-talk walkthrough of the three basic receive patterns — W, U,
 ## Access
 - Raw file: [[aoc-2018-stone-chalk-talk-receive-patterns]]
 - URL: https://www.theartofcoachingvolleyball.com/volleyball-serve-receive-patterns-jim-stone-chalk-talk/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

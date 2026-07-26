@@ -13,7 +13,7 @@ schools: [usa-volleyball, illinois-volleyball, minnesota-volleyball]
 trust-tier: 1
 ---
 
-# Coaching Legend Mike Hebert Passes Away — USAV (2019)
+# Coaching Legend Mike Hebert Passes Away: USAV (2019)
 
 ## Summary
 USA Volleyball's official obituary for Mike Hebert, published shortly after his death in October 2019. A Tier 1 primary publisher source for his USA Volleyball assignments and AVCA Hall of Fame induction year. The piece emphasizes Hebert's distinctions as a multi-program builder (four head-coaching stops, 300+ wins at two Division I programs, two different programs from the same conference led to a national semifinal) and catalogs his USA Volleyball coaching work from 1987 through 2013.
@@ -23,7 +23,7 @@ USA Volleyball's official obituary for Mike Hebert, published shortly after his 
 - Only coach to achieve 300 wins at two different NCAA Division I programs; only coach to lead two different programs from the same conference to the national semifinal; only coach to bring four different programs to the NCAA postseason.
 - Produced 17 All-Americans, including Lindsey Berg, Nicole Branagh, Mary Eggers, and Cassie Busse.
 - USAV assignments: 1987 WUG head coach, 1989 Canada Cup, 1990 Cuba Cup, 1991 WUG + Pan Am Games, 2003 Pan Am head coach (bronze), 2011 Pan Am assistant (bronze), 2013 National Team assistant.
-- Career record 952–392 across 35 collegiate seasons.
+- Career record 952 to 392 across 35 collegiate seasons.
 
 ## Topics covered
 - USAV coaching contributions over three decades
@@ -36,4 +36,4 @@ USA Volleyball's official obituary for Mike Hebert, published shortly after his 
 ## Access
 - Raw file: `raw/articles/hebert-usav-obituary.md`
 - URL: https://usavolleyball.org/story/coaching-legend-mike-hebert-passes-away/
-- Trust tier: 1 — official publisher (USA Volleyball)
+- Trust tier: 1, official publisher (USA Volleyball)

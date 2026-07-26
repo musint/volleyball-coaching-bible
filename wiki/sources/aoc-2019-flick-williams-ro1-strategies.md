@@ -37,5 +37,5 @@ Diane Flick-Williams (Western Washington) and Mark Barnard (Oregon State) outlin
 ## Access
 - Raw file: [[aoc-2019-flick-williams-ro1-strategies]]
 - URL: https://www.theartofcoachingvolleyball.com/offensive-defensive-strategies-for-ro-1/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

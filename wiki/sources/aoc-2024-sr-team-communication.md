@@ -16,7 +16,7 @@ trust-tier: 2
 # Volleyball serve receive fundamentals: Team communication
 
 ## Summary
-Joe Sagula (UNC HC 1990-2022) runs a two-passer serve-receive simulation drill that trains movement, position-switching, and — most importantly — seam communication. A rule-of-thumb for seam assignments is explicit: short seam goes right, deep seam goes left.
+Joe Sagula (UNC HC 1990-2022) runs a two-passer serve-receive simulation drill that trains movement, position-switching, and, most importantly, seam communication. A rule-of-thumb for seam assignments is explicit: short seam goes right, deep seam goes left.
 
 ## Key claims / ideas
 - Drill purpose: train movement and communication fundamentals for an SR unit, especially in the seam.
@@ -42,5 +42,5 @@ Joe Sagula (UNC HC 1990-2022) runs a two-passer serve-receive simulation drill t
 ## Access
 - Raw file: [[aoc-2024-sr-team-communication]]
 - URL: https://www.theartofcoachingvolleyball.com/volleyball-serve-receive-fundamentals-team-communication/
-- Trust tier: 2 — AOC Premium, named coach (Sagula UNC HC 1990-2022)
+- Trust tier: 2: AOC Premium, named coach (Sagula UNC HC 1990-2022)
 - Ingested via: aoc-mcp on 2026-04-23

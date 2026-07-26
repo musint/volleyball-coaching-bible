@@ -37,5 +37,5 @@ Deborah Newkirk walks through 15 short drills from a 30-minute youth practice vi
 ## Access
 - Raw file: [[aoc-2021-youth-15-drills]]
 - URL: https://www.theartofcoachingvolleyball.com/30-minutes-of-drills-for-beginning-volleyball-players/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

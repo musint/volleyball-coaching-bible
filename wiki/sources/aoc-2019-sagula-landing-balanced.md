@@ -32,5 +32,5 @@ Short UNC clinic video from Joe Sagula on balanced blocker landing. MCP returned
 ## Access
 - Raw file: [[aoc-2019-sagula-landing-balanced]]
 - URL: https://www.theartofcoachingvolleyball.com/blocking-fundamentals-landing-balanced/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

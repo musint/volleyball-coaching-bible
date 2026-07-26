@@ -16,7 +16,7 @@ trust-tier: 2
 # Game planning: What is your level of play?
 
 ## Summary
-Russ Rose argues the first game-planning question is "what's our level of play?" — because lineup leverage scales dramatically. Higher-level teams can exploit matchups, serving stacks, and OH-as-passer roles; lower-level teams need simpler rules (one great hitter starts LF).
+Russ Rose argues the first game-planning question is "what's our level of play?", because lineup leverage scales dramatically. Higher-level teams can exploit matchups, serving stacks, and OH-as-passer roles; lower-level teams need simpler rules (one great hitter starts LF).
 
 ## Key claims / ideas
 - Lineup construction matters more at higher levels; lower levels use simpler rules.
@@ -35,5 +35,5 @@ Russ Rose argues the first game-planning question is "what's our level of play?"
 ## Access
 - Raw file: [[aoc-2019-rose-game-planning-level]]
 - URL: https://www.theartofcoachingvolleyball.com/game-planning-what-is-your-level-of-play/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

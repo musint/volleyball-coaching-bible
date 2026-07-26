@@ -35,5 +35,5 @@ Lizzy Stemke's (Georgia) 3v6 drill forces 45 structured transition attacks: 15 b
 ## Access
 - Raw file: [[aoc-2016-stemke-plus-45-transition]]
 - URL: https://www.theartofcoachingvolleyball.com/plus-45-transition-drill-with-lizzy-stemke/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

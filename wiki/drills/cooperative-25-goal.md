@@ -23,20 +23,20 @@ One team of 6 on the court. Coach enters balls from the opposite side of the net
 ## Execution
 1. Coach enters a free ball or controlled toss.
 2. Team passes, sets, and attacks over the net. If the sequence meets the in-system criteria, the counter adds 1.
-3. Coach immediately enters the next ball — team passes, sets, attacks again. Counter continues.
+3. Coach immediately enters the next ball, team passes, sets, attacks again. Counter continues.
 4. Any break in the sequence (shank, bad set, hit out or into the net) resets the counter to 0.
 5. Goal: reach 25 consecutive in-system sequences. Coach calls out the count after each success ("7... 8... 9...").
 
 ## Coaching points
-- The drill's honesty is the coach's — you enforce what "in-system" means; do not drift and count marginal passes.
-- Pressure compounds around rep 15 — teams feel the count and start to play tentative. Talk them through it.
-- Celebrate the restart — "reset, we're going again" — do not sigh or scold when the count dies, or you train fear of the drill.
+- The drill's honesty is the coach's, you enforce what "in-system" means; do not drift and count marginal passes.
+- Pressure compounds around rep 15, teams feel the count and start to play tentative. Talk them through it.
+- Celebrate the restart, "reset, we're going again", do not sigh or scold when the count dies, or you train fear of the drill.
 - Every player cheers every rep; shared ownership of the count.
 - Kiraly's 50-percent constraint works well here: attackers swing at half-speed so ball control, not firepower, drives the count.
 
 ## Variations
 - **Scored sub-goals:** mark off checkpoints at 10, 15, 20, 25 so the team sees partial progress.
-- **50-percent attack:** attacks must be at or below half-speed — see [[aoc-2024-kiraly-50-percent-drill]].
+- **50-percent attack:** attacks must be at or below half-speed, see [[aoc-2024-kiraly-50-percent-drill]].
 - **Defense added:** coach attacks hard off a box; team digs, transitions, counts.
 
 ## Adaptations by level

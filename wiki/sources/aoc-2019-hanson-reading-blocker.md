@@ -16,11 +16,11 @@ trust-tier: 2
 # Reading the game as a blocker
 
 ## Summary
-Dordt's Chad Hanson: blockers must check the hitter as often as possible, use peripheral vision on the ball, and line up with the hitter's shoulder; the middle closes aggressively with hands over. Let players solve block communication between themselves — when in doubt, talk.
+Dordt's Chad Hanson: blockers must check the hitter as often as possible, use peripheral vision on the ball, and line up with the hitter's shoulder; the middle closes aggressively with hands over. Let players solve block communication between themselves, when in doubt, talk.
 
 ## Key claims / ideas
 - Check the hitter as many times as possible; eyes off the ball, use peripheral vision.
-- Right-side blocker blocks the hitter, not the ball — line up with shoulder.
+- Right-side blocker blocks the hitter, not the ball, line up with shoulder.
 - Middle closes with an aggressive approach and reaches hands over the net.
 - Let players solve blocking communication themselves.
 - Communication is tempo-agnostic; when in doubt, TALK.
@@ -36,5 +36,5 @@ Dordt's Chad Hanson: blockers must check the hitter as often as possible, use pe
 ## Access
 - Raw file: [[aoc-2019-hanson-reading-blocker]]
 - URL: https://www.theartofcoachingvolleyball.com/reading-the-game-as-a-blocker/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

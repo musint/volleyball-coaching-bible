@@ -16,7 +16,7 @@ trust-tier: 2
 # "Coopetition" with Hugh McCutcheon
 
 ## Summary
-Short video excerpt in which McCutcheon discusses the interplay of competition and cooperation inside a team — the "coopetition" dynamic that lets teammates push each other without tearing the team apart.
+Short video excerpt in which McCutcheon discusses the interplay of competition and cooperation inside a team, the "coopetition" dynamic that lets teammates push each other without tearing the team apart.
 
 ## Key claims / ideas
 - Team dynamics involve both competition (internal battles for roles/reps) and cooperation (shared goals, trust).
@@ -33,5 +33,5 @@ Short video excerpt in which McCutcheon discusses the interplay of competition a
 ## Access
 - Raw file: [[aoc-2013-mccutcheon-coopetition]]
 - URL: https://www.theartofcoachingvolleyball.com/competition-with-hugh-mccutcheon/
-- Trust tier: 2 — AOC, named author
+- Trust tier: 2: AOC, named author
 - Ingested via: aoc-mcp on 2026-04-23

@@ -16,7 +16,7 @@ trust-tier: 2
 # Out-of-system double take drill
 
 ## Summary
-Ohio State's "Double Take" 6v6 drill: coach rips first ball to player, who digs AND sets the second ball (same player takes two contacts). Spread first ball across positions so everyone — not just setters — can rescue OOS with a hittable set.
+Ohio State's "Double Take" 6v6 drill: coach rips first ball to player, who digs AND sets the second ball (same player takes two contacts). Spread first ball across positions so everyone, setters included, can rescue OOS with a hittable set.
 
 ## Key claims / ideas
 - "Everybody needs to be able to set a ball out of system so we can get a good quality swing on it."
@@ -34,6 +34,5 @@ Ohio State's "Double Take" 6v6 drill: coach rips first ball to player, who digs 
 ## Access
 - Raw file: [[aoc-2024-oldenburg-oos-double-take]]
 - URL: https://www.theartofcoachingvolleyball.com/out-of-system-double-take-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

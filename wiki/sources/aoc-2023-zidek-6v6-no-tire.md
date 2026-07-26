@@ -16,7 +16,7 @@ trust-tier: 2
 # 6 vs 6 drill that won't wear out your players
 
 ## Summary
-DePaul's Marie Zidek runs a shortened 6v6 drill where rallies end after the defense digs or blocks (no transition allowed) — game-like first-phase practice without exhausting athletes.
+DePaul's Marie Zidek runs a shortened 6v6 drill where rallies end after the defense digs or blocks (no transition allowed): game-like first-phase practice without exhausting athletes.
 
 ## Key claims / ideas
 - First-phase-only rallies (attack → dig/block, ball dead) keep intensity without fatigue cost.
@@ -35,5 +35,5 @@ DePaul's Marie Zidek runs a shortened 6v6 drill where rallies end after the defe
 ## Access
 - Raw file: [[aoc-2023-zidek-6v6-no-tire]]
 - URL: https://www.theartofcoachingvolleyball.com/6-vs-6-drill-that-wont-wear-out-your-players/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

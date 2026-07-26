@@ -35,5 +35,5 @@ Barnard and Sealy give two recovery options when a middle misreads: if within 3-
 ## Access
 - Raw file: [[aoc-2021-barnard-sealy-blocker-recover]]
 - URL: https://www.theartofcoachingvolleyball.com/blocker-recover-from-misreading/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

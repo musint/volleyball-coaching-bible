@@ -19,7 +19,7 @@ trust-tier: 1
 
 ## Summary
 
-Lanzani and colleagues (2026) propose and validate a motion-analysis protocol that simultaneously measures upper-limb kinematics and muscle-synergy patterns across nine distinct volleyball set types — outside, middle, opposite, plus tempo and direction variants. One experienced setter completed two sessions; reliability was assessed via intraclass correlation. The work produced two coaching-relevant findings. First, **five distinct upper-limb muscle synergies coordinate the volleyball set across set types** — this is far more multi-dimensional than the cup-of-the-fingers framing common in coaching texts. Different set destinations (front-row outside vs. middle vs. back-row) require different muscle-synergy patterns, not just different positioning. Second, **flexion-extension angles** (shoulder, elbow, wrist) are highly repeatable session-to-session (r > 0.90, ICC > 0.90), but **rotational components** — shoulder rotation and forearm pronation-supination — show substantially greater variability. Setting-quality drift under fatigue or pressure is therefore most likely to appear in the rotational dimensions, suggesting where coaching cues and feedback should focus.
+Lanzani and colleagues (2026) propose and validate a motion-analysis protocol that simultaneously measures upper-limb kinematics and muscle-synergy patterns across nine distinct volleyball set types, outside, middle, opposite, plus tempo and direction variants. One experienced setter completed two sessions; reliability was assessed via intraclass correlation. The work produced two coaching-relevant findings. First, **five distinct upper-limb muscle synergies coordinate the volleyball set across set types**: this is far more multi-dimensional than the cup-of-the-fingers framing common in coaching texts. Different set destinations (front-row outside vs. middle vs. back-row) require different muscle-synergy patterns, beyond different positioning. Second, **flexion-extension angles** (shoulder, elbow, wrist) are highly repeatable session-to-session (r > 0.90, ICC > 0.90), but **rotational components**: shoulder rotation and forearm pronation-supination, show substantially greater variability. Setting-quality drift under fatigue or pressure is therefore most likely to appear in the rotational dimensions, suggesting where coaching cues and feedback should focus.
 
 ## Key claims / ideas
 
@@ -46,5 +46,5 @@ Lanzani and colleagues (2026) propose and validate a motion-analysis protocol th
 
 - Raw file: `raw/research/lanzani-2026-setting-kinematics-protocol.md`
 - URL / DOI: https://doi.org/10.3390/mps9010006 (PMC12821510)
-- Trust tier: 1 — peer-reviewed research (open access)
+- Trust tier: 1, peer-reviewed research (open access)
 - Access note: full open-access text via PubMed Central

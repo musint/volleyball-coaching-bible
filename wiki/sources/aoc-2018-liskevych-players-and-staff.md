@@ -16,7 +16,7 @@ trust-tier: 2
 # Terry Liskevych on players and staff
 
 ## Summary
-Short talk on team-building: a program is only as good as the people around the head coach — both players and staff.
+Short talk on team-building: a program is only as good as the people around the head coach, both players and staff.
 
 ## Key claims / ideas
 - Roster and staff selection are strategic decisions, not administrative ones.
@@ -36,5 +36,5 @@ Short talk on team-building: a program is only as good as the people around the 
 ## Access
 - Raw file: [[aoc-2018-liskevych-players-and-staff]]
 - URL: https://www.theartofcoachingvolleyball.com/terry-liskevych-on-players-and-staff/
-- Trust tier: 2 — AOC, Liskevych
+- Trust tier: 2: AOC, Liskevych
 - Ingested via: aoc-mcp on 2026-04-23

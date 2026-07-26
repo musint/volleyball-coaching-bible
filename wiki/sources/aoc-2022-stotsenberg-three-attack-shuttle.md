@@ -35,6 +35,5 @@ Stotsenberg's shuttle drill reps three setter dumps in sequence: left-hand net-l
 ## Access
 - Raw file: [[aoc-2022-stotsenberg-three-attack-shuttle]]
 - URL: https://www.theartofcoachingvolleyball.com/setting-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

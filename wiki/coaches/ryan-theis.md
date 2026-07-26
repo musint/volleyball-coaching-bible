@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-Ryan Theis is a Division I head coach and a sustained Art of Coaching Volleyball (AOC) contributor whose public footprint in the ingested sample is concentrated on team-ball-control drill design, setter-vision training, and scoring-scaffold competitive drills [aoc-2021-theis-square-cooperative-drill] [aoc-2023-theis-setter-vision-work] [aoc-2026-theis-earn-vs-give-points]. Theis's AOC output shares a throughline: design cooperative team drills that stack ball-control demands on every floor player simultaneously, and use scoring frames that separate earning points from giving them away [aoc-2021-theis-square-cooperative-drill] [aoc-2026-theis-earn-vs-give-points]. [unsourced] Theis's full biography — specific program affiliation dates, playing career, coaching lineage, career record — is not captured in the AOC-facing source base on file; the profile will be expanded with later sources.
+Ryan Theis is a Division I head coach and a sustained Art of Coaching Volleyball (AOC) contributor whose public footprint in the ingested sample is concentrated on team-ball-control drill design, setter-vision training, and scoring-scaffold competitive drills [aoc-2021-theis-square-cooperative-drill] [aoc-2023-theis-setter-vision-work] [aoc-2026-theis-earn-vs-give-points]. Theis's AOC output shares a throughline: design cooperative team drills that stack ball-control demands on every floor player simultaneously, and use scoring frames that separate earning points from giving them away [aoc-2021-theis-square-cooperative-drill] [aoc-2026-theis-earn-vs-give-points]. [unsourced] Theis's full biography, specific program affiliation dates, playing career, coaching lineage, career record, is not captured in the AOC-facing source base on file; the profile will be expanded with later sources.
 
 ## Coaching career
 
@@ -28,7 +28,7 @@ Ryan Theis is a Division I head coach and a sustained Art of Coaching Volleyball
 
 **Cooperative team ball-control as a warm-up that conditions.** Theis's 2021 square cooperative drill distributes ball-control reps across four players in a tight square; every contact is graded, and the aggregate score conditions the team to hold platform and set quality under sustained rep density [aoc-2021-theis-square-cooperative-drill].
 
-**Setter-vision as a trainable habit, not a gift.** Theis's 2023 setter-vision piece frames setter pre-contact scanning — block picture, hitter approach, defender positions — as a sequence that can be drilled with progressive cueing rather than treated as innate field sense [aoc-2023-theis-setter-vision-work].
+**Setter-vision as a trainable habit, not a gift.** Theis's 2023 setter-vision piece frames setter pre-contact scanning, block picture, hitter approach, defender positions, as a sequence that can be drilled with progressive cueing rather than treated as innate field sense [aoc-2023-theis-setter-vision-work].
 
 **Earn vs. give point scoring.** Theis's 2026 earn-vs-give piece distinguishes points earned (a kill, a dig-to-transition-kill) from points given (a service error, a reception error) in drill scoring design, so the team's post-drill review focuses on the losing team's errors as the teaching moment rather than the winner's kills [aoc-2026-theis-earn-vs-give-points].
 

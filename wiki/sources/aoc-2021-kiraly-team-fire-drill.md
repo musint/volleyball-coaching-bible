@@ -19,11 +19,11 @@ Karch Kiraly's "fire drill" is a chaotic 6v6 team drill that forces every player
 
 ## Key claims / ideas
 
-- The core teaching payoff: players experience every position on the court — especially the setter role — during one drill block.
+- The core teaching payoff: players experience every position on the court, especially the setter role, during one drill block.
 - Right-back-sets rule guarantees non-setter players set second ball in every rotation.
 - Off-speed-only attack constraint keeps defenders relevant and reduces blowout points.
 - Free-ball / down-ball entry keeps pace up without skill bottleneck on the first touch.
-- The "fire drill" name signals controlled chaos — players are intentionally out of position.
+- The "fire drill" name signals controlled chaos, players are intentionally out of position.
 
 ## Topics covered
 
@@ -34,7 +34,7 @@ Karch Kiraly's "fire drill" is a chaotic 6v6 team drill that forces every player
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``team-drill``, ``ball-control`` hub, `[[setting]]` (emergency set), `[[positions/setter]]`, `[[age-lens-14u]]`, and `[[karch-kiraly]]` profile.
+Forward-reference, to be cited on ``team-drill``, ``ball-control`` hub, `[[setting]]` (emergency set), `[[positions/setter]]`, `[[age-lens-14u]]`, and `[[karch-kiraly]]` profile.
 
 ## Access
 

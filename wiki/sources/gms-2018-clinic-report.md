@@ -23,9 +23,9 @@ valuable as an external, attendee-perspective snapshot of what GMS actually
 delivers in its flagship teaching format, independent of the GMS website's
 own framing.
 
-Forman organizes the clinic into four curricular pillars — motor-learning
+Forman organizes the clinic into four curricular pillars, motor-learning
 science, game-pattern research, specific skill development (swing blocking,
-passing arm mechanics, 4-step attack), and practice efficiency — and
+passing arm mechanics, 4-step attack), and practice efficiency, and
 captures concrete programmatic choices (limiting drill variety to roughly 12
 core activities; middle-middle defense with Position 6 at ~20 feet from the
 net; conservative pass/set targets off the net).
@@ -43,7 +43,7 @@ net; conservative pass/set targets off the net).
   whiteboards for practice organization.
 - Core methodology framed as "reps and feedback."
 - Conservative passing/setting targets to minimize errors.
-- "Teaching in the game paradigm" — small-sided games with corrective reps
+- "Teaching in the game paradigm", small-sided games with corrective reps
   instead of punitive conditioning.
 
 ## Topics covered
@@ -58,6 +58,6 @@ net; conservative pass/set targets off the net).
 ## Access
 - Raw file: `raw/articles/gms-report-coaching-clinic.md`
 - URL: https://coachingvb.com/report-from-gold-medal-squared-coaching-clinic/
-- Trust tier: 2 — secondary but named-author (John Forman) attendee report
+- Trust tier: 2, secondary but named-author (John Forman) attendee report
   of a GMS clinic; not first-party GMS material, but a credible independent
   witness.

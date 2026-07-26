@@ -37,5 +37,5 @@ Kiraly and Luka Slabe lay out a four-question framework for building a serve-rec
 ## Access
 - Raw file: [[aoc-2024-kiraly-serve-receive-unit]]
 - URL: https://www.theartofcoachingvolleyball.com/developing-your-serve-receive-unit/
-- Trust tier: 2 — AOC, Kiraly named
+- Trust tier: 2: AOC, Kiraly named
 - Ingested via: aoc-mcp on 2026-04-23

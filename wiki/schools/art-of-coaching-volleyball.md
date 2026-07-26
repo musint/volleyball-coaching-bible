@@ -60,7 +60,7 @@ sources:
 
 The Art of Coaching Volleyball (AOC) is a U.S.-based coach-education
 organization launched in 2011 by three of American volleyball's most decorated
-head coaches — [[terry-liskevych]], [[john-dunning]], and [[russ-rose]] — to
+head coaches, [[terry-liskevych]], [[john-dunning]], and [[russ-rose]]: to
 scale instructional content for the working volleyball coach
 [dunning-2016-aoc-difference-maker][aoc-nd-rose-profile]. Liskevych
 contributed the U.S. Women's NT lens (head coach 1985-1996, Barcelona 1992
@@ -71,14 +71,14 @@ wins and seven NCAA titles across 42 years at Penn State
 [aoc-nd-rose-profile][aoc-2022-rose-coach-for-life]. The premise was simple
 and at the time genuinely novel: aggregate the best practical coaching
 content the sport had to offer, deliver it on demand through video and short
-articles, and treat the working club, high school, and college coach — not
-the elite player — as the primary customer.
+articles, and treat the working club, high school, and college coach, not
+the elite player, as the primary customer.
 
 AOC's catalog has grown into thousands of short instructional pieces
 spanning every skill, every practice phase, and every layer of the craft
 (practice planning, scouting, culture, mental game, leadership, season
 management). This wiki has ingested ~97 AOC pages as a non-exhaustive
-sample across the major clusters — flagship coach corpora (Kiraly, Rose,
+sample across the major clusters, flagship coach corpora (Kiraly, Rose,
 Dunning, Liskevych, McCutcheon), the ASICS Skill Series with Liskevych
 [aoc-2017-liskevych-asics-passing][aoc-2017-liskevych-asics-blocking], the
 kids fundamentals series
@@ -94,9 +94,9 @@ AOC is best understood as a coach-education infrastructure layer, not a
 methodological school. Where [[gold-medal-squared]] sells a particular
 pedagogical line and the [[usa-volleyball|USA Volleyball Coach Academy]]
 delivers a governing-body curriculum [usav-2026-coach-academy], AOC's
-editorial choice is to host many credentialed voices — Kiraly, Rose,
+editorial choice is to host many credentialed voices: Kiraly, Rose,
 Dunning, Liskevych, [[hugh-mccutcheon]], [[jim-stone]], Tod Mattox, Luka
-Slabe, Gina Schmidt, Ray Bechard, Ben Josephson, and dozens more — and let
+Slabe, Gina Schmidt, Ray Bechard, Ben Josephson, and dozens more, and let
 coaches synthesize their own approach
 [aoc-2017-one-big-thing-panel][aoc-2024-legends-liskevych-kiraly]. Kiraly
 endorses the stance directly: "many valid approaches to coaching exist; no
@@ -107,19 +107,19 @@ of compatible cues and no opinionated path through them.
 ## Core principles
 
 - **Coach-education-first mission.** AOC's founding charter was the
-  scaling of coaching IP, not athlete development directly — its product is the
+  scaling of coaching IP, not athlete development directly, its product is the
   coach who then improves the athlete [dunning-2016-aoc-difference-maker]. The
   three founders articulated the same animating concern at the same career
   stage: how do you transmit decades of coaching learning to the next
   generation without each coach having to reinvent the work
   [liskevych-2021-volleybrains-no-shortcuts][aoc-2024-liskevych-growing-sport].
 
-- **Video as primary medium.** Most AOC pieces center on a video clip —
+- **Video as primary medium.** Most AOC pieces center on a video clip, 
   short Quick Hits tips [aoc-2018-stone-platform-management], skill series
   segments [aoc-2017-liskevych-asics-passing][aoc-2017-liskevych-asics-blocking],
   panel recordings [aoc-2020-passing-principles][aoc-2017-one-big-thing-panel],
   and clinic captures [aoc-2026-rose-no-free-balls]. The format
-  prioritizes seeing the coaching point in motion — Stone's "show, don't just
+  prioritizes seeing the coaching point in motion: Stone's "show, don't just
   tell" claim is the implicit pedagogical commitment of the entire catalog
   [aoc-2024-motor-learning].
 
@@ -130,8 +130,8 @@ of compatible cues and no opinionated path through them.
   [aoc-2020-passing-principles]. Kiraly and Liskevych jointly endorse the idea
   that "there is no single right way to coach" [aoc-2024-legends-liskevych-kiraly].
 
-- **Reading-centric pedagogy.** Multiple AOC pieces argue that reading —
-  the perceptual-cognitive component of every skill — should be trained as a
+- **Reading-centric pedagogy.** Multiple AOC pieces argue that reading, 
+  the perceptual-cognitive component of every skill, should be trained as a
   thread through serve receive, attack, block, and defense rather than as a
   separate drill block [aoc-2020-reading-every-skill][aoc-2024-kiraly-reads-every-skill][aoc-2026-training-reading][aoc-2025-training-reading-look-see-decide].
   Kiraly's B-S-B-H (ball-setter-ball-hitter) eye-work sequence
@@ -145,8 +145,8 @@ of compatible cues and no opinionated path through them.
   consistently rank fundamentals above tactics
   [aoc-2017-rose-10-things-learned][liskevych-2015-aoc-10-things]. Liskevych
   states the rule directly: "build technical skills before tactical complexity"
-  [liskevych-2015-aoc-10-things]. The kids fundamentals series — Ruth Nelson on
-  passing, attacking, and setting for ages 4-11 — extends the same logic down
+  [liskevych-2015-aoc-10-things]. The kids fundamentals series: Ruth Nelson on
+  passing, attacking, and setting for ages 4-11, extends the same logic down
   the developmental ladder
   [aoc-2024-kids-passing-fundamentals][aoc-2024-kids-attacking-fundamentals][aoc-2024-kids-setting-fundamentals].
 
@@ -168,7 +168,7 @@ work of the three founders.
 typically breaks a skill into named components, drills each in isolation,
 then recombines them in game-realistic scenarios. Ray Bechard's
 posture-pursuit-platform passing framework
-[aoc-2025-passing-posture-pursuit-platform] is the canonical illustration —
+[aoc-2025-passing-posture-pursuit-platform] is the canonical illustration, 
 three teachable parts, each rehearsable alone, then re-coupled under
 serve-receive conditions. Gina Schmidt teaches the attack approach through
 the same logic (start slow, accelerate over the last two steps, arm-swing
@@ -185,7 +185,7 @@ consistent enough across coaches to count as one.
 components are introduced, AOC content tends toward live, game-shaped
 practice over extended cooperative repetition. Kiraly's 50-percent drill is
 a 6v6 game in which attackers cap themselves at half-speed, forcing
-creative shot-making and long rallies — every player rotates through every
+creative shot-making and long rallies, every player rotates through every
 position, scoring compressed to 12-all-to-15
 [aoc-2024-kiraly-50-percent-drill]. Tod Mattox's season-arc piece pairs a
 Kamikaze 4v4 (with blockers in front of and behind the 10-foot line) and a
@@ -212,11 +212,11 @@ pattern recognition as coachable rather than emergent
 
 **Named heuristics that travel.** AOC has propagated several short-form
 coaching heuristics that have spread well beyond their originators:
-- **The Liskevych 5** — judge a player by her last five contacts, not her
+- **The Liskevych 5**: judge a player by her last five contacts, not her
   cumulative line, to detect within-match form [aoc-2022-liskevych-five].
-- **Kiraly's 50-percent drill** — a half-speed-attack 6v6 that builds ball
+- **Kiraly's 50-percent drill**: a half-speed-attack 6v6 that builds ball
   control and shot variety [aoc-2024-kiraly-50-percent-drill].
-- **Rose's no-free-balls rule** — a program-level prohibition framed as a
+- **Rose's no-free-balls rule**: a program-level prohibition framed as a
   cultural standard, not a tactical preference [aoc-2026-rose-no-free-balls].
 - **Posture-pursuit-platform** (Bechard) and the **B-S-B-H eye sequence**
   (Kiraly) operate as portable acronyms for skill teaching
@@ -244,41 +244,41 @@ The AOC contributor list functions as a near-complete prosopography of
 contemporary U.S. coach-education. Founders and most-frequent contributors
 on this wiki:
 
-- **[[terry-liskevych]]** — co-founder; USA Women's NT 1985-1996 (1992
+- **[[terry-liskevych]]**: co-founder; USA Women's NT 1985-1996 (1992
   bronze); Oregon State; editor of *The Volleyball Coaching Bible*; ASICS
   Skill Series host
   [aoc-2017-liskevych-asics-passing][aoc-2017-liskevych-asics-blocking];
   named inventor of the Liskevych 5 [aoc-2022-liskevych-five].
-- **[[john-dunning]]** — co-founder; Pacific (16) and Stanford (16); five
+- **[[john-dunning]]**: co-founder; Pacific (16) and Stanford (16); five
   NCAA titles; AVCA leadership; AOC's voice on system flexibility and
   care-based culture
   [dunning-2016-aoc-difference-maker][aoc-2017-dunning-10-things][aoc-2018-dunning-team-culture].
-- **[[russ-rose]]** — co-founder; Penn State 1979-2021; 1,309 wins; seven
+- **[[russ-rose]]**: co-founder; Penn State 1979-2021; 1,309 wins; seven
   NCAA titles; back-to-back 38-0 in 2008-09
   [aoc-nd-rose-profile][aoc-2022-rose-coach-for-life]; AOC's voice for
   fundamentals-and-accountability programs [aoc-2026-rose-no-free-balls][aoc-2018-rose-impact-of-passing].
-- **[[karch-kiraly]]** — three-time Olympic gold medalist; USA Women's NT
+- **[[karch-kiraly]]**: three-time Olympic gold medalist; USA Women's NT
   head coach 2012-2024, moving to USA Men's NT for LA 2028; AOC's most
   prolific recent contributor across reading, culture, drill design, and
   learning posture
   [aoc-2024-kiraly-reads-every-skill][aoc-2024-kiraly-50-percent-drill][aoc-2024-kiraly-culture][aoc-2024-kiraly-things-learned][aoc-2021-kiraly-becoming-learner].
-- **[[hugh-mccutcheon]]** — USA Men's 2008 gold head coach; USA Women's
+- **[[hugh-mccutcheon]]**: USA Men's 2008 gold head coach; USA Women's
   2012 silver; Minnesota 2012-2022; AOC contributor on culture and
   generational coaching [aoc-2018-coaching-iy-generation].
-- **[[jim-stone]]** — Ohio State 1982-2007, USA Girls Youth NT 2008-2019;
+- **[[jim-stone]]**: Ohio State 1982-2007, USA Girls Youth NT 2008-2019;
   motor-learning advocate
   [aoc-2024-motor-learning][aoc-2018-stone-platform-management][aoc-2020-passing-principles].
-- **Tod Mattox** (Bishop's School) — season-arc and small-sided-game
+- **Tod Mattox** (Bishop's School): season-arc and small-sided-game
   contributor [aoc-2021-mattox-early-season-practice].
-- **Luka Slabe** — blocking systems and bunch read
+- **Luka Slabe**: blocking systems and bunch read
   [aoc-2024-slabe-blocking][aoc-2026-bunch-read-blocking].
-- **Gina Schmidt** (Simon Fraser) — attack approach, reading drills
+- **Gina Schmidt** (Simon Fraser): attack approach, reading drills
   [aoc-2024-attack-approach][aoc-2026-training-reading].
-- **Ray Bechard** (Kansas) — posture-pursuit-platform passing
+- **Ray Bechard** (Kansas): posture-pursuit-platform passing
   [aoc-2025-passing-posture-pursuit-platform].
-- **Ben Josephson** (Texas associate) — look-see-decide reading
+- **Ben Josephson** (Texas associate): look-see-decide reading
   [aoc-2025-training-reading-look-see-decide][aoc-2026-training-reading].
-- **Ruth Nelson** — kids fundamentals series, ages 4-11
+- **Ruth Nelson**: kids fundamentals series, ages 4-11
   [aoc-2024-kids-passing-fundamentals][aoc-2024-kids-attacking-fundamentals][aoc-2024-kids-setting-fundamentals].
 
 The contributor pool also extends to Glenn Hoag (Canada Men's NT, retired),
@@ -290,7 +290,7 @@ single-piece contributions [aoc-2017-one-big-thing-panel].
 - **vs. [[gold-medal-squared]] (GMS).** GMS, founded by Carl McGown in 1985
   with Marv Dunphy and Doug Beal, sells itself as a "simple, science-based"
   methodology grounded in motor-learning research [gms-nd-about-us]. AOC
-  is methodologically eclectic — its founders endorse "many valid
+  is methodologically eclectic, its founders endorse "many valid
   approaches" [aoc-2024-legends-liskevych-kiraly] and the catalog hosts
   coaches whose teaching cues do not fully align. GMS-affiliated coaches
   (Carl McGown, Chris McGown, Mike Wall, John Speraw, Heather Olmstead,
@@ -299,26 +299,26 @@ single-piece contributions [aoc-2017-one-big-thing-panel].
   depth: AOC trades a coherent in-house methodology for editorial range.
 
 - **vs. [[usa-volleyball|USA Volleyball Coach Academy]].** The Coach
-  Academy is the governing body's coach-development arm — a
+  Academy is the governing body's coach-development arm, a
   Bronze/Silver/Gold curriculum organized around the Development Model's
   five pillars (Craft, Body, Mind, Heart, Team), delivered via Litmos and
   SportsEngine [usav-2026-coach-academy]. AOC is private, supplementary,
   and editorial: USAV credentials carry governance authority and a fixed
   curriculum, AOC content carries no certification weight. The two are
-  complementary in practice — Liskevych, Kiraly, and Stone all have USAV
-  ties — but structurally distinct. Liskevych has publicly criticized
-  current USA Volleyball leadership [aoc-2024-liskevych-growing-sport],
-  underscoring that AOC is independent of, not derivative from, USAV.
+  complementary in practice: Liskevych, Kiraly, and Stone all have USAV
+  ties, but structurally distinct. Liskevych has publicly criticized
+  current USA Volleyball leadership [aoc-2024-liskevych-growing-sport].
+  AOC is independent of USAV rather than derivative from it.
 
 - **vs. [[japanese-training]].** AOC draws on Japanese precision and
-  defense traditions through Liskevych's reference base — his "top 35
+  defense traditions through Liskevych's reference base, his "top 35
   references" piece is cross-disciplinary and cross-cultural, with
   Japanese-tradition heuristics implicit in his defense and serve-receive
   teaching [aoc-2013-liskevych-top-references]. The Liskevych 5
   (last-five-contacts evaluation) carries that small-sample, in-the-moment
   flavor [aoc-2022-liskevych-five]. But full Japanese training is
-  monocultural in philosophy — long, repetition-dense practice within a
-  single coaching lineage — whereas AOC's whole posture is methodological
+  monocultural in philosophy, long, repetition-dense practice within a
+  single coaching lineage, whereas AOC's whole posture is methodological
   pluralism. AOC borrows from the Japanese tradition without committing
   to it as a primary frame.
 
@@ -331,7 +331,7 @@ single-piece contributions [aoc-2017-one-big-thing-panel].
   ecological-dynamics literature disputes. Pinder, Davids, Renshaw, and
   Araújo (2011) argue practice tasks must preserve the
   *information-movement coupling* athletes use in competition, so a
-  tossed-ball spiking drill — even if technically correct — fails
+  tossed-ball spiking drill, even if technically correct, fails
   representative-design criteria because the hitter is decoupled from
   setter-read information [pinder-2011-representative-learning-design].
   Woods et al. (2020) push further: even "skill acquisition" is
@@ -348,8 +348,8 @@ single-piece contributions [aoc-2017-one-big-thing-panel].
   free, but deeper clinic recordings, full-length panels, and most
   Premium series sit behind a paid membership
   [aoc-2017-one-big-thing-panel][aoc-2018-coaching-iy-generation]. For
-  unfunded club and HS coaches — disproportionately the case at the
-  younger and more economically diverse levels of the youth pipeline —
+  unfunded club and HS coaches, disproportionately the case at the
+  younger and more economically diverse levels of the youth pipeline, 
   the strongest content remains gated.
 
 - **Breadth-over-depth risk.** The same editorial policy that gives AOC
@@ -379,10 +379,10 @@ single-piece contributions [aoc-2017-one-big-thing-panel].
 
 - **Founder-affiliate epistemic risk.** Roughly half the ingested AOC
   content is authored by, or features, the three founders and their close
-  circle (Kiraly, Stone, McCutcheon). AOC profiles of its own founders —
+  circle (Kiraly, Stone, McCutcheon). AOC profiles of its own founders, 
   for example, the Dunning "difference-maker" piece
   [dunning-2016-aoc-difference-maker] and the Rose retirement
-  retrospective [aoc-2022-rose-coach-for-life] — are reliable on factual
+  retrospective [aoc-2022-rose-coach-for-life]: are reliable on factual
   record but partisan to the subjects. AOC is therefore classified Trust
   Tier 2 in this wiki and cited with affiliation noted (per [[SCHEMA]] §7).
 
@@ -395,48 +395,48 @@ single-piece contributions [aoc-2017-one-big-thing-panel].
 
 ## Sources
 
-- [[dunning-2016-aoc-difference-maker]] — AOC Dunning profile (founding date, pedagogy)
-- [[aoc-2017-liskevych-dunning-tribute]] — Liskevych's tribute to Dunning
-- [[aoc-nd-rose-profile]] — AOC founder profile of Russ Rose
-- [[aoc-2024-liskevych-growing-sport]] — Liskevych on USAV and growing the sport
-- [[aoc-2013-liskevych-top-references]] — Liskevych's top 35 references
-- [[liskevych-2015-aoc-10-things]] — Liskevych's 10 lessons (Liskevych on AOC)
-- [[liskevych-2021-volleybrains-no-shortcuts]] — Liskevych on AOC editorial role
-- [[aoc-2024-legends-liskevych-kiraly]] — Liskevych and Kiraly on coaching
-- [[aoc-2017-rose-10-things-learned]] — Rose's 10 lessons
-- [[aoc-2017-dunning-10-things]] — Dunning's 10 lessons
-- [[aoc-2022-rose-coach-for-life]] — Rose retirement retrospective
-- [[aoc-2026-rose-no-free-balls]] — Rose's no-free-balls program rule
-- [[aoc-2022-liskevych-five]] — Liskevych 5 evaluation heuristic
-- [[aoc-2024-kiraly-50-percent-drill]] — Kiraly's 50-percent 6v6 drill
-- [[aoc-2024-kiraly-reads-every-skill]] — Kiraly on B-S-B-H reading
-- [[aoc-2024-kiraly-things-learned]] — Kiraly's elite-level lessons
-- [[aoc-2024-kiraly-culture]] — Kiraly on program culture
-- [[aoc-2021-kiraly-becoming-learner]] — Kiraly on learner mindset
-- [[aoc-2020-passing-principles]] — Rose/Dunning/Stone passing panel
-- [[aoc-2020-reading-every-skill]] — Dunning on reading as cross-skill
-- [[aoc-2025-training-reading-look-see-decide]] — Josephson look-see-decide
-- [[aoc-2026-training-reading]] — Josephson/Schmidt training reading
-- [[aoc-2026-bunch-read-blocking]] — Slabe bunch read blocking
-- [[aoc-2025-passing-posture-pursuit-platform]] — Bechard passing framework
-- [[aoc-2018-stone-platform-management]] — Stone platform Quick Hit
-- [[aoc-2024-motor-learning]] — Stone on motor learning
-- [[aoc-2024-slabe-blocking]] — Slabe blocking systems
-- [[aoc-2024-attack-approach]] — Schmidt attack approach
-- [[aoc-2021-mattox-early-season-practice]] — Mattox early-season planning
-- [[aoc-2024-kids-passing-fundamentals]] — Nelson kids passing
-- [[aoc-2024-kids-attacking-fundamentals]] — Nelson kids attacking
-- [[aoc-2024-kids-setting-fundamentals]] — Nelson kids setting
-- [[aoc-2017-one-big-thing-panel]] — Dunning/Liskevych/Hoag/Eisler panel
-- [[aoc-2018-coaching-iy-generation]] — Dagenais on coaching iY generation
-- [[aoc-2017-liskevych-asics-passing]] — ASICS Skill Series passing
-- [[aoc-2017-liskevych-asics-blocking]] — ASICS Skill Series blocking
-- [[aoc-2017-dunning-stanford-character]] — Dunning Stanford match prep
-- [[aoc-2018-dunning-team-culture]] — Dunning team culture
-- [[aoc-2018-rose-impact-of-passing]] — Rose on passing impact
-- [[aoc-2019-what-learned-from-rose]] — Dietzen on Rose program
-- [[usav-2026-coach-academy]] — USA Volleyball Coach Academy (contrast)
-- [[gms-nd-about-us]] — Gold Medal Squared organization page (contrast)
-- [[pinder-2011-representative-learning-design]] — representative design (contrast)
-- [[woods-2020-sport-ecology-designers]] — sport-ecology-designer view (contrast)
-- [[ig-artofcoachingvb-20260423]] — AOC Instagram profile entry
+- [[dunning-2016-aoc-difference-maker]]: AOC Dunning profile (founding date, pedagogy)
+- [[aoc-2017-liskevych-dunning-tribute]]: Liskevych's tribute to Dunning
+- [[aoc-nd-rose-profile]]: AOC founder profile of Russ Rose
+- [[aoc-2024-liskevych-growing-sport]]: Liskevych on USAV and growing the sport
+- [[aoc-2013-liskevych-top-references]]: Liskevych's top 35 references
+- [[liskevych-2015-aoc-10-things]]: Liskevych's 10 lessons (Liskevych on AOC)
+- [[liskevych-2021-volleybrains-no-shortcuts]]: Liskevych on AOC editorial role
+- [[aoc-2024-legends-liskevych-kiraly]]: Liskevych and Kiraly on coaching
+- [[aoc-2017-rose-10-things-learned]]: Rose's 10 lessons
+- [[aoc-2017-dunning-10-things]]: Dunning's 10 lessons
+- [[aoc-2022-rose-coach-for-life]]: Rose retirement retrospective
+- [[aoc-2026-rose-no-free-balls]]: Rose's no-free-balls program rule
+- [[aoc-2022-liskevych-five]]: Liskevych 5 evaluation heuristic
+- [[aoc-2024-kiraly-50-percent-drill]]: Kiraly's 50-percent 6v6 drill
+- [[aoc-2024-kiraly-reads-every-skill]]: Kiraly on B-S-B-H reading
+- [[aoc-2024-kiraly-things-learned]]: Kiraly's elite-level lessons
+- [[aoc-2024-kiraly-culture]]: Kiraly on program culture
+- [[aoc-2021-kiraly-becoming-learner]]: Kiraly on learner mindset
+- [[aoc-2020-passing-principles]]: Rose/Dunning/Stone passing panel
+- [[aoc-2020-reading-every-skill]]: Dunning on reading as cross-skill
+- [[aoc-2025-training-reading-look-see-decide]]: Josephson look-see-decide
+- [[aoc-2026-training-reading]]: Josephson/Schmidt training reading
+- [[aoc-2026-bunch-read-blocking]]: Slabe bunch read blocking
+- [[aoc-2025-passing-posture-pursuit-platform]]: Bechard passing framework
+- [[aoc-2018-stone-platform-management]]: Stone platform Quick Hit
+- [[aoc-2024-motor-learning]]: Stone on motor learning
+- [[aoc-2024-slabe-blocking]]: Slabe blocking systems
+- [[aoc-2024-attack-approach]]: Schmidt attack approach
+- [[aoc-2021-mattox-early-season-practice]]: Mattox early-season planning
+- [[aoc-2024-kids-passing-fundamentals]]: Nelson kids passing
+- [[aoc-2024-kids-attacking-fundamentals]]: Nelson kids attacking
+- [[aoc-2024-kids-setting-fundamentals]]: Nelson kids setting
+- [[aoc-2017-one-big-thing-panel]]: Dunning/Liskevych/Hoag/Eisler panel
+- [[aoc-2018-coaching-iy-generation]]: Dagenais on coaching iY generation
+- [[aoc-2017-liskevych-asics-passing]]: ASICS Skill Series passing
+- [[aoc-2017-liskevych-asics-blocking]]: ASICS Skill Series blocking
+- [[aoc-2017-dunning-stanford-character]]: Dunning Stanford match prep
+- [[aoc-2018-dunning-team-culture]]: Dunning team culture
+- [[aoc-2018-rose-impact-of-passing]]: Rose on passing impact
+- [[aoc-2019-what-learned-from-rose]]: Dietzen on Rose program
+- [[usav-2026-coach-academy]]: USA Volleyball Coach Academy (contrast)
+- [[gms-nd-about-us]]: Gold Medal Squared organization page (contrast)
+- [[pinder-2011-representative-learning-design]]: representative design (contrast)
+- [[woods-2020-sport-ecology-designers]]: sport-ecology-designer view (contrast)
+- [[ig-artofcoachingvb-20260423]]: AOC Instagram profile entry

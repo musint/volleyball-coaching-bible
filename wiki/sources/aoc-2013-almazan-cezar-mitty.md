@@ -15,14 +15,14 @@ trust-tier: 2
 
 ## Summary
 
-Profile of Bret Almazan-Cezar (Archbishop Mitty HS, San Jose — 5 state titles, 14-year tenure). Themes: relationships with players, emotional thermostat (even-keeled), "7 Nothing" sense-of-urgency drill, consequences-with-purpose, "look through the net," play-first-then-drill, weight training, faster middle transitions, video-as-teaching, serve-under-the-cart, mixed practice objectives, "we want good kids."
+Profile of Bret Almazan-Cezar (Archbishop Mitty HS, San Jose: 5 state titles, 14-year tenure). Themes: relationships with players, emotional thermostat (even-keeled), "7 Nothing" sense-of-urgency drill, consequences-with-purpose, "look through the net," play-first-then-drill, weight training, faster middle transitions, video-as-teaching, serve-under-the-cart, mixed practice objectives, "we want good kids."
 
 ## Key claims / ideas
 
 - Relationships precede technical coaching effectiveness.
 - Celebrations should be genuine not rah-rah; sustained winning is even-keeled.
-- "Look through the net" — defenders focus too much on ball, not enough on opposing team's tendencies through the net strings.
-- Play first, break to drill only when needed — math-problem analogy.
+- "Look through the net", defenders focus too much on ball, not enough on opposing team's tendencies through the net strings.
+- Play first, break to drill only when needed, math-problem analogy.
 - Serve under the cart: aim underneath a raised ball cart to train flat/low serves.
 - Match-planning uses video of opponent tendencies.
 - Character and "good kids" is stated top of recruiting filter.

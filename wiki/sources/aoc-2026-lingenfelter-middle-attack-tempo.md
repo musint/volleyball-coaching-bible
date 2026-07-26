@@ -16,7 +16,7 @@ trust-tier: 2
 # Training middle attack tempo
 
 ## Summary
-Mike Lingenfelter (Munciana Volleyball Club) defines middle-attack tempo with three plant-timing benchmarks (Tempo 1/2/3) and shares a progression of individual and team drills — pull-off-and-approach, platform-to-net, and Pin-to-Pin/Repeat Recovery — to train them.
+Mike Lingenfelter (Munciana Volleyball Club) defines middle-attack tempo with three plant-timing benchmarks (Tempo 1/2/3) and shares a progression of individual and team drills, pull-off-and-approach, platform-to-net, and Pin-to-Pin/Repeat Recovery, to train them.
 
 ## Key claims / ideas
 - Tempo 3 = high ball to pins; middle plants left foot once ball has left setter's hands.
@@ -39,5 +39,5 @@ Mike Lingenfelter (Munciana Volleyball Club) defines middle-attack tempo with th
 ## Access
 - Raw file: [[aoc-2026-lingenfelter-middle-attack-tempo]]
 - URL: https://www.theartofcoachingvolleyball.com/training-middle-attack-speed/
-- Trust tier: 2 — AOC, coach video
+- Trust tier: 2: AOC, coach video
 - Ingested via: aoc-mcp on 2026-04-23

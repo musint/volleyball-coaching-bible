@@ -38,5 +38,5 @@ Karch Kiraly and Luka Slabe catalog libero drills used by USA WNT: Blitz the Bro
 ## Access
 - Raw file: [[aoc-2024-kiraly-slabe-training-libero]]
 - URL: https://www.theartofcoachingvolleyball.com/training-your-libero/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

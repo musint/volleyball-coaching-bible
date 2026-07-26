@@ -40,5 +40,5 @@ Tod Mattox (The Bishop's School) argues the 4-2 is making a comeback because a f
 ## Access
 - Raw file: [[aoc-2022-4-2-system]]
 - URL: https://www.theartofcoachingvolleyball.com/4-2-volleyball-system/
-- Trust tier: 2 — AOC, systems/strategy
+- Trust tier: 2: AOC, systems/strategy
 - Ingested via: aoc-mcp on 2026-04-23

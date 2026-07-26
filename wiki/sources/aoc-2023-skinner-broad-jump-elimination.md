@@ -20,9 +20,9 @@ Kentucky's Craig Skinner uses a hula-hoop constraint to teach vertical-only jump
 
 ## Key claims / ideas
 - Heel-toe-toe last two steps = key cue for maximum vertical.
-- Hula-hoop constraint: plant inside the hoop, jump straight up, land inside the hoop — eliminates broad jumping forward.
+- Hula-hoop constraint: plant inside the hoop, jump straight up, land inside the hoop, eliminates broad jumping forward.
 - Broad jumping wastes vertical energy and shrinks the contact-point window.
-- Three-step approach teaches relaxation and weight transfer; four-step builds momentum and covers more court — both must adjust to imperfect sets.
+- Three-step approach teaches relaxation and weight transfer; four-step builds momentum and covers more court, both must adjust to imperfect sets.
 - Non-dominant-hand catch progression: engages opposite arm, enforces contact in front of the body.
 - Final stage: reactive shot calls integrate footwork + approach + precision.
 
@@ -38,5 +38,5 @@ Kentucky's Craig Skinner uses a hula-hoop constraint to teach vertical-only jump
 ## Access
 - Raw file: [[aoc-2023-skinner-broad-jump-elimination]]
 - URL: https://www.theartofcoachingvolleyball.com/volleyball-hitting-drill-elimination-of-broad-jumping/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

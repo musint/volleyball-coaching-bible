@@ -20,7 +20,7 @@ Video-backed P/ATH Sports lesson (host attribution on AOC is "P/ATH Sports"; fea
 
 ## Key claims / ideas
 - Feeling uncomfortable while learning something new is normal and necessary, not a warning sign.
-- Elite performers still struggle while learning — they've learned to embrace the discomfort.
+- Elite performers still struggle while learning, they've learned to embrace the discomfort.
 - Common failure mode: negative self-talk, shrinking, and embarrassment after mistakes.
 - Mistakes only become improvement opportunities if paired with patience and a deliberate response.
 - Practice tools: tell a teammate one in-sport and one out-of-sport thing you'll work on, then check in; catch your own post-mistake reactions in the moment.
@@ -38,5 +38,5 @@ Video-backed P/ATH Sports lesson (host attribution on AOC is "P/ATH Sports"; fea
 ## Access
 - Raw file: [[aoc-2021-kiraly-becoming-learner]]
 - URL: https://www.theartofcoachingvolleyball.com/path-sports-becoming-a-learner/
-- Trust tier: 2 — AOC, Karch Kiraly featured (P/ATH Sports / Cassidy Lichtman host)
+- Trust tier: 2: AOC, Karch Kiraly featured (P/ATH Sports / Cassidy Lichtman host)
 - Ingested via: aoc-mcp on 2026-04-23

@@ -19,7 +19,7 @@ Rockwell identifies three bad habits she sees in juniors-level setters and uses 
 
 ## Key claims / ideas
 
-- Late hands up is a top juniors-level setter error — hands should be up early to decelerate the ball cleanly.
+- Late hands up is a top juniors-level setter error, hands should be up early to decelerate the ball cleanly.
 - Jumping late on jump sets degrades accuracy; pre-set jump timing is teachable.
 - Back-pedaling on balls passed behind the setter is an anti-pattern; turning and redirecting is preferred.
 

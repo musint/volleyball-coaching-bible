@@ -19,7 +19,7 @@ trust-tier: 2
 Mark Barnard (Oregon State '05-'22) drills hitters to reframe the opposing block from an obstacle to an opportunity: a free-ball → pass → set → OH sequence where the hitter must score by tooling, with rotating parameters (wipe outside hand; hit high off the top) to rehearse different techniques.
 
 ## Key claims / ideas
-- Kills don't require termination inside the court — tooling the block is a legitimate scoring mode.
+- Kills don't require termination inside the court, tooling the block is a legitimate scoring mode.
 - Reframe: the block is another scoring opportunity, not an obstacle.
 - Drill structure: 2 blockers vs OH, coach free-ball to Zone 1 passer → setter → OH.
 - Hitter must tool the block to score a point.
@@ -38,5 +38,5 @@ Mark Barnard (Oregon State '05-'22) drills hitters to reframe the opposing block
 ## Access
 - Raw file: [[aoc-2023-barnard-scoring-off-block]]
 - URL: https://www.theartofcoachingvolleyball.com/hitting-scoring-off-the-block-drill/
-- Trust tier: 2 — AOC, former D1 head coach
+- Trust tier: 2: AOC, former D1 head coach
 - Ingested via: aoc-mcp on 2026-04-23

@@ -22,12 +22,12 @@ Four-time NCAA champion John Dunning (Pacific x2, Stanford x2) shares ten coachi
 - "Listen. Stop solving things. Just listen, and maybe ask questions. You will evolve."
 - Hiring staff you'll work with is even more important than recruiting.
 - Never let someone doubt that you care.
-- Competing is a cornerstone of success — focus on it, practice it, recruit it.
+- Competing is a cornerstone of success, focus on it, practice it, recruit it.
 - Be a visionary; chart the path and lead the team there.
-- Establish boundaries but let players breathe — choose when to enforce and when to lighten up.
+- Establish boundaries but let players breathe, choose when to enforce and when to lighten up.
 - Maintain life balance to be great at anything.
 - When you think you've found "The Way," look back to where you went off the road, and decide what's next.
-- Technology's impact has only begun — learn to apply it in ways no one else has.
+- Technology's impact has only begun, learn to apply it in ways no one else has.
 - Set the bar high, then set it higher.
 
 ## Topics covered
@@ -43,5 +43,5 @@ Four-time NCAA champion John Dunning (Pacific x2, Stanford x2) shares ten coachi
 ## Access
 - Raw file: [[aoc-2017-dunning-10-things]]
 - URL: https://www.theartofcoachingvolleyball.com/10-things-john-dunning-has-learned-about-coaching-volleyball/
-- Trust tier: 2 — AOC, named author
+- Trust tier: 2: AOC, named author
 - Ingested via: aoc-mcp on 2026-04-23

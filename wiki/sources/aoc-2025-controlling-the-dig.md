@@ -21,7 +21,7 @@ Jim Stone analyzes Morgan Hentz controlling a hard-driven attack by dropping to 
 ## Key claims / ideas
 - Get hips under the ball so the torso can remain upright on hard-driven attacks.
 - An upright torso lets the defender manage both trajectory and platform angle.
-- The dig goal is to make a hittable ball out of the attack — reliable trajectory control enables a set and transition to counterattack.
+- The dig goal is to make a hittable ball out of the attack, reliable trajectory control enables a set and transition to counterattack.
 - Dropping to the knees is a legitimate advanced defensive posture, not a failure mode.
 
 ## Topics covered
@@ -36,5 +36,5 @@ Jim Stone analyzes Morgan Hentz controlling a hard-driven attack by dropping to 
 ## Access
 - Raw file: [[aoc-2025-controlling-the-dig]]
 - URL: https://www.theartofcoachingvolleyball.com/controlling-the-dig/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

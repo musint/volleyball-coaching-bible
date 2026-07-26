@@ -36,5 +36,5 @@ AOC primer on passing formations: three-passer back-row is the default, responsi
 ## Access
 - Raw file: [[aoc-2020-passing-formations-primer]]
 - URL: https://www.theartofcoachingvolleyball.com/passing-formations/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -19,13 +19,13 @@ trust-tier: 2
 Tod Mattox's tryout drill: three-player server-vs-passer mini-game to 2 on half the long court. Target player judges pass. Ace = server wins. Target cycles in and chooses role. Big game lasts 3 minutes; winner moves up, loser moves down.
 
 ## Key claims / ideas
-- 1-on-1 server vs. passer with target in setter position — half of long court
+- 1-on-1 server vs. passer with target in setter position, half of long court
 - Mini-game: first to 2 points
 - Target player judges the pass; good pass = passer point; bad pass = server point; ace = server wins mini-game
 - Target cycles in and chooses: server or passer
 - 3-minute big game; most cumulative points = winner
 - Ladder-style movement: winner up, loser down
-- Great for tryouts — evaluates both skills head-to-head
+- Great for tryouts, evaluates both skills head-to-head
 
 ## Topics covered
 - Tryout evaluation drill
@@ -39,5 +39,5 @@ Tod Mattox's tryout drill: three-player server-vs-passer mini-game to 2 on half 
 ## Access
 - Raw file: [[aoc-2019-mattox-tryout-server-vs-passer]]
 - URL: https://www.theartofcoachingvolleyball.com/tryout-drill-server-vs-passer/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

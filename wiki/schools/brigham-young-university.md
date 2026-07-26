@@ -32,4 +32,4 @@ See [[byu]].
 See [[byu]].
 
 ## Sources
-*(none yet — alias stub for [[byu]])*
+*(none yet, alias stub for [[byu]])*

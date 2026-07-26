@@ -35,5 +35,5 @@ Two-libero drill: dig-then-set with deceptive set choices on the pins. Difficult
 ## Access
 - Raw file: [[aoc-2026-you-dig-i-set-libero]]
 - URL: https://www.theartofcoachingvolleyball.com/you-dig-i-set-drill-for-liberos/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

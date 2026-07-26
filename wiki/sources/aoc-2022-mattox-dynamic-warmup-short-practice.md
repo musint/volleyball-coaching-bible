@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Tod Mattox frames dynamic warmup as a teaching block, not a warmup block. In a short practice, the warmup should target one specific skill or technique the team is learning. Early in the season, stay on one technique for about a week before moving to the next. Later in the season, let the warmup become competitive — hitting over with control, defending, rewards for winning.
+Tod Mattox frames dynamic warmup as a teaching block, not a warmup block. In a short practice, the warmup should target one specific skill or technique the team is learning. Early in the season, stay on one technique for about a week before moving to the next. Later in the season, let the warmup become competitive, hitting over with control, defending, rewards for winning.
 
 ## Key claims / ideas
 
@@ -33,7 +33,7 @@ Tod Mattox frames dynamic warmup as a teaching block, not a warmup block. In a s
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[practice-planning]]` hub, ``warm-up`` hub, `[[season-planning]]` and `[[tod-mattox]]` profile.
+Forward-reference, to be cited on `[[practice-planning]]` hub, ``warm-up`` hub, `[[season-planning]]` and `[[tod-mattox]]` profile.
 
 ## Access
 

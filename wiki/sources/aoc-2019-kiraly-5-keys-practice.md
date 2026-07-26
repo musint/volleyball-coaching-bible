@@ -19,9 +19,9 @@ Karch Kiraly (USA Women's National Team head coach, 2012-2024) names five keys t
 
 ## Key claims / ideas
 
-- Practice productivity is compound — plan + goals + feedback + focus + difficulty willingness.
+- Practice productivity is compound, plan + goals + feedback + focus + difficulty willingness.
 - "Tackle the tough stuff" is a practice design choice, not a temperament.
-- Feedback is on the top-5 list — it's not optional.
+- Feedback is on the top-5 list, it's not optional.
 
 ## Topics covered
 

@@ -37,5 +37,5 @@ Diane Flick-Williams (Western Washington) shares a reading drill in which defend
 ## Access
 - Raw file: [[aoc-2021-arm-swing-reading-back-bent-straight]]
 - URL: https://www.theartofcoachingvolleyball.com/arm-swing-reading-drill-back-bent-straight/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

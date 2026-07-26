@@ -26,7 +26,7 @@ Ryan Theis (Florida) runs a vision drill that forces the setter to scan the cour
 ## Topics covered
 - Setter peripheral vision and scanning
 - Court awareness for setters
-- Drill design — visual cue recognition
+- Drill design, visual cue recognition
 
 ## Where it's cited
 *(populated as wiki pages cite this source)*
@@ -34,6 +34,5 @@ Ryan Theis (Florida) runs a vision drill that forces the setter to scan the cour
 ## Access
 - Raw file: [[aoc-2023-theis-setter-vision-work]]
 - URL: https://www.theartofcoachingvolleyball.com/setting-vision-work/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

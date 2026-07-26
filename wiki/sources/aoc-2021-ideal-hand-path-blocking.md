@@ -34,5 +34,5 @@ Tod Mattox (The Bishop's School) teaches blockers to slide their hands over the 
 ## Access
 - Raw file: [[aoc-2021-ideal-hand-path-blocking]]
 - URL: https://www.theartofcoachingvolleyball.com/ideal-hand-path-when-blocking/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -16,13 +16,13 @@ trust-tier: 2
 # Position training: Middle transition footwork
 
 ## Summary
-Ryan Theis (Florida) on middle-blocker transition footwork: four specific scenarios — swing block at antenna to attack, block inside antenna to middle attack, maintaining net-approach spacing, and turning off the net without "spinning" the back to the net.
+Ryan Theis (Florida) on middle-blocker transition footwork: four specific scenarios, swing block at antenna to attack, block inside antenna to middle attack, maintaining net-approach spacing, and turning off the net without "spinning" the back to the net.
 
 ## Key claims / ideas
 - Swing-block-at-antenna to attack is a specific transition pattern with its own footwork.
 - Block-inside-antenna to middle attack is a separate footwork pattern.
-- Maintain space between the net and the middle on the approach — not right on the net.
-- Turn away from the net but avoid fully spinning your back — preserves vision and reaction speed.
+- Maintain space between the net and the middle on the approach, not right on the net.
+- Turn away from the net but avoid fully spinning your back, preserves vision and reaction speed.
 
 ## Topics covered
 - Middle-blocker transition footwork
@@ -36,5 +36,5 @@ Ryan Theis (Florida) on middle-blocker transition footwork: four specific scenar
 ## Access
 - Raw file: [[aoc-2020-theis-middle-transition-footwork]]
 - URL: https://www.theartofcoachingvolleyball.com/train-middle-transition-footwork/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

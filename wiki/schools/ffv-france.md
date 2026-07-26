@@ -18,8 +18,8 @@ Federation/league stub for the **Fédération Française de Volley (FFVolley)**,
 The FFV operates the French men's and women's pro pyramid through the **Ligue Nationale de Volley (LNV)**: Ligue A men (14 pro clubs), Ligue A women (12 pro clubs), Ligue B, Élite, and Nationale levels [ffv-france-2026-wikipedia]. National coaching infrastructure runs through the **Centre national de volley-ball** and the **Institut fédéral de volley-ball** [ffv-france-2026-wikipedia]. The federation is the institutional carrier of the modern [[french-school]] identity, supporting the Tillie-and-Giani-era men's-NT program that produced consecutive Olympic golds at Tokyo 2020 and Paris 2024.
 
 ## Notable practitioners
-- [[laurent-tillie]] — France men's NT head coach 2012-2021; Tokyo 2020 Olympic gold
-- [[andrea-giani]] — France men's NT head coach 2022-present; Paris 2024 Olympic gold
+- [[laurent-tillie]]: France men's NT head coach 2012-2021; Tokyo 2020 Olympic gold
+- [[andrea-giani]]: France men's NT head coach 2022-present; Paris 2024 Olympic gold
 
 ## Sources
-- [[ffv-france-2026-wikipedia]] — *Fédération Française de Volley* (French-language Wikipedia, fetched 2026-04-25)
+- [[ffv-france-2026-wikipedia]]: *Fédération Française de Volley* (French-language Wikipedia, fetched 2026-04-25)

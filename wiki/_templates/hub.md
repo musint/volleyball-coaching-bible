@@ -7,7 +7,7 @@ subtopics: [<topic>]
 # <Area Name>
 
 ## Overview
-<What this area covers. 1–2 paragraphs orienting the reader.>
+<What this area covers. 1 to 2 paragraphs orienting the reader.>
 
 ## Major subtopics
 <Bulleted list linking to pages in this area.>

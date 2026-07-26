@@ -21,7 +21,7 @@ Jim Stone and US national team setter Jordyn Poulter demonstrate the knee set fo
 ## Key claims / ideas
 - Knee set is for poor or low passes where the setter can't stay upright under the ball.
 - Drop the knee closest to the pass; get the hips under the ball.
-- Keep chest vertical — don't let it drop — to preserve ability to push to either pin.
+- Keep chest vertical, don't let it drop, to preserve ability to push to either pin.
 - Knee set can be performed as a back set.
 - Power source shifts: arms + core (vs. legs for a standard set).
 
@@ -36,6 +36,5 @@ Jim Stone and US national team setter Jordyn Poulter demonstrate the knee set fo
 ## Access
 - Raw file: [[aoc-2022-stone-poulter-knee-set]]
 - URL: https://www.theartofcoachingvolleyball.com/the-knee-set/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

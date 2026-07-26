@@ -19,7 +19,7 @@ This is AOC curricular content; defer to qualified AT/CSCS/MD on programming spe
 
 ## Key claims / ideas
 
-- Coaches teach jumping but almost never teach landing — this is a correctable blind spot.
+- Coaches teach jumping but almost never teach landing, this is a correctable blind spot.
 - Progression: start with a drop from a chair/staircase (not a jump) to isolate the landing mechanics.
 - Teach cushioning with bent knees + soft touch-down.
 - Rehearse all four combinations: 2-foot land, 1-foot land, lateral land, 1-foot jump → 1-foot land.

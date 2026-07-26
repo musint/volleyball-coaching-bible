@@ -19,7 +19,7 @@ Holly McPeak on bump-setting a ball falling fast to the sand: get the body as lo
 
 ## Key claims / ideas
 
-- On scramble/broken plays, going low maximizes contact time — the decisive variable for set quality.
+- On scramble/broken plays, going low maximizes contact time, the decisive variable for set quality.
 - Indoor principle transfer: same mechanic applies when setter is pulled way off-net.
 
 ## Topics covered

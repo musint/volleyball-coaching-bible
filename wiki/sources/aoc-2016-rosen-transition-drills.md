@@ -16,11 +16,11 @@ trust-tier: 2
 # Transition drills with Mark Rosen
 
 ## Summary
-Mark Rosen (Michigan) demonstrates his favorite transition drills at the 2016 MIVCA Clinic. Body content video-gated — MCP returned metadata and description only.
+Mark Rosen (Michigan) demonstrates his favorite transition drills at the 2016 MIVCA Clinic. Body content video-gated: MCP returned metadata and description only.
 
 ## Key claims / ideas
 - Transition drills are a staple in Rosen's practice planning.
-- Tagged as warmup — suggests some of these drills double as early-practice activation.
+- Tagged as warmup, suggests some of these drills double as early-practice activation.
 - Source is 2016 MIVCA Clinic; pairs with the 2017 MGVCA Clinic transition piece.
 - Body content video-gated; future transcript fetch recommended.
 
@@ -35,5 +35,5 @@ Mark Rosen (Michigan) demonstrates his favorite transition drills at the 2016 MI
 ## Access
 - Raw file: [[aoc-2016-rosen-transition-drills]]
 - URL: https://www.theartofcoachingvolleyball.com/transition-drills-with-mark-rosen/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

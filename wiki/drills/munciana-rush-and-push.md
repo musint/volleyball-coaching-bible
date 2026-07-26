@@ -22,15 +22,15 @@ One passer on the court between the ten-foot line and the net. One tosser at the
 
 ## Execution
 1. Tosser delivers a ball to the passer.
-2. Immediately the second ball is fed — the cue "two balls. One passer. And go" **[00:01:52]** sets the pattern.
+2. Immediately the second ball is fed, the cue "two balls. One passer. And go" **[00:01:52]** sets the pattern.
 3. Passer plays the first ball to target, busts back to neutral, and plays the second ball.
 4. Mike's emphasis: "this is working on passers getting back from the ball. Hands away. Moving target" **[00:01:55]**.
 5. Run ~45 seconds and rotate the next passer in.
 
 ## Coaching points
-- Get back from the ball — passers get in trouble when they reach forward; the second ball forces a reset.
-- Hands away from the hips between contacts — no resting in the platform position.
-- Talk: "what are you going to do with the ball?" — every passer calls intent before contact.
+- Get back from the ball, passers get in trouble when they reach forward; the second ball forces a reset.
+- Hands away from the hips between contacts, no resting in the platform position.
+- Talk: "what are you going to do with the ball?", every passer calls intent before contact.
 
 ## Variations
 - Add a third ball to extend the rush.

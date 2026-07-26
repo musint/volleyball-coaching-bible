@@ -16,7 +16,7 @@ trust-tier: 2
 # Russ Rose on using subs in practice
 
 ## Summary
-Rose argues coaches need a deliberate subbing strategy that is rehearsed in practice — not improvised on match day — and should weigh intangibles alongside skill.
+Rose argues coaches need a deliberate subbing strategy that is rehearsed in practice, not improvised on match day, and should weigh intangibles alongside skill.
 
 ## Key claims / ideas
 - Plan *how* you will use subs well before game day; mix subs with starters in practice so units learn to play together.
@@ -36,5 +36,5 @@ Rose argues coaches need a deliberate subbing strategy that is rehearsed in prac
 ## Access
 - Raw file: [[aoc-2022-rose-subs-in-practice]]
 - URL: https://www.theartofcoachingvolleyball.com/using-subs-in-practice/
-- Trust tier: 2 — AOC, Russ Rose
+- Trust tier: 2: AOC, Russ Rose
 - Ingested via: aoc-mcp on 2026-04-23

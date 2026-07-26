@@ -23,16 +23,16 @@ Beyond rules, the document carries a coaching philosophy: "Reward Performance ov
 
 ## Key claims / ideas
 
-- Youth teams (ages 3-11) should play 2v2, 3v3, or 4v4 — not full six-player sets.
+- Youth teams (ages 3-11) should play 2v2, 3v3, or 4v4, not full six-player sets.
 - Net heights should be 5-6 feet for the youngest, rising to 7 feet for 12U.
 - Lightweight youth-specific balls are the standard; beach balls and oversized balls are acceptable alternatives.
 - Coaches may cap each server at 3-5 serves to prevent single-server dominance.
 - First-contact double hits are legal; carrying and throwing are not.
 - Only one blocker should jump on youth blocks; double blocks are discouraged though not illegal.
 - "Equal playing time is strongly encouraged, rather than having starters and subs."
-- Use "FeedForward" — positive encouraging reminders about what to do next — instead of criticizing past errors.
+- Use "FeedForward", positive encouraging reminders about what to do next, instead of criticizing past errors.
 - "Reward Performance over Outcome."
-- "Catch them Doing it Right" — encouragement over punishment.
+- "Catch them Doing it Right", encouragement over punishment.
 - Lines are suggested but not required; any flat, uniform surface is acceptable.
 - A referee is not required if both teams will call their own faults.
 - Hard casts disqualify a player; small padded finger splints are permitted.
@@ -56,4 +56,4 @@ Beyond rules, the document carries a coaching philosophy: "Reward Performance ov
 ## Access
 - Raw file: `raw/usav/simplified-youth-rules.md`
 - URL: https://usavolleyball.org/resource/simplified-youth-rules/
-- Trust tier: 1 — official USA Volleyball resource (cornerstone age-appropriate reference)
+- Trust tier: 1, official USA Volleyball resource (cornerstone age-appropriate reference)

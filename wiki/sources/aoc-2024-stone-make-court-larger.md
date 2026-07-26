@@ -36,5 +36,5 @@ Jim Stone (Ohio State, USA Youth NT) describes three offensive techniques for "e
 ## Access
 - Raw file: [[aoc-2024-stone-make-court-larger]]
 - URL: https://www.theartofcoachingvolleyball.com/how-to-make-the-court-larger/
-- Trust tier: 2 — AOC Quick Hits series
+- Trust tier: 2: AOC Quick Hits series
 - Ingested via: aoc-mcp on 2026-04-23

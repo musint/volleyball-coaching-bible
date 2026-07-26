@@ -16,14 +16,14 @@ trust-tier: 1
 # The Volleyball Coaching Bible, Volume II (AVCA / Reynaud, ed., 2015)
 
 **EDITORIAL NOTE**: The plan slug references Don Shondell + 2014, but Vol II (2015) is edited by
-**Cecile Reynaud alone** with the AVCA. Don Shondell co-edited **Vol I (2002)** with Reynaud — see
+**Cecile Reynaud alone** with the AVCA. Don Shondell co-edited **Vol I (2002)** with Reynaud, see
 [[notes-liskevych-2002-volleyball-coaching-bible-v1]] (Task B.12) for the original anthology. Slug
 retained for plan consistency; cite this source as `notes-shondell-2014-volleyball-coaching-bible-v2`.
 
 ## Summary
 
 The Volleyball Coaching Bible, Volume II is the AVCA's 2015 anthology successor to the 2002 Volume
-I, edited by Cecile Reynaud — 26-year head coach at Florida State University (635 wins, two-time
+I, edited by Cecile Reynaud: 26-year head coach at Florida State University (635 wins, two-time
 ACC Coach of the Year, AVCA Hall of Fame). Twenty contributing coaches each author a chapter,
 spanning NCAA D-I/II/III, beach/sand, club, and USAV-affiliated programs. The volume opens with
 four chapters on **coaching priorities** (passion, expectations, culture, growth mindset) before
@@ -39,15 +39,15 @@ player) blurb the volume.
 
 - **Coaching priorities precede tactics.** Passion, expectations, team culture, and growth mindset
   are the prerequisite layer; tactical chapters assume that foundation.
-- **Five-year planning is a coaching deliverable** — long-cycle strategic planning for a program,
-  not just a coordinator-level task.
+- **Five-year planning is a coaching deliverable**: long-cycle strategic planning for a program,
+  rather than a coordinator-level task.
 - **Position-specific training** deserves dedicated chapters per position rather than generic
   "skill" chapters; middles, outsides, setters, and liberos each have distinct progressions.
 - **Deliberate practice** (Ericsson-aligned) is presented as the practice-design framework for
   purposeful, gap-targeted repetition.
-- **Statistics for coaching** complements rather than replaces tactical judgment — explicit
+- **Statistics for coaching** complements rather than replaces tactical judgment, explicit
   contrast/complement to Hebert's stats-skepticism in *Thinking Volleyball* (2013).
-- **Sand/beach program startup** captures the 2010–2015 NCAA emerging-sport surge; Vol II is one
+- **Sand/beach program startup** captures the 2010 to 2015 NCAA emerging-sport surge; Vol II is one
   of the earliest mainstream coaching references to treat sand as a peer discipline.
 
 ## Topics covered
@@ -60,12 +60,12 @@ player) blurb the volume.
 
 ## Where it's cited
 
-- (forward references — will be cited from coach profiles, school pages, and skill hubs as Wave 3
+- (forward references, will be cited from coach profiles, school pages, and skill hubs as Wave 3
   technique/system pages get built; pair with the AVCA context and [[usa-volleyball]])
 
 ## Access
 
 - Raw file: `raw/books/notes-shondell-2014-volleyball-coaching-bible-v2.md`
 - URL: https://us.humankinetics.com/products/volleyball-coaching-bible-volume-ii-the
-- Trust tier: 1 — Human Kinetics anthology endorsed by AVCA and USAV leadership; primary
+- Trust tier: 1: Human Kinetics anthology endorsed by AVCA and USAV leadership; primary
   authoritative reference for 2015-era US-collegiate coaching consensus.

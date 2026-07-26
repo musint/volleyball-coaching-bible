@@ -22,7 +22,7 @@ Mark Rosen describes a high-density alternative to standard hitting lines. Rathe
 - Standard single-line hitting wastes attacker time; double-pin hitting nearly doubles reps per minute.
 - The rate-limiter in hitting lines is usually ball supply to the setter, so dedicated shaggers and multiple carts are required.
 - The drill starts as a warmup and becomes progressively game-like by adding blockers and passers.
-- Three attackers per pin is a sweet spot — enough rotation for brief recovery, not enough to create standing-around time.
+- Three attackers per pin is a sweet spot, enough rotation for brief recovery, not enough to create standing-around time.
 
 ## Topics covered
 
@@ -33,7 +33,7 @@ Mark Rosen describes a high-density alternative to standard hitting lines. Rathe
 
 ## Where it's cited
 
-Forward-reference — to be cited on `[[practice-planning]]` (rep density), ``warm-up`` hub, and `[[hitting]]` technique/drill coverage.
+Forward-reference, to be cited on `[[practice-planning]]` (rep density), ``warm-up`` hub, and `[[hitting]]` technique/drill coverage.
 
 ## Access
 

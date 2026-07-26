@@ -11,32 +11,32 @@ sources: [aoc-2024-kiraly-serving-pressure, aoc-2024-kiraly-validation-6v6, aoc-
 
 ## Purpose
 
-This pick-list is the working drill spine for **16s club** players in the **specialization** phase, mapped against the 16s arc on [[age-lens-hs]]. Sixteens is where 5-1 system execution becomes the default, where topspin serving enters the program for the first time (standing-topspin roster-wide, jump-topspin behind that gate), and where 6v6 game-like training takes over the majority of practice volume. The drills below cluster around three overlapping needs: **pressure-loaded serving** (the topspin install plus serve-aggression under stakes), **shot-toolbox hitting** (line/angle/cut decisions vs. live block), and **full-team competitive 6v6** with scoring rules that reward the behaviors you actually want — first-ball siding-out, transition kills, and finishing under fatigue.
+This pick-list is the working drill spine for **16s club** players in the **specialization** phase, mapped against the 16s arc on [[age-lens-hs]]. Sixteens is where 5-1 system execution becomes the default, where topspin serving enters the program for the first time (standing-topspin roster-wide, jump-topspin behind that gate), and where 6v6 game-like training takes over the majority of practice volume. The drills below cluster around three overlapping needs: **pressure-loaded serving** (the topspin install plus serve-aggression under stakes), **shot-toolbox hitting** (line/angle/cut decisions vs. live block), and **full-team competitive 6v6** with scoring rules that reward the behaviors you actually want, first-ball siding-out, transition kills, and finishing under fatigue.
 
 This list cross-references [[16s]] as the age-specific developmental reference and [[age-lens-hs]] for HS-varsity-overlap context (16s players are simultaneously varsity starters and high-recruitment-window athletes; the training stacks read across).
 
 ## Must-do drill list
 
 **Serving cluster (pressure + progression)**
-- [[pressure-serving]] — Kiraly's serve-pressure frame loaded into a single competitive drill: server's job is to give the team a chance, not to ace [aoc-2024-kiraly-serving-pressure]. Run weekly minimum.
+- [[pressure-serving]]: Kiraly's serve-pressure frame loaded into a single competitive drill: server's job is to give the team a chance, not to ace [aoc-2024-kiraly-serving-pressure]. Run weekly minimum.
 - [[standing-topspin-progression]]: the 16s topspin entry point, and the gate that sits ahead of any jump-topspin work. Three stages: wrist-snap reps at the 10-foot line, standing topspin from the end line, deep-third placement before corners. Runs roster-wide, since 16s is the first year topspin is taught in this program at all.
-- [[jump-serve-progression]] — staged install for athletes adding jump-topspin or jump-float to their toolbox. The U-19 kinematic predictor is approach velocity (~89% of jump-serve velocity variance), so the progression front-loads run-up rhythm before contact mechanics. **Stage 4 (jump-topspin) opens only for servers who already own [[standing-topspin-progression]].**
-- [[serve-receive-competition]] — paired drill on the receive side; serving and serve-receive train together at this level.
-- [[munciana-prove-it]] — pressure-serve scoring: each reps cohort has to "prove it" against the chase team. Used by Munciana as an end-of-week pressure block.
+- [[jump-serve-progression]]: staged install for athletes adding jump-topspin or jump-float to their toolbox. The U-19 kinematic predictor is approach velocity (~89% of jump-serve velocity variance), so the progression front-loads run-up rhythm before contact mechanics. **Stage 4 (jump-topspin) opens only for servers who already own [[standing-topspin-progression]].**
+- [[serve-receive-competition]]: paired drill on the receive side; serving and serve-receive train together at this level.
+- [[munciana-prove-it]]: pressure-serve scoring: each reps cohort has to "prove it" against the chase team. Used by Munciana as an end-of-week pressure block.
 
 **Hitting cluster (toolbox + read)**
-- [[line-vs-angle-shot]] — explicit shot-selection trainer; line, angle, cut, and tip layered against block presence. Direct counter to one-pitch hitters who get scouted out by mid-season.
-- [[hitting-vs-block]] — live-block hitting reps; the "see-the-block-before-you-hit" pattern Dunning teaches under hitter-types [aoc-2018-dunning-hitter-types].
+- [[line-vs-angle-shot]]: explicit shot-selection trainer; line, angle, cut, and tip layered against block presence. Direct counter to one-pitch hitters who get scouted out by mid-season.
+- [[hitting-vs-block]]: live-block hitting reps; the "see-the-block-before-you-hit" pattern Dunning teaches under hitter-types [aoc-2018-dunning-hitter-types].
 
 **6v6 game-like cluster (the Munciana stack + GMS)**
-- [[gold-medal-scrimmage]] — Kiraly's validation-6v6 staple [aoc-2024-kiraly-validation-6v6]; the default whole-team scoring scrimmage when nothing else is loaded.
-- [[munciana-biggie-smalls]] — alternating point-value scoring (big points and small points) that rewards momentum runs without overweighting any single rally.
-- [[munciana-momentum]] — explicit "win three in a row" momentum drill; trains run-extending and run-stopping behavior.
-- [[munciana-finish-strong]] — closing-set scoring rules; the 18-25 / 22-25 / set-point pressure subset that wins or loses HS varsity matches.
-- [[wash-drill]] — the GMS/Penn-State-lineage wash, where a side has to win a serve-and-a-receive to score. Forces real siding-out under pressure [aoc-2022-rose-coach-for-life].
-- [[king-of-the-court]] / [[queen-of-the-court]] — court-rotation competition formats; "queen" is the women's-side variant most 16s programs use.
-- [[cooperative-25-goal]] — Kiraly's 50%-drill cousin [aoc-2023-kiraly-competing-in-practice]; trains the connect-the-pass-set-hit chain at competition pace before introducing live serve.
-- [[transition-rally]] — strategic-phase transition reps that bridge from cooperative ball-control into 6v6 wash; the install drill before the hot-stove competitive blocks.
+- [[gold-medal-scrimmage]]: Kiraly's validation-6v6 staple [aoc-2024-kiraly-validation-6v6]; the default whole-team scoring scrimmage when nothing else is loaded.
+- [[munciana-biggie-smalls]]: alternating point-value scoring (big points and small points) that rewards momentum runs without overweighting any single rally.
+- [[munciana-momentum]]: explicit "win three in a row" momentum drill; trains run-extending and run-stopping behavior.
+- [[munciana-finish-strong]]: closing-set scoring rules; the 18-25 / 22-25 / set-point pressure subset that wins or loses HS varsity matches.
+- [[wash-drill]]: the GMS/Penn-State-lineage wash, where a side has to win a serve-and-a-receive to score. Forces real siding-out under pressure [aoc-2022-rose-coach-for-life].
+- [[king-of-the-court]] / [[queen-of-the-court]]: court-rotation competition formats; "queen" is the women's-side variant most 16s programs use.
+- [[cooperative-25-goal]]: Kiraly's 50%-drill cousin [aoc-2023-kiraly-competing-in-practice]; trains the connect-the-pass-set-hit chain at competition pace before introducing live serve.
+- [[transition-rally]]: strategic-phase transition reps that bridge from cooperative ball-control into 6v6 wash; the install drill before the hot-stove competitive blocks.
 
 ## When-in-season-to-use mapping
 
@@ -56,7 +56,7 @@ This list cross-references [[16s]] as the age-specific developmental reference a
 
 **Roster-size adaptation.** With <10 athletes, drop [[king-of-the-court]] in favor of [[queen-of-the-court]] in 3-team rotation; substitute [[serve-receive-competition]] when 6v6 isn't fielded.
 
-**Injury-load adaptation.** Front-row players accumulate more high-intensity jumps than back-row; on heavy-load weeks, reduce [[jump-serve-progression]] reps and emphasize [[line-vs-angle-shot]] and [[serve-receive-competition]] which load the shoulder and platform without the high-impact landings. Run-back block landings drive higher knee-valgus moments — drill controlled-stick or step-back landing as default in the 6v6 blocks.
+**Injury-load adaptation.** Front-row players accumulate more high-intensity jumps than back-row; on heavy-load weeks, reduce [[jump-serve-progression]] reps and emphasize [[line-vs-angle-shot]] and [[serve-receive-competition]] which load the shoulder and platform without the high-impact landings. Run-back block landings drive higher knee-valgus moments, drill controlled-stick or step-back landing as default in the 6v6 blocks.
 
 ## Sources
 

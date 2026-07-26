@@ -22,7 +22,7 @@ Tod Mattox's diagnostic trick: mix serves that go over the net with serves that 
 - A passer reading the serve early will freeze or release movement on a ball that hits the net.
 - Mixing over-net and into-net serves turns reading ability into a visible behavior.
 - Using a libero (Paris Winkler in the demo) as a high-skill test case helps the coach calibrate expectations.
-- "Read soon enough" is measurable, not just a platitude.
+- "Read soon enough" is measurable rather than a platitude.
 
 ## Topics covered
 - Serve-reading diagnostics
@@ -35,5 +35,5 @@ Tod Mattox's diagnostic trick: mix serves that go over the net with serves that 
 ## Access
 - Raw file: [[aoc-2018-mattox-passer-reading-soon]]
 - URL: https://www.theartofcoachingvolleyball.com/is-your-passer-reading-the-serve-soon-enough/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

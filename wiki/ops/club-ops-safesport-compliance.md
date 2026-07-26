@@ -15,9 +15,9 @@ This page assumes the reader is operating a USAV-affiliated junior club. See [[u
 
 ## Process
 
-**1. Initial training (every new coach, every season).** Every coach, every paid staff member with regular athlete contact, and every adult chaperone on club travel must complete the SafeSport Trained Core course before athlete interaction begins. Course is delivered through the SportsEngine Member Management System tied to the coach's USAV membership. Block time during onboarding — do not let "I'll do it next week" turn into a coach running practice while non-compliant. Staple SafeSport completion to the same onboarding gate as IMPACT and the background check; one trio, one due date.
+**1. Initial training (every new coach, every season).** Every coach, every paid staff member with regular athlete contact, and every adult chaperone on club travel must complete the SafeSport Trained Core course before athlete interaction begins. Course is delivered through the SportsEngine Member Management System tied to the coach's USAV membership. Block time during onboarding, do not let "I'll do it next week" turn into a coach running practice while non-compliant. Staple SafeSport completion to the same onboarding gate as IMPACT and the background check; one trio, one due date.
 
-**2. Annual refresher.** SafeSport completion expires; refresher courses are required each subsequent membership year. The refresher is shorter than the Core course but is non-negotiable — a lapsed certificate makes a coach ineligible to coach. Build refresher reminders into the membership-renewal sweep (typically late summer for fall club seasons).
+**2. Annual refresher.** SafeSport completion expires; refresher courses are required each subsequent membership year. The refresher is shorter than the Core course but is non-negotiable, a lapsed certificate makes a coach ineligible to coach. Build refresher reminders into the membership-renewal sweep (typically late summer for fall club seasons).
 
 **3. Background checks.** USAV mandates a background check on every member coach at registration and renewal. Treat the background check as a separate workflow with its own renewal cadence; do not assume that SafeSport renewal carries it.
 
@@ -27,17 +27,17 @@ This page assumes the reader is operating a USAV-affiliated junior club. See [[u
 
 **6. Locker-room and changing-area policy.** Adopt a written policy aligned with the USOPC Minor Athlete Abuse Prevention Policies (MAAPP): no closed-door one-adult/one-minor in a locker room or changing area; two-deep adult supervision when adults must be present; no recording devices in locker rooms or changing areas. Communicate the policy to athletes and parents in writing at season start.
 
-**7. One-on-one interaction policy.** Default to "observable and interruptible" — any one-on-one between an adult and a minor athlete (instruction, mentoring, conversation, transportation) must occur in a setting where another adult could see or hear. Avoid private rooms with closed doors, private vehicles, private DMs, and private social-media follows. If individual instruction is necessary, do it on an open court with another adult present.
+**7. One-on-one interaction policy.** Default to "observable and interruptible", any one-on-one between an adult and a minor athlete (instruction, mentoring, conversation, transportation) must occur in a setting where another adult could see or hear. Avoid private rooms with closed doors, private vehicles, private DMs, and private social-media follows. If individual instruction is necessary, do it on an open court with another adult present.
 
-**8. Transportation policy.** Club-sanctioned travel must be parent- or guardian-driven, parent-of-another-athlete-driven (with written consent), or a multi-adult chartered bus. No coach drives a single minor athlete alone — even short distances. If a parent fails to pick up after practice, two adults wait with the athlete; the coach does not drive the athlete home solo.
+**8. Transportation policy.** Club-sanctioned travel must be parent- or guardian-driven, parent-of-another-athlete-driven (with written consent), or a multi-adult chartered bus. No coach drives a single minor athlete alone, even short distances. If a parent fails to pick up after practice, two adults wait with the athlete; the coach does not drive the athlete home solo.
 
-**9. Electronic communication policy.** Group communications only — team-wide texts, parent group chats, team-management apps with parents on the thread. No private DMs to minor athletes on Instagram, Snapchat, TikTok, or personal phone. Document the policy and have parents acknowledge it.
+**9. Electronic communication policy.** Group communications only, team-wide texts, parent group chats, team-management apps with parents on the thread. No private DMs to minor athletes on Instagram, Snapchat, TikTok, or personal phone. Document the policy and have parents acknowledge it.
 
 ## Templates
 
 ### SafeSport Policy Acknowledgment (parents + athletes, season start)
 
-> **[Club Name] SafeSport & Athlete Safety Acknowledgment — [Season Year]**
+> **[Club Name] SafeSport & Athlete Safety Acknowledgment, [Season Year]**
 >
 > Our club follows USA Volleyball SafeSport requirements and the USOPC Minor Athlete Abuse Prevention Policies (MAAPP). The policies below apply to all coaches, staff, chaperones, parents, and athletes:
 >

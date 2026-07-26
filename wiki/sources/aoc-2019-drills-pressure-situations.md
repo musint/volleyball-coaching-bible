@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Harvey Dulberg PhD (via Championship Performance) argues practice should simulate competitive pressure weekly through "dress rehearsals" — end-of-match situational drills and deficit-start scenarios — so players carry a "been there, done that" composure into real games.
+Harvey Dulberg PhD (via Championship Performance) argues practice should simulate competitive pressure weekly through "dress rehearsals", end-of-match situational drills and deficit-start scenarios, so players carry a "been there, done that" composure into real games.
 
 ## Key claims / ideas
 

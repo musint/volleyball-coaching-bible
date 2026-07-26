@@ -16,7 +16,7 @@ trust-tier: 2
 # 'Dig to the X' progression drill with Terry Liskevych
 
 ## Summary
-Terry Liskevych's (Oregon State) three-stage dig-set progression. The X is marked just behind the 3-meter line midcourt — the target for every out-of-system dig. Stage 1: dig-set to a static LF target. Stage 2: LF becomes an attacker and must approach after the dig. Stage 3: cooperative over-the-net version with attackers on both sides.
+Terry Liskevych's (Oregon State) three-stage dig-set progression. The X is marked just behind the 3-meter line midcourt, the target for every out-of-system dig. Stage 1: dig-set to a static LF target. Stage 2: LF becomes an attacker and must approach after the dig. Stage 3: cooperative over-the-net version with attackers on both sides.
 
 ## Key claims / ideas
 - Fixing a target (the X) for out-of-system digs institutionalizes a high-percentage set location.
@@ -35,5 +35,5 @@ Terry Liskevych's (Oregon State) three-stage dig-set progression. The X is marke
 ## Access
 - Raw file: [[aoc-2015-liskevych-dig-to-x-progression]]
 - URL: https://www.theartofcoachingvolleyball.com/dig-to-the-x-progression-drill-with-terry-liskevych/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

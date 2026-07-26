@@ -16,7 +16,7 @@ trust-tier: 2
 # Ways to improve your passing
 
 ## Summary
-UNC head coach Mike Schall frames passing improvement the way kids improve at basketball — self-directed reps in the driveway. Teach players to pass on their own to maximize volume.
+UNC head coach Mike Schall frames passing improvement the way kids improve at basketball, self-directed reps in the driveway. Teach players to pass on their own to maximize volume.
 
 ## Key claims / ideas
 - Passing is one of the most critical skills in volleyball
@@ -36,5 +36,5 @@ UNC head coach Mike Schall frames passing improvement the way kids improve at ba
 ## Access
 - Raw file: [[aoc-2024-schall-ways-improve-passing]]
 - URL: https://www.theartofcoachingvolleyball.com/ways-to-improve-your-passing/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

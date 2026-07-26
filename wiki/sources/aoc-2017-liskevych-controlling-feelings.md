@@ -36,5 +36,5 @@ A 2016 Atlanta Clinic lecture on the mental game: controlling emotions and conve
 ## Access
 - Raw file: [[aoc-2017-liskevych-controlling-feelings]]
 - URL: https://www.theartofcoachingvolleyball.com/terry-liskevych-on-controlling-feelings-and-attitude/
-- Trust tier: 2 — AOC, Liskevych
+- Trust tier: 2: AOC, Liskevych
 - Ingested via: aoc-mcp on 2026-04-23

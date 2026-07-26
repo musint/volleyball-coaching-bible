@@ -18,7 +18,7 @@ trust-tier: 2
 Ken Murczek (Emporia State) argues that swing blocking is overadopted: despite higher jumps, net penetration is comparable to static blocking, and the long learning curve often isn't worth the opportunity cost against attacking and passing development.
 
 ## Key claims / ideas
-- Swing blocking's main advertised advantage is higher jump, but the real measure — how high players get over the net — is not necessarily improved.
+- Swing blocking's main advertised advantage is higher jump, but the real measure, how high players get over the net, is not necessarily improved.
 - In the video a player demonstrates both and doesn't penetrate farther with the swing block.
 - The time cost to master swing blocking may be better spent on higher-leverage skills (attacking, passing).
 - "Just because the national team does it or you've seen it on TV doesn't mean it's the best thing for your team."
@@ -36,5 +36,5 @@ Ken Murczek (Emporia State) argues that swing blocking is overadopted: despite h
 ## Access
 - Raw file: [[aoc-2023-swing-blocking-when]]
 - URL: https://www.theartofcoachingvolleyball.com/swing-blocking-is-it-right-for-your-team/
-- Trust tier: 2 — AOC, systems/strategy
+- Trust tier: 2: AOC, systems/strategy
 - Ingested via: aoc-mcp on 2026-04-23

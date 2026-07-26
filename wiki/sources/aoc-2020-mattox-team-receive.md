@@ -36,5 +36,5 @@ Tod Mattox's team receive drill reinforces rotation positioning: team passes ser
 ## Access
 - Raw file: [[aoc-2020-mattox-team-receive]]
 - URL: https://www.theartofcoachingvolleyball.com/team-receive-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

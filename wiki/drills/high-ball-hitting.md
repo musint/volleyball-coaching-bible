@@ -18,7 +18,7 @@ variations: [approach-and-swing, line-vs-angle-shot, hitting-vs-block]
 # High Ball Hitting
 
 ## Setup
-Setter at zone 2, or a coach tossing high out-of-system-style sets from a stand. Hitters line up at zone 4. Optional soft block — two players on boxes with hands up, no active jump. Sets peak high above antenna height, 10-15 ft off the net — hang-time ball, not a first-tempo set. Ball cart and 1-2 shaggers.
+Setter at zone 2, or a coach tossing high out-of-system-style sets from a stand. Hitters line up at zone 4. Optional soft block, two players on boxes with hands up, no active jump. Sets peak high above antenna height, 10-15 ft off the net, hang-time ball, not a first-tempo set. Ball cart and 1-2 shaggers.
 
 ## Execution
 1. Coach or setter delivers a high ball to zone 4.
@@ -28,15 +28,15 @@ Setter at zone 2, or a coach tossing high out-of-system-style sets from a stand.
 5. Optional scoring: 0 error, 1 in-play, 2 kill or tool.
 
 ## Coaching points
-- Torque-first power — torso rotation with core and hip driving through; shoulder alone does not generate it.
+- Torque-first power, torso rotation with core and hip driving through; shoulder alone does not generate it.
 - Hand high at contact; arm finishes across the body, not down.
-- The high ball gives time — use it. Read the block and defense during hang time and commit before takeoff.
+- The high ball gives time, use it. Read the block and defense during hang time and commit before takeoff.
 - Keep the ball in. High-ball errors are almost always impatience, not lack of power.
 - Landing: shoulders in front of hips, balanced, ready for the next play.
 
 ## Variations
 - **Deep-set variant:** sets land 15+ ft off the net; hitter defaults to high-seam or high-line.
-- **Hitter-type drill:** hitter declares her "type" (angle, line, placement, power) and is scored on executing that identity — Dunning style.
+- **Hitter-type drill:** hitter declares her "type" (angle, line, placement, power) and is scored on executing that identity: Dunning style.
 - **Called shot:** coach calls line/cross/tip before the set.
 
 ## Adaptations by level

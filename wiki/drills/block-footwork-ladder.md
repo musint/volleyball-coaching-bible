@@ -19,7 +19,7 @@ variations: []
 
 ## Setup
 Lay an agility ladder (or 8-10 cones) parallel to the net, a foot off the
-tape. Athletes queue at one end in a ready stance — feet shoulder-width,
+tape. Athletes queue at one end in a ready stance, feet shoulder-width,
 knees bent, hands at eye level. Rotate single-file.
 
 ## Execution
@@ -35,7 +35,7 @@ Athletes travel the ladder three ways, one trip per pattern, then rotate:
 Three rotations of all three patterns fills eight minutes.
 
 ## Coaching points
-Hands up for shuffle and crossover, down-then-up for the swing — don't
+Hands up for shuffle and crossover, down-then-up for the swing, don't
 hybridize. On the crossover, the plant step must square hips before the
 jump; a sideways plant means a drifting jump. On the swing, finish with
 hands pressing over the net, not slapping upward. If an athlete blows
@@ -49,7 +49,7 @@ the last rep is a live jump-and-press.
 ## Adaptations by level
 14U: shuffle and crossover only; swing-run waits. HS: all three patterns;
 crossover is default past one arm's reach. College: add a forced
-recovery — land, reset, shuffle back — to train the re-close.
+recovery, land, reset, shuffle back, to train the re-close.
 
 ## Sources
 - [[aoc-2024-blocking-fundamentals]]

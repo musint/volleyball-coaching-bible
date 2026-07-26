@@ -19,7 +19,7 @@ Holly McPeak drill: tosser stands behind 2 players and sends balls all over the 
 
 ## Key claims / ideas
 
-- Start the rep with the pass already broken — that's where you spend most real-rally time.
+- Start the rep with the pass already broken, that's where you spend most real-rally time.
 - Lifting the ball on the set buys the hitter approach time.
 - If the ball is near/beyond sideline, hitter must get wide on approach.
 - Waiting on approach prevents ending up under the ball.

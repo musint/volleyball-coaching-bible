@@ -18,7 +18,7 @@ variations: [line-vs-angle-shot, hitting-vs-block]
 # Munciana Left vs Left (Cross-Court)
 
 ## Setup
-Three back-row defenders on each side. Setter in each back row. **One blocker up at left front** on each side — the blocker matches the cross-court hitter. **No middle.** This is a left-on-left cross-court contest.
+Three back-row defenders on each side. Setter in each back row. **One blocker up at left front** on each side, the blocker matches the cross-court hitter. **No middle.** This is a left-on-left cross-court contest.
 
 ## Execution
 1. Coach enters a free ball to one side.
@@ -30,8 +30,8 @@ Three back-row defenders on each side. Setter in each back row. **One blocker up
 
 ## Coaching points
 - Hitters look for the **hard** cross-court. **[00:57:25]** "Teaches your hitters to hit a one-on-one ball."
-- The single blocker forces the hitter to read one arm. Keep the swing aggressive — high-line over the block or angle hard around it.
-- Diggers position deep cross-court — the geometry of the swing makes the seam/angle predictable.
+- The single blocker forces the hitter to read one arm. Keep the swing aggressive, high-line over the block or angle hard around it.
+- Diggers position deep cross-court, the geometry of the swing makes the seam/angle predictable.
 - The drill rewards swing volume and read accuracy, not finesse.
 
 ## Variations

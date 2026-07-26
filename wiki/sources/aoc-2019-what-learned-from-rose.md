@@ -22,7 +22,7 @@ Short video intro featuring Penn State All-American Christa Dietzen on how Rose'
 - Excuses are not a big part of Rose's program at Penn State.
 - Team leaders are responsible for the actions of their teammates.
 - Leaders must play, practice, and live in a way that benefits the program.
-- Leadership is a thorough, full-time responsibility — extending beyond the court.
+- Leadership is a thorough, full-time responsibility, extending beyond the court.
 
 ## Topics covered
 - Leadership accountability at Penn State
@@ -35,5 +35,5 @@ Short video intro featuring Penn State All-American Christa Dietzen on how Rose'
 ## Access
 - Raw file: [[aoc-2019-what-learned-from-rose]]
 - URL: https://www.theartofcoachingvolleyball.com/what-i-learned-from-russ-rose/
-- Trust tier: 2 — AOC, featuring Russ Rose and Christa Dietzen
+- Trust tier: 2: AOC, featuring Russ Rose and Christa Dietzen
 - Ingested via: aoc-mcp on 2026-04-23

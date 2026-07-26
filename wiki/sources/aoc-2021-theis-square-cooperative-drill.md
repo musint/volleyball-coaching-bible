@@ -21,9 +21,9 @@ Ryan Theis (University of Florida) uses a cooperative 4v4 "square" drill to trai
 
 - Cooperative 4v4 with a rotation every kill-attempt rehearses position learning and communication at speed.
 - Primary setter (right back) plus secondary setter (left back) trains the second-setter decision every team faces.
-- Hut and red sets only — the drill specifically isolates outside-pin sets.
+- Hut and red sets only, the drill specifically isolates outside-pin sets.
 - High-to-middle digging is the standard target regardless of set call.
-- 10 controlled attacks is the target — not a point count but a sustained-rally goal.
+- 10 controlled attacks is the target, not a point count but a sustained-rally goal.
 
 ## Topics covered
 
@@ -35,7 +35,7 @@ Ryan Theis (University of Florida) uses a cooperative 4v4 "square" drill to trai
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``warm-up`` hub, ``ball-control`` hub, `[[setting]]`, `[[drills/square-cooperative]]`, and `[[ryan-theis]]` profile.
+Forward-reference, to be cited on ``warm-up`` hub, ``ball-control`` hub, `[[setting]]`, `[[drills/square-cooperative]]`, and `[[ryan-theis]]` profile.
 
 ## Access
 

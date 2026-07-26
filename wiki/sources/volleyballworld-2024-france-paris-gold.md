@@ -13,11 +13,11 @@ schools: [french-school]
 trust-tier: 2
 ---
 
-# Unstoppable France Secure Second Straight Olympic Gold in Paris — Volleyball World, 10 August 2024
+# Unstoppable France Secure Second Straight Olympic Gold in Paris: Volleyball World, 10 August 2024
 
 ## Summary
 
-FIVB / Volleyball World match-day coverage of France's 3-0 win over Poland in the men's volleyball gold-medal match at Paris 2024 (25-19, 25-20, 25-23 on 10 August 2024). Carries Andrea Giani's most-cited public quote — his "35 years" reflection on finally winning Olympic gold after collecting three medals as an Italian player without ever capturing the top step.
+FIVB / Volleyball World match-day coverage of France's 3-0 win over Poland in the men's volleyball gold-medal match at Paris 2024 (25-19, 25-20, 25-23 on 10 August 2024). Carries Andrea Giani's most-cited public quote, his "35 years" reflection on finally winning Olympic gold after collecting three medals as an Italian player without ever capturing the top step.
 
 ## Key claims / ideas
 
@@ -41,5 +41,5 @@ FIVB / Volleyball World match-day coverage of France's 3-0 win over Poland in th
 
 - Raw file: `giani-2024-volleyballworld-paris-gold`
 - URL: https://en.volleyballworld.com/volleyball/competitions/volleyball-olympic-games-paris-2024/news/unstoppable-france-claim-second-straight-olympic-gold-paris
-- Trust tier: 2 — FIVB / Volleyball World federation media
+- Trust tier: 2: FIVB / Volleyball World federation media
 - Ingested via: webfetch on 2026-04-25

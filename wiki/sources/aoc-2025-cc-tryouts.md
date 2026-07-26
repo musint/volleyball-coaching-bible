@@ -21,7 +21,7 @@ Coach Connection LIVE session with Garrett Minyard (Northeast Volleyball Club) a
 
 - Tryouts are one of the highest-leverage decisions of the club season.
 - Court density (number of players per court) has a direct effect on evaluation quality.
-- Who evaluates — head coach alone vs external evaluators — is a structural tradeoff worth naming.
+- Who evaluates, head coach alone vs external evaluators, is a structural tradeoff worth naming.
 - Split between small-group skills and scrimmage time is tunable; both are needed.
 - When a player asks "who else will be on the team?" before accepting an offer, coaches should have a pre-planned answer.
 - Early expectation-setting with players and parents prevents midseason conflict.

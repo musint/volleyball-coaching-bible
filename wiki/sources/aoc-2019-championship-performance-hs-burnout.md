@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Mental-training heavyweight Jim Loehr plus sports-psychology and sports-medicine voices on the HS burnout epidemic. "Dream kids" — high-compliance athletes — are most at risk. Physical warning signs include sleep disruption, chronic muscle pain, and appetite changes; mental signs include personality change and lack of enthusiasm.
+Mental-training heavyweight Jim Loehr plus sports-psychology and sports-medicine voices on the HS burnout epidemic. "Dream kids", high-compliance athletes, are most at risk. Physical warning signs include sleep disruption, chronic muscle pain, and appetite changes; mental signs include personality change and lack of enthusiasm.
 
 ## Key claims / ideas
 

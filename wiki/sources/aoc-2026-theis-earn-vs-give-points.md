@@ -21,7 +21,7 @@ Ryan Theis's asymmetric-score drill pressures teams to earn points only through 
 
 - Separating "earned" points (K/B/A) from opponent errors makes the team confront how many points come from giveaways.
 - Asymmetric start scores force the underdog team to play without the luxury of errors.
-- A 7-error cap creates visible error accountability — every over-pass, missed serve, and attack error costs.
+- A 7-error cap creates visible error accountability, every over-pass, missed serve, and attack error costs.
 - Running two simultaneous scoring methods teaches players to manage match and drill-level goals at once.
 - The drill sits firmly in the "competitive mental" training bucket rather than pure ball-control.
 
@@ -34,7 +34,7 @@ Ryan Theis's asymmetric-score drill pressures teams to earn points only through 
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``team-drill``, `[[mental]]` (pressure + error accountability), `[[practice-planning]]` (competitive scoring systems), `[[drills/earn-vs-give]]`, and `[[ryan-theis]]` profile.
+Forward-reference, to be cited on ``team-drill``, `[[mental]]` (pressure + error accountability), `[[practice-planning]]` (competitive scoring systems), `[[drills/earn-vs-give]]`, and `[[ryan-theis]]` profile.
 
 ## Access
 

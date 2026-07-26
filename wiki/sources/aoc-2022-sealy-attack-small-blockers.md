@@ -16,10 +16,10 @@ trust-tier: 2
 # Volleyball strategy: Attack the small blockers
 
 ## Summary
-Mike Sealy: make the small blocker your target — hit over them (not just around), forgive poor sets, and against 5-1s with small setters push OH sets inside the pin to open the line.
+Mike Sealy: make the small blocker your target, hit over them (as well as around), forgive poor sets, and against 5-1s with small setters push OH sets inside the pin to open the line.
 
 ## Key claims / ideas
-- Attack small blockers first — attackers can hit over, not just around or tooling.
+- Attack small blockers first, attackers can hit over as well as around or tooling.
 - Small blocker means margin of error on poor sets.
 - Against 5-1 with small setter, push OH sets inside the pin to open line attack.
 - Simple, high-leverage scouting application.
@@ -35,5 +35,5 @@ Mike Sealy: make the small blocker your target — hit over them (not just aroun
 ## Access
 - Raw file: [[aoc-2022-sealy-attack-small-blockers]]
 - URL: https://www.theartofcoachingvolleyball.com/volleyball-strategy-attack-the-small-blockers/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

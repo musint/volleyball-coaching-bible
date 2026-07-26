@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-AOC premium session on training a setter — at-home drills plus setting technique / setting drill videos.
+AOC premium session on training a setter, at-home drills plus setting technique / setting drill videos.
 
 ## Key claims / ideas
 

@@ -15,7 +15,7 @@ trust-tier: 3
 
 ## Summary
 
-Wikipedia / CEV reference page on the Volleyball Federation of Serbia (Odbojkaški savez Srbije, OSS), captured 2026-04-24. CEV-affiliated federation with code SRB; recognized as inheritor of the Volleyball Federation of Yugoslavia (1948–1991) and the Volleyball Federation of Serbia and Montenegro (1992–2006). Operates as standalone OSS from 2006. Manages SuperLiga (men's and women's) plus national-team selection. The article is sparse on internal organizational details (founding date for standalone OSS, headquarters, presidents, member clubs), which would require ossrb.org direct sourcing.
+Wikipedia / CEV reference page on the Volleyball Federation of Serbia (Odbojkaški savez Srbije, OSS), captured 2026-04-24. CEV-affiliated federation with code SRB; recognized as inheritor of the Volleyball Federation of Yugoslavia (1948 to 1991) and the Volleyball Federation of Serbia and Montenegro (1992 to 2006). Operates as standalone OSS from 2006. Manages SuperLiga (men's and women's) plus national-team selection. The article is sparse on internal organizational details (founding date for standalone OSS, headquarters, presidents, member clubs), which would require ossrb.org direct sourcing.
 
 ## Key claims / ideas
 
@@ -31,9 +31,9 @@ OSS identity, post-Yugoslav succession, CEV affiliation, FIVB/CEV ranking contex
 
 ## Where it's cited
 
-- [[oss-serbia]] — federation stub
-- [[serbian-school]] — federation context
+- [[oss-serbia]]: federation stub
+- [[serbian-school]]: federation context
 
 ## Access
 
-`raw/articles/oss-serbia-2026-wikipedia.md` — fair-use Wikipedia capture, fetched 2026-04-24.
+`raw/articles/oss-serbia-2026-wikipedia.md`, fair-use Wikipedia capture, fetched 2026-04-24.

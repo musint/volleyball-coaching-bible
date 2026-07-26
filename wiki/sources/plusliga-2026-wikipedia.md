@@ -25,7 +25,7 @@ Wikipedia institutional reference for PlusLiga, Poland's top men's professional 
 - Founded June 30, 2000; Polish Volleyball League system dates to 1929 (predecessor competitions).
 - 14 teams in regular-season + playoff format October-April/May.
 - **Skra Bełchatów** (9 titles) and **ZAKSA Kędzierzyn-Koźle** (7 titles) are the modern dynastic clubs; **Jastrzębski Węgiel** and **Resovia** complete the traditional powerhouse tier.
-- **Bogdanka LUK Lublin** (HC Stéphane Antiga) won the 2024-25 championship — first title.
+- **Bogdanka LUK Lublin** (HC Stéphane Antiga) won the 2024-25 championship, first title.
 - Venue scale: regional 1,500-seat arenas to Ergo Arena (Trefl Gdańsk) at 11,200.
 
 ## Topics covered
@@ -44,5 +44,5 @@ Wikipedia institutional reference for PlusLiga, Poland's top men's professional 
 
 - Raw file: `raw/articles/plusliga-wikipedia.md`
 - URL: https://en.wikipedia.org/wiki/PlusLiga
-- Trust tier: 2 — Wikipedia, reliable for structured league facts.
+- Trust tier: 2: Wikipedia, reliable for structured league facts.
 - Ingested via: webfetch on 2026-04-24

@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "ASICS Skill Series with Terry Liskevych – Defense"
+title: "ASICS Skill Series with Terry Liskevych - Defense"
 author: "Terry Liskevych"
 year: 2017
 citation-key: aoc-2017-liskevych-asics-defense
@@ -13,7 +13,7 @@ schools: [art-of-coaching-volleyball, usa-volleyball-cap]
 trust-tier: 2
 ---
 
-# ASICS Skill Series with Terry Liskevych – Defense
+# ASICS Skill Series with Terry Liskevych, Defense
 
 ## Summary
 ASICS Skill Series instructional video with Liskevych on individual defense technique, aimed at high school and club level players.
@@ -35,5 +35,5 @@ ASICS Skill Series instructional video with Liskevych on individual defense tech
 ## Access
 - Raw file: [[aoc-2017-liskevych-asics-defense]]
 - URL: https://www.theartofcoachingvolleyball.com/asics-skill-series-with-terry-liskevych-defense/
-- Trust tier: 2 — AOC, Liskevych
+- Trust tier: 2: AOC, Liskevych
 - Ingested via: aoc-mcp on 2026-04-23

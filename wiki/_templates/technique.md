@@ -14,7 +14,7 @@ sources: [<citation-key>]
 # <Technique Name>
 
 ## Overview
-<What is this skill/subskill. Where in the game it matters. 2–3 sentences.>
+<What is this skill/subskill. Where in the game it matters. 2 to 3 sentences.>
 
 ## Teaching progressions
 <Step-by-step teaching progression: beginner → intermediate → advanced.
@@ -28,8 +28,8 @@ Light citations (`## Sources` at bottom; no inline) per citation policy.>
 topic is genuinely contested. Mirror the frontmatter field but with more detail.>
 
 ## Related drills
-- [[<drill-slug>]] — <short description>
-- [[<drill-slug>]] — <short description>
+- [[<drill-slug>]]: <short description>
+- [[<drill-slug>]]: <short description>
 
 ## Sources
 - [[<citation-key-1>]]

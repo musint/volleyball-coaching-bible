@@ -23,16 +23,16 @@ Defenders break out of the right and left back-court positions. Coach with a car
 ## Execution
 The drill builds in three phases, each ~30-45 seconds.
 
-1. **Hands down (no-ball, 15 s):** "we'll go 15 seconds tonight of just touching. Just getting to the base, down, hands on floor part" **[00:13:44]** — defenders release from base, drop low, touch the floor with their hands, recover.
-2. **Roll up the line (no-ball, then live):** defenders release, "they seal the perimeter, they defend coming up the line" **[00:14:30]**. Live phase: "Release, play up the line. Boom, go. Play up the line" **[00:15:32]** — coach hits a live ball up the line, defender plays it.
+1. **Hands down (no-ball, 15 s):** "we'll go 15 seconds tonight of just touching. Just getting to the base, down, hands on floor part" **[00:13:44]**: defenders release from base, drop low, touch the floor with their hands, recover.
+2. **Roll up the line (no-ball, then live):** defenders release, "they seal the perimeter, they defend coming up the line" **[00:14:30]**. Live phase: "Release, play up the line. Boom, go. Play up the line" **[00:15:32]**: coach hits a live ball up the line, defender plays it.
 3. **Roll through the middle (no-ball, then live):** "we come through the middle of the court. Release, come through the middle" **[00:14:53]**. Live phase: defenders release through the middle of the court and play the live feed.
 
 After each phase, switch sides: "the left side group goes to right, right side group goes to left" **[00:14:44]**.
 
 ## Coaching points
 - Outside foot is high every time: "the foot on the line needs to be ahead of the foot in the court so their bellies are angled back and in the court" **[00:14:10]**.
-- "This doesn't happen by accident, it has to be taught" **[00:14:18]** — the angled stance is a coached habit.
-- Train the no-ball footwork first, then make it live — Mike: "those defensive moves you want them to make have to be trained. This is our way of making sure we're training those defensive moves" **[00:15:50]**.
+- "This doesn't happen by accident, it has to be taught" **[00:14:18]**: the angled stance is a coached habit.
+- Train the no-ball footwork first, then make it live: Mike: "those defensive moves you want them to make have to be trained. This is our way of making sure we're training those defensive moves" **[00:15:50]**.
 
 ## Variations
 - Run hands-down only as a 5-minute footwork warmup.

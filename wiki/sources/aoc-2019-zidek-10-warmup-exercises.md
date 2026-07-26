@@ -15,12 +15,12 @@ trust-tier: 2
 
 ## Summary
 
-Marie Zidek's compact 10-exercise pre-practice routine. Mark off 10 yards, line the team up in two rows, cycle through each movement then jog back. Alternative: run the list using a speed ladder. The list mixes gait patterns (heel-toe, high knees, butt kickers), dynamic stretch (lateral lunge, sumo squat, spiderman), lateral plyo (side-to-side hop and hold, lateral band walks), and landing mechanics (box landings) — plus partner core work (reverse sit ups).
+Marie Zidek's compact 10-exercise pre-practice routine. Mark off 10 yards, line the team up in two rows, cycle through each movement then jog back. Alternative: run the list using a speed ladder. The list mixes gait patterns (heel-toe, high knees, butt kickers), dynamic stretch (lateral lunge, sumo squat, spiderman), lateral plyo (side-to-side hop and hold, lateral band walks), and landing mechanics (box landings): plus partner core work (reverse sit ups).
 
 ## Key claims / ideas
 
 - 10-yard lane + two lines is a compact, equipment-light default warmup format.
-- Box landings appear alongside the rest of the warmup — landing mechanics are part of pre-practice prep, not a separate block.
+- Box landings appear alongside the rest of the warmup, landing mechanics are part of pre-practice prep, not a separate block.
 - Lateral band walks x10 each direction activate glute medius before lateral volleyball movement.
 - Speed ladder is a viable substitute for the 10-yard lane.
 - Partner reverse sit ups (2x10) bake in core activation without leaving the warmup block.
@@ -34,7 +34,7 @@ Marie Zidek's compact 10-exercise pre-practice routine. Mark off 10 yards, line 
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``warm-up`` hub, ``dynamic-warmup``, `[[physical]]` hub, and `[[marie-zidek]]` profile.
+Forward-reference, to be cited on ``warm-up`` hub, ``dynamic-warmup``, `[[physical]]` hub, and `[[marie-zidek]]` profile.
 
 ## Access
 

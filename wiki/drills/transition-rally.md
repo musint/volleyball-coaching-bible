@@ -22,17 +22,17 @@ Full 6v6 on a regulation court. Coach with a ball cart at the sideline near the 
 
 ## Execution
 1. Coach enters a ball (free ball, down ball, or serve) to one side.
-2. Teams play the rally out. If the receiving team terminates on the first-ball attack, no point scores — play resets.
+2. Teams play the rally out. If the receiving team terminates on the first-ball attack, no point scores, play resets.
 3. If a team wins the rally after a block-to-attack or a dig-to-attack (a successful transition), that team scores one point.
 4. Coach immediately enters the next ball to the losing side; rallies are continuous until a team reaches 10 transition points.
 5. Switch the entry side each rally so both teams get serve-receive reps.
 
 ## Coaching points
-- Transition attack is a three-step problem: dig location, setter access, hitter arrival — all three must work or the transition dies.
+- Transition attack is a three-step problem: dig location, setter access, hitter arrival, all three must work or the transition dies.
 - Block must land and recover, not hang on the net; the blocker becomes the fourth attacker in transition.
 - Setters release early; once the dig is off the platform, the setter is already moving.
-- Defenders: your job is not just "keep it up" — the dig target is the setter, not the sky.
-- Kills only matter if they close a transition sequence — score celebrates the transition, not the swing.
+- Defenders: the dig target is the setter, so "keep it up" is not the standard here.
+- Kills only matter if they close a transition sequence, score celebrates the transition, not the swing.
 
 ## Variations
 - **Block-only bonus:** block-to-kill counts as 2 points; dig-to-kill counts as 1. Rewards stuff blocks and block kills.

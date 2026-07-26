@@ -20,8 +20,8 @@ Springfield College's Moira Long shows ways to make passing practice competitive
 
 ## Key claims / ideas
 - Rolling chairs help players isolate and train platform angles
-- Server vs. passer competition rewards quality touches, not just reps
-- 0-3 pass ranking — whiteboards surface progress over time
+- Server vs. passer competition rewards quality touches rather than reps
+- 0-3 pass ranking, whiteboards surface progress over time
 - Goal beyond technique: awareness, accountability, motivation
 - Fun + competition + measurable goals = retention
 
@@ -37,5 +37,5 @@ Springfield College's Moira Long shows ways to make passing practice competitive
 ## Access
 - Raw file: [[aoc-2025-long-passing-competitive-fun]]
 - URL: https://www.theartofcoachingvolleyball.com/making-passing-competitive-and-fun/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

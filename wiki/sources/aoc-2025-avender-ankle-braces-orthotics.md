@@ -20,8 +20,8 @@ This is AOC curricular content; defer to qualified AT/CSCS/MD on programming spe
 ## Key claims / ideas
 
 - Ankle braces/tape provide psychological security, not mechanical support, in uninjured players.
-- "The greatest brace is your tissue" — routine bracing decreases tissue quality long-term.
-- Exceptions: significant prior fracture or Grade 3 sprain — temporary bracing justified.
+- "The greatest brace is your tissue", routine bracing decreases tissue quality long-term.
+- Exceptions: significant prior fracture or Grade 3 sprain, temporary bracing justified.
 - Orthotics fit specific cases (flat feet) but aren't required for normal-arch players.
 - Implies: coaches should resist the culture default of prophylactic bracing for everyone.
 
@@ -34,7 +34,7 @@ This is AOC curricular content; defer to qualified AT/CSCS/MD on programming spe
 
 ## Where it's cited
 
-- (Not yet cited. Candidate insertions: [[physical.md]], [[injury-prevention.md]] (future stub), [[age-lens-14u.md]] — high adolescent ankle-sprain rate.)
+- (Not yet cited. Candidate insertions: [[physical.md]], [[injury-prevention.md]] (future stub), [[age-lens-14u.md]]: high adolescent ankle-sprain rate.)
 
 ## Access
 

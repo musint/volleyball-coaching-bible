@@ -19,10 +19,10 @@ Jim Stone: elite defenders face the action of the court and "attack the attacker
 
 ## Key claims / ideas
 
-- "Attack the attacker" — commit to position before contact, not after.
+- "Attack the attacker", commit to position before contact, not after.
 - Defender's lateral line-up: inside the middle blocker's left shoulder covers the standard block seam on an outside attack.
 - Pre-positioning is what converts a dig into a transition-ready pass.
-- Aggression is a trained trait, not a personality trait — coaches must build it.
+- Aggression is a trained trait, not a personality trait, coaches must build it.
 
 ## Topics covered
 

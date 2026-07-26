@@ -23,7 +23,7 @@ Ruth Nelson presents a three-stage progression for teaching attacking to kids: d
 - Stage 2 introduces the 2-step modified approach with isolated jumping and accurate tosses slightly over the hitting arm.
 - Stage 3 is the full 3-step approach emphasizing explosive takeoff and contact at the highest point.
 - Age windows: 4-6 focus on down-ball; 7-8 introduce 2-step; 8-11 progress toward full 3-step.
-- Good attacks depend on good passing and setting upstream — can't isolate hitting from ball-control quality.
+- Good attacks depend on good passing and setting upstream, can't isolate hitting from ball-control quality.
 
 ## Topics covered
 - Down-ball arm-swing mechanics
@@ -37,5 +37,5 @@ Ruth Nelson presents a three-stage progression for teaching attacking to kids: d
 ## Access
 - Raw file: [[aoc-2024-kids-attacking-fundamentals]]
 - URL: https://www.theartofcoachingvolleyball.com/volleyball-training-for-kids-teaching-the-fundamentals-of-attacking/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

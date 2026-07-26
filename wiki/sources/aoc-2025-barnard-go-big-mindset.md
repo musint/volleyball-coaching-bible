@@ -21,9 +21,9 @@ Mark Barnard (Oregon State) describes the outside hitter's mental stance as "I'm
 ## Key claims / ideas
 - OH mindset cue: "I'm going to get this point. I'm going to save this team."
 - Job difficulty framed: outsides get bailout sets out-of-system and face full blocks repeatedly.
-- Anti-pattern after a block: do NOT tip the next ball — "swing again, swing harder, swing higher."
+- Anti-pattern after a block: do NOT tip the next ball, "swing again, swing harder, swing higher."
 - Resilience is a trainable skill built through repeated reset after getting blocked.
-- Timing rule: whatever your start trigger, once you begin the approach, don't stop until contact — higher sets = longer wait before starting.
+- Timing rule: whatever your start trigger, once you begin the approach, don't stop until contact, higher sets = longer wait before starting.
 
 ## Topics covered
 - OH mental resilience
@@ -37,5 +37,5 @@ Mark Barnard (Oregon State) describes the outside hitter's mental stance as "I'm
 ## Access
 - Raw file: [[aoc-2025-barnard-go-big-mindset]]
 - URL: https://www.theartofcoachingvolleyball.com/why-outside-hitters-need-a-go-big-mindset/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

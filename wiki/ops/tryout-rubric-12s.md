@@ -27,7 +27,7 @@ This rubric translates the 27 promotion criteria from [[12s]] `## Promotion crit
 
 ## Evaluation criteria
 
-| Skill | 1 — Not yet | 2 — Occasional | 3 — Consistent age-appropriate | 4 — Above age-appropriate | 5 — 13s-ready (= [[tryout-rubric-13s]] column 3) |
+| Skill | 1: Not yet | 2: Occasional | 3: Consistent age-appropriate | 4: Above age-appropriate | 5: 13s-ready (= [[tryout-rubric-13s]] column 3) |
 |---|---|---|---|---|---|
 | **Passing** (forearm + overhead; criteria 1-5) | Reaches across body, no platform formation, hops into contact, no overhead pass attempt | Platform forms inconsistently; sometimes stops, often hops; overhead only on emergency | Stops & balances, thumbs together, sets the angle with shoulders and hips on a tossed ball, meeting the 7' target 7/10; overhead on free balls; calls "mine" | Late-platform formation reliable; shuffle footwork without prompt; overhead clean to target | ≥6/10 **medium-pace serves** to a 6-ft target with platform-not-arm-swing; quiet platform under pace. |
 | **Setting** (criteria 6-8) | Palms-up, ball goes straight up; underhand-set fallback; eyes locked on ball | Hand-hinge attempted, side-of-ball contact rare; front-set only | Hand-hinge with side-of-ball contact; front and back set distinguishable; eyes-on-target on tossed ball | Live-set without catch scaffold; locating to OH/opp zones; tempo 3 reliably | Hand-hinge **live** (no catch-and-set scaffold at all); front-set to the outside antenna ≥6/10. |
@@ -63,7 +63,7 @@ The 27-criterion checklist in [[12s]] `## Promotion criteria` is the reading lis
 
 **Checkpoint re-scoring.** These nine rows are re-scored at week 6 and week 12 per [[12s]] `## Season operations`. Use this document unchanged at those checkpoints.
 
-**Common biases to avoid.** Height-halo (tall ≠ skilled at 12s — Munciana flags this). Friend-of-coach bias. Recency bias (last station scored harshly). Confusing volume of effort with skill quality — a quiet, balanced platform outscores enthusiastic flailing every time.
+**Common biases to avoid.** Height-halo (tall ≠ skilled at 12s: Munciana flags this). Friend-of-coach bias. Recency bias (last station scored harshly). Confusing volume of effort with skill quality, a quiet, balanced platform outscores enthusiastic flailing every time.
 
 **Recency lean.** Per the program preference for modern training, score against AOC/Munciana cue language and hand-hinge setting standards rather than legacy underhand-set or wrist-snap-spike framings.
 
@@ -75,4 +75,4 @@ The 27-criterion checklist in [[12s]] `## Promotion criteria` is the reading lis
 - [[aoc-2024-kids-passing-fundamentals]]
 - [[aoc-2024-setting-hand-hinge]]
 - [[aoc-2024-kids-serving-fundamentals]]
-- [[aoc-2021-teach-rotations-beginners]] — Barnard 2021: overlap rules for beginners; anchors the Systems row
+- [[aoc-2021-teach-rotations-beginners]]: Barnard 2021: overlap rules for beginners; anchors the Systems row

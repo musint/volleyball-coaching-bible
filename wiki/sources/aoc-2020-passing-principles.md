@@ -36,5 +36,5 @@ Recorded session from AOC's 2020 Virtual Clinic in which Russ Rose (Penn State),
 ## Access
 - Raw file: [[aoc-2020-passing-principles]]
 - URL: https://www.theartofcoachingvolleyball.com/passing-principles/
-- Trust tier: 2 — AOC, fundamentals article
+- Trust tier: 2: AOC, fundamentals article
 - Ingested via: aoc-mcp on 2026-04-23

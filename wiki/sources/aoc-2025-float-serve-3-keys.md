@@ -16,14 +16,14 @@ trust-tier: 2
 # 3 keys to a good float serve
 
 ## Summary
-Tod Mattox (The Bishop's School) uses a three-word cue sequence — Lift, Step, Swing — plus a weight-transfer timing rule to simplify teaching the float serve.
+Tod Mattox (The Bishop's School) uses a three-word cue sequence: Lift, Step, Swing, plus a weight-transfer timing rule to simplify teaching the float serve.
 
 ## Key claims / ideas
 - Three-word mantra the server says aloud: Lift, Step, Swing.
 - Lift: raise the tossing arm with the ball to execute the toss.
 - Step: right-handers step with the left foot, left-handers step with the right foot.
 - Swing: contact the ball.
-- Tempo cue — hitting hand should contact the ball immediately after the forward-stepping foot lands; this weight transfer sets rhythm and serve quality.
+- Tempo cue, hitting hand should contact the ball immediately after the forward-stepping foot lands; this weight transfer sets rhythm and serve quality.
 
 ## Topics covered
 - Float-serve mechanics for right- and left-handers
@@ -37,5 +37,5 @@ Tod Mattox (The Bishop's School) uses a three-word cue sequence — Lift, Step, 
 ## Access
 - Raw file: [[aoc-2025-float-serve-3-keys]]
 - URL: https://www.theartofcoachingvolleyball.com/3-keys-to-a-good-float-serve/
-- Trust tier: 2 — AOC, fundamentals article
+- Trust tier: 2: AOC, fundamentals article
 - Ingested via: aoc-mcp on 2026-04-23

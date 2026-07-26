@@ -16,7 +16,7 @@ trust-tier: 2
 # Setting fundamentals: Taking your eye off the ball
 
 ## Summary
-Former Canadian national team player Gina Schmidt teaches setters to momentarily take their eyes off the ball to read hitters and blockers before setting. A number-call drill — coach flashes a number with their hand right before the setter's contact, setter glances and calls it — builds the habit.
+Former Canadian national team player Gina Schmidt teaches setters to momentarily take their eyes off the ball to read hitters and blockers before setting. A number-call drill, coach flashes a number with their hand right before the setter's contact, setter glances and calls it, builds the habit.
 
 ## Key claims / ideas
 - Taking eyes off the ball is a trainable setting fundamental, not a violation of a rule.
@@ -34,6 +34,5 @@ Former Canadian national team player Gina Schmidt teaches setters to momentarily
 ## Access
 - Raw file: [[aoc-2021-schmidt-setter-eyes-off-ball]]
 - URL: https://www.theartofcoachingvolleyball.com/setting-fundamentals-taking-your-eye-off-the-ball/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

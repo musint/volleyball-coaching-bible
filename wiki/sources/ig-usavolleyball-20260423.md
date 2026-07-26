@@ -17,7 +17,7 @@ trust-tier: 3
 
 ## Summary
 
-Profile-level entry for the official USA Volleyball Instagram account, captured 2026-04-23. WebFetch returned only the IG login wall; profile metadata below is from WebSearch result snippets, not from a direct successful fetch. USA Volleyball is the NGB; the handle is officially theirs per the IG search result attribution. Stub entry — do not cite specific posts off this page until captured individually.
+Profile-level entry for the official USA Volleyball Instagram account, captured 2026-04-23. WebFetch returned only the IG login wall; profile metadata below is from WebSearch result snippets, not from a direct successful fetch. USA Volleyball is the NGB; the handle is officially theirs per the IG search result attribution. Stub entry, do not cite specific posts off this page until captured individually.
 
 ## Key claims / ideas
 
@@ -37,5 +37,5 @@ Profile-level entry for the official USA Volleyball Instagram account, captured 
 
 - Raw file: `raw/instagram/usavolleyball-20260423-profile.md`
 - URL: https://www.instagram.com/usavolleyball/
-- Trust tier: 3 — verified-account (NGB official), fetch-blocked
+- Trust tier: 3, verified-account (NGB official), fetch-blocked
 - **Corroboration required before heavy use.**

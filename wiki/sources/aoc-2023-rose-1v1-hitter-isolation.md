@@ -21,7 +21,7 @@ Hall-of-fame Penn State coach Russ Rose demonstrates a 6v6 drill where every set
 ## Key claims / ideas
 - Structure: 6v6, each team's every set goes to one designated hitter; coach enters alternating down balls; first to 5 points wins.
 - Isolated hitter develops a "swing to win" mindset because no one else can score for the team.
-- Teammates on defense must adapt because the attack target is known — drill doubles as pressure defense.
+- Teammates on defense must adapt because the attack target is known, drill doubles as pressure defense.
 - Modifiable: rotate the designated hitter, run different set variants for the designated player.
 - Tests anticipation and adaptability simultaneously on both sides.
 
@@ -37,5 +37,5 @@ Hall-of-fame Penn State coach Russ Rose demonstrates a 6v6 drill where every set
 ## Access
 - Raw file: [[aoc-2023-rose-1v1-hitter-isolation]]
 - URL: https://www.theartofcoachingvolleyball.com/team-drill-1v1-hitter-isolation/
-- Trust tier: 2 — AOC (Russ Rose / Penn State)
+- Trust tier: 2: AOC (Russ Rose / Penn State)
 - Ingested via: aoc-mcp on 2026-04-23

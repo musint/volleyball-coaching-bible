@@ -19,7 +19,7 @@ trust-tier: 2
 Tod Mattox's Straddle drill trains serve-receivers to judge trajectory: the goal is not to pass the ball but to position yourself so the served ball bounces through your legs.
 
 ## Key claims / ideas
-- Straddle drill isolates trajectory judgment — you don't pass the ball, you let it bounce through your legs
+- Straddle drill isolates trajectory judgment, you don't pass the ball, you let it bounce through your legs
 - Footwork is the emphasis; reading the serve location is the actual skill being trained
 - Position yourself so the ball lands between your feet
 - Great beginner / youth drill for judging serves
@@ -37,5 +37,5 @@ Tod Mattox's Straddle drill trains serve-receivers to judge trajectory: the goal
 ## Access
 - Raw file: [[aoc-2022-mattox-straddle-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/straddle-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

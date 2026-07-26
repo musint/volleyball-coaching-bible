@@ -38,12 +38,12 @@ The 2022 Sweet 16 datapoint is the strongest single citable claim for libero-at-
 
 ## Where it's cited
 
-- [[defense-middle-middle]] — libero-at-LB-as-canonical-base argument.
-- [[libero]] — defensive-position section.
-- Age-guides 11s/12s/13s/14s — install-libero-at-LB program identity.
+- [[defense-middle-middle]]: libero-at-LB-as-canonical-base argument.
+- [[libero]]: defensive-position section.
+- Age-guides 11s/12s/13s/14s, install-libero-at-LB program identity.
 
 ## Access
 
 - Raw file: `raw/articles/gms-nd-libero-in-volleyball.md`
 - URL: https://www.goldmedalsquared.com/post/what-is-a-libero-in-volleyball
-- Trust tier: 2 — GMS coaching content; specific data is GMS-attributed (no underlying chart published).
+- Trust tier: 2: GMS coaching content; specific data is GMS-attributed (no underlying chart published).

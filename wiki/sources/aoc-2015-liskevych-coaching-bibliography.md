@@ -19,8 +19,8 @@ Liskevych's full annotated bibliography of ~110 coaching, leadership, and sport-
 
 ## Key claims / ideas
 
-- Liskevych anchors his coaching philosophy in a deliberately cross-sport, cross-discipline reading list — especially soccer (Dorrance, DiCicco), football (Walsh, Carroll), and basketball (Wooden, Krzyzewski, Carril).
-- Mental-game books (Loehr, Orlick, Mack, Gallwey) appear repeatedly — this is a mental-training-heavy reading list.
+- Liskevych anchors his coaching philosophy in a deliberately cross-sport, cross-discipline reading list, especially soccer (Dorrance, DiCicco), football (Walsh, Carroll), and basketball (Wooden, Krzyzewski, Carril).
+- Mental-game books (Loehr, Orlick, Mack, Gallwey) appear repeatedly, this is a mental-training-heavy reading list.
 - Pettit's "A Fresh Season" is one of the few volleyball-specific entries.
 - Youth-sports-harm critiques (Hyman, Farrey, Bigelow) are explicit foundation reading.
 

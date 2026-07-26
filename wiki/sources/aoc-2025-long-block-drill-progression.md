@@ -23,7 +23,7 @@ Springfield College's Moira Long presents a blocking drill progression that uses
 - Hitter's shoulder is the key visual cue for attack angle.
 - Color/number cards on hitter shoulders force blockers to keep eyes on the hitter's body, not the ceiling.
 - Math problems on cards increase attention and reaction load.
-- Reading is a team-wide habit — not just blockers.
+- Reading is a team-wide habit, blockers included.
 
 ## Topics covered
 - Blocking eye progression and reading.
@@ -37,5 +37,5 @@ Springfield College's Moira Long presents a blocking drill progression that uses
 ## Access
 - Raw file: [[aoc-2025-long-block-drill-progression]]
 - URL: https://www.theartofcoachingvolleyball.com/blocking-drill-progression-keeping-the-blocker-engaged/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -20,7 +20,7 @@ Video-backed, minimal text body. Kiraly argues that constant coach chatter and c
 
 ## Key claims / ideas
 - Players looking at the coach after every play is a symptom of over-coaching, not engagement.
-- "Real-time decisions" are a trainable skill — players need reps making them without a coach in the loop.
+- "Real-time decisions" are a trainable skill, players need reps making them without a coach in the loop.
 - "Constant chatter and corrections" from coaches can actively interfere with player learning.
 - The headline prescription: "Let them play."
 
@@ -28,7 +28,7 @@ Video-backed, minimal text body. Kiraly argues that constant coach chatter and c
 - Coaching philosophy and the coach's role during live play
 - Player autonomy and decision-making development
 - Team-building / managing a program culture
-- Sports psychology — over-coaching as a failure mode
+- Sports psychology, over-coaching as a failure mode
 
 ## Where it's cited
 *(populated as wiki pages cite this source)*
@@ -36,5 +36,5 @@ Video-backed, minimal text body. Kiraly argues that constant coach chatter and c
 ## Access
 - Raw file: [[aoc-2024-kiraly-give-freedom]]
 - URL: https://www.theartofcoachingvolleyball.com/karch-kiralys-2-minute-take-give-players-freedom-to-make-their-own-decisions/
-- Trust tier: 2 — AOC, Karch Kiraly named author
+- Trust tier: 2: AOC, Karch Kiraly named author
 - Ingested via: aoc-mcp on 2026-04-23

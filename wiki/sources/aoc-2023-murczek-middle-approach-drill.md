@@ -20,10 +20,10 @@ Emporia State's Ken Murczek shares a warm-up drill that cycles middles through F
 
 ## Key claims / ideas
 - Drill cycles approach+catch progressions for four canonical middle sets: 31, Front-1, Back-1, and Slide.
-- Coach cue: catch the ball high, over the head — preserve game-like jump-contact geometry.
-- Approach-angle revision: for a "3," start wider and approach straight ahead instead of starting narrow and veering left — setter finds the hitter more easily when the attacker's path is linear.
+- Coach cue: catch the ball high, over the head, preserve game-like jump-contact geometry.
+- Approach-angle revision: for a "3," start wider and approach straight ahead instead of starting narrow and veering left, setter finds the hitter more easily when the attacker's path is linear.
 - Same principle applies to the Slide: shift the approach angle over to shorten the attack path.
-- Last two approach steps are the critical moment — transition from horizontal to vertical momentum.
+- Last two approach steps are the critical moment, transition from horizontal to vertical momentum.
 
 ## Topics covered
 - Middle warm-up progression across all standard sets
@@ -37,5 +37,5 @@ Emporia State's Ken Murczek shares a warm-up drill that cycles middles through F
 ## Access
 - Raw file: [[aoc-2023-murczek-middle-approach-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/middle-hitting-drill-to-improve-attack-approach/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Nikolay Karpol (b. 1938) is one of the most decorated women's volleyball coaches of the modern era — head coach of VC Uralochka-NTMK Yekaterinburg for at least 51 consecutive years (1969 through at least 2020), the longest documented single-club head-coaching tenure in professional team sport [karpol-2026-wikipedia]. Concurrent with his Uralochka tenure he held head-coaching posts with the USSR / Unified Team / Russia women's national team across five Olympic cycles: 1980 Moscow (gold), 1988 Seoul (gold), 1992 Barcelona (silver), 2000 Sydney (silver), and 2004 Athens (silver) [karpol-2026-wikipedia]. His international record also includes nine European Championship golds, the 1990 FIVB World Championship gold, and eight CEV Women's Champions League titles with Uralochka [karpol-2026-wikipedia]. Karpol was inducted into the International Volleyball Hall of Fame in 2009 [karpol-2026-wikipedia]. [unsourced] A tactical-teaching archive for Karpol in English is limited; this profile is the stub anchor for his role as the architectural anchor of the women's [[russian-school]] lineage.
+Nikolay Karpol (b. 1938) is one of the most decorated women's volleyball coaches of the modern era, head coach of VC Uralochka-NTMK Yekaterinburg for at least 51 consecutive years (1969 through at least 2020), the longest documented single-club head-coaching tenure in professional team sport [karpol-2026-wikipedia]. Concurrent with his Uralochka tenure he held head-coaching posts with the USSR / Unified Team / Russia women's national team across five Olympic cycles: 1980 Moscow (gold), 1988 Seoul (gold), 1992 Barcelona (silver), 2000 Sydney (silver), and 2004 Athens (silver) [karpol-2026-wikipedia]. His international record also includes nine European Championship golds, the 1990 FIVB World Championship gold, and eight CEV Women's Champions League titles with Uralochka [karpol-2026-wikipedia]. Karpol was inducted into the International Volleyball Hall of Fame in 2009 [karpol-2026-wikipedia]. [unsourced] A tactical-teaching archive for Karpol in English is limited; this profile is the stub anchor for his role as the architectural anchor of the women's [[russian-school]] lineage.
 
 ## Coaching career
 
@@ -24,7 +24,7 @@ Nikolay Karpol (b. 1938) is one of the most decorated women's volleyball coaches
 
 ## Core teaching principles
 
-*(populated in a later wave — preliminary: Soviet national-training-system methodology applied to women's volleyball; long-arc roster development inside a single-club continuity; intense public-sideline competitive persona.)* [unsourced]
+*(populated in a later wave, preliminary: Soviet national-training-system methodology applied to women's volleyball; long-arc roster development inside a single-club continuity; intense public-sideline competitive persona.)* [unsourced]
 
 ## Contributions to the game
 
@@ -36,7 +36,7 @@ Nikolay Karpol (b. 1938) is one of the most decorated women's volleyball coaches
 
 ## Quotes & representative passages
 
-[unsourced] Karpol is internationally recognized for an intense public-sideline persona — the "Howling Bear" — but direct transcript-level quotations in translated English-language material are not in the ingested source base [karpol-2026-wikipedia]. Russian-language federation archives are the research path for this section.
+[unsourced] Karpol is internationally recognized for an intense public-sideline persona, the "Howling Bear", but direct transcript-level quotations in translated English-language material are not in the ingested source base [karpol-2026-wikipedia]. Russian-language federation archives are the research path for this section.
 
 ## Sources
 

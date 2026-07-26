@@ -16,7 +16,7 @@ trust-tier: 2
 # Drill to improve off-speed shots
 
 ## Summary
-UCSB's Michael Henchy teaches a 4v4 rotation drill for off-speed hitting, framed around disguise — hitters start every attack with a bent elbow so tips are indistinguishable from full swings.
+UCSB's Michael Henchy teaches a 4v4 rotation drill for off-speed hitting, framed around disguise, hitters start every attack with a bent elbow so tips are indistinguishable from full swings.
 
 ## Key claims / ideas
 - Disguise principle: every off-speed shot begins with a bent-elbow arm position identical to a hard swing.
@@ -36,5 +36,5 @@ UCSB's Michael Henchy teaches a 4v4 rotation drill for off-speed hitting, framed
 ## Access
 - Raw file: [[aoc-2026-henchy-off-speed-shots]]
 - URL: https://www.theartofcoachingvolleyball.com/drill-to-improve-off-speed-shots/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

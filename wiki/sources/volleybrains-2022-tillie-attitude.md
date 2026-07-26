@@ -13,7 +13,7 @@ schools: [french-school, gold-medal-squared]
 trust-tier: 2
 ---
 
-# Laurent Tillie: 'The right attitude is everything' — VolleyBrains, July 2022
+# Laurent Tillie: 'The right attitude is everything': VolleyBrains, July 2022
 
 ## Summary
 
@@ -45,5 +45,5 @@ Interview-style profile of Laurent Tillie published by VolleyBrains on 18 July 2
 
 - Raw file: `tillie-2022-volleybrains-attitude`
 - URL: https://volleybrains.com/laurent-tillie/
-- Trust tier: 2 — interview-style coach profile on a coaching-content site (corroborates with FIVB/Olympics content)
+- Trust tier: 2, interview-style coach profile on a coaching-content site (corroborates with FIVB/Olympics content)
 - Ingested via: webfetch on 2026-04-25

@@ -22,12 +22,12 @@ Three players form a line between the ten-foot line and the net on one side of t
 
 ## Execution
 1. Tosser feeds the passer in front of the line.
-2. Passer plays a tilt pass to the target — the platform shoulder closest to target drops so the ball angles past the opposite outside hand.
+2. Passer plays a tilt pass to the target, the platform shoulder closest to target drops so the ball angles past the opposite outside hand.
 3. Mike's framing: "we're just going to work on getting that good shoulder down tilt past the opposite outside hand" **[00:01:34]**.
 4. Run for ~45 seconds before rotating, then move to the next tilt drill in the chain.
 
 ## Coaching points
-- Drop the inside shoulder — the shoulder closest to target — to angle the ball, not the platform swing.
+- Drop the inside shoulder, the shoulder closest to target, to angle the ball, not the platform swing.
 - Quiet platform; the angle comes from posture, not from chopping.
 - This is the first of a tilt-drill chain: Mike narrates "all of the drills you're seeing right now are tilt" **[00:02:16]** as he sequences three-man tilt → rush and push → straddles → speed close → straight line.
 

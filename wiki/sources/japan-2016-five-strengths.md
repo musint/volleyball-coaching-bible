@@ -25,7 +25,7 @@ Despite the source's name ("JVA"), note carefully that this is the U.S. **Junior
 - ~1/3 of training on coordination & motor skills (up to 1/2 for youngest)
 - Catch-and-set progression in early setting development
 - Lower net heights prolong skill development before height-based gating
-- "Standard of excellence" vs target-meeting — a values difference
+- "Standard of excellence" vs target-meeting, a values difference
 
 ## Topics covered
 - Youth training design
@@ -39,4 +39,4 @@ Despite the source's name ("JVA"), note carefully that this is the U.S. **Junior
 ## Access
 - Raw file: `raw/articles/japan-jva-five-strengths.md`
 - URL: https://jvavolleyball.org/5-things-japanese-volleyball-does-we-need-do-better/
-- Trust tier: 2 — credentialed coach-observer, secondary report on primary practice; not a peer-reviewed or institutional source.
+- Trust tier: 2, credentialed coach-observer, secondary report on primary practice; not a peer-reviewed or institutional source.

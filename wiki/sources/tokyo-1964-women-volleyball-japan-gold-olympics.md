@@ -21,7 +21,7 @@ women's volleyball gold. This source's decisive contribution to the wiki is
 the **NHK television-ratings figure for the final**: 66.8% average rating
 with a peak above 80% during the match. Cites NHK directly and notes the
 match remains the most-watched sporting event in Japanese television history
-(statement as of the 2021 publication — 57 years after the event).
+(statement as of the 2021 publication: 57 years after the event).
 
 Corroborating coverage at theolympians.co (Roy Tomizawa, 2019) reports the
 same 66.8% figure in a tabular comparison of 1964 Olympic broadcasts.
@@ -44,4 +44,4 @@ same 66.8% figure in a tabular comparison of 1964 Olympic broadcasts.
 ## Access
 - Raw file: `raw/articles/tokyo-1964-women-volleyball-japan-gold-olympics.md`
 - URL: https://www.olympics.com/en/news/tokyo-1964-women-volleyball-japan-gold
-- Trust tier: 2 — Official IOC editorial, citing NHK primary-source data. NHK as the underlying source is Tier 1.
+- Trust tier: 2: Official IOC editorial, citing NHK primary-source data. NHK as the underlying source is Tier 1.

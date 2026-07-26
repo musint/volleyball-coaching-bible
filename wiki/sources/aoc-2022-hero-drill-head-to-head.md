@@ -35,5 +35,5 @@ A competitive head-to-head drill pitting left-side hitters against servers. Afte
 ## Access
 - Raw file: [[aoc-2022-hero-drill-head-to-head]]
 - URL: https://www.theartofcoachingvolleyball.com/hero-drill-head-to-head-position-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

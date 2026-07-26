@@ -22,7 +22,7 @@ Russ Rose (Penn State '79-'21) distinguishes in-system and out-of-system pipe-de
 - In-system pipe defense: outside blocker hugs in toward middle to form a stack on the pipe, with a triple block available as needed.
 - Out-of-system pipe defense: blockers are prepped for front-row; pipe coverage is thin, so defenders must hug lines.
 - Out-of-system outside blocker should retreat (not commit to block) to cover tip/roll if feasible.
-- Pipe attack is a deliberate tool for throwing off defensive systems — coaches should plan for it, not react to it.
+- Pipe attack is a deliberate tool for throwing off defensive systems, coaches should plan for it, not react to it.
 
 ## Topics covered
 

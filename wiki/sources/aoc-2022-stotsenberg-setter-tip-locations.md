@@ -24,7 +24,7 @@ Jed Stotsenberg maps dump zones by setter position: middle-court "donut" and the
 - Correct: take the ball higher, angle toward the left sideline.
 - "The goal is not to lift and drop. It's just to tap it down."
 - Hold setting shape until a split-second before contact to preserve disguise.
-- Setters should tip with BOTH hands — left when the ball is off the net, right when the ball is tight.
+- Setters should tip with BOTH hands, left when the ball is off the net, right when the ball is tight.
 
 ## Topics covered
 - Setter dump targeting by court zone
@@ -38,6 +38,5 @@ Jed Stotsenberg maps dump zones by setter position: middle-court "donut" and the
 ## Access
 - Raw file: [[aoc-2022-stotsenberg-setter-tip-locations]]
 - URL: https://www.theartofcoachingvolleyball.com/the-setter-tip-smart-ways-to-score-with-the-dump/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

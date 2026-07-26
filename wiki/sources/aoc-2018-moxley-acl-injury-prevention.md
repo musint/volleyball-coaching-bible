@@ -19,7 +19,7 @@ This is AOC curricular content; defer to qualified AT/CSCS/MD on programming spe
 
 ## Key claims / ideas
 
-- ACL prevention is framed as an assessment + training problem — not just a drill set.
+- ACL prevention is framed as an assessment + training problem rather than a drill set.
 - Functional Movement Screening (FMS) is the named assessment framework.
 - Topics explicitly include: movement, flexibility, imbalances & stability, force impact on body.
 - Moxley's credibility anchor: 30-year career as exercise physiologist and professor in performance enhancement.
@@ -34,7 +34,7 @@ This is AOC curricular content; defer to qualified AT/CSCS/MD on programming spe
 
 ## Where it's cited
 
-- (Not yet cited. Candidate insertions: [[physical.md]], [[age-lens-14u.md]], [[age-lens-hs.md]] — peak female ACL-injury ages.)
+- (Not yet cited. Candidate insertions: [[physical.md]], [[age-lens-14u.md]], [[age-lens-hs.md]]: peak female ACL-injury ages.)
 
 ## Access
 

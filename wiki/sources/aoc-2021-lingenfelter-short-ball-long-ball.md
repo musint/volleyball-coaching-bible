@@ -37,5 +37,5 @@ Mike Lingenfelter's (Munciana) youth warmup: three passers rotate through short-
 ## Access
 - Raw file: [[aoc-2021-lingenfelter-short-ball-long-ball]]
 - URL: https://www.theartofcoachingvolleyball.com/middle-school-volleyball-warm-ups-short-ball-long-ball-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

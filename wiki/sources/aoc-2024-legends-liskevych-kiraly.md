@@ -19,9 +19,9 @@ trust-tier: 2
 Kiraly and Liskevych share four high-level coaching themes: learning is Job One every day; there is no single right way to coach; coaches must enjoy the job and let athletes enjoy it too; and process must be praised alongside outcomes.
 
 ## Key claims / ideas
-- Kiraly: "Learning is Job One in our program" — for head coach, staff, and players alike.
+- Kiraly: "Learning is Job One in our program", for head coach, staff, and players alike.
 - Many valid approaches to coaching exist; no single method is correct.
-- Liskevych: enjoyment is non-negotiable — for coach and athletes.
+- Liskevych: enjoyment is non-negotiable, for coach and athletes.
 - Kiraly: time-efficient use of practice time is decisive at every level.
 - Liskevych: praise staff and players for process, not only win/loss outcomes.
 
@@ -38,5 +38,5 @@ Kiraly and Liskevych share four high-level coaching themes: learning is Job One 
 ## Access
 - Raw file: [[aoc-2024-legends-liskevych-kiraly]]
 - URL: https://www.theartofcoachingvolleyball.com/advice-from-the-legends-terry-liskevych-and-karch-kiraly/
-- Trust tier: 2 — AOC, Kiraly and Liskevych named
+- Trust tier: 2: AOC, Kiraly and Liskevych named
 - Ingested via: aoc-mcp on 2026-04-23

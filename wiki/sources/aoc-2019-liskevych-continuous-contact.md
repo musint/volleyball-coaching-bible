@@ -15,13 +15,13 @@ trust-tier: 2
 
 ## Summary
 
-Terry Liskevych's 3v3 (or 4v4) cross-court cooperative drill. Each side runs a digger + outside hitter + setter; the coach initiates with free balls. Teams play cooperatively — target 10 continuous rallies — but hitters still swing competitively. Progression: add a middle-back digger and force hitters to place shots to MB, LB, or sharp left angle. The outside blocker pulls off the net to dig every time, rehearsing block-to-defense transition.
+Terry Liskevych's 3v3 (or 4v4) cross-court cooperative drill. Each side runs a digger + outside hitter + setter; the coach initiates with free balls. Teams play cooperatively, target 10 continuous rallies, but hitters still swing competitively. Progression: add a middle-back digger and force hitters to place shots to MB, LB, or sharp left angle. The outside blocker pulls off the net to dig every time, rehearsing block-to-defense transition.
 
 ## Key claims / ideas
 
-- Cooperative scoring (10 continuous rallies) coexists with live hitting — the drill doesn't require pulling swings.
+- Cooperative scoring (10 continuous rallies) coexists with live hitting, the drill doesn't require pulling swings.
 - Cross-court outside hitting is the default training lane because it matches live-game hitter-pass geometry.
-- Block-to-defense pull-off is embedded by design — the outside blocker digs every time.
+- Block-to-defense pull-off is embedded by design, the outside blocker digs every time.
 - MB / LB / sharp-angle targeting is the layered-on shot-discipline progression.
 - At least 6 players, full court; works as small-group or team ball-control block.
 
@@ -34,7 +34,7 @@ Terry Liskevych's 3v3 (or 4v4) cross-court cooperative drill. Each side runs a d
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``ball-control`` hub, ``small-group``, `[[drills/continuous-contact-ball-control]]`, `[[techniques/blocker-pull-off]]`, and `[[terry-liskevych]]` profile.
+Forward-reference, to be cited on ``ball-control`` hub, ``small-group``, `[[drills/continuous-contact-ball-control]]`, `[[techniques/blocker-pull-off]]`, and `[[terry-liskevych]]` profile.
 
 ## Access
 

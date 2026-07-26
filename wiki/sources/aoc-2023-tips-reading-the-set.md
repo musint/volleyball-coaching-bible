@@ -37,5 +37,5 @@ Christy Johnson-Lynch (Iowa State) outlines reading cues that let defenders and 
 ## Access
 - Raw file: [[aoc-2023-tips-reading-the-set]]
 - URL: https://www.theartofcoachingvolleyball.com/tips-for-reading-the-set/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

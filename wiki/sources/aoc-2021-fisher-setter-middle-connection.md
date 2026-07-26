@@ -19,7 +19,7 @@ trust-tier: 2
 Pitt head coach Dan Fisher lays out how to build the setter-middle connection: tempo and keys for setting the middle, middle attack approach timing, and tracking the pass so the middle and setter leave at the same moment.
 
 ## Key claims / ideas
-- Tempo is the connective tissue of the setter-middle relationship — both players must calibrate to a shared offensive speed.
+- Tempo is the connective tissue of the setter-middle relationship, both players must calibrate to a shared offensive speed.
 - Setting keys for the middle should be explicit and consistent so the middle can commit to an approach without hedging.
 - Middle approach timing derives from reading the pass, not from a fixed count off the setter.
 - The middle must learn to "track the pass" rather than the ball leaving the setter's hands.
@@ -36,6 +36,5 @@ Pitt head coach Dan Fisher lays out how to build the setter-middle connection: t
 ## Access
 - Raw file: [[aoc-2021-fisher-setter-middle-connection]]
 - URL: https://www.theartofcoachingvolleyball.com/training-the-setter-middle-connection/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

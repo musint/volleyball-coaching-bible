@@ -17,7 +17,7 @@ trust-tier: 3
 
 ## Summary
 
-A video on the AoC YouTube channel presented by Diane Flick (Western Washington University women's volleyball head coach) describing a "Pass for Points" drill. Only the title is verifiable — the YouTube page returned via WebFetch gave title metadata only, no description, publish date, or transcript. This source page is an entry-point stub only; no teaching claims are extracted. Do not cite specific drill details until the video is re-verified manually or corroborated against a Tier 1/2 source.
+A video on the AoC YouTube channel presented by Diane Flick (Western Washington University women's volleyball head coach) describing a "Pass for Points" drill. Only the title is verifiable, the YouTube page returned via WebFetch gave title metadata only, no description, publish date, or transcript. This source page is an entry-point stub only; no teaching claims are extracted. Do not cite specific drill details until the video is re-verified manually or corroborated against a Tier 1/2 source.
 
 ## Key claims / ideas
 
@@ -35,5 +35,5 @@ A video on the AoC YouTube channel presented by Diane Flick (Western Washington 
 
 - Raw file: `raw/transcripts/yt-aoc-unknown-pass-for-points-diane-flick.md`
 - URL: https://www.youtube.com/watch?v=wuBJ4t4kwqc
-- Trust tier: 3 — verified-account (AoC); content not captured, stub for later manual verification
+- Trust tier: 3, verified-account (AoC); content not captured, stub for later manual verification
 - **Corroboration required before heavy use.**

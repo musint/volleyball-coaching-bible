@@ -24,18 +24,18 @@ Defenders line up on the court in a mountain-climber position (hands and feet on
 1. All players begin in a mountain-climber.
 2. Coach drops a ball on the floor: "I put the ball on the floor. They've got to release. Someone's got to dig it. Someone's got to catch it for them to get out" **[00:17:58]**.
 3. To exit the rep: one player digs the ball, another catches it. Both leave the floor.
-4. If the team fails to dig + catch, "they start mountain climbing right where they end it" **[00:18:04]** — the punishment is staying in the mountain-climber and trying again.
+4. If the team fails to dig + catch, "they start mountain climbing right where they end it" **[00:18:04]**: the punishment is staying in the mountain-climber and trying again.
 5. Win condition varies by camp: "depending upon the camp, hitting it over, gets you out, or catching it gets you out. If you're in a large camp, you'll probably just catch to get out today" **[00:17:45]**.
 
 ## Coaching points
 - Three cues, one principle: start low, stay low, play low. Mountain-climber forces the body into a posture that cannot stand up between reps.
-- Read off the floor — the ball's bounce is the read trigger.
+- Read off the floor, the ball's bounce is the read trigger.
 - Two-player success requirement (dig + catch) builds the pursuit-cover-coverage chain into a single rep.
-- "These things don't happen by accident. You have to teach them" **[00:18:45]** — the mountain-climber is teaching the posture, not punishing the players.
+- "These things don't happen by accident. You have to teach them" **[00:18:45]**: the mountain-climber is teaching the posture, not punishing the players.
 
 ## Variations
-- Hit-it-over instead of catch — for advanced groups capable of a clean second contact and over.
-- Time-based version (1 min) — count successful clears.
+- Hit-it-over instead of catch, for advanced groups capable of a clean second contact and over.
+- Time-based version (1 min): count successful clears.
 - Pair with [[munciana-campfire-d]] for the same drill's "transition" cousin.
 
 ## Adaptations by level

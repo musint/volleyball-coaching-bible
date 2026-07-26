@@ -16,11 +16,11 @@ trust-tier: 2
 # Fast, firm hands: Seated setting
 
 ## Summary
-Iowa State's Christy Johnson-Lynch uses a seated-setting drill to isolate fast hands and a clean no-spin release. Tosser calls "window" just before release — setter sets hands into setting window, delivers fast, spin-free ball. 10 reps, switch.
+Iowa State's Christy Johnson-Lynch uses a seated-setting drill to isolate fast hands and a clean no-spin release. Tosser calls "window" just before release, setter sets hands into setting window, delivers fast, spin-free ball. 10 reps, switch.
 
 ## Key claims / ideas
 - Seated drill isolates hand mechanics from lower body.
-- Cue: "window" — setter positions hands in setting window on cue.
+- Cue: "window", setter positions hands in setting window on cue.
 - Set should be quick with little-to-no spin.
 
 ## Topics covered
@@ -34,6 +34,5 @@ Iowa State's Christy Johnson-Lynch uses a seated-setting drill to isolate fast h
 ## Access
 - Raw file: [[aoc-2019-johnson-lynch-seated-setting]]
 - URL: https://www.theartofcoachingvolleyball.com/fast-firm-hands-seated-setting/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Doug Beal — AOC coach profile"
+title: "Doug Beal, AOC coach profile"
 author: "The Art of Coaching Volleyball"
 year: 2026
 citation-key: beal-nd-aoc-profile
@@ -13,7 +13,7 @@ schools: [art-of-coaching-volleyball, usa-volleyball]
 trust-tier: 2
 ---
 
-# Doug Beal — AOC coach profile
+# Doug Beal: AOC coach profile
 
 ## Summary
 
@@ -48,4 +48,4 @@ Trust tier 2 (Tier-2 AOC secondary source; coach-authored context rather than a 
 
 - Raw file: `raw/articles/beal-aoc-profile.md`
 - URL: https://www.theartofcoachingvolleyball.com/profile-doug-beal/
-- Trust tier: 2 — AOC platform coach profile; secondary biographical summary paired with an AOC content directory.
+- Trust tier: 2: AOC platform coach profile; secondary biographical summary paired with an AOC content directory.

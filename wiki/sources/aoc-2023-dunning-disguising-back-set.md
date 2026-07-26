@@ -16,7 +16,7 @@ trust-tier: 2
 # Setter training for volleyball: Disguising the back set
 
 ## Summary
-Former Stanford head coach John Dunning teaches the disguise mechanics of the back set: eliminate the body-position giveaways — forward hip thrust, arched back, looking behind — and learn to "turn the hands over" so the setter's posture stays neutral long enough to freeze opposing blockers.
+Former Stanford head coach John Dunning teaches the disguise mechanics of the back set: eliminate the body-position giveaways, forward hip thrust, arched back, looking behind, and learn to "turn the hands over" so the setter's posture stays neutral long enough to freeze opposing blockers.
 
 ## Key claims / ideas
 - Thrusting hips forward, arching the back, and looking behind are "dead giveaways" to opposing blockers and defenders.
@@ -34,6 +34,5 @@ Former Stanford head coach John Dunning teaches the disguise mechanics of the ba
 ## Access
 - Raw file: [[aoc-2023-dunning-disguising-back-set]]
 - URL: https://www.theartofcoachingvolleyball.com/setter-training-for-volleyball-disguising-the-back-set/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

@@ -28,46 +28,46 @@ sources: [munciana-2022-camp-drills, age-lens-college]
 
 ## Purpose
 
-This pick-list is the operating drill rotation for [[18s]] — the college-bridge cohort. These athletes are 17-18 by USAV calendar age, finishing club careers, and either committed to play in college or in their final competitive season before stepping away. The training brief is the inverse of the [[10s]] list: the bias is toward live, high-intensity, game-realistic reps that mirror what a college program will demand on day one of preseason. Cooperative ball-control and warm-up-only blocks remain in the rotation but no longer dominate it; the center of gravity is competitive 6v6, position-specific skill blocks, and load that is openly programmed alongside (not under) a [[physical|CSCS-supervised]] strength plan.
+This pick-list is the operating drill rotation for [[18s]]: the college-bridge cohort. These athletes are 17-18 by USAV calendar age, finishing club careers, and either committed to play in college or in their final competitive season before stepping away. The training brief is the inverse of the [[10s]] list: the bias is toward live, high-intensity, game-realistic reps that mirror what a college program will demand on day one of preseason. Cooperative ball-control and warm-up-only blocks remain in the rotation but no longer dominate it; the center of gravity is competitive 6v6, position-specific skill blocks, and load that is openly programmed alongside (not under) a [[physical|CSCS-supervised]] strength plan.
 
-The unifying principle is the parent [[age-lens-college]] frame: representative task design, random-practice defaults, and stat-driven scrimmage discipline. Every drill below preserves the perception-action coupling competition demands — real servers instead of tosses, live blockers instead of dummy boxes, rotation-specific scenarios instead of generic 6v6. Recruiting visibility is a real factor at this age: the drills selected give committed players the work that maps cleanly onto college spring-ball tape, and uncommitted players a competitive showcase rotation that recruiters can read from livestreams without explanation.
+The unifying principle is the parent [[age-lens-college]] frame: representative task design, random-practice defaults, and stat-driven scrimmage discipline. Every drill below preserves the perception-action coupling competition demands, real servers instead of tosses, live blockers instead of dummy boxes, rotation-specific scenarios instead of generic 6v6. Recruiting visibility is a real factor at this age: the drills selected give committed players the work that maps cleanly onto college spring-ball tape, and uncommitted players a competitive showcase rotation that recruiters can read from livestreams without explanation.
 
 ## Must-do drill list
 
 **Warm-up and arm-prep (every session)**
-- [[dynamic-warmup-volleyball]] — full ball-in-hand warm-up with movement vocabulary; minutes count, this replaces generic conditioning per the parent age-lens.
-- [[arm-care-routine]] — banded scap/rotator-cuff prep is a non-negotiable before any serving- or hitting-heavy block at this age and load.
-- [[jump-warmup]] — short pogo/box/depth ladder; gates the day's jump-load before any approach work.
+- [[dynamic-warmup-volleyball]]: full ball-in-hand warm-up with movement vocabulary; minutes count, this replaces generic conditioning per the parent age-lens.
+- [[arm-care-routine]]: banded scap/rotator-cuff prep is a non-negotiable before any serving- or hitting-heavy block at this age and load.
+- [[jump-warmup]]: short pogo/box/depth ladder; gates the day's jump-load before any approach work.
 
 **Conditioning / jump-readiness**
-- [[reactive-jumping]] — programmed with CSCS oversight; treated as a sport-specific power input, not a "jump higher" novelty.
+- [[reactive-jumping]]: programmed with CSCS oversight; treated as a sport-specific power input, not a "jump higher" novelty.
 
 **Serving (high intensity)**
-- [[jump-serve-progression]] — full progression at high intensity; for committed jump-servers, run as 4-of-7 service-game format; for jump-floaters, hold at the float-toss-step phase.
-- [[pressure-serving]] — service-game format (e.g., 5-in-a-row to win) with rotation-specific zone calls; recruiters watch this kind of rep.
+- [[jump-serve-progression]]: full progression at high intensity; for committed jump-servers, run as 4-of-7 service-game format; for jump-floaters, hold at the float-toss-step phase.
+- [[pressure-serving]]: service-game format (e.g., 5-in-a-row to win) with rotation-specific zone calls; recruiters watch this kind of rep.
 
 **Hitting (live block, shot selection)**
-- [[hitting-vs-block]] — live 1- and 2-blocker fronts; teaches the read on the last two approach steps; the workhorse hitting drill at this age.
-- [[line-vs-angle-shot]] — narrowed shot menu, zone-target scoring; pairs with [[hitting-vs-block]] on alternating segments.
-- [[transition-hitting]] — primary middle/pin transition rep; emphasis is hitter footwork on the off-ball block recovery.
+- [[hitting-vs-block]]: live 1- and 2-blocker fronts; teaches the read on the last two approach steps; the workhorse hitting drill at this age.
+- [[line-vs-angle-shot]]: narrowed shot menu, zone-target scoring; pairs with [[hitting-vs-block]] on alternating segments.
+- [[transition-hitting]]: primary middle/pin transition rep; emphasis is hitter footwork on the off-ball block recovery.
 
 **Setting and out-of-system**
-- [[out-of-system-to-attack]] — full-team rep against shanked or pursuit passes; required volume is high at this age because match-winning rallies live here.
+- [[out-of-system-to-attack]]: full-team rep against shanked or pursuit passes; required volume is high at this age because match-winning rallies live here.
 
 **Blocking**
-- [[read-blocking-progression]] — reads the setter's hands and hitter shoulder; with Slabe-style overlays, pin blockers pinch toward the middle and release.
-- [[swing-block-shuffle]] — universal at this level; arm-swing, rhythmic, dynamic blocking footwork over a multi-touch pattern.
+- [[read-blocking-progression]]: reads the setter's hands and hitter shoulder; with Slabe-style overlays, pin blockers pinch toward the middle and release.
+- [[swing-block-shuffle]]: universal at this level; arm-swing, rhythmic, dynamic blocking footwork over a multi-touch pattern.
 
 **Team defense**
-- [[six-player-defense]] — full rotation defense vs. live attack; libero-in-6 base; rotation-specific reads.
+- [[six-player-defense]]: full rotation defense vs. live attack; libero-in-6 base; rotation-specific reads.
 
 **Competitive 6v6 and cauldron**
-- [[wash-drill]] — point-cluster wash with serving-receiving emphasis; the daily competitive bedrock.
-- [[gold-medal-scrimmage]] — terminal-skill-weighted scrimmage; standard culminating block 2-3x per week.
-- [[king-of-the-court]] — rotation-elimination format for serving-receiving and small-team transition pressure; queues the cauldron culture from the parent age-lens.
+- [[wash-drill]]: point-cluster wash with serving-receiving emphasis; the daily competitive bedrock.
+- [[gold-medal-scrimmage]]: terminal-skill-weighted scrimmage; standard culminating block 2-3x per week.
+- [[king-of-the-court]]: rotation-elimination format for serving-receiving and small-team transition pressure; queues the cauldron culture from the parent age-lens.
 
 **Cool-down**
-- [[cool-down-mobility]] — closes the session; recovery is a load-bearing lever per the parent age-lens, not a coda.
+- [[cool-down-mobility]]: closes the session; recovery is a load-bearing lever per the parent age-lens, not a coda.
 
 ## When-in-season-to-use mapping
 
@@ -82,10 +82,10 @@ The 18s club season is long: club opens in November-December, runs through natio
 ## Adaptations
 
 - **CSCS coordination.** [[reactive-jumping]] and [[jump-warmup]] volumes are programmed with the strength staff; never stack with high-intensity jumping the day before a match.
-- **Recruiting context.** For uncommitted athletes, weight [[pressure-serving]] + [[hitting-vs-block]] + [[gold-medal-scrimmage]] in showcase/qualifier weeks — these are the rep formats that read cleanly on livestream tape without commentary.
+- **Recruiting context.** For uncommitted athletes, weight [[pressure-serving]] + [[hitting-vs-block]] + [[gold-medal-scrimmage]] in showcase/qualifier weeks, these are the rep formats that read cleanly on livestream tape without commentary.
 - **Position load.** Jump-heavy drills ([[jump-serve-progression]], [[transition-hitting]], [[hitting-vs-block]]) cap front-row pin/middle reps before back-row reps per the parent age-lens; libero/DS work routes through [[six-player-defense]] and [[wash-drill]].
 - **Already-committed athletes.** Layer in their college program's positional drills if known; otherwise this list maps cleanly to standard college spring-ball expectations.
-- **Cool-down compliance.** [[cool-down-mobility]] is non-optional at this load — recovery (sleep, nutrition, mobility) is the highest-leverage modality per the parent age-lens evidence base.
+- **Cool-down compliance.** [[cool-down-mobility]] is non-optional at this load, recovery (sleep, nutrition, mobility) is the highest-leverage modality per the parent age-lens evidence base.
 
 ## Sources
 

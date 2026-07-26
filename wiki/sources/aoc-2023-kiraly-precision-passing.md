@@ -16,7 +16,7 @@ trust-tier: 2
 # Precision passing with Karch Kiraly
 
 ## Summary
-Kiraly frames passing training around game-like reps — chaos and randomness, not spoon-fed drills — on the premise that game-like training drives skill retention. The page introduces a game-like passing drill.
+Kiraly frames passing training around game-like reps, chaos and randomness, not spoon-fed drills, on the premise that game-like training drives skill retention. The page introduces a game-like passing drill.
 
 ## Key claims / ideas
 - "Scientifically speaking, game-like training leads to skill retention."
@@ -36,5 +36,5 @@ Kiraly frames passing training around game-like reps — chaos and randomness, n
 ## Access
 - Raw file: [[aoc-2023-kiraly-precision-passing]]
 - URL: https://www.theartofcoachingvolleyball.com/passing-with-karch-kiraly/
-- Trust tier: 2 — AOC, Kiraly named
+- Trust tier: 2: AOC, Kiraly named
 - Ingested via: aoc-mcp on 2026-04-23

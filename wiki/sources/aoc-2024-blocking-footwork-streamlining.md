@@ -16,11 +16,11 @@ trust-tier: 2
 # Blocking footwork: Streamlining your steps
 
 ## Summary
-Mike Sealy (UCLA) covers four blocking footwork patterns — one-step-and-straight, crossover, three-step crossover, and swing blocking — arguing good blocking is about controlling the area just above the net with efficient finishes, not big powerful moves.
+Mike Sealy (UCLA) covers four blocking footwork patterns, one-step-and-straight, crossover, three-step crossover, and swing blocking, arguing good blocking is about controlling the area just above the net with efficient finishes, not big powerful moves.
 
 ## Key claims / ideas
 - Four basic footwork patterns: one step and straight over, crossover step, three-step crossover, swing blocking.
-- A good block is about "taking control" of the area just above the net where the ball most often travels — not about generating power and "going big."
+- A good block is about "taking control" of the area just above the net where the ball most often travels, not about generating power and "going big."
 - The finish is the most important thing: elbows in front, sliding over, no big giant moves.
 - Streamlined, efficient steps beat exaggerated or powerful movements.
 
@@ -36,5 +36,5 @@ Mike Sealy (UCLA) covers four blocking footwork patterns — one-step-and-straig
 ## Access
 - Raw file: [[aoc-2024-blocking-footwork-streamlining]]
 - URL: https://www.theartofcoachingvolleyball.com/blocking-footwork-streamlining-your-steps/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

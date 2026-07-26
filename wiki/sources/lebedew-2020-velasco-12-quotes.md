@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Julio Velasco — 12 Quotes"
+title: "Julio Velasco, 12 Quotes"
 author: "Mark Lebedew"
 year: 2020
 citation-key: lebedew-2020-velasco-12-quotes
@@ -13,7 +13,7 @@ schools: [italian-school]
 trust-tier: 2
 ---
 
-# Julio Velasco — 12 Quotes
+# Julio Velasco: 12 Quotes
 
 ## Summary
 
@@ -21,18 +21,18 @@ Mark Lebedew's June 2020 translation of twelve widely circulated Velasco quotes,
 
 ## Key claims / ideas
 
-- "The players are as they are" — coach starts with the roster they have.
+- "The players are as they are", coach starts with the roster they have.
 - The first victory is against the team's own defects.
-- "Culture of alibis" — attributing failure to factors outside the team's control.
-- "In sport it is not enough to do things well" — process versus result framing.
+- "Culture of alibis", attributing failure to factors outside the team's control.
+- "In sport it is not enough to do things well", process versus result framing.
 - Quality is not perfection; it is identifying the decisive elements for victory.
 - Sport teaches losing as well as winning; winning means exceeding your own limits.
-- **"I want spikers who spike badly set balls well. The spikers don't talk about the set"** — the canonical internal-accountability line. (Note: previously mis-rendered on the Velasco wiki page as "spikers don't talk about the pass"; the correct Lebedew-translated phrasing is "don't talk about the set.")
-- **"He who wins celebrates, he who loses explains"** — direct-quote support for the Velasco ownership/accountability frame.
-- Yesterday's decisions no longer work today — adaptation as a constant.
-- **"Defence is the thermometer of the soul of a team"** — defense as a culture indicator, not a technique question.
-- Refuses false reassurance — "it will go as we will make it go."
-- "A leader is more a teacher than a leader" — teaching as the primary leadership mode.
+- **"I want spikers who spike badly set balls well. The spikers don't talk about the set"**: the canonical internal-accountability line. (Note: previously mis-rendered on the Velasco wiki page as "spikers don't talk about the pass"; the correct Lebedew-translated phrasing is "don't talk about the set.")
+- **"He who wins celebrates, he who loses explains"**: direct-quote support for the Velasco ownership/accountability frame.
+- Yesterday's decisions no longer work today, adaptation as a constant.
+- **"Defence is the thermometer of the soul of a team"**: defense as a culture indicator, not a technique question.
+- Refuses false reassurance, "it will go as we will make it go."
+- "A leader is more a teacher than a leader", teaching as the primary leadership mode.
 
 ## Topics covered
 
@@ -50,5 +50,5 @@ Mark Lebedew's June 2020 translation of twelve widely circulated Velasco quotes,
 
 - Raw file: [[lebedew-2020-velasco-12-quotes]]
 - URL: https://marklebedew.com/2020/06/09/julio-velasco-12-quotes/
-- Trust tier: 2 — credentialed coach curating/translating widely-circulated material
+- Trust tier: 2, credentialed coach curating/translating widely-circulated material
 - Ingested via: webfetch on 2026-04-24

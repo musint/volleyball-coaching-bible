@@ -32,10 +32,10 @@ Setter or coach-feeder at zone 2 delivering sets to zone 4. Cones on the opposit
 - Line swing: plant slightly inside, shoulder aligned to the sideline, body behind the ball. Angle is a cross-body swing with more torso rotation.
 - Contact out in front of the hitting shoulder; do not let the ball get behind the head.
 - Eyes scan the block at the plant; commit by the swing load.
-- Power comes from torque — torso rotation and hand height — whether line or cross.
+- Power comes from torque, torso rotation and hand height, whether line or cross.
 
 ## Variations
-- **Blind-front:** block shows its front only after the setter releases — hitter must truly read mid-approach.
+- **Blind-front:** block shows its front only after the setter releases, hitter must truly read mid-approach.
 - **Called-shot override:** coach calls line or angle regardless of block, to build each swing as a motor skill.
 - **Seam bonus:** add a high-seam target zone; 2 points for a seam shot.
 

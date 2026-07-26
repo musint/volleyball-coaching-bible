@@ -10,7 +10,7 @@ sources: [usav-2026-simplified-youth-rules, usav-2026-growing-kids-volleyball, u
 
 ## Purpose
 
-This rubric evaluates a 10-year-old volleyball player on the eight skill and disposition categories that drive promotion to [[11s]]. The criteria translate the [[10s]] age-guide's promotion criteria into a 1-5 observable scoring scale that multiple coaches can apply consistently across a 60-90-minute tryout session. Scores feed roster decisions, but at this age **placement is developmental, not competitive** — the rubric exists to identify where a player will best be coached next, not to sort starters from subs. Use alongside [[age-lens-14u]] when the 10s tryout is part of a unified club-wide event.
+This rubric evaluates a 10-year-old volleyball player on the eight skill and disposition categories that drive promotion to [[11s]]. The criteria translate the [[10s]] age-guide's promotion criteria into a 1-5 observable scoring scale that multiple coaches can apply consistently across a 60-90-minute tryout session. Scores feed roster decisions, but at this age **placement is developmental, not competitive**: the rubric exists to identify where a player will best be coached next, not to sort starters from subs. Use alongside [[age-lens-14u]] when the 10s tryout is part of a unified club-wide event.
 
 **Column 5 of every row is the next age's column-3 standard; it flags readiness, it is not install content for this age.** Every column-5 cell below restates the corresponding column-3 cell on [[tryout-rubric-11s]]. A 10s athlete scoring 5 is already at the on-track 11s baseline. Nothing in column 5 belongs in a 10s practice plan.
 
@@ -22,7 +22,7 @@ This rubric evaluates a 10-year-old volleyball player on the eight skill and dis
 
 Rows are skills; columns are scoring levels. Each cell describes what's observable at that score for that skill. Score in whole numbers only.
 
-| Skill | 1 — Does not demonstrate | 2 — Occasional | 3 — Consistent (age-appropriate) | 4 — Above age-appropriate | 5 — 11s-ready (= [[tryout-rubric-11s]] column 3) |
+| Skill | 1: Does not demonstrate | 2: Occasional | 3: Consistent (age-appropriate) | 4: Above age-appropriate | 5: 11s-ready (= [[tryout-rubric-11s]] column 3) |
 |-------|--------------------------|----------------|----------------------------------|---------------------------|--------------------------------|
 | **Passing** *(scored)* | No platform shape; catches with hands or flinches; arms cross or swing wildly. | Platform shape appears 1-3 of 10 reps on tossed ball; ball direction unpredictable. | 6 of 10 forearm passes from a stationary toss land within 5 feet of a target 10 ft away; thumbs together, knees bent on most reps. | 8 of 10 tossed-ball passes hit target zone; rebalances after misses; platform stays quiet (no swinging arms). | Recognizable platform on most contacts including off-center balls; shuffles toward the ball instead of reaching; thumbs together. |
 | **Setting** *(scored)* | Slaps, thumb-strikes, or finger-pokes; no triangle hand shape; ball goes sideways or into face. | Hand shape appears occasionally on catch-and-set; release inconsistent; ball peaks below head height. | Catches a tossed ball in canonical hand shape (triangle above forehead, thumbs not touching) on 7 of 10 attempts; re-releases so the ball peaks **10-15 feet above the floor** on 6 of 10. | 8+ of 10 catch-and-set reps with clean hand shape; ball peaks 10-15 ft above the floor on nearly every rep; feet square to target. | Catch-and-set with hand triangle and no thumb collision on most reps; distinguishes overhead-pass territory from forearm territory when asked. |
@@ -54,13 +54,13 @@ Score each player 1-5 on the **six scored rows**, and write a one-line note (no 
 
 ## Calibration notes
 
-**USAV growing-kids alignment.** This rubric honors the USAV ages 3-11 canon: the format is small-sided (2v2/3v3/4v4 stations rotated through across the tryout), every athlete touches the ball every rally, and **equal participation is the operating principle of the tryout itself** [usav-2026-simplified-youth-rules][usav-2026-growing-kids-volleyball]. No 6v6 station, no waiting-in-line drills, no penalty-heavy wash. Use **softer balls** (pink balls or Baden Softlights) for passing and serving stations [aoc-2024-kids-passing-fundamentals]. Use **catch-and-set** for the setting station, not live setting [aoc-2024-kids-setting-fundamentals]. Use **down-ball, no jump** for the hitting station [aoc-2024-kids-attacking-fundamentals]. Use **target-driven** ("aim small, miss small") prompts at the serving station — Hula-Hoops or cones, not just "over the net" [munciana-2022-camp-drills][aoc-2024-kids-serving-fundamentals].
+**USAV growing-kids alignment.** This rubric honors the USAV ages 3-11 canon: the format is small-sided (2v2/3v3/4v4 stations rotated through across the tryout), every athlete touches the ball every rally, and **equal participation is the operating principle of the tryout itself** [usav-2026-simplified-youth-rules][usav-2026-growing-kids-volleyball]. No 6v6 station, no waiting-in-line drills, no penalty-heavy wash. Use **softer balls** (pink balls or Baden Softlights) for passing and serving stations [aoc-2024-kids-passing-fundamentals]. Use **catch-and-set** for the setting station, not live setting [aoc-2024-kids-setting-fundamentals]. Use **down-ball, no jump** for the hitting station [aoc-2024-kids-attacking-fundamentals]. Use **target-driven** ("aim small, miss small") prompts at the serving station, with Hula-Hoops or cones as the named target [munciana-2022-camp-drills][aoc-2024-kids-serving-fundamentals].
 
-**Equal-playing-time spirit.** USAV is explicit that at this age "equal playing time is strongly encouraged, rather than having starters and subs" [usav-2026-simplified-youth-rules]. The rubric exists to **place players in developmentally appropriate cohorts**, not to triage starters. Communicate to parents in writing that the 10s tryout is a placement event, not a cut event — players who score below the promotion gate are placed in 10s again with a development plan, not removed from the program.
+**Equal-playing-time spirit.** USAV is explicit that at this age "equal playing time is strongly encouraged, rather than having starters and subs" [usav-2026-simplified-youth-rules]. The rubric exists to **place players in developmentally appropriate cohorts**, not to triage starters. Communicate to parents in writing that the 10s tryout is a placement event, not a cut event, players who score below the promotion gate are placed in 10s again with a development plan, not removed from the program.
 
-**Inter-rater agreement.** Run with at least two evaluators per station; compare scores after each rotation. Whole-number disagreements of 2+ in any cell signal a calibration problem — discuss the specific observable behavior, not the player. Common biases to watch: **size bias** (a tall 10s scoring high on hitting because she contacts higher, not because her swing is better), **reset bias** (a player who melts down once early scoring lower on mental than her overall session warrants), and **familiarity bias** (a returning player scoring higher on coachability because the evaluator already knows her name).
+**Inter-rater agreement.** Run with at least two evaluators per station; compare scores after each rotation. Whole-number disagreements of 2+ in any cell signal a calibration problem, discuss the specific observable behavior, not the player. Common biases to watch: **size bias** (a tall 10s scoring high on hitting because she contacts higher, not because her swing is better), **reset bias** (a player who melts down once early scoring lower on mental than her overall session warrants), and **familiarity bias** (a returning player scoring higher on coachability because the evaluator already knows her name).
 
-**Session structure.** A 60-90-minute 10s tryout runs as 6-8 stations of 7-10 minutes each, with movement-discovery games as transitions between stations [usav-2026-youth-volleyball-tips]. Score during the station, not after — recall fades and biases compound. **Catch them doing it right** — call out the observable behavior at the moment it appears, both for the player's confidence and to anchor the score in concrete evidence. There is **no blocking station and no transition station**: those two rows are observed incidentally during the small-sided games, which is exactly why they are not scored.
+**Session structure.** A 60-90-minute 10s tryout runs as 6-8 stations of 7-10 minutes each, with movement-discovery games as transitions between stations [usav-2026-youth-volleyball-tips]. Score during the station, not after, recall fades and biases compound. **Catch them doing it right**: call out the observable behavior at the moment it appears, both for the player's confidence and to anchor the score in concrete evidence. There is **no blocking station and no transition station**: those two rows are observed incidentally during the small-sided games, which is exactly why they are not scored.
 
 **Serving station setup.** Mark the line at **10 feet from the net** and a second line at **15 feet from the net**. Every athlete serves from the line she is currently on, and you record which one. Hoops or cones sit on the receiving side as named targets, and you score **where the ball landed**, not whether she appeared to aim. Intent is not observable; landing position is.
 
@@ -68,11 +68,11 @@ Score each player 1-5 on the **six scored rows**, and write a one-line note (no 
 
 ## Sources
 
-- [[usav-2026-simplified-youth-rules]] — USAV ages 3-11 canon; small-sided format; equal-playing-time
-- [[usav-2026-growing-kids-volleyball]] — USAV pair-based practice; cooperative net games
-- [[usav-2026-youth-volleyball-tips]] — Kessel youth-program ops; movement discovery; grills > drills
-- [[aoc-2024-kids-passing-fundamentals]] — Nelson AOC kids passing; softer-ball rationale
-- [[aoc-2024-kids-setting-fundamentals]] — Nelson AOC kids setting; catch-and-set protocol
-- [[aoc-2024-kids-attacking-fundamentals]] — Nelson AOC kids attacking; puppet → 2-step → 3-step
-- [[aoc-2024-kids-serving-fundamentals]] — Nelson AOC kids serving; static-floater introduction
-- [[munciana-2022-camp-drills]] — Lingenfelter aim-small-miss-small targeting philosophy
+- [[usav-2026-simplified-youth-rules]]: USAV ages 3-11 canon; small-sided format; equal-playing-time
+- [[usav-2026-growing-kids-volleyball]]: USAV pair-based practice; cooperative net games
+- [[usav-2026-youth-volleyball-tips]]: Kessel youth-program ops; movement discovery; grills > drills
+- [[aoc-2024-kids-passing-fundamentals]]: Nelson AOC kids passing; softer-ball rationale
+- [[aoc-2024-kids-setting-fundamentals]]: Nelson AOC kids setting; catch-and-set protocol
+- [[aoc-2024-kids-attacking-fundamentals]]: Nelson AOC kids attacking; puppet → 2-step → 3-step
+- [[aoc-2024-kids-serving-fundamentals]]: Nelson AOC kids serving; static-floater introduction
+- [[munciana-2022-camp-drills]]: Lingenfelter aim-small-miss-small targeting philosophy

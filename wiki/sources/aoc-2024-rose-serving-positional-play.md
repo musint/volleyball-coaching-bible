@@ -16,13 +16,13 @@ trust-tier: 2
 # Enhancing volleyball strategy: Serving and positional play
 
 ## Summary
-Russ Rose runs a training segment on targeting serves and positional play: train the libero to pinch toward the passer-hitter's zone to take deep left-back serves, and serve specific hitters (like a quick) to limit their offense. 15–20 min/practice on these scenarios.
+Russ Rose runs a training segment on targeting serves and positional play: train the libero to pinch toward the passer-hitter's zone to take deep left-back serves, and serve specific hitters (like a quick) to limit their offense. 15 to 20 min/practice on these scenarios.
 
 ## Key claims / ideas
 - Serving to the "passer-hitter" is a strategic target; libero can read serve and pinch toward left-back to cover
 - Libero's anticipatory movement lets her take serves targeting the passer-hitter, freeing the outside hitter to attack
 - Serving to the quick hitter limits their offensive tempo
-- Rose dedicates 15–20 minutes per practice to these scenarios
+- Rose dedicates 15 to 20 minutes per practice to these scenarios
 - Strategic serve choice is trainable
 
 ## Topics covered
@@ -37,5 +37,5 @@ Russ Rose runs a training segment on targeting serves and positional play: train
 ## Access
 - Raw file: [[aoc-2024-rose-serving-positional-play]]
 - URL: https://www.theartofcoachingvolleyball.com/enhancing-volleyball-strategy-serving-and-positional-play/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

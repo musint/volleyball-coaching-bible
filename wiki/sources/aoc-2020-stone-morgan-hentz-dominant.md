@@ -20,7 +20,7 @@ Jim Stone (Ohio State '82-'07, USA Youth National Team '08-'19) diagnoses four t
 ## Key claims / ideas
 
 - Elite defenders attack the defense before the attack happens rather than reacting after ball contact.
-- Hips and shoulders faced to the action enable redirects back to the middle of the court — a specific platform-angle principle, not a generic "face the ball" cue.
+- Hips and shoulders faced to the action enable redirects back to the middle of the court, a specific platform-angle principle, not a generic "face the ball" cue.
 - Coverage is expanded by having multiple movement patterns to reach the ball (not one textbook technique).
 - Athleticism + positive attitude + work ethic is the foundation; technique rides on top.
 

@@ -22,7 +22,7 @@ Munciana Volleyball Club's Mike Lingenfelter defines a canonical three-tempo sys
 - Tempo 3 (high ball to pins): three-step approach, left-foot plant after the ball has left the setter's hands.
 - Tempo 2: three-step approach, left-foot plant while the ball is in the setter's hands.
 - Tempo 1: three-step approach, middle is already in the air while the ball is in the setter's hands.
-- Training method: start at the net, pull off, then approach to hit a coach's toss — simulates in-game transition timing.
+- Training method: start at the net, pull off, then approach to hit a coach's toss, simulates in-game transition timing.
 - Self-set progression and passer-to-setter progression teach middles to calibrate tempo against different entry points.
 - Closing team drills: Pin to Pin, Repeat Recovery.
 
@@ -38,5 +38,5 @@ Munciana Volleyball Club's Mike Lingenfelter defines a canonical three-tempo sys
 ## Access
 - Raw file: [[aoc-2026-lingenfelter-middle-tempo]]
 - URL: https://www.theartofcoachingvolleyball.com/training-middle-attack-speed/
-- Trust tier: 2 — AOC (Munciana co-branded)
+- Trust tier: 2: AOC (Munciana co-branded)
 - Ingested via: aoc-mcp on 2026-04-23

@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Russ Rose: Bad servers – middle-back vs. right-back"
+title: "Russ Rose: Bad servers - middle-back vs. right-back"
 author: "Russ Rose"
 year: 2018
 citation-key: aoc-2018-rose-bad-servers
@@ -13,7 +13,7 @@ schools: [penn-state, art-of-coaching-volleyball]
 trust-tier: 2
 ---
 
-# Russ Rose: Bad servers – middle-back vs. right-back
+# Russ Rose: Bad servers, middle-back vs. right-back
 
 ## Summary
 Short video clip from the 2017 San Antonio Clinic in which Rose explains why weaker servers should serve from middle-back rather than right-back.
@@ -32,6 +32,6 @@ Short video clip from the 2017 San Antonio Clinic in which Rose explains why wea
 ## Access
 - Raw file: [[aoc-2018-rose-bad-servers]]
 - URL: https://www.theartofcoachingvolleyball.com/russ-rose-bad-servers-middle-back-vs-right-back/
-- Trust tier: 2 — AOC, Russ Rose
+- Trust tier: 2: AOC, Russ Rose
 - Ingested via: aoc-mcp on 2026-04-23
 - Note: Video-only page; text body minimal. Consider running aoc_video_transcript for full rationale.

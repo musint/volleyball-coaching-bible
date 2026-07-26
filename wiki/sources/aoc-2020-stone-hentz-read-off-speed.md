@@ -15,13 +15,13 @@ trust-tier: 2
 
 ## Summary
 
-Jim Stone walks through Hentz reading a back-row attacker who's about to tip (vs. hit), committing early to the middle of the court, and maintaining low balanced posture during the charge — even when a teammate ends up making the play.
+Jim Stone walks through Hentz reading a back-row attacker who's about to tip (vs. hit), committing early to the middle of the court, and maintaining low balanced posture during the charge, even when a teammate ends up making the play.
 
 ## Key claims / ideas
 
 - Elite defenders read attacker arm commitment (tip vs. hit) before contact and commit movement accordingly.
 - Charging low and balanced, ready to dig or yield, is correct even when the rep ends in a teammate's play.
-- Off-speed reads include: tip, miscontact, shove to corner — three distinct arm signatures.
+- Off-speed reads include: tip, miscontact, shove to corner, three distinct arm signatures.
 - Commitment without certainty: Hentz moves before she's 100% sure the teammate won't get there. Conservative defenders lose that rep.
 
 ## Topics covered

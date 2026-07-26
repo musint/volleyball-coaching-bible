@@ -16,7 +16,7 @@ trust-tier: 2
 # Blocking: Controlled transition drill
 
 ## Summary
-Jed Stotsenberg runs a full-court blocking drill where hits are scripted in order (outside-back-middle) so blockers can concentrate on timing and eyework — ball → setter → anticipate direction.
+Jed Stotsenberg runs a full-court blocking drill where hits are scripted in order (outside-back-middle) so blockers can concentrate on timing and eyework, ball → setter → anticipate direction.
 
 ## Key claims / ideas
 - Scripted attack sequence (outside, back, middle) lets blockers focus on eyework without full uncertainty.
@@ -35,5 +35,5 @@ Jed Stotsenberg runs a full-court blocking drill where hits are scripted in orde
 ## Access
 - Raw file: [[aoc-2022-stotsenberg-controlled-transition]]
 - URL: https://www.theartofcoachingvolleyball.com/blocking-controlled-transition-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

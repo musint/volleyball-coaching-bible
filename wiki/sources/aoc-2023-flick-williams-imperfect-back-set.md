@@ -23,7 +23,7 @@ Diane Flick-Williams (Western Washington) runs a small-group OOS setting drill: 
 - Technique cues: good body position, hands above the head, even follow-through.
 - Two acceptable back-set styles: squaring the body to target or setting off the net-side shoulder.
 - Drill structure: tosser (Zone 6) → setter (Zone 3) sets off net, chases, back sets to catcher (Zone 2).
-- Requires only 3+ players, balls, half court — a warm-up/small-group format.
+- Requires only 3+ players, balls, half court, a warm-up/small-group format.
 
 ## Topics covered
 - OOS back-setting mechanics
@@ -37,5 +37,5 @@ Diane Flick-Williams (Western Washington) runs a small-group OOS setting drill: 
 ## Access
 - Raw file: [[aoc-2023-flick-williams-imperfect-back-set]]
 - URL: https://www.theartofcoachingvolleyball.com/imperfect-pass-back-setting-drill/
-- Trust tier: 2 — AOC setter warmup drill
+- Trust tier: 2: AOC setter warmup drill
 - Ingested via: aoc-mcp on 2026-04-23

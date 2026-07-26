@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Catie Ratkowski (Divine Savior Holy Angels HS) argues every practice element must have a named purpose — long-term goal, short-term goal, opponent-specific tactic, or diagnosed skill gap — and team must be made aware of those goals (whiteboard, group text, locker-room post).
+Catie Ratkowski (Divine Savior Holy Angels HS) argues every practice element must have a named purpose, long-term goal, short-term goal, opponent-specific tactic, or diagnosed skill gap, and team must be made aware of those goals (whiteboard, group text, locker-room post).
 
 ## Key claims / ideas
 

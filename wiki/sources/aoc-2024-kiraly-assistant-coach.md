@@ -20,8 +20,8 @@ Video-backed, minimal text body. Kiraly's rule for head coaches: admit you don't
 
 ## Key claims / ideas
 - Admitting "you don't know everything" is a prerequisite for succeeding as a head coach.
-- "A carbon copy of you doesn't add anything to the equation" — hire for complementary, not duplicative, strengths.
-- Open, two-way dialogue with assistants is a success driver — actively seek their perspective.
+- "A carbon copy of you doesn't add anything to the equation", hire for complementary, not duplicative, strengths.
+- Open, two-way dialogue with assistants is a success driver, actively seek their perspective.
 - The same norm applies to players: "Make it safe in your program to not know all the answers."
 - Signal that collaboration is expected, not a sign of weakness.
 
@@ -37,5 +37,5 @@ Video-backed, minimal text body. Kiraly's rule for head coaches: admit you don't
 ## Access
 - Raw file: [[aoc-2024-kiraly-assistant-coach]]
 - URL: https://www.theartofcoachingvolleyball.com/karch-kiralys-2-minute-take-how-to-make-the-best-use-of-your-assistant-coach/
-- Trust tier: 2 — AOC, Karch Kiraly named author
+- Trust tier: 2: AOC, Karch Kiraly named author
 - Ingested via: aoc-mcp on 2026-04-23

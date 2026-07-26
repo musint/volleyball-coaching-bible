@@ -16,7 +16,7 @@ trust-tier: 2
 # 6-person tier drill in every rotation
 
 ## Summary
-Terry Liskevych's 6-person tier drill cycles a single team through all six rotations unopposed, demanding consecutive error-free serve-receive/free-ball/down-ball sequences before advancing — a consistency-per-rotation stress test.
+Terry Liskevych's 6-person tier drill cycles a single team through all six rotations unopposed, demanding consecutive error-free serve-receive/free-ball/down-ball sequences before advancing, a consistency-per-rotation stress test.
 
 ## Key claims / ideas
 - Team of 6 on one side only; no opposing side during drill.
@@ -37,5 +37,5 @@ Terry Liskevych's 6-person tier drill cycles a single team through all six rotat
 ## Access
 - Raw file: [[aoc-2024-liskevych-6-person-tier-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/107065-2/
-- Trust tier: 2 — AOC, Liskevych team-drill library
+- Trust tier: 2: AOC, Liskevych team-drill library
 - Ingested via: aoc-mcp on 2026-04-23

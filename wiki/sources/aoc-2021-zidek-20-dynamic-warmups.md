@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Marie Zidek — DePaul University coach, CSCS, master's in sports medicine — presents AOC's canonical 20-exercise dynamic warmup library. The prescription: a dynamic warmup should be 5-10 exercises, 5-10 minutes total. Include at least one exercise from each of three components — balance, core, dynamic stretch. The exercises rehearse volleyball movement patterns (shuffle, lunge, hip hinge, rotation, explosive plyo) rather than generic cardio. The article includes a printable PDF for gym use.
+Marie Zidek: DePaul University coach, CSCS, master's in sports medicine, presents AOC's canonical 20-exercise dynamic warmup library. The prescription: a dynamic warmup should be 5-10 exercises, 5-10 minutes total. Include at least one exercise from each of three components, balance, core, dynamic stretch. The exercises rehearse volleyball movement patterns (shuffle, lunge, hip hinge, rotation, explosive plyo) rather than generic cardio. The article includes a printable PDF for gym use.
 
 ## Key claims / ideas
 
@@ -37,7 +37,7 @@ Marie Zidek — DePaul University coach, CSCS, master's in sports medicine — p
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``warm-up`` hub, ``dynamic-warmup``, `[[physical]]` hub, ``injury-prevention``, and `[[marie-zidek]]` profile.
+Forward-reference, to be cited on ``warm-up`` hub, ``dynamic-warmup``, `[[physical]]` hub, ``injury-prevention``, and `[[marie-zidek]]` profile.
 
 ## Access
 

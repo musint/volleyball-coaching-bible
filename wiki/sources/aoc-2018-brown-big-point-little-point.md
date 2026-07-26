@@ -22,7 +22,7 @@ Debbie Brown's drill embeds asymmetric scoring that punishes consecutive failure
 - Teaches the cost of giving up two points in a row.
 - Asymmetric thresholds (3-in-row sideout vs. 2-in-row scored) give the serving team a strategic edge that mimics in-match pressure.
 - Rotate and swap sides after each big point so every rotation gets tested on both serve and receive.
-- Requires 12 players and a ball cart — full 6v6 format.
+- Requires 12 players and a ball cart, full 6v6 format.
 
 ## Topics covered
 - Streak-based competitive scoring
@@ -35,5 +35,5 @@ Debbie Brown's drill embeds asymmetric scoring that punishes consecutive failure
 ## Access
 - Raw file: [[aoc-2018-brown-big-point-little-point]]
 - URL: https://www.theartofcoachingvolleyball.com/big-point-little-point-serve-receive-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

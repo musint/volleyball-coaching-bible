@@ -16,7 +16,7 @@ trust-tier: 2
 # Determining the serve-receive formation that's right for your team
 
 ## Summary
-Mike Sealy (UCLA) walks through the formation taxonomy: two-passer, three-passer (traditional, sliver, show-and-take), four-passer (cup), and five-passer (W) — with tradeoffs and specific use cases for each.
+Mike Sealy (UCLA) walks through the formation taxonomy: two-passer, three-passer (traditional, sliver, show-and-take), four-passer (cup), and five-passer (W): with tradeoffs and specific use cases for each.
 
 ## Key claims / ideas
 - Two-passer: best two split the court; they cover a lot of space.
@@ -37,5 +37,5 @@ Mike Sealy (UCLA) walks through the formation taxonomy: two-passer, three-passer
 ## Access
 - Raw file: [[aoc-2018-sealy-determining-receive-formation]]
 - URL: https://www.theartofcoachingvolleyball.com/determining-the-serve-receive-formation-thats-right-for-your-team/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

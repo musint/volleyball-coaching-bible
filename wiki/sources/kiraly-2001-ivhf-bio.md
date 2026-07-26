@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Karch Kiraly — International Volleyball Hall of Fame Biography"
+title: "Karch Kiraly, International Volleyball Hall of Fame Biography"
 author: "International Volleyball Hall of Fame"
 year: 2001
 citation-key: kiraly-2001-ivhf-bio
@@ -13,7 +13,7 @@ schools: [usa-volleyball-cap, beach-volleyball]
 trust-tier: 1
 ---
 
-# Karch Kiraly — International Volleyball Hall of Fame Biography
+# Karch Kiraly: International Volleyball Hall of Fame Biography
 
 ## Summary
 
@@ -48,4 +48,4 @@ The page is strong on early-career detail (age 6 with his father; AAA rating at 
 ## Access
 - Raw file: `raw/articles/karch-ivhf-bio.md`
 - URL: https://www.volleyhall.org/karch-kiraly.html
-- Trust tier: 1 — the official International Volleyball Hall of Fame's bio page; primary source for his induction and career accolades.
+- Trust tier: 1, the official International Volleyball Hall of Fame's bio page; primary source for his induction and career accolades.

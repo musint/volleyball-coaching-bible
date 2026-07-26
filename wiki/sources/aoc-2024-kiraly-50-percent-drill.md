@@ -21,7 +21,7 @@ Kiraly's "50 percent" 6v6 drill: every player rotates through every position (ne
 ## Key claims / ideas
 - Attack cap at 50 percent speed forces tips, rolls, off-speed shots, and placement over power.
 - Rotation through every position exposes players to full-position awareness and a new setter each rotation.
-- Rallies run long; kill hunting is hard — prioritizes ball control and creative scoring.
+- Rallies run long; kill hunting is hard, prioritizes ball control and creative scoring.
 - Compressed scoring window (12-all → 15) keeps intensity up.
 
 ## Topics covered
@@ -36,5 +36,5 @@ Kiraly's "50 percent" 6v6 drill: every player rotates through every position (ne
 ## Access
 - Raw file: [[aoc-2024-kiraly-50-percent-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/karch-kiraly-50-percent-drill/
-- Trust tier: 2 — AOC, Kiraly named
+- Trust tier: 2: AOC, Kiraly named
 - Ingested via: aoc-mcp on 2026-04-23

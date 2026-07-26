@@ -21,9 +21,9 @@ Former Creighton head coach and LOVB executive Kirsten Bernthal Booth argues tha
 ## Key claims / ideas
 - At Creighton, pin hitters spent at least 50% of practice time training out-of-system situations.
 - When the libero is the secondary setter (high-level HS/club), sets should be delivered a little closer than four feet off the net for consistency.
-- Libero-setting accuracy is the limiting factor on out-of-system offense — requires its own dedicated reps.
+- Libero-setting accuracy is the limiting factor on out-of-system offense, requires its own dedicated reps.
 - Hitters must "get deep" after teammate digs to allow a full swing rather than a roll shot.
-- "Special teams" score kills from balls far out of system, not just from perfect passes.
+- "Special teams" score kills from balls far out of system as well as from perfect passes.
 
 ## Topics covered
 - Out-of-system training volume for pin hitters
@@ -37,5 +37,5 @@ Former Creighton head coach and LOVB executive Kirsten Bernthal Booth argues tha
 ## Access
 - Raw file: [[aoc-2026-booth-outside-out-of-system]]
 - URL: https://www.theartofcoachingvolleyball.com/training-outsides-out-of-system/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -18,7 +18,7 @@ variations: []
 # Heckle the Server
 
 ## Setup
-Server at the endline. Remaining team members positioned on the opposite side of the net or along the endline as hecklers — their role is to create controlled distraction (legal volleyball crowd noise: shouted serve calls, clapping, fake-out movement, verbal noise).
+Server at the endline. Remaining team members positioned on the opposite side of the net or along the endline as hecklers, their role is to create controlled distraction (legal volleyball crowd noise: shouted serve calls, clapping, fake-out movement, verbal noise).
 
 ## Execution
 1. Server gets a set of serves (typically 5-10) in a row.
@@ -28,14 +28,14 @@ Server at the endline. Remaining team members positioned on the opposite side of
 5. Track per-server hit rate; compare to a clean (non-heckled) baseline.
 
 ## Coaching points
-- Server's pre-serve routine has to be internal — eye focus on the toss contact point, not on the hecklers.
-- Toss has to remain identical — a rushed toss is the most common heckler-induced error.
+- Server's pre-serve routine has to be internal, eye focus on the toss contact point, not on the hecklers.
+- Toss has to remain identical, a rushed toss is the most common heckler-induced error.
 - Breathing cue: one exhale before contact; stops the cortisol spike from distraction.
-- Mental skill is trainable — servers improve their under-distraction hit rate over practice weeks if the drill is run regularly.
+- Mental skill is trainable, servers improve their under-distraction hit rate over practice weeks if the drill is run regularly.
 
 ## Variations
-- **Match-score pressure:** add a scoreboard — "down 22-24, must-have serve" — layered on heckling.
-- **Silent variant:** hecklers introduce visual distraction only (movement, gestures) without sound — tests visual-attention discipline.
+- **Match-score pressure:** add a scoreboard, "down 22-24, must-have serve", layered on heckling.
+- **Silent variant:** hecklers introduce visual distraction only (movement, gestures) without sound, tests visual-attention discipline.
 
 ## Adaptations by level
 - **14U:** light heckling only (light clapping, no verbal); focus on serve accuracy under mild distraction.

@@ -22,13 +22,13 @@ Run from the left side and the right side of the court. Tosser feeds two balls p
 
 ## Execution
 1. **Back-to-up phase:** passer plays the back ball first, then sprints forward and plays the up ball, then "busts to cover. We cover to the T's" **[00:07:02]**.
-2. **Out-to-in phase:** passer starts wide, plays the outside ball, then moves inside for the second ball — Mike: "she goes out, passes the in ball" **[00:07:17]**.
+2. **Out-to-in phase:** passer starts wide, plays the outside ball, then moves inside for the second ball: Mike: "she goes out, passes the in ball" **[00:07:17]**.
 3. Each passer gets two balls per rotation; each tosser throws two; each target catches two.
 4. 45 seconds per phase, then rotate. Mike: "we'll do this on all, every direction" **[00:07:22]**.
 
 ## Coaching points
 - The drill's value is rep volume in a small window: "we'll touch more balls in a five minute period than some people will pass in an hour" **[00:07:33]**.
-- Cover after every contact — covering "to the T's" trains the swing-cover habit even when no swing is happening.
+- Cover after every contact, covering "to the T's" trains the swing-cover habit even when no swing is happening.
 - Passer must reset between balls; the second ball is not a rescue, it is its own rep.
 
 ## Variations

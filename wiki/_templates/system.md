@@ -4,7 +4,7 @@ category: <category>                 # offense | defense | serve-receive | block
 name: <System Name>
 age-appropriateness: [<level>]
 complexity: <low|medium|high>
-when-to-use: "<1–2 sentences>"
+when-to-use: "<1 to 2 sentences>"
 alternatives: [<system-slug>]
 sources: [<citation-key>]
 ---
@@ -15,7 +15,7 @@ sources: [<citation-key>]
 <What this system is, when it's used.>
 
 ## Personnel requirements
-<Who you need — specialists, specific skills, setter profile, etc.>
+<Who you need, specialists, specific skills, setter profile, etc.>
 
 ## Diagram or text description of alignment
 <Court positions. ASCII or linked image in `raw/images/`.>

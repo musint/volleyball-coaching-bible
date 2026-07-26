@@ -35,5 +35,5 @@ Tod Mattox walks HS coaches through how to build offensive and defensive systems
 ## Access
 - Raw file: [[aoc-2019-mattox-hs-designing-systems]]
 - URL: https://www.theartofcoachingvolleyball.com/hs-systems/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

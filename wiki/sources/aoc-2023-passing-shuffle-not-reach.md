@@ -21,7 +21,7 @@ Ron Kordes (Assumption HS / KIVA VBC) argues that passers should shuffle to cent
 ## Key claims / ideas
 - Reaching with the arms to finish a pass is a common but suboptimal habit.
 - Shuffling to center the ball gives greater accuracy and control than reaching.
-- Drill: two tossers stand 10-15 feet apart; the passer shuffles back and forth between them, playing tosses in front — for reps or time.
+- Drill: two tossers stand 10-15 feet apart; the passer shuffles back and forth between them, playing tosses in front, for reps or time.
 
 ## Topics covered
 - Passing footwork (shuffling vs. reaching)
@@ -34,5 +34,5 @@ Ron Kordes (Assumption HS / KIVA VBC) argues that passers should shuffle to cent
 ## Access
 - Raw file: [[aoc-2023-passing-shuffle-not-reach]]
 - URL: https://www.theartofcoachingvolleyball.com/passing-movement-shuffling-instead-of-reaching/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

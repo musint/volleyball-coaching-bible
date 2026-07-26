@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Hirofumi Daimatsu — International Volleyball Hall of Fame"
+title: "Hirofumi Daimatsu, International Volleyball Hall of Fame"
 author: "International Volleyball Hall of Fame"
 year: 2000
 citation-key: daimatsu-2000-hall-of-fame
@@ -13,10 +13,10 @@ schools: [japanese-training]
 trust-tier: 1
 ---
 
-# Hirofumi Daimatsu — International Volleyball Hall of Fame
+# Hirofumi Daimatsu: International Volleyball Hall of Fame
 
 ## Summary
-Official enshrinement biography (Hall of Fame, inducted 2000) of Hirobumi (also romanized Hirofumi) Daimatsu, architect of Japan's 1964 Tokyo Olympic gold-medal women's volleyball team. Establishes the primary biographical dates (1921–1978), the Nichibo Kaizuka company-team origin, the adaptation of Japan's native 9-player game to international 6-player rules, and the codification of two technique innovations: the rolling dive and the "floating change-up" service. Records the 175 consecutive-win streak, 1960 Worlds silver, 1962 Worlds gold, and 1964 Olympic gold.
+Official enshrinement biography (Hall of Fame, inducted 2000) of Hirobumi (also romanized Hirofumi) Daimatsu, architect of Japan's 1964 Tokyo Olympic gold-medal women's volleyball team. Establishes the primary biographical dates (1921 to 1978), the Nichibo Kaizuka company-team origin, the adaptation of Japan's native 9-player game to international 6-player rules, and the codification of two technique innovations: the rolling dive and the "floating change-up" service. Records the 175 consecutive-win streak, 1960 Worlds silver, 1962 Worlds gold, and 1964 Olympic gold.
 
 Because it is an institutional record, it is the cleanest source for dates and titles; the tone is celebratory and does not engage the abuse-vs-tough-love historiography. Pair with the retrospective features for training-atmosphere detail.
 
@@ -39,4 +39,4 @@ Because it is an institutional record, it is the cleanest source for dates and t
 ## Access
 - Raw file: `raw/articles/daimatsu-volleyhall-biography.md`
 - URL: https://www.volleyhall.org/hirofumi-daimatsu.html
-- Trust tier: 1 — Hall of Fame institutional record, first-order biographical authority.
+- Trust tier: 1: Hall of Fame institutional record, first-order biographical authority.

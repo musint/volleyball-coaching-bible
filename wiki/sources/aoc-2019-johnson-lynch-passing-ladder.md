@@ -35,5 +35,5 @@ Christy Johnson-Lynch's passing ladder is a competitive passer-vs-server drill w
 ## Access
 - Raw file: [[aoc-2019-johnson-lynch-passing-ladder]]
 - URL: https://www.theartofcoachingvolleyball.com/the-passing-ladder/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

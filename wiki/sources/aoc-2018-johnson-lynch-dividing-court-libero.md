@@ -35,5 +35,5 @@ Christy Johnson-Lynch's libero-centric receive principle: when you have a strong
 ## Access
 - Raw file: [[aoc-2018-johnson-lynch-dividing-court-libero]]
 - URL: https://www.theartofcoachingvolleyball.com/serve-receive-dividing-up-the-court/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

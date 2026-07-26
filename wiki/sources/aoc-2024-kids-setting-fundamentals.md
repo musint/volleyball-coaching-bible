@@ -21,7 +21,7 @@ Ruth Nelson lays out a beginner-friendly framework for teaching setting to child
 ## Key claims / ideas
 - Setting can be introduced as early as age 5 using catch-and-set drills before moving to live setting.
 - Hand shape: triangle above the forehead, thumbs not touching; elbows slightly forward; feet shoulder-width with right foot forward; knees bent.
-- Power comes from leg extension plus follow-through, not just the hands.
+- Power comes from leg extension plus follow-through rather than the hands alone.
 - Young players who can't set 5-10 feet above the net should stay with underhand passing first.
 - Bad mechanics ingrained early are very hard to change later, so coaches must prioritize form over volume.
 
@@ -37,5 +37,5 @@ Ruth Nelson lays out a beginner-friendly framework for teaching setting to child
 ## Access
 - Raw file: [[aoc-2024-kids-setting-fundamentals]]
 - URL: https://www.theartofcoachingvolleyball.com/volleyball-training-for-kids-teaching-the-fundamentals-of-setting/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

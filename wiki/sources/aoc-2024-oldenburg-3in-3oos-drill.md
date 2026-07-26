@@ -21,7 +21,7 @@ Ohio State drill that alternates in-system (coach free-ball) and out-of-system (
 ## Key claims / ideas
 - Alternating in-system/OOS reps recreates match-like swings in rally quality.
 - Setup: 3 FR + 1 BR defenders vs. 6 offense; free-ball initiates IS; coach-bounce deep initiates OOS (two touches).
-- OOS settable-by-anyone is a team skill — not just the setter.
+- OOS settable-by-anyone is a team skill rather than a setter skill.
 - "Hitters take rips" → OOS setters must be BOLD with contact.
 - Target: 6 offensive points in a row.
 
@@ -37,6 +37,5 @@ Ohio State drill that alternates in-system (coach free-ball) and out-of-system (
 ## Access
 - Raw file: [[aoc-2024-oldenburg-3in-3oos-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/jen-flynn-oldenburgs-3-in-system-3-out-of-system-drill-2/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

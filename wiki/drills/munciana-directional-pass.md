@@ -22,16 +22,16 @@ A dot in the middle of the passing zone marks the target area. Passers cycle thr
 
 ## Execution
 1. Passer starts in one of six slots and the tosser delivers a ball above the antenna height.
-2. Passer reads, moves to the dot, plays a directional pass to target — and finishes by covering the swing.
-3. Mike's mantra: "they will pass and always finish cover" **[00:05:12]** — every rep ends in cover footwork, not standing.
+2. Passer reads, moves to the dot, plays a directional pass to target, and finishes by covering the swing.
+3. Mike's mantra: "they will pass and always finish cover" **[00:05:12]**: every rep ends in cover footwork, not standing.
 4. Run ~45 seconds per slot, then rotate to the next of the six positions.
 5. Mike alternates platform reps with hand reps: "we do that drill with platform and hands to mix it up" **[00:06:11]**.
 
 ## Coaching points
-- "Move hard. Go" **[00:05:32]** — closure footwork is non-negotiable.
-- "Forehead over the knee. Get your hands away from your hips" **[00:06:01]** — the posture cues.
-- "Say what you see. Say what you're going to do" **[00:05:59]** — verbal calls live with the contact.
-- The dot reframes the passer's job: arrive at a target, not just send the ball "somewhere."
+- "Move hard. Go" **[00:05:32]**: closure footwork is non-negotiable.
+- "Forehead over the knee. Get your hands away from your hips" **[00:06:01]**: the posture cues.
+- "Say what you see. Say what you're going to do" **[00:05:59]**: verbal calls live with the contact.
+- The dot reframes the passer's job: arrive at a target rather than send the ball "somewhere."
 
 ## Variations
 - Switch every 45 seconds through all six slots, or stay on a slot until a target rep count.

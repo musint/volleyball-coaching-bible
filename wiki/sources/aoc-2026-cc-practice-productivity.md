@@ -19,9 +19,9 @@ Coach Connection LIVE session with retired college coaching legends Ray Bechard 
 
 ## Key claims / ideas
 
-- Efficient practice flow comes from planning transitions between drills, not just picking good drills.
+- Efficient practice flow comes from planning transitions between drills, beyond picking good drills.
 - Consequences for errors and focus issues should be structured (not emotional) and paired with behavior change.
-- Warmups are programmable — they should rehearse movement and energy you want in the game.
+- Warmups are programmable, they should rehearse movement and energy you want in the game.
 - Allocation of time between starters and non-starters is a design choice, not a consequence of who shows up.
 - Goals set by players must be tied to habit changes or they produce no outcomes.
 - Young team with wide skill range or only-an-hour teams need specific drill selection, not compressed versions of a full practice.

@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-John Dunning (Stanford '01-'16) argues every drill, practice, and conversation should be framed — stating purpose explicitly — to prevent practices where players do not know why they are doing what they are doing.
+John Dunning (Stanford '01-'16) argues every drill, practice, and conversation should be framed, stating purpose explicitly, to prevent practices where players do not know why they are doing what they are doing.
 
 ## Key claims / ideas
 

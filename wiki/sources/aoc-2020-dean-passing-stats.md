@@ -21,7 +21,7 @@ Brennan Dean (Wave Volleyball) explains the standard 3-point pass rating: 3 = pe
 ## Key claims / ideas
 - Passing stats enable data-informed lineup and starter decisions
 - Standard 3-point scale: 3 perfect / 2 mediocre / 1 emergency / 0 unplayable (ace)
-- "1" means the 2nd and 3rd contacts will be emergency plays — poor but playable
+- "1" means the 2nd and 3rd contacts will be emergency plays, poor but playable
 - Over time, each player's average passing number measures efficiency
 - Passing average drives playing time decisions
 
@@ -37,5 +37,5 @@ Brennan Dean (Wave Volleyball) explains the standard 3-point pass rating: 3 = pe
 ## Access
 - Raw file: [[aoc-2020-dean-passing-stats]]
 - URL: https://www.theartofcoachingvolleyball.com/passing-stats/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

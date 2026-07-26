@@ -16,7 +16,7 @@ trust-tier: 1
 # Karch Kiraly: Serving placement strategies
 
 ## Summary
-A short tactical piece from The Art of Coaching Volleyball in which Kiraly lays out the three serving approaches he emphasizes with the USA Women's National Team. It is the most compact public articulation of his serve-plan thinking: who to target, where to place the ball, and — most distinctively — why depth variation outperforms side-to-side placement at the perceptual level.
+A short tactical piece from The Art of Coaching Volleyball in which Kiraly lays out the three serving approaches he emphasizes with the USA Women's National Team. It is the most compact public articulation of his serve-plan thinking: who to target, where to place the ball, and, most distinctively, why depth variation outperforms side-to-side placement at the perceptual level.
 
 The source is particularly valuable because it contains a direct, attributable Kiraly quote on the perceptual asymmetry of passing: "If I'm a passer, I can identify (a serve moving) left and right a lot quicker than I can identify depth." That claim is the rare public statement where Kiraly grounds a tactical choice in how the brain reads ball motion, and it gives wiki pages on serve strategy and passer preparation a clean primary citation.
 
@@ -41,4 +41,4 @@ The source is particularly valuable because it contains a direct, attributable K
 ## Access
 - Raw file: `raw/articles/karch-2024-serving-placement-strategies.md`
 - URL: https://www.theartofcoachingvolleyball.com/karch-kiraly-serving-placement-strategies/
-- Trust tier: 1 — Kiraly is the bylined source on The Art of Coaching Volleyball; quote attribution is explicit; tactical content is original to Kiraly's system.
+- Trust tier: 1: Kiraly is the bylined source on The Art of Coaching Volleyball; quote attribution is explicit; tactical content is original to Kiraly's system.

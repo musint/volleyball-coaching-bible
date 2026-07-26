@@ -36,5 +36,5 @@ Kiraly and Luka Slabe discuss how to squeeze more out of every practice minute: 
 ## Access
 - Raw file: [[aoc-2024-kiraly-training-efficiently]]
 - URL: https://www.theartofcoachingvolleyball.com/training-more-efficiently/
-- Trust tier: 2 — AOC, Kiraly named
+- Trust tier: 2: AOC, Kiraly named
 - Ingested via: aoc-mcp on 2026-04-23

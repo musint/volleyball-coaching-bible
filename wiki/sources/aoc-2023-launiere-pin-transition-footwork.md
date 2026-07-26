@@ -22,7 +22,7 @@ Utah head coach Beth Launiere matches pin-hitter retreat-and-approach patterns t
 - Time-rich scenario: four-step retreat after block + four-step attack approach.
 - Time-poor scenario (fast return): three-step retreat + three-step approach.
 - Retreat-speed trick: land the block with one foot open so the hitter can begin retreating immediately without a pivot.
-- The pin hitter reads the opposing dig to select the footwork pattern — not a fixed default.
+- The pin hitter reads the opposing dig to select the footwork pattern, not a fixed default.
 
 ## Topics covered
 - Variable-depth transition footwork
@@ -36,5 +36,5 @@ Utah head coach Beth Launiere matches pin-hitter retreat-and-approach patterns t
 ## Access
 - Raw file: [[aoc-2023-launiere-pin-transition-footwork]]
 - URL: https://www.theartofcoachingvolleyball.com/pin-hitter-transition-footwork/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

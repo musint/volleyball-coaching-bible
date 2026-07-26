@@ -16,7 +16,7 @@ trust-tier: 2
 # Hugh McCutcheon: Keys to better blocking
 
 ## Summary
-McCutcheon shares fundamental keys to better blocking, prefaced by the observation that blocking is the skill least correlated with winning — meaning coaches should allocate more practice time to serve, pass, and sideout work.
+McCutcheon shares fundamental keys to better blocking, prefaced by the observation that blocking is the skill least correlated with winning, meaning coaches should allocate more practice time to serve, pass, and sideout work.
 
 ## Key claims / ideas
 - Blocking is the skill least correlated with winning; prioritize serving, passing, and sideout in practice.
@@ -39,5 +39,5 @@ McCutcheon shares fundamental keys to better blocking, prefaced by the observati
 ## Access
 - Raw file: [[aoc-2015-mccutcheon-blocking-keys]]
 - URL: https://www.theartofcoachingvolleyball.com/hugh-mccutcheon-keys-to-better-blocking/
-- Trust tier: 2 — AOC, named author
+- Trust tier: 2: AOC, named author
 - Ingested via: aoc-mcp on 2026-04-23

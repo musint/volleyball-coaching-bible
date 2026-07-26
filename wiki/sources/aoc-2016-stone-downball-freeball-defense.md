@@ -22,7 +22,7 @@ Jim Stone chalk-talk defining down ball vs. free ball, prescribing defensive sha
 - Down ball and free ball are distinct situations demanding distinct defensive shapes.
 - Setter has specific free-ball responsibilities that differ from hard-driven responses.
 - Blockers have different roles on a down ball than on a hard attack.
-- Reading the attacker's body orientation predicts ball destination — awareness is the key defensive skill.
+- Reading the attacker's body orientation predicts ball destination, awareness is the key defensive skill.
 
 ## Topics covered
 - Down-ball vs. free-ball distinction
@@ -36,5 +36,5 @@ Jim Stone chalk-talk defining down ball vs. free ball, prescribing defensive sha
 ## Access
 - Raw file: [[aoc-2016-stone-downball-freeball-defense]]
 - URL: https://www.theartofcoachingvolleyball.com/down-ball-and-free-ball-defense-jim-stone-chalk-talk/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

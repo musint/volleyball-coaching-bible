@@ -29,7 +29,7 @@ Wikipedia biographical and results reference for the Italy women's national voll
 - Italy women's Mediterranean Games record is extensive: eight golds (1979, 1983, 1991, 1997, 2001, 2009, 2013, 2022).
 - 2025 squad core identified as: Alessia Orro, Paola Egonu, Myriam Sylla, Miriam Fahr, Anna Danesi, Monica De Gennaro, plus rising contributors Stella Nervini, Ekaterina Antropova, Loveth Omoruyi, Gaia Giovannini.
 - The competitive succession Velasco → Mazzanti → Velasco inside the women's program is a data point for how the Italian federation weaponizes its legacy coach bench.
-- 2019 European Championship bronze under Mazzanti is the program's only medal on home European cycles during the Mazzanti era (2018 silver, 2019 bronze, 2021 gold, 2022 bronze at Worlds) — a compressed peak of four consecutive top-three major finishes.
+- 2019 European Championship bronze under Mazzanti is the program's only medal on home European cycles during the Mazzanti era (2018 silver, 2019 bronze, 2021 gold, 2022 bronze at Worlds): a compressed peak of four consecutive top-three major finishes.
 
 ## Topics covered
 
@@ -47,5 +47,5 @@ Wikipedia biographical and results reference for the Italy women's national voll
 
 - Raw file: `raw/articles/italy-women-nt-wikipedia.md`
 - URL: https://en.wikipedia.org/wiki/Italy_women%27s_national_volleyball_team
-- Trust tier: 2 — Wikipedia, reliable for structured results, titles, squad lists. Methodological characterizations (why Mazzanti's offense clicked in 2018, how Velasco repositioned Egonu in 2024) should be corroborated via clinics, interviews, or federation press material before citing as methodology.
+- Trust tier: 2: Wikipedia, reliable for structured results, titles, squad lists. Methodological characterizations (why Mazzanti's offense clicked in 2018, how Velasco repositioned Egonu in 2024) should be corroborated via clinics, interviews, or federation press material before citing as methodology.
 - Ingested via: webfetch on 2026-04-23

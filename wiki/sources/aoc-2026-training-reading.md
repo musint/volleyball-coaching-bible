@@ -22,7 +22,7 @@ Ben Josephson and Gina Schmidt argue reading is not a standalone skill but a thr
 - Vision and eye movement often matter more than textbook technique once the ball is live.
 - Reading the server starts the chain: pass → setter options → hitter timing → defender/blocker decisions.
 - Coaches develop readers by asking targeted questions and having players verbalize what they see.
-- Pattern recognition — the "instinct" experienced coaches rely on — is teachable.
+- Pattern recognition, the "instinct" experienced coaches rely on, is teachable.
 
 ## Topics covered
 - Reading as an embedded, system-wide skill
@@ -36,5 +36,5 @@ Ben Josephson and Gina Schmidt argue reading is not a standalone skill but a thr
 ## Access
 - Raw file: [[aoc-2026-training-reading]]
 - URL: https://www.theartofcoachingvolleyball.com/training-players-to-read/
-- Trust tier: 2 — AOC, systems/strategy
+- Trust tier: 2: AOC, systems/strategy
 - Ingested via: aoc-mcp on 2026-04-23

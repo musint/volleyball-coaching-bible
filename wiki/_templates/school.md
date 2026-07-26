@@ -12,10 +12,10 @@ sources: [<citation-key>]            # ≥1 required
 # <School Name>
 
 ## Overview
-<2–3 paragraphs introducing the school: what it is, what problem it addresses, era.>
+<2 to 3 paragraphs introducing the school: what it is, what problem it addresses, era.>
 
 ## Core principles
-<Bulleted list of 4–8 principles, each with `[citation-key]`.>
+<Bulleted list of 4 to 8 principles, each with `[citation-key]`.>
 
 ## Methodology
 <How this school translates principles into practice design, drills, season planning.>
@@ -30,4 +30,4 @@ sources: [<citation-key>]            # ≥1 required
 <Fair criticisms raised in the literature. Attribute.>
 
 ## Sources
-- [[<citation-key-1>]] — <title>
+- [[<citation-key-1>]]: <title>

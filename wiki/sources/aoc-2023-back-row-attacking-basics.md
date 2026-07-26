@@ -16,10 +16,10 @@ trust-tier: 2
 # Back row attacking basics
 
 ## Summary
-Mark Barnard (Oregon State HC 2005-2022) explains the core principle that makes back-row attacking work — the setter leads the hitter with the set so the hitter is forced to attack aggressively, jumping from behind the 10-foot line and landing in the front row — and shares a minimal drill to get hitters comfortable with the technique.
+Mark Barnard (Oregon State HC 2005-2022) explains the core principle that makes back-row attacking work, the setter leads the hitter with the set so the hitter is forced to attack aggressively, jumping from behind the 10-foot line and landing in the front row, and shares a minimal drill to get hitters comfortable with the technique.
 
 ## Key claims / ideas
-- For back-row attacks to be effective, the setter must lead the hitter with the set — this forces aggressive attacks and correct takeoff/landing geometry (takeoff behind 10-foot line, landing in front row).
+- For back-row attacks to be effective, the setter must lead the hitter with the set, this forces aggressive attacks and correct takeoff/landing geometry (takeoff behind 10-foot line, landing in front row).
 - Back-row attacking drill:
   - Setup: setter at the net; single-file line of hitters in Zone 6; tosser off to the side.
   - Execution: tosser lobs the ball to the setter; setter sets the ball in front of the 10-foot line; attacker jumps from behind the 10-foot line, hits the ball, lands in the front row.
@@ -36,5 +36,5 @@ Mark Barnard (Oregon State HC 2005-2022) explains the core principle that makes 
 ## Access
 - Raw file: [[aoc-2023-back-row-attacking-basics]]
 - URL: https://www.theartofcoachingvolleyball.com/back-row-attacking-basics/
-- Trust tier: 2 — AOC Premium, named coach (Barnard, Oregon State HC)
+- Trust tier: 2: AOC Premium, named coach (Barnard, Oregon State HC)
 - Ingested via: aoc-mcp on 2026-04-23

@@ -19,8 +19,8 @@ trust-tier: 2
 Kerry MacDonald (Volleyball Canada, formerly UBC Men's) frames armswing power as a product of torso torque and high hand position, with a partner throw-then-hit warm-up designed to protect the lower back and shoulders.
 
 ## Key claims / ideas
-- Force generation comes primarily from torque — torso rotation with a strong core and hips driving through.
-- Hand height is the second key factor — keep the hand high at contact.
+- Force generation comes primarily from torque, torso rotation with a strong core and hips driving through.
+- Hand height is the second key factor, keep the hand high at contact.
 - Strong mechanics protect the lower back and shoulders.
 - Warm-up progression: partners throw the ball across the net using the attacking arm, then progress to hitting and snapping the ball as if attacking.
 - Minimum requirements: two players, one ball, full court.
@@ -37,5 +37,5 @@ Kerry MacDonald (Volleyball Canada, formerly UBC Men's) frames armswing power as
 ## Access
 - Raw file: [[aoc-2024-attack-arm-mechanics]]
 - URL: https://www.theartofcoachingvolleyball.com/attacking-arm-mechanics-importance-of-torque-and-arm-height/
-- Trust tier: 2 — AOC, fundamentals article
+- Trust tier: 2: AOC, fundamentals article
 - Ingested via: aoc-mcp on 2026-04-23

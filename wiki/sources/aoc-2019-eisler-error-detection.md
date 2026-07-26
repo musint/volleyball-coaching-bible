@@ -15,7 +15,7 @@ trust-tier: 2
 
 ## Summary
 
-Laurie Eisler (University of Alberta) frames error correction around a diagnostic question — is the error physical, psychological, technical, or tactical? — before any fix is applied.
+Laurie Eisler (University of Alberta) frames error correction around a diagnostic question, is the error physical, psychological, technical, or tactical?, before any fix is applied.
 
 ## Key claims / ideas
 

@@ -16,11 +16,11 @@ trust-tier: 2
 # Hybrid systems: 6-3 in the 4-2 style
 
 ## Summary
-Tod Mattox (The Bishop's School) presents a 6-3 hybrid run in 4-2 style as a developmental system for young, athletic, inexperienced teams. Three strongest athletes are "triangulated" and rotate through hitter + setter duties — accelerating multi-skill growth while keeping a front-row setter always available.
+Tod Mattox (The Bishop's School) presents a 6-3 hybrid run in 4-2 style as a developmental system for young, athletic, inexperienced teams. Three strongest athletes are "triangulated" and rotate through hitter + setter duties, accelerating multi-skill growth while keeping a front-row setter always available.
 
 ## Key claims / ideas
 - Target: young teams with inexperienced but athletic players.
-- Triangulate 3 strongest players — they hit in LF, set in MF and RF.
+- Triangulate 3 strongest players, they hit in LF, set in MF and RF.
 - Remaining 3 players fill the gaps in the triangle.
 - Each triangulated player cycles through hit and set assignments across rotations.
 - Variation: triangulated players hit in LF and MF, set in RF and RB.
@@ -38,5 +38,5 @@ Tod Mattox (The Bishop's School) presents a 6-3 hybrid run in 4-2 style as a dev
 ## Access
 - Raw file: [[aoc-2022-mattox-hybrid-6-3-4-2-style]]
 - URL: https://www.theartofcoachingvolleyball.com/hybrid-systems-6-3-in-4-2-style/
-- Trust tier: 2 — AOC, Mattox systems article
+- Trust tier: 2: AOC, Mattox systems article
 - Ingested via: aoc-mcp on 2026-04-23

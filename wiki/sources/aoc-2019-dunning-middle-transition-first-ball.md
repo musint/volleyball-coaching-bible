@@ -36,5 +36,5 @@ John Dunning's 6v6 progression for middle transition hitting. Start easy (middle
 ## Access
 - Raw file: [[aoc-2019-dunning-middle-transition-first-ball]]
 - URL: https://www.theartofcoachingvolleyball.com/middle-transition-drill-hitting-the-first-ball/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

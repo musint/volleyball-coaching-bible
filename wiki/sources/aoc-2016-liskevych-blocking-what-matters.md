@@ -19,7 +19,7 @@ trust-tier: 2
 Liskevych's top-priority blocking cues: hands above all else, balanced and loaded body position, penetration over reach. He is skeptical of swing blocking as the "flavor of the month" vs. traditional footwork.
 
 ## Key claims / ideas
-- Hands are the primary teaching point in blocking — block with hands, not arms.
+- Hands are the primary teaching point in blocking, block with hands, not arms.
 - Balanced, loaded stance enables net penetration.
 - Body position sets up the hands; without balance the hands can't work.
 - Swing blocking is overhyped; traditional technique is durable.
@@ -36,5 +36,5 @@ Liskevych's top-priority blocking cues: hands above all else, balanced and loade
 ## Access
 - Raw file: [[aoc-2016-liskevych-blocking-what-matters]]
 - URL: https://www.theartofcoachingvolleyball.com/terry-liskevych-what-matters-most-when-training-blocking/
-- Trust tier: 2 — AOC, Liskevych
+- Trust tier: 2: AOC, Liskevych
 - Ingested via: aoc-mcp on 2026-04-23

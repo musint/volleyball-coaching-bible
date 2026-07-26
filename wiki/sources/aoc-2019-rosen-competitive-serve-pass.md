@@ -24,7 +24,7 @@ Mark Rosen (Michigan) mirrors a real-game rule in practice: servers who force a 
 - If pass is perfect/near-perfect, that server is done
 - If pass is inaccurate or unplayable, that server gets another serve (earns point)
 - After all servers cycle, tally server team's combined points
-- Flip roles, run again — high point total wins the drill
+- Flip roles, run again, high point total wins the drill
 - Requires 8+ players, full court
 
 ## Topics covered
@@ -39,5 +39,5 @@ Mark Rosen (Michigan) mirrors a real-game rule in practice: servers who force a 
 ## Access
 - Raw file: [[aoc-2019-rosen-competitive-serve-pass]]
 - URL: https://www.theartofcoachingvolleyball.com/making-your-serve-pass-drills-competitive/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

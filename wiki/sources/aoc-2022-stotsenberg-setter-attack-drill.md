@@ -19,12 +19,12 @@ trust-tier: 2
 Jed Stotsenberg drills the setter attack: when the setter jumps to swing, she hits angle (cross-court or wrist-away line), not straight ahead into the waiting blocker. Right-hand setter must turn hips back toward the net to generate torque and a quick swing. Use it "in your quiver," don't overuse.
 
 ## Key claims / ideas
-- When the setter attacks, hit angle — cross-court or wrist-away line — not straight ahead.
+- When the setter attacks, hit angle, cross-court or wrist-away line, not straight ahead.
 - Blocker is directly in front of a jumping setter; straight-ahead = dead ball.
 - Right-handed setter facing Zone 4 must turn hips back toward net quickly for power.
 - "It's gotta be a quick swing."
-- Don't overuse the setter attack — sparse use is what makes it a threat.
-- Drill: line on right + tosser in middle with cart; tosser slap cues approach; "Don't wait" — simulate in-motion setter.
+- Don't overuse the setter attack, sparse use is what makes it a threat.
+- Drill: line on right + tosser in middle with cart; tosser slap cues approach; "Don't wait", simulate in-motion setter.
 
 ## Topics covered
 - Setter attack shot selection (angle > line > straight)
@@ -37,6 +37,5 @@ Jed Stotsenberg drills the setter attack: when the setter jumps to swing, she hi
 ## Access
 - Raw file: [[aoc-2022-stotsenberg-setter-attack-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/setter-attack-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

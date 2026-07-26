@@ -22,7 +22,7 @@ Rose articulates a program-level rule: his team never sends a free ball over the
 - "No free balls" is a non-negotiable program rule for Rose.
 - Nearly every free ball sent over the net costs the receiving team the point.
 - Exceptions may exist, but the rule should be treated as absolute.
-- Framed as a Managing a Program / Coaching Philosophy / Competitiveness issue, not just tactics.
+- Framed as a Managing a Program / Coaching Philosophy / Competitiveness issue rather than a tactical one.
 
 ## Topics covered
 - Offensive decision-making under pressure (never free-ball)
@@ -35,6 +35,6 @@ Rose articulates a program-level rule: his team never sends a free ball over the
 ## Access
 - Raw file: [[aoc-2026-rose-no-free-balls]]
 - URL: https://www.theartofcoachingvolleyball.com/russs-rule-no-free-balls/
-- Trust tier: 2 — AOC, Russ Rose
+- Trust tier: 2: AOC, Russ Rose
 - Ingested via: aoc-mcp on 2026-04-23
 - Note: Clip drawn from 2018 Portland Clinic; post date 2026-01-21.

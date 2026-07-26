@@ -22,7 +22,7 @@ Full 6v6 on a regulation court. **Everybody must end inside the 10-foot line on 
 
 ## Execution
 1. Coach hits or tosses a ball into one side.
-2. The receiving team plays it out — pass, set, hit.
+2. The receiving team plays it out, pass, set, hit.
 3. **The team that just hit must, in coverage, get all six players in front of the 10-foot line.**
 4. The team that doesn't get there last loses the rally.
 5. **[00:58:07]** "It's not a make-it-take game. It's whoever gets everybody back in front of the 10."
@@ -32,7 +32,7 @@ Full 6v6 on a regulation court. **Everybody must end inside the 10-foot line on 
 ## Coaching points
 - This is an **out-of-system game** with a coverage-quality scoring rule, not a kill-quality scoring rule. It rewards the team that plays defense even after they swing.
 - Mike's diagnostic: if the cover team is the **last** team back to coverage, they didn't cover. **[00:58:50]** "It's one way to figure out whether you're covering or not."
-- Communicate during pursuit — calls of "I got it" / "out" / "back" matter when six players are converging.
+- Communicate during pursuit, calls of "I got it" / "out" / "back" matter when six players are converging.
 - Hitters can't watch their own swing. The cover responsibility means turning toward your own block before the ball lands.
 
 ## Variations

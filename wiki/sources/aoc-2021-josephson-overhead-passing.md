@@ -34,6 +34,5 @@ Ben Josephson (Texas associate head coach, former men's coach) argues overhead p
 ## Access
 - Raw file: [[aoc-2021-josephson-overhead-passing]]
 - URL: https://www.theartofcoachingvolleyball.com/overhead-passing-strategies/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

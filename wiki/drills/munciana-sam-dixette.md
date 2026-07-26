@@ -22,16 +22,16 @@ Five players on the receiving side: **no middle**, one left front, one right fro
 
 ## Execution
 1. Coach hits a ball into the court.
-2. The five players dig, set, and cover out — three back-row touches, one front-row set, one cover.
+2. The five players dig, set, and cover out, three back-row touches, one front-row set, one cover.
 3. **[00:42:11]** "It's about coverage and knowing what to do. We'll dig the ball, set the ball, cover out."
-4. Mike's first rep is **catch-only** — players catch the ball at the position they would dig so they learn where to be before they have to dig live.
+4. Mike's first rep is **catch-only**: players catch the ball at the position they would dig so they learn where to be before they have to dig live.
 5. Switch the next group on after a defined block (typically 60-90 seconds).
 6. **Tip-and-cover variant**: players catch the tip and toss it; same five-position movement, just with a tip instead of a hit.
 
 ## Coaching points
 - Without a middle, the left front and right front are doing more coverage than usual. Watch them. **[00:42:43]** "My left front and right front are who I'm watching right now to make sure they're actually moving."
 - Cover hard, every rep. Mike repeats "cover hard" five times in 30 seconds during the demo.
-- The drill is a **movement skill drill** before it is a defense drill — the diagnostic is not "did they dig the ball?" but "did they get to the right spot before the ball came?"
+- The drill is a **movement skill drill** before it is a defense drill, the diagnostic is not "did they dig the ball?" but "did they get to the right spot before the ball came?"
 - Drop-off is the cue: after the cover, players drop off the net cleanly into next-ball defense.
 
 ## Variations

@@ -41,5 +41,5 @@ Beth Launiere (Utah '90-'25) walks coaches through the decision framework before
 ## Access
 - Raw file: [[aoc-2022-launiere-incorporating-back-row]]
 - URL: https://www.theartofcoachingvolleyball.com/incorporating-the-back-row-attack-into-your-offense/
-- Trust tier: 2 — AOC, 35-year Utah head coach
+- Trust tier: 2: AOC, 35-year Utah head coach
 - Ingested via: aoc-mcp on 2026-04-23

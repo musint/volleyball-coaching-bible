@@ -37,5 +37,5 @@ John Dunning's five-point checklist for advanced passing: read before the serve 
 ## Access
 - Raw file: [[aoc-2019-dunning-technical-passing-advanced]]
 - URL: https://www.theartofcoachingvolleyball.com/technical-passing-for-advanced-players/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

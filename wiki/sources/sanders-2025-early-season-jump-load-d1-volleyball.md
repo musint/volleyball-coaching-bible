@@ -15,19 +15,19 @@ schools: []
 trust-tier: 1
 ---
 
-# Sanders et al. (2025) — Early-season jump load and neuromuscular performance in NCAA D-I volleyball
+# Sanders et al. (2025): Early-season jump load and neuromuscular performance in NCAA D-I volleyball
 
 ## Summary
 
-Peer-reviewed primary research published in *Translational Sports Medicine* tracking 9 NCAA D-I female volleyball players across 17 sessions during the first 22 days of competition (the early-season "shock phase"). Combines VERT 3 inertial measurement unit (IMU) jump tracking with Hawkin Dynamics dual force plates (1000 Hz) for daily countermovement-jump (CMJ) force, velocity, and power metrics. **134 total observations.** Key finding: **high-intensity jumps (Jumps 50+) drive next-day fatigue more than total jump count** — 9 of 14 force metrics correlated negatively with high-intensity jump counts (r = −0.194 to −0.570). Athletes show a mechanical-drift pattern: force decreases while velocity increases (9 of 16 velocity / power metrics positively correlated with Jumps 50+) — same jump height with reduced force, increased velocity — a measurable signal of accumulated fatigue. Bottom line: **jump-count caps should be intensity-weighted, not raw-volume**, and **front-row players accumulate more high-intensity jumps than back-row** so position-specific thresholds are warranted.
+Peer-reviewed primary research published in *Translational Sports Medicine* tracking 9 NCAA D-I female volleyball players across 17 sessions during the first 22 days of competition (the early-season "shock phase"). Combines VERT 3 inertial measurement unit (IMU) jump tracking with Hawkin Dynamics dual force plates (1000 Hz) for daily countermovement-jump (CMJ) force, velocity, and power metrics. **134 total observations.** Key finding: **high-intensity jumps (Jumps 50+) drive next-day fatigue more than total jump count**: 9 of 14 force metrics correlated negatively with high-intensity jump counts (r = −0.194 to −0.570). Athletes show a mechanical-drift pattern: force decreases while velocity increases (9 of 16 velocity / power metrics positively correlated with Jumps 50+): same jump height with reduced force, increased velocity, a measurable signal of accumulated fatigue. Bottom line: **jump-count caps should be intensity-weighted, not raw-volume**, and **front-row players accumulate more high-intensity jumps than back-row** so position-specific thresholds are warranted.
 
 ## Key claims / ideas
 
-- High-intensity jumps (Jumps 50+) drive fatigue more strongly than total-jump volume — intensity is the better predictor.
+- High-intensity jumps (Jumps 50+) drive fatigue more strongly than total-jump volume, intensity is the better predictor.
 - Force-plate CMJ detects mechanical-drift fatigue (force ↓, velocity ↑) before performance decline shows up.
-- Early-season "shock phase" (first 2–3 weeks of competition) is a load-management red zone — not just in-season.
+- Early-season "shock phase" (first 2 to 3 weeks of competition) is a load-management red zone in addition to the in-season period.
 - IMU + force-plate stack (VERT 3 + Hawkin Dynamics) is now achievable for collegiate / strong-club programs.
-- Front-row players (OH, MB, opposite) accumulate more high-intensity jumps than DS / liberos — differentiated thresholds warranted.
+- Front-row players (OH, MB, opposite) accumulate more high-intensity jumps than DS / liberos, differentiated thresholds warranted.
 - Total-jump count alone is a weaker signal than intensity-weighted count for daily fatigue programming.
 
 ## Topics covered
@@ -42,15 +42,15 @@ Peer-reviewed primary research published in *Translational Sports Medicine* trac
 
 ## Where it's cited
 
-- [[practice-ratios]] — early-season load-spike caveat on ratio ramps
-- [[16s]] / [[17s]] / [[18s]] — athletic-profile jump-load management guidance
-- [[hs-pre-match-week]] — weekly jump-load intensity distribution
-- [[college-fall-14-week-macrocycle]] — camp / shock-phase load management
+- [[practice-ratios]]: early-season load-spike caveat on ratio ramps
+- [[16s]] / [[17s]] / [[18s]]: athletic-profile jump-load management guidance
+- [[hs-pre-match-week]]: weekly jump-load intensity distribution
+- [[college-fall-14-week-macrocycle]]: camp / shock-phase load management
 
 ## Access
 
 - Raw file: `raw/research/sanders-2025-early-season-jump-load-d1-volleyball.md`
 - Full text (PMC): https://pmc.ncbi.nlm.nih.gov/articles/PMC11991867/
 - DOI: 10.1155/tsm2/7216781
-- Trust tier: **1** — peer-reviewed primary research.
+- Trust tier: **1**: peer-reviewed primary research.
 - Ingested: 2026-04-24

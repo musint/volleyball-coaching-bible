@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: book
-title: "Doug Beal — Coaching Writings (Composite: Spike! 1985 + AVCA Anthology Chapter + Coaching Tips for the 90's)"
+title: "Doug Beal, Coaching Writings (Composite: Spike! 1985 + AVCA Anthology Chapter + Coaching Tips for the 90's)"
 author: "Doug Beal"
 year: 1985
 citation-key: notes-beal-coaching-writings
@@ -13,7 +13,7 @@ schools: [usa-volleyball, gold-medal-squared]
 trust-tier: 1
 ---
 
-# Doug Beal — Coaching Writings (Composite Notes Source)
+# Doug Beal: Coaching Writings (Composite Notes Source)
 
 ## Summary
 
@@ -25,13 +25,13 @@ who produced a 1996 technical treatise (*Championship Volleyball*), Beal's publi
 coaching corpus is distributed across multiple shorter outputs: *Spike!* (1985), his
 autobiographical-and-program book on the 1984 Olympic cycle; a Part 2 Chapter 4
 contribution to *The Volleyball Coaching Bible* (Vol. 1, 2002, AVCA / Human Kinetics)
-titled "Seeking Excellence in a Program — Going for the Gold"; and a contribution
+titled "Seeking Excellence in a Program: Going for the Gold"; and a contribution
 to *Volleyball: The Keys to Excellence / Coaching Tips for the 90's* (2nd ed., 1991,
 Sports Support Syndicate). This composite source page consolidates the three
 under one citation key.
 
 The corpus's organizing theme is **program-level excellence as a coaching
-discipline** — the structural, system-level, and personnel decisions that produce
+discipline**: the structural, system-level, and personnel decisions that produce
 sustained world-class results, not the drill-library or technique-progression
 material more typical of standalone coaching manuals. *Spike!* in particular is the
 post-Olympic narrative that documents the 1978 Dayton training-center founding,
@@ -45,7 +45,7 @@ team's modern era ([[usa-volleyball]]), and the structural history that connects
 the 1984 program to the [[gold-medal-squared]] founding (1985, with co-founders
 Marv Dunphy and Carl McGown). Per SCHEMA §8.4, all material is fair-use synthesis
 from publisher previews, third-party reviews, biographical encyclopedias, and
-on-the-record interview material — no book body text is reproduced.
+on-the-record interview material, no book body text is reproduced.
 
 ## Key claims / ideas
 
@@ -74,7 +74,7 @@ on-the-record interview material — no book body text is reproduced.
   to their limits... A coach needs to be respected, to have authority." This is
   a documented contrast with the more facilitator-style coaching language his
   successors (McCutcheon's behavior framework, Kiraly's "give players freedom")
-  have favored — present both, attribute, do not resolve.
+  have favored, present both, attribute, do not resolve.
 
 - **Modern volleyball has lost national style.** Per the same Lebedew interview,
   Beal believes the contemporary international game has homogenized to a single
@@ -84,7 +84,7 @@ on-the-record interview material — no book body text is reproduced.
 
 - **Soviet-coach mentorship in the late 1970s.** Per the *Spike!* review, Beal
   credits Soviet head coach Yuri Chesnokov with instructing him on necessary
-  improvements during the late-1970s rebuild — one of the few documented
+  improvements during the late-1970s rebuild, one of the few documented
   cross-cultural coaching-mentor relationships in the modern American men's-side
   record.
 
@@ -116,7 +116,7 @@ on-the-record interview material — no book body text is reproduced.
 - Yuri Chesnokov mentorship
 - 32 pages of action photos as historical record
 
-### *The Volleyball Coaching Bible* Vol. 1, Part 2 Ch. 4: "Seeking Excellence in a Program — Going for the Gold" (2002)
+### *The Volleyball Coaching Bible* Vol. 1, Part 2 Ch. 4: "Seeking Excellence in a Program: Going for the Gold" (2002)
 - Program-level excellence as a coaching discipline
 - Forward-looking program design rather than 1984 retrospective
 - Anthology context: 24 expert contributors, AVCA-edited, Human Kinetics published
@@ -139,9 +139,9 @@ on-the-record interview material — no book body text is reproduced.
 *(populated as wiki pages cite this source)*
 
 Anticipated citations:
-- [[doug-beal]] — primary coach profile, methodology + contribution sections
-- [[usa-volleyball]] — institutional history of the men's NT modern era
-- [[gold-medal-squared]] — 1985 founding context (Beal as one of three founders)
+- [[doug-beal]]: primary coach profile, methodology + contribution sections
+- [[usa-volleyball]]: institutional history of the men's NT modern era
+- [[gold-medal-squared]]: 1985 founding context (Beal as one of three founders)
 
 ## Access
 
@@ -151,10 +151,10 @@ Anticipated citations:
   - *Spike!* review (coachingvb.com): https://coachingvb.com/book-review-spike-by-doug-beal/
   - Mark Lebedew on Beal: https://marklebedew.com/2014/10/19/doug-beal-the-man-who-reinvented-volleyball/
 - **Bibliographic anchors:**
-  - *Spike!* — Avant Books / Slawson Communications, 1985, ISBN 0932238300, ~155 pages, with Marc Katz
-  - *The Volleyball Coaching Bible* Vol. 1 — Human Kinetics / AVCA, 2002, ISBN 0736039678; Beal Part 2 Ch. 4 "Seeking Excellence in a Program—Going for the Gold"
-  - *Volleyball: The Keys to Excellence / Coaching Tips for the 90's* — Sports Support Syndicate, 2nd ed. February 1991, ISBN 1878602365
-- **Trust tier:** 1 — primary published material from the subject coach (sole author or named contributor); fair-use notes only, no book body text reproduced.
+  - *Spike!*: Avant Books / Slawson Communications, 1985, ISBN 0932238300, ~155 pages, with Marc Katz
+  - *The Volleyball Coaching Bible* Vol. 1: Human Kinetics / AVCA, 2002, ISBN 0736039678; Beal Part 2 Ch. 4 "Seeking Excellence in a Program, Going for the Gold"
+  - *Volleyball: The Keys to Excellence / Coaching Tips for the 90's*: Sports Support Syndicate, 2nd ed. February 1991, ISBN 1878602365
+- **Trust tier:** 1, primary published material from the subject coach (sole author or named contributor); fair-use notes only, no book body text reproduced.
 - **Status note:** The Task B.9 brief stated "Doug Beal passed in 2024." Wikipedia
   records no death date as of the 2026-04-24 fetch, and no obituary surfaces in
   Web search. **No claim of death is made on this source page.** If a future

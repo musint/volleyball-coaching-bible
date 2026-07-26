@@ -16,10 +16,10 @@ trust-tier: 2
 # Strategic principles in serve receive
 
 ## Summary
-Pete Hanson (Ohio State men's) discusses organizing serve receive and covering gaps against high-velocity serves — a preview lesson from AOC's Men's Head Coach Certification with coverage-gap logic that applies to men's and women's game alike.
+Pete Hanson (Ohio State men's) discusses organizing serve receive and covering gaps against high-velocity serves, a preview lesson from AOC's Men's Head Coach Certification with coverage-gap logic that applies to men's and women's game alike.
 
 ## Key claims / ideas
-- Serve-receive organization must account for velocity — coverage shrinks when the server is fast.
+- Serve-receive organization must account for velocity, coverage shrinks when the server is fast.
 - Cover the gaps that appear when passers close in against high-velocity serves.
 - Passing organization depends on opposing server's location (a theme echoed in the cert program).
 - High-velocity men's serves stress-test receive patterns more than women's, making men's-game adaptations useful for both.
@@ -35,5 +35,5 @@ Pete Hanson (Ohio State men's) discusses organizing serve receive and covering g
 ## Access
 - Raw file: [[aoc-2019-hanson-strategic-receive-principles]]
 - URL: https://www.theartofcoachingvolleyball.com/strategic-principles-in-serve-receive/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

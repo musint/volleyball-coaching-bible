@@ -32,6 +32,5 @@ In a 5-1 with two middles operating at different tempos, Mattox advocates adjust
 ## Access
 - Raw file: [[aoc-2022-mattox-different-tempo-middles]]
 - URL: https://www.theartofcoachingvolleyball.com/different-tempo-middles/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

@@ -26,12 +26,12 @@ sources:
 
 ## Overview
 Reading is the perceptual skill that decides where and when the blocker
-moves. It is not pre-jump decoration — it is the primary input that drives
-footwork, hand position, and jump timing. A blocker who can't read shows up
+moves. It is the primary input that drives footwork, hand position, and jump
+timing. A blocker who can't read shows up
 at the right spot by luck; one who can read is on time to every set they
 ought to reach and declines the ones they shouldn't. This page covers the
-individual reading skill at the block (the system-level scheme — bunch read
-vs. dedicated read — belongs on system pages).
+individual reading skill at the block (the system-level scheme, bunch read
+vs. dedicated read, belongs on system pages).
 
 ## Teaching progressions
 **Eye-progression pattern.**
@@ -40,17 +40,17 @@ vs. dedicated read — belongs on system pages).
    ball → setter → ball → hitter (Kiraly's "B-S-B-H"). The blocker sees the
    pass, picks up the setter's body, sees the set leave the hands, then
    tracks the hitter. Walk athletes through the pattern in a stationary
-   stance first — no footwork, just eyes.
+   stance first, no footwork, just eyes.
 2. **Setter keys.** What to look for on the setter: body position (off the
    net means back-set likely; on the net, front-set more likely), hand
    position and angle, hip orientation, and release tempo. At younger
-   levels, setter location on a bad pass is the single best predictor —
+   levels, setter location on a bad pass is the single best predictor, 
    and AOC's team-defense material notes that at 14U the ball predictably
    goes left when the setter is off the net.
 3. **Hitter keys.** By the time the set is up, the blocker is on the hitter:
    approach angle, shoulder turn, arm swing, hand position at contact.
    Josephson's "look, see, decide" framework breaks this into teachable
-   pieces — look at the hand, hips, and shoulders; see what that says about
+   pieces, look at the hand, hips, and shoulders; see what that says about
    the shot; decide to block line or cross.
 
 **Tempo and commitment.**
@@ -58,17 +58,16 @@ vs. dedicated read — belongs on system pages).
 4. **Slow-to-fast drill progression.** Start with coach-controlled tempo
    (slow setters, predictable offenses), then add setter variability, then
    add attacker variability. GMS frames this as "start with predetermined
-   sets" — we are setting left — and layer variability in gradually.
+   sets", we are setting left, and layer variability in gradually.
 5. **Commit-versus-read for the middle.** Teach the middle-blocker decision
    explicitly. Commit = move on the setter's release (used against fast
    1-sets and on the opponent's best hitter); read = wait for the ball out
    of the setter's hands and react. A middle that always commits gets baited;
    one that always reads gets beaten on quick sets.
-6. **Integrate eyes with feet.** The hardest part is not knowing where to
-   look but timing the feet to what the eyes see. Rep the eye-progression
-   in parallel with the footwork progression on [[blocking-footwork]] so
-   they develop together — not as two isolated skills that later have to be
-   merged.
+6. **Integrate eyes with feet.** The hardest part is timing the feet to what
+   the eyes see. Rep the eye-progression in parallel with the footwork
+   progression on [[blocking-footwork]] so they develop together instead of
+   as two isolated skills that later have to be merged.
 
 **Patterned reads.**
 
@@ -86,7 +85,7 @@ vs. dedicated read — belongs on system pages).
    pinched in to help the middle with seam sets, the read skill shifts: the
    pin blocker now reads *whether the set is their set* before releasing to
    the pin. This is more demanding than reading on a dedicated-pin alignment
-   and is why bunch-read is generally a college-level scheme — the reading
+   and is why bunch-read is generally a college-level scheme, the reading
    skill has to be in place first.
 
 ## Common errors
@@ -98,14 +97,14 @@ vs. dedicated read — belongs on system pages).
   and gets baited on any deception. Fix: commit-versus-read teaching;
   distinguish explicit commit calls from genuine read play.
 - **Late commit.** Blocker reads correctly but takes too long to decide, so
-  the feet arrive late. Fix: separate "what to see" from "when to decide" —
+  the feet arrive late. Fix: separate "what to see" from "when to decide", 
   the decision happens at the ball leaving the setter, not later.
 - **Watching the wrong cue.** Beginner blockers watch the hitter's face;
   advanced reads track the hand, hips, and shoulders. Fix: specify the cue
   ("watch the hand, then the hips") rather than leaving it open.
 - **Reading one phase and skipping the next.** A blocker who reads the
   setter beautifully but then loses the hitter at contact gets tooled.
-  Fix: B-S-B-H is four handoffs, not two — the eyes return to the ball
+  Fix: B-S-B-H is four handoffs, not two, the eyes return to the ball
   between the setter and hitter so contact-timing stays accurate.
 - **No read bank.** Blocker treats every rally as a new puzzle because
   no one's told them the patterns (teams set left off bad passes, middles
@@ -122,26 +121,26 @@ as a distinct teachable skill. Kiraly's framing is that reading is a part
 of every skill, trained through the three questions "what do I see? what
 do I know? how do I respond?" and anchored on the B-S-B-H eye-progression.
 Dunning and Josephson on AOC carry the same theme: reading is frequently
-under-trained despite being a game-changer; it can be compartmentalized
+under-trained relative to how much it decides; it can be compartmentalized
 (look / see / decide) and drilled; the coach develops readers by asking
 questions and having players verbalize what they see. McCutcheon on AOC
 adds the pragmatic layer: middles need freedom to read and block
 independently rather than always closing mechanically.
 
 **Gold Medal Squared** frames reading inside a motor-learning vocabulary.
-The eyework sequence is explicit — setter first, transition to hitter by
-jump time — but the training method is random and variable practice so the
+The eyework sequence is explicit, setter first, transition to hitter by
+jump time, but the training method is random and variable practice so the
 pattern recognition transfers to live play. The GMS blocking guide
 progresses from predetermined sets to variable sets and speeds, with the
-underlying claim that reading is less about coach-taught eye-targets and
-more about reps against realistic, unpredictable cues. The contextual-
+underlying claim that reading develops mainly through reps against realistic,
+unpredictable cues rather than through coach-taught eye-targets. The contextual-
 interference evidence base (Shea & Morgan 1979 onward) is the research
 anchor.
 
 **Ecological dynamics** reframes the problem further. In the ED view
 the blocker doesn't read in the sense of collecting and processing
-discrete cues; they directly perceive affordances — the set's "hit-ability"
-here, the attacker's "line-shot-ability" there — from the coupled
+discrete cues; they directly perceive affordances, the set's "hit-ability"
+here, the attacker's "line-shot-ability" there, from the coupled
 information in the environment. The training implication is strong:
 preserve representative task constraints in practice (Pinder et al. 2011),
 because cue-detection learned on isolated drills (coach-toss, predictable
@@ -155,9 +154,8 @@ teaching spine.
 followed consistently. The AOC sequence is the easiest to teach explicitly
 and gives coaches concrete cues to talk about. GMS and ED are more honest
 about how transfer to live play actually happens but leave the coach with
-less to say in a huddle. Most programs in practice blend them — explicit
-eye-work teaching + high-variability rep environment — which is the
-pragmatic modern default.
+less to say in a huddle. Most programs in practice blend them: explicit
+eye-work teaching plus a high-variability rep environment.
 
 ## Related drills
 *(drill pages pending in Wave 4)*

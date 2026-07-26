@@ -37,5 +37,5 @@ Australian Volleyroos coach Mark Barnard's 6v6 hitting drill forces both teams' 
 ## Access
 - Raw file: [[aoc-2023-barnard-left-vs-left]]
 - URL: https://www.theartofcoachingvolleyball.com/head-to-head-drill-left-vs-left/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -18,8 +18,8 @@ trust-tier: 2
 ## Summary
 USA Volleyball's January 2017 remembrance of Carl McGown documents the career
 of one of the most internationally-experienced U.S. volleyball coaches of the
-20th century: seven consecutive Olympic Games (1984–2008) and seven
-consecutive FIVB World Championships (1974–2002) as a member of U.S. staff,
+20th century: seven consecutive Olympic Games (1984 to 2008) and seven
+consecutive FIVB World Championships (1974 to 2002) as a member of U.S. staff,
 three Olympic gold medals (1984, 1988, 2008) earned while he was on staff,
 and two NCAA men's championships at BYU (1999, 2001).
 
@@ -31,8 +31,8 @@ article is a primary biographical source for dates, honors, and relationships
 in the GMS lineage.
 
 ## Key claims / ideas
-- McGown attended seven consecutive Olympics (1984–2008) and seven consecutive
-  FIVB World Championships (1974–2002) as a U.S. staff member.
+- McGown attended seven consecutive Olympics (1984 to 2008) and seven consecutive
+  FIVB World Championships (1974 to 2002) as a U.S. staff member.
 - Led BYU to NCAA men's titles in 1999 and 2001; AVCA Coach of the Year in
   both seasons; 225-137 record in 13 years as BYU head coach.
 - AVCA Hall of Fame 2011; James E. Coleman National Team Award 2014.
@@ -51,6 +51,6 @@ in the GMS lineage.
 ## Access
 - Raw file: `raw/articles/mcgown-usav-remembering.md`
 - URL: https://usavolleyball.org/story/a-wonderful-volleyball-coach-remembering-carl-mcgown/
-- Trust tier: 2 — USA Volleyball editorial obituary; authored by named USAV
+- Trust tier: 2: USA Volleyball editorial obituary; authored by named USAV
   staff (B.J. Hoeptner Evans) with direct quotes from named coaches. Not
   peer-reviewed but authoritative within the sport's governing body.

@@ -13,7 +13,7 @@ schools: [illinois-volleyball, minnesota-volleyball]
 trust-tier: 2
 ---
 
-# Mike Hebert: A Coach Who Mattered — Art of Coaching Volleyball (2019)
+# Mike Hebert: A Coach Who Mattered: Art of Coaching Volleyball (2019)
 
 ## Summary
 Art of Coaching Volleyball tribute piece published around Hebert's October 2019 death. It compiles testimonials from Karch Kiraly, Lindsey Berg, Doug Beal, and Jim Stone, positioning Hebert as a peer-level mentor whose influence traveled through individual coaching relationships rather than through a branded school. Useful Tier 2 corroboration for the claim that Hebert's profession-wide influence was relational and philosophical rather than methodological in the GMS/AOC sense.
@@ -35,4 +35,4 @@ Art of Coaching Volleyball tribute piece published around Hebert's October 2019 
 ## Access
 - Raw file: `raw/articles/aoc-2019-hebert-a-coach-who-mattered.md`
 - URL: https://www.theartofcoachingvolleyball.com/mike-hebert-a-coach-who-mattered/
-- Trust tier: 2 — AOC-branded tribute article aggregating named primary testimonials
+- Trust tier: 2: AOC-branded tribute article aggregating named primary testimonials

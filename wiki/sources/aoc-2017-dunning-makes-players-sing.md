@@ -16,7 +16,7 @@ trust-tier: 2
 # Why players sing in John Dunning's practices
 
 ## Summary
-Dunning uses a light-touch "punishment" — making the team pick a song and sing together — when they miss a task (e.g., rounding up balls too slowly). It creates an upbeat gym atmosphere and keeps practice fun.
+Dunning uses a light-touch "punishment", making the team pick a song and sing together, when they miss a task (e.g., rounding up balls too slowly). It creates an upbeat gym atmosphere and keeps practice fun.
 
 ## Key claims / ideas
 - Penalties in practice don't have to be harsh; a fun "punishment" (like singing) can build atmosphere.
@@ -34,5 +34,5 @@ Dunning uses a light-touch "punishment" — making the team pick a song and sing
 ## Access
 - Raw file: [[aoc-2017-dunning-makes-players-sing]]
 - URL: https://www.theartofcoachingvolleyball.com/john-dunning-makes-players-sing/
-- Trust tier: 2 — AOC, named author
+- Trust tier: 2: AOC, named author
 - Ingested via: aoc-mcp on 2026-04-23

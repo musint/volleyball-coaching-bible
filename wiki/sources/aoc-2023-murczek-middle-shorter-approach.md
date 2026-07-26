@@ -16,7 +16,7 @@ trust-tier: 2
 # Middle hitter training: Shorter approaches can produce better results
 
 ## Summary
-Ken Murczek (Emporia State) argues middles should use no more than three steps — often two — because a shorter approach accelerates slow-to-fast, closes to the ball quickly, and keeps the hitter far enough off the net for a full armswing.
+Ken Murczek (Emporia State) argues middles should use no more than three steps, often two, because a shorter approach accelerates slow-to-fast, closes to the ball quickly, and keeps the hitter far enough off the net for a full armswing.
 
 ## Key claims / ideas
 - No more than three steps for a middle's approach.
@@ -38,5 +38,5 @@ Ken Murczek (Emporia State) argues middles should use no more than three steps �
 ## Access
 - Raw file: [[aoc-2023-murczek-middle-shorter-approach]]
 - URL: https://www.theartofcoachingvolleyball.com/middle-hitter-training-shorter-approaches-can-produce-better-results/
-- Trust tier: 2 — AOC, D2 head coach video
+- Trust tier: 2: AOC, D2 head coach video
 - Ingested via: aoc-mcp on 2026-04-23

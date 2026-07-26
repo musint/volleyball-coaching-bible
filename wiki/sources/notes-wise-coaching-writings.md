@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: book
-title: "Mary Wise — Coaching Writings & Public Material (composite)"
+title: "Mary Wise, Coaching Writings & Public Material (composite)"
 author: "Mary Wise"
 year: 1998
 citation-key: notes-wise-coaching-writings
@@ -13,7 +13,7 @@ schools: [florida]
 trust-tier: 1
 ---
 
-# Mary Wise — Coaching Writings & Public Material (composite)
+# Mary Wise: Coaching Writings & Public Material (composite)
 
 ## Summary
 
@@ -27,7 +27,7 @@ Florida Gators retirement coverage. Wise has not published a memoir; the
 de facto written corpus.
 
 Wise retired Feb 6, 2025 after 34 seasons at Florida (987-150, .868;
-conference 522-57, .902) — the **highest winning percentage in Division I
+conference 522-57, .902): the **highest winning percentage in Division I
 women's volleyball coaching history among coaches with 1,000+ matches**, and
 the longest active NCAA Tournament appearance streak in D-I women's
 volleyball at her retirement (34 consecutive).
@@ -37,9 +37,9 @@ volleyball at her retirement (34 consecutive).
 - **"The answers are always in relationships."** Wise's most-quoted line and
   the organizing principle of the Florida program.
 - **"Help every player find and hone their superpower."** Differentiation,
-  not uniformity — the Florida recruiting and development model treats every
+  not uniformity, the Florida recruiting and development model treats every
   roster spot as a unique developmental project.
-- **"It's your team — what do you expect?"** Shared-ownership mantra used to
+- **"It's your team, what do you expect?"** Shared-ownership mantra used to
   push players into co-authorship of program standards.
 - **Family meetings, not team meetings.** Continuity beyond graduation;
   Florida alumnae return at unusually high rates compared to peer programs.
@@ -74,13 +74,13 @@ volleyball at her retirement (34 consecutive).
 - Raw file: `raw/books/notes-wise-coaching-writings.md`
 - *Volleyball Drills for Champions* (1998, Human Kinetics, ISBN
   9780880117784): Amazon, Google Books preview, Better World Books listing.
-- *Volleyball Coaching Bible* Vol 1 (2002) Chapter 13 — covered by paired
+- *Volleyball Coaching Bible* Vol 1 (2002) Chapter 13, covered by paired
   source page `notes-liskevych-2002-volleyball-coaching-bible-v1`.
-- Florida Gators retirement coverage — public web (URLs: floridagators.com
+- Florida Gators retirement coverage, public web (URLs: floridagators.com
   Feb 6 + Feb 7, 2025).
-- *Foundations for Successful Volleyball* (1999) instructional video — not
+- *Foundations for Successful Volleyball* (1999) instructional video, not
   currently in raw/.
-- Trust tier: 1 — Wise is the primary subject and an editor/author across
+- Trust tier: 1: Wise is the primary subject and an editor/author across
   the published items. Note: the retirement-coverage quotes are corroborated
   by the *Character and Leadership* leadership-profile source already in the
   wiki (`wise-2023-characterandleadership-profile`).

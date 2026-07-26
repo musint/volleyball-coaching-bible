@@ -16,14 +16,14 @@ trust-tier: 2
 # The left arm's role in training a more powerful swing
 
 ## Summary
-Mark Barnard (Oregon State, 2005–2022) reframes arm-swing coaching around the often-overlooked non-hitting arm, arguing the left arm must be as active as the right for maximum power.
+Mark Barnard (Oregon State, 2005 to 2022) reframes arm-swing coaching around the often-overlooked non-hitting arm, arguing the left arm must be as active as the right for maximum power.
 
 ## Key claims / ideas
 - Coaches overfocus on the hitting arm; the non-hitting (left) arm is equally important.
 - Approach-phase role: the left arm drives the jump and initiates body rotation.
 - Setter-visual role: the left arm forms a visible target for set placement.
 - Contact-phase role: the left arm helps the hitter turn and accelerate into the ball.
-- Implication: teach bilateral arm mechanics, not just the hitting arm.
+- Implication: teach bilateral arm mechanics rather than the hitting arm alone.
 
 ## Topics covered
 - Non-hitting arm mechanics
@@ -37,5 +37,5 @@ Mark Barnard (Oregon State, 2005–2022) reframes arm-swing coaching around the 
 ## Access
 - Raw file: [[aoc-2026-barnard-left-arm-power-swing]]
 - URL: https://www.theartofcoachingvolleyball.com/the-left-arms-role-in-training-a-more-powerful-swing/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

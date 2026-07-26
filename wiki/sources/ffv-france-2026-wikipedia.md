@@ -46,5 +46,5 @@ French-Wikipedia reference for the **Fédération Française de Volley (FFVolley
 
 - Raw file: `raw/articles/ffv-france-wikipedia.md`
 - URL: https://fr.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_fran%C3%A7aise_de_volley
-- Trust tier: 2 — Wikipedia (French-language source).
+- Trust tier: 2: Wikipedia (French-language source).
 - Ingested via: webfetch on 2026-04-25

@@ -35,5 +35,5 @@ Jim Stone explains how serve geometry creates different passing problems (straig
 ## Access
 - Raw file: [[aoc-2019-stone-biomech-serving-passing-stats]]
 - URL: https://www.theartofcoachingvolleyball.com/biomechanical-analysis-of-serving-and-passing-using-stats/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

@@ -20,10 +20,10 @@ SMU associate head coach Sam Erger describes an end-to-end setter development mo
 
 ## Key claims / ideas
 - Setter influence on the court justifies disproportionate training investment at every level.
-- Efficiency and consistent reps matter more than volume without intent — make every rep count.
+- Efficiency and consistent reps matter more than volume without intent, make every rep count.
 - Tempo training, entry patterns, and middle-attack precision are trainable through structured progressions.
 - Out-of-system decision-making should be rehearsed, not improvised in matches.
-- Setters should be developed to be athletic, smart, and adaptable — not just accurate hands.
+- Setters should be developed to be athletic, smart, and adaptable, beyond accurate hands.
 
 ## Topics covered
 - Setter training program structure (fundamentals through live play)
@@ -38,6 +38,5 @@ SMU associate head coach Sam Erger describes an end-to-end setter development mo
 ## Access
 - Raw file: [[aoc-2025-erger-smu-setter-training]]
 - URL: https://www.theartofcoachingvolleyball.com/smus-comprehensive-setter-training/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

@@ -16,10 +16,10 @@ trust-tier: 2
 # Dig, set, cover drill variations
 
 ## Summary
-Earlier (January 2019) version of Debbie Brown's dig-set-cover drill — functionally identical to the March 2019 variant captured as aoc-2019-brown-dig-set-cover-v2. Two coaches hit from front row, back-row digs, non-digger sets, coverage triggers, tip simulates block, players cinch and re-dig.
+Earlier (January 2019) version of Debbie Brown's dig-set-cover drill, functionally identical to the March 2019 variant captured as aoc-2019-brown-dig-set-cover-v2. Two coaches hit from front row, back-row digs, non-digger sets, coverage triggers, tip simulates block, players cinch and re-dig.
 
 ## Key claims / ideas
-- Non-digger becomes the setter — dynamic role assignment.
+- Non-digger becomes the setter, dynamic role assignment.
 - Coverage posture after the set rehearses the blocked-ball response.
 - Coach tip after set forces immediate re-transition to dig.
 - Progression: drop from 3 to 2 back-row players, who then alternate dig/set.
@@ -35,5 +35,5 @@ Earlier (January 2019) version of Debbie Brown's dig-set-cover drill — functio
 ## Access
 - Raw file: [[aoc-2019-brown-dig-set-cover-v1]]
 - URL: https://www.theartofcoachingvolleyball.com/dig-set-cover-drill-variations/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

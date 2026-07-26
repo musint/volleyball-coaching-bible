@@ -22,7 +22,7 @@ Part 1 of a USAVlearn educational segment featuring Karch Kiraly teaching how to
 ## Key claims / ideas
 
 - Per WebSearch snippet: covers "best tools and tips for reading an attacker."
-- Specific coaching claims not captured — do not cite individual cues until the video is directly viewed or corroborated.
+- Specific coaching claims not captured, do not cite individual cues until the video is directly viewed or corroborated.
 
 ## Topics covered
 
@@ -38,5 +38,5 @@ Part 1 of a USAVlearn educational segment featuring Karch Kiraly teaching how to
 
 - Raw file: `raw/transcripts/yt-usav-20200526-karch-kiraly-reading-part-1.md`
 - URL: https://usavolleyball.org/video/karch-kiraly-reading-part-1-usavlearn/
-- Trust tier: 3 — verified-account (USAV official), transcript unavailable; eligible for tier-2 promotion per cluster policy upon direct capture
+- Trust tier: 3, verified-account (USAV official), transcript unavailable; eligible for tier-2 promotion per cluster policy upon direct capture
 - **Corroboration required before heavy use.**

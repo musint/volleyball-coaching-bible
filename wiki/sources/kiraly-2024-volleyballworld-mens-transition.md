@@ -42,4 +42,4 @@ The article confirms Kiraly was 63 at time of appointment, that this is his firs
 ## Access
 - Raw file: `raw/articles/karch-men-transition-la2028.md`
 - URL: https://en.volleyballworld.com/news/kiraly-switches-coach-usa-men-ahead-la-2028
-- Trust tier: 2 — FIVB-affiliated news site; international framing of a USAV announcement. Paired with the tier-1 USAV announcement for cross-reference.
+- Trust tier: 2: FIVB-affiliated news site; international framing of a USAV announcement. Paired with the tier-1 USAV announcement for cross-reference.

@@ -20,12 +20,12 @@ USA Youth National Team head coach Jim Stone argues young players should not be 
 
 ## Key claims / ideas
 - Volleyball skill development rests on foundational motor skills; skipping to live play is like building a second floor before the first is inspected.
-- Throwing: use a baseball/softball (volleyballs too big, tennis balls too light); don't combine throwing and catching practice — throw for velocity (wall) or distance (field), not accuracy.
+- Throwing: use a baseball/softball (volleyballs too big, tennis balls too light); don't combine throwing and catching practice, throw for velocity (wall) or distance (field), not accuracy.
 - Cue positions: "T" (upper-body rotation) and "Yes" (non-attacking arm to body midline).
 - Jumping: arms assist legs → higher jump AND arm preparation for spike.
 - Landing: knees over toes to prevent injury.
-- Every skill derives from visual cues — coach should ask "What did you see?" not just correct the outcome.
-- The eyes focus on one thing at a time — coaches must specify the key visual component of each skill.
+- Every skill derives from visual cues, coach should ask "What did you see?" before correcting the outcome.
+- The eyes focus on one thing at a time, coaches must specify the key visual component of each skill.
 - Five practice recipes: spike-roll no-jump throwing, verbalize visual cues, jump-land with 90-degree air turns, running mechanics in warm-up, varied shots with in-air rotation.
 
 ## Topics covered
@@ -42,6 +42,5 @@ USA Youth National Team head coach Jim Stone argues young players should not be 
 ## Access
 - Raw file: [[aoc-2023-stone-motor-skills]]
 - URL: https://www.theartofcoachingvolleyball.com/jim-stone-training-essential-motor-skills-for-volleyball/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

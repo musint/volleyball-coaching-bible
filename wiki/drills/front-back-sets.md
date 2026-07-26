@@ -22,20 +22,20 @@ One setter at a target zone centered on the net (setter position, Zone 2/3 bound
 
 ## Execution
 
-Coach tosses a clean, in-system pass to the setter. On a verbal cue given before each toss — "four" or "two" — the setter delivers either a front set to Zone 4 or a back set to Zone 2. The hitters catch the set at the target; no attack on this drill. Sets alternate front and back at first, then move to random calls once the setter is consistent. Ten contacts in each direction per rotation, then swap.
+Coach tosses a clean, in-system pass to the setter. On a verbal cue given before each toss, "four" or "two", the setter delivers either a front set to Zone 4 or a back set to Zone 2. The hitters catch the set at the target; no attack on this drill. Sets alternate front and back at first, then move to random calls once the setter is consistent. Ten contacts in each direction per rotation, then swap.
 
 ## Coaching points
 
-- Feet square to the net on every contact. Shoulders, hips, and chin stay neutral through the release — the block must not be able to read front-versus-back from the setter's body position.
+- Feet square to the net on every contact. Shoulders, hips, and chin stay neutral through the release, the block must not be able to read front-versus-back from the setter's body position.
 - Ball-shaped hands, contact on the sides of the ball, held follow-through until the catcher secures it.
 - On the back set, contact shifts over the crown of the head; arch comes from elbow-and-wrist extension, not from the spine.
-- Height to both antennae should match — if the back set lives two feet lower than the front set, the opposite has no rhythm.
+- Height to both antennae should match, if the back set lives two feet lower than the front set, the opposite has no rhythm.
 - "Beat the ball" on footwork: feet arrive first, hands arrive last.
 
 ## Variations
 
 - Random calls with a visual cue (coach point) instead of verbal, to load perception.
-- Setter alternates standing and jump-set on coach signal — builds toward [[jump-setting-progression]].
+- Setter alternates standing and jump-set on coach signal, builds toward [[jump-setting-progression]].
 - Add a block on each pin; setter grades her own disguise on every rep.
 
 ## Adaptations by level

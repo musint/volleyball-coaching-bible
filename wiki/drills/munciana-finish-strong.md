@@ -18,7 +18,7 @@ variations: [wash-drill, munciana-tug-of-war]
 # Munciana Finish Strong
 
 ## Setup
-Full 6v6 on a regulation court. Whiteboard set at **19-19**. Coach with a cart sideline. Free ball or serve entry — Mike runs it off free ball in this video.
+Full 6v6 on a regulation court. Whiteboard set at **19-19**. Coach with a cart sideline. Free ball or serve entry: Mike runs it off free ball in this video.
 
 ## Execution
 1. Score starts at **19 all**.
@@ -31,14 +31,14 @@ Full 6v6 on a regulation court. Whiteboard set at **19-19**. Coach with a cart s
 
 ## Coaching points
 - This is end-of-set rehearsal. The 19-19 starting score is exactly the moment matches are decided.
-- The reset mechanic punishes a single bad rep — playing tight near 24-19 is exactly the failure mode this drill exposes.
-- "Must score" call by coach at 24 — that is the moment to coach calmness, ritual, breath.
-- Pair with a service stat: the team must serve aggressive (top-of-tape geometry from [[munciana-five-before-ten]]) on the 24-point serve — no safety serves at the close.
+- The reset mechanic punishes a single bad rep, playing tight near 24-19 is exactly the failure mode this drill exposes.
+- "Must score" call by coach at 24, that is the moment to coach calmness, ritual, breath.
+- Pair with a service stat: the team must serve aggressive (top-of-tape geometry from [[munciana-five-before-ten]]) on the 24-point serve, no safety serves at the close.
 
 ## Variations
 - Start at 18-18 (longer runs to win, more reset opportunities).
 - Start at 20-20 (tighter, faster).
-- Both sides must serve to win — no free ball entry.
+- Both sides must serve to win, no free ball entry.
 
 ## Adaptations by level
 - **14U**: start at 12-12, target 15; reset mechanic identical.

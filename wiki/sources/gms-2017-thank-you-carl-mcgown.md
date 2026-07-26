@@ -24,7 +24,7 @@ skill training, and the rejection of unproven constructs such as "general
 athletic ability."
 
 The tribute is useful as a primary statement of what GMS itself characterizes
-as the McGown legacy — particularly its organizing principle that coaching
+as the McGown legacy, particularly its organizing principle that coaching
 has a correct form that is empirically determinable, and its ethic of direct
 feedback delivered with genuine care for the learner.
 
@@ -50,5 +50,5 @@ feedback delivered with genuine care for the learner.
 ## Access
 - Raw file: `raw/articles/gms-thank-you-carl-mcgown.md`
 - URL: https://www.goldmedalsquared.com/post/thank-you-carl-mcgown
-- Trust tier: 2 — first-party GMS content; not peer-reviewed. Compiled
+- Trust tier: 2, first-party GMS content; not peer-reviewed. Compiled
   testimonials are self-selected and frame the school's own legacy.

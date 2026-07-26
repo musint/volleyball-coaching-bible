@@ -21,7 +21,7 @@ Gina Schmidt (Simon Fraser) lays out a pass-and-hit drill for outside hitters fo
 ## Key claims / ideas
 - Approach tempo: start slow, accelerate during the last two steps.
 - Exaggerate arm movement during the approach to help gain jump height.
-- Consistency cue — when the ball leaves the setter's hands, a good hitter should always be at the same spot in their approach.
+- Consistency cue, when the ball leaves the setter's hands, a good hitter should always be at the same spot in their approach.
 - Drill format: three passers in left back receive serves one at a time, then transition outside to hit.
 - Minimum requirements: 4 players, full court, balls.
 
@@ -37,5 +37,5 @@ Gina Schmidt (Simon Fraser) lays out a pass-and-hit drill for outside hitters fo
 ## Access
 - Raw file: [[aoc-2024-attack-approach]]
 - URL: https://www.theartofcoachingvolleyball.com/the-basics-of-attacking-footwork/
-- Trust tier: 2 — AOC, fundamentals article
+- Trust tier: 2: AOC, fundamentals article
 - Ingested via: aoc-mcp on 2026-04-23

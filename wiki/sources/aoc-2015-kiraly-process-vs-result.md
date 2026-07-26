@@ -20,7 +20,7 @@ Karch Kiraly (USA Women's National Team) lecture-plus-drill on process-oriented 
 ## Key claims / ideas
 
 - Process-oriented coaching emphasizes execution quality independent of outcome.
-- Applying process framing to serve/pass/transition drills trains behaviors, not just "did it work."
+- Applying process framing to serve/pass/transition drills trains behaviors instead of "did it work."
 - Details paywalled; framing is the Kiraly canon on process coaching.
 
 ## Topics covered

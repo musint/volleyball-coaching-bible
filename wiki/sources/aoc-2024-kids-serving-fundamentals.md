@@ -20,7 +20,7 @@ Ruth Nelson argues that serving should be taught with intent to score from the s
 
 ## Key claims / ideas
 - Serving is the first fundamental skill that can immediately score points; at ages 4-11, serves and passes dominate rallies.
-- Teach serving with intent to score, not just "over the net."
+- Teach serving with intent to score rather than "over the net."
 - Static floater = accessible entry point; topspin mirrors the hitting arm swing; Japanese floater rewards weaker arms that have good wrist control.
 - Linear/jump serves demand toss coordination and an approach-like arm swing.
 - Wrist firmness for floaters vs. wrist extension for topspin is a core teaching distinction.
@@ -37,5 +37,5 @@ Ruth Nelson argues that serving should be taught with intent to score from the s
 ## Access
 - Raw file: [[aoc-2024-kids-serving-fundamentals]]
 - URL: https://www.theartofcoachingvolleyball.com/volleyball-training-for-kids-teaching-the-fundamentals-of-serving/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

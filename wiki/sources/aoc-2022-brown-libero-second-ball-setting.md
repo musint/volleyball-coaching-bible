@@ -19,9 +19,9 @@ Debbie Brown (Notre Dame '90-'14) demonstrates a drill dedicated to training the
 
 ## Key claims / ideas
 
-- Every team should rehearse the libero's second-ball set — it occurs too often to leave untrained.
+- Every team should rehearse the libero's second-ball set, it occurs too often to leave untrained.
 - Specifying a target zone for the libero's second ball (rather than "anywhere useful") is the decisive coaching point.
-- Frequency of practice on this rep is the common gap — teams assume the skill, they don't train it.
+- Frequency of practice on this rep is the common gap, teams assume the skill, they don't train it.
 
 ## Topics covered
 

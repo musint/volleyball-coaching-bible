@@ -15,13 +15,13 @@ trust-tier: 2
 
 ## Summary
 
-Jim Stone's two keys for positioning a defender: (1) Location — move into the court zone unblocked by your own middle/outside blockers (for outside attack, just off the middle blocker's inside shoulder); (2) Body posture — stay low with weight slightly forward on toes, ready to move any direction and dive any way, and "move through" the dig rather than "fall toward" it.
+Jim Stone's two keys for positioning a defender: (1) Location, move into the court zone unblocked by your own middle/outside blockers (for outside attack, just off the middle blocker's inside shoulder); (2) Body posture, stay low with weight slightly forward on toes, ready to move any direction and dive any way, and "move through" the dig rather than "fall toward" it.
 
 ## Key claims / ideas
 
-- Defender location is relative to your block: position where your block is NOT — the middle blocker's inside shoulder seam on an outside attack.
+- Defender location is relative to your block: position where your block is NOT, the middle blocker's inside shoulder seam on an outside attack.
 - Body posture: low, weight slightly forward on toes, ready for lateral/forward/back/dive.
-- "Move through the ball" — stay on feet when possible rather than collapsing toward the dig.
+- "Move through the ball", stay on feet when possible rather than collapsing toward the dig.
 - Sedentary defenders who fall to balls produce worse digs than defenders who move through them.
 
 ## Topics covered

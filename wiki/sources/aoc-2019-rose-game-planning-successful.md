@@ -16,11 +16,11 @@ trust-tier: 2
 # Game planning: What you need to be successful
 
 ## Summary
-Russ Rose's flexible framework for lineup decisions: consider opponent, team confidence in specific rotations, sub depth, and confidence-impact of lineup churn. He avoids dogmatism in either direction — neither immovable nor always-changing.
+Russ Rose's flexible framework for lineup decisions: consider opponent, team confidence in specific rotations, sub depth, and confidence-impact of lineup churn. He avoids dogmatism in either direction, neither immovable nor always-changing.
 
 ## Key claims / ideas
 - Lineup decisions weigh opponent, rotation confidence, sub depth, and the team-confidence cost of changes.
-- Rose neither locks the lineup nor rotates it reflexively — he evaluates per-match.
+- Rose neither locks the lineup nor rotates it reflexively, he evaluates per-match.
 - If the opponent has a dominating attacker, build the lineup around your strongest blocker.
 - Scouting report, team energy, and emotional impact all factor into gameday decisions.
 
@@ -35,5 +35,5 @@ Russ Rose's flexible framework for lineup decisions: consider opponent, team con
 ## Access
 - Raw file: [[aoc-2019-rose-game-planning-successful]]
 - URL: https://www.theartofcoachingvolleyball.com/game-planning-what-you-need-to-be-successful/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

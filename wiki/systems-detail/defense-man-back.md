@@ -12,17 +12,17 @@ sources: [aoc-2017-liskevych-asics-defense, aoc-2015-liskevych-mccutcheon-defens
 # Man-Back Defense
 
 ## Overview
-Man-back defense designates one defender — typically positioned in deep zone 6 at or near the end line — as the committed "man" behind the block. That defender's job is explicit and singular: take everything deep. The rest of the defense (off-blocker, two wings, libero depending on configuration) sets up to cover short, line, and the two cross angles. The block fills the attack zone and owns the middle of the court; the man-back owns anything that goes over it. Man-back is a cousin of [[defense-perimeter]] but with clearer role delineation: one defender isn't going to move off their landmark, and everyone else plays relative to that anchor.
+Man-back defense designates one defender, typically positioned in deep zone 6 at or near the end line, as the committed "man" behind the block. That defender's job is explicit and singular: take everything deep. The rest of the defense (off-blocker, two wings, libero depending on configuration) sets up to cover short, line, and the two cross angles. The block fills the attack zone and owns the middle of the court; the man-back owns anything that goes over it. Man-back is a cousin of [[defense-perimeter]] but with clearer role delineation: one defender isn't going to move off their landmark, and everyone else plays relative to that anchor.
 
-Coaches sometimes call the pairing a "red" block-and-back scheme: block presses hard, back defender covers deep, front defenders pinch short. The advantage is conceptual simplicity. Instead of asking five defenders to rotate in coordinated patterns (the demand of [[defense-rotation]]), man-back hands each defender a narrow, stable responsibility. Because the deepest ball always has a committed body, the block can press with confidence — knowing that even a tool over the block or a deep bomb has a defender waiting for it [aoc-2015-liskevych-mccutcheon-defense-blocking].
+Coaches sometimes call the pairing a "red" block-and-back scheme: block presses hard, back defender covers deep, front defenders pinch short. The advantage is conceptual simplicity. Instead of asking five defenders to rotate in coordinated patterns (the demand of [[defense-rotation]]), man-back hands each defender a narrow, stable responsibility. Because the deepest ball always has a committed body, the block can press with confidence, knowing that even a tool over the block or a deep bomb has a defender waiting for it [aoc-2015-liskevych-mccutcheon-defense-blocking].
 
 ## Personnel requirements
 Man-back is low-specialization. You can run it with any six, but it benefits from:
-- A man-back defender with good range laterally — the role covers deep line to deep cross in a single zone.
+- A man-back defender with good range laterally, the role covers deep line to deep cross in a single zone.
 - Blockers who press hard and can be trusted to own the middle of the court. The entire scheme's weak spot is the short roll shot; the block's job is to make that a low-percentage option.
 - An off-blocker who will pull hard off the net to cover the short cross on the hitter's strong angle.
 
-At 14U, man-back is appealing because the committed deep defender gives young teams a clear answer to the question "who takes the ball that beats the block?" — a question that otherwise produces three defenders watching each other.
+At 14U, man-back is appealing because the committed deep defender gives young teams a clear answer to the question "who takes the ball that beats the block?", a question that otherwise produces three defenders watching each other.
 
 ## Alignment
 Against a left-side attack:
@@ -44,7 +44,7 @@ In a libero-forward variant, the libero plays man-back and the two wings move up
 - Short tips and roll shots. The wings start away from the short zones; a hitter who reads the defense can drop a ball in front of the block for an easy point unless the off-blocker and front-court defenders actively pinch in on the read.
 - One person covers a large deep area. If the man-back is slow laterally, the scheme concedes deep cross or deep line.
 - Late or split blocks punish man-back badly. If the block doesn't form in the attack zone, the wings don't know whether to cover short or deep and the man-back is out of position either way.
-- The scheme does not adapt to the set location the way [[defense-rotation]] does — a team with strong middle attack plus pin attack can exploit the fact that man-back holds the same shape against both.
+- The scheme does not adapt to the set location the way [[defense-rotation]] does, a team with strong middle attack plus pin attack can exploit the fact that man-back holds the same shape against both.
 
 ## When to use / when not to use
 Use man-back when:
@@ -54,17 +54,17 @@ Use man-back when:
 - Your block is consistent and presses the middle of the court reliably.
 
 Avoid man-back when:
-- The opponent lives on tips and cuts — they will drop balls in front of your block.
+- The opponent lives on tips and cuts, they will drop balls in front of your block.
 - Your block is inconsistent or splits frequently. Without a trustworthy block, the man-back anchor is out of position more than in.
-- You want the defense to respond to set location — rotation or middle-back give more adaptive coverage.
+- You want the defense to respond to set location, rotation or middle-back give more adaptive coverage.
 
 ## Schools-perspectives
 
 Man-back sits at the role-clarity end of the defensive spectrum. Adjacent schemes either share its single-anchor structure with different read demands, or trade single-anchor clarity for multi-defender coordination:
 
 - **Man-back (this page):** one committed deep defender, others fill landmarks; landmark-based, low coordination demand; "take everything deep, period."
-- **[[defense-perimeter]]:** structurally similar but no committed anchor — five defenders on landmarks. Often functionally indistinguishable at 14U.
-- **[[defense-middle-back]]:** the read-heavier cousin — libero at deep zone 6 reads the block seam and shifts. Same shape, more demanding role.
+- **[[defense-perimeter]]:** structurally similar but no committed anchor, five defenders on landmarks. Often functionally indistinguishable at 14U.
+- **[[defense-middle-back]]:** the read-heavier cousin, libero at deep zone 6 reads the block seam and shifts. Same shape, more demanding role.
 - **[[defense-rotation]]:** trades single-anchor clarity for back-row rotation toward the set side. Maximum adaptivity, maximum coordination demand.
 - **[[defense-middle-middle]]:** anchor a defender at **6m mid-court** (per Trinsey's 10,000-attack chart) rather than at the end line. Empirically anchored at the highest-frequency ball-landing zone; libero positioning (LB or MB) flexes by personnel [gms-nd-middle-middle-defense].
 
@@ -72,7 +72,7 @@ Man-back is the simpler-install option for limited-time programs. Middle-Middle 
 
 ## Alternatives and adjustments
 - Move the wings up to the 10-foot line as a "red" variant to harden short coverage. This is the 14U-typical adjustment when opponents tip often [aoc-2026-team-defense-reading].
-- Shift the libero into the man-back slot when they are your best reader — the scheme's single anchor should be your single best defender.
+- Shift the libero into the man-back slot when they are your best reader, the scheme's single anchor should be your single best defender.
 - Switch to [[defense-middle-back]] when your libero and block coordinate well enough to own the seam; middle-back is a read-heavier version of the same basic shape.
 - Promote to [[defense-rotation]] once the team reads the set well enough to rotate toward it; rotation gives up the clean role simplicity but wins on coverage adaptivity.
 - Consider [[defense-middle-middle]] when the program wants empirical depth-anchoring (Trinsey's 6m chart-derived position) rather than generic "take everything deep" landmarks [gms-nd-middle-middle-defense].

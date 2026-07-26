@@ -18,7 +18,7 @@ variations: [butterfly-passing, pass-set-hit]
 # Pepper
 
 ## Setup
-Pair players 4-6 m apart along sidelines or anywhere with overhead space. One ball per pair. No net required. The most common partner warm-up in the sport — every serious program runs a version of it.
+Pair players 4-6 m apart along sidelines or anywhere with overhead space. One ball per pair. No net required. The most common partner warm-up in the sport, every serious program runs a version of it.
 
 ## Execution
 1. Player A tosses to B; B plays a forearm dig back to A.
@@ -29,14 +29,14 @@ Pair players 4-6 m apart along sidelines or anywhere with overhead space. One ba
 
 ## Coaching points
 - Dig with a stable platform angled back to partner; do not swing at the ball.
-- Set cleanly with hands on the second contact — resist bump-setting to keep it going.
+- Set cleanly with hands on the second contact, resist bump-setting to keep it going.
 - Hit with control, not power: a repeatable cadence trains three skills at once.
 - Feet active between every contact; pepper rewards early movement.
 - Call the contact ("mine," "up," "out") so communication is habit, not a game-day surprise.
 
 ## Variations
 - **Three-person pepper:** middle player sets; outsides alternate dig and hit. Trains "find your setter."
-- **Six-person pepper:** Liskevych's group pepper across a ring — introduces off-angle platforms.
+- **Six-person pepper:** Liskevych's group pepper across a ring, introduces off-angle platforms.
 - **Pass-set-hit progression:** add a net and a court; transitions into [[pass-set-hit]].
 
 ## Adaptations by level

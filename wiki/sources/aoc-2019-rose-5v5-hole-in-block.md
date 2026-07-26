@@ -22,7 +22,7 @@ Russ Rose's 5v5 (each side missing a middle) forces single-blocks and makes digg
 - Remove the middle blocker on both sides to force single-blocks.
 - Two coaches initiate; play out normally.
 - Defenders line up with hitter's shoulder, not the ball.
-- First to 5 points — quick, high-pressure reps.
+- First to 5 points, quick, high-pressure reps.
 
 ## Topics covered
 - Defending around a deliberate block hole.
@@ -35,5 +35,5 @@ Russ Rose's 5v5 (each side missing a middle) forces single-blocks and makes digg
 ## Access
 - Raw file: [[aoc-2019-rose-5v5-hole-in-block]]
 - URL: https://www.theartofcoachingvolleyball.com/5-vs-5-drill-to-work-on-defending-a-hole-in-the-block/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

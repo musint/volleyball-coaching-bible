@@ -18,7 +18,7 @@ variations: [munciana-5-6-seam-strike, munciana-5-6-seam-bounce, serve-targets]
 # Munciana 5-6 Seam (Noodle Aim-Small)
 
 ## Setup
-Servers behind the endline with a ball cart. A held noodle on the receiving side sits about 18 inches above the net tape, positioned in the 5-6 seam (between zones 5 and 6 on the receive side — the deep left and middle-deep). Move the noodle left, right, or to the 1-6 seam to retarget. One holder stays alert; a second player shags balls back to the cart.
+Servers behind the endline with a ball cart. A held noodle on the receiving side sits about 18 inches above the net tape, positioned in the 5-6 seam (between zones 5 and 6 on the receive side, the deep left and middle-deep). Move the noodle left, right, or to the 1-6 seam to retarget. One holder stays alert; a second player shags balls back to the cart.
 
 ## Execution
 1. Coach names the seam; servers cycle one at a time and aim the serve to pass directly over the noodle.

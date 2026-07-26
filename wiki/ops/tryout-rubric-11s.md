@@ -20,7 +20,7 @@ sources:
 
 ## Purpose
 
-This rubric evaluates 11U athletes against the [[11s]] promotion criteria — specifically, what an 11U player must demonstrate to graduate into [[12s]]. Use it for end-of-season evaluations, mid-year level checks, and tryout placement at the 11U/12U boundary.
+This rubric evaluates 11U athletes against the [[11s]] promotion criteria, specifically, what an 11U player must demonstrate to graduate into [[12s]]. Use it for end-of-season evaluations, mid-year level checks, and tryout placement at the 11U/12U boundary.
 
 **Column 3 is the promotion signal.** Column 3 ("consistent at age-appropriate level") is the on-track 11U state, and an athlete sitting at 3s across the board is exactly what an 11s graduate is supposed to look like. She promotes.
 
@@ -34,7 +34,7 @@ The rubric inherits the wiki's recency-leaning operating model from [[age-lens-1
 
 ## Evaluation criteria
 
-| Criterion | 1 — does not demonstrate | 2 — occasional | 3 — consistent at age-appropriate level | 4 — above age-appropriate | 5 — 12s-ready (= [[tryout-rubric-12s]] column 3) |
+| Criterion | 1, does not demonstrate | 2, occasional | 3, consistent at age-appropriate level | 4, above age-appropriate | 5: 12s-ready (= [[tryout-rubric-12s]] column 3) |
 |---|---|---|---|---|---|
 | **Passing** | No platform shape; arms apart, reaches without moving feet. | Platform shape on centered balls only; reaches on off-center balls. | Recognizable platform on 8/10 contacts; shuffles toward the ball on 6/10 balls fed 3-5 ft to either side; thumbs together; passes into the setter zone on 6/10. | Platform holds on off-center balls; shuffle-not-reach without prompt; aims with the shoulders rather than tilting an arm. | Stops and balances, thumbs together, sets the angle with shoulders and hips on a tossed ball; overhead pass on free balls; calls "mine." |
 | **Setting** | No hand triangle; thumbs collide; palms catch. | Triangle attempted but inconsistent; double-contact violations frequent. | Catch-and-set with hand triangle and no thumb collision on 8/10; calls "hands" or "platform" correctly on 8/10 balls fed above and below the shoulders. | Hand-hinge mechanism present in catch-and-set; setter-track candidates live-set tossed balls inconsistently. | Hand-hinge with side-of-ball contact; front-set and back-set distinguishable; eyes on target rather than on the ball at contact on a tossed ball. |
@@ -71,25 +71,25 @@ A single 5 does not promote and a single 1 does not demote, **with one exception
 
 **Checkpoint re-scoring.** These nine rows are re-scored at week 6 and week 12 per [[11s]] `## Season operations`. Use this document unchanged at those checkpoints.
 
-**Inter-rater agreement.** With 2+ evaluators, score independently then compare. Discrepancies of 2+ points trigger a re-watch (or re-rep) before resolving — never average without discussion. Anchor each evaluator on Column 3 ("consistent at age-appropriate level") as the calibration baseline before tryouts begin.
+**Inter-rater agreement.** With 2+ evaluators, score independently then compare. Discrepancies of 2+ points trigger a re-watch (or re-rep) before resolving, never average without discussion. Anchor each evaluator on Column 3 ("consistent at age-appropriate level") as the calibration baseline before tryouts begin.
 
 **Common biases to avoid.**
 - **Size bias:** taller 11U athletes look more "12s-ready" but vertical reach is not a rubric criterion at this age. Score the skill, not the body.
 - **Multi-sport athlete bias:** athletes with limited volleyball reps but strong general athleticism may score 2-3 on technique while showing 4-5 movement quality. Per [[11s]] athletic profile, multi-sport play is evidence-backed injury prevention; do not penalize for it.
 - **Loud-energy bias:** the quiet self-correcting athlete often outranks the loud one on Mental & coachability. Score on rep-by-rep behavior, not volume.
-- **Cue-language over-engineering:** Moran et al. 2023 found no significant cue-type advantage in youth populations. Do not score down an athlete who responds to a different cue family — score the resulting motor behavior.
+- **Cue-language over-engineering:** Moran et al. 2023 found no significant cue-type advantage in youth populations. Do not score down an athlete who responds to a different cue family, score the resulting motor behavior.
 
 **Forward link.** Athletes clearing the gate graduate into the [[12s]] context, where the platform must become stable, the standing-float serve becomes the default, the offense graduates from the 11s 4-2 install to a simple [[offense-6-2]] by season's end, and overhead passing is added on free balls. Athletes scoring 5 on most rows are already at the 12s column-3 standard. That is the trigger for a higher-team or accelerated-grouping conversation, and it is not a reason to teach 12s content in an 11s gym.
 
 ## Sources
 
-- [[usav-2026-simplified-youth-rules]] — USAV simplified youth rules baseline for 11U
-- [[usav-2026-growing-kids-volleyball]] — USAV Growing Kids' Volleyball philosophy (rep-volume + engagement)
-- [[aoc-2024-kids-passing-fundamentals]] — Nelson 2024: passing fundamentals for the introduction phase
-- [[aoc-2024-kids-setting-fundamentals]] — Nelson 2024: catch-and-set progression and live-set readiness criterion
-- [[aoc-2024-kids-attacking-fundamentals]] — Nelson 2024: three-stage attacking progression
-- [[aoc-2024-kids-serving-fundamentals]] — Nelson 2024: five-serve taxonomy
-- [[aoc-2022-4-2-system]] — Mattox 2022: 4-2 as entry-level competitive offense
-- [[aoc-2021-teach-rotations-beginners]] — Barnard 2021: overlap rules for beginners; anchors the Systems row
-- [[munciana-2022-camp-drills]] — Lingenfelter: Three P's, aim-small-miss-small, pursuit foundation
-- [[moran-2023-verbal-coaching-cues-youth]] — Moran et al. 2023: cue-type optimization is not robustly supported in youth populations
+- [[usav-2026-simplified-youth-rules]]: USAV simplified youth rules baseline for 11U
+- [[usav-2026-growing-kids-volleyball]]: USAV Growing Kids' Volleyball philosophy (rep-volume + engagement)
+- [[aoc-2024-kids-passing-fundamentals]]: Nelson 2024: passing fundamentals for the introduction phase
+- [[aoc-2024-kids-setting-fundamentals]]: Nelson 2024: catch-and-set progression and live-set readiness criterion
+- [[aoc-2024-kids-attacking-fundamentals]]: Nelson 2024: three-stage attacking progression
+- [[aoc-2024-kids-serving-fundamentals]]: Nelson 2024: five-serve taxonomy
+- [[aoc-2022-4-2-system]]: Mattox 2022: 4-2 as entry-level competitive offense
+- [[aoc-2021-teach-rotations-beginners]]: Barnard 2021: overlap rules for beginners; anchors the Systems row
+- [[munciana-2022-camp-drills]]: Lingenfelter: Three P's, aim-small-miss-small, pursuit foundation
+- [[moran-2023-verbal-coaching-cues-youth]]: Moran et al. 2023: cue-type optimization is not robustly supported in youth populations

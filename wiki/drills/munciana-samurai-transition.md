@@ -22,7 +22,7 @@ Three DS's on the back-row defensive side. One coach feeding from across the net
 
 ## Execution
 1. Coach starts the rally by tossing/hitting a single ball into the back row.
-2. The three DS's dig and pass continuously — the ball stays alive until **all three players touch it for a total of seven good contacts**.
+2. The three DS's dig and pass continuously, the ball stays alive until **all three players touch it for a total of seven good contacts**.
 3. **[00:43:55]** "They can't go until all three guys touch the ball."
 4. Only one ball is in play at a time. If the ball drops, the count resets.
 5. Crash and cover on every contact. **[00:44:01]** "Crash to cover. Crash to cover."

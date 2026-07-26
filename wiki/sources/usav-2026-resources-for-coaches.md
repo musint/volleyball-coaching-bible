@@ -17,9 +17,9 @@ trust-tier: 1
 
 ## Summary
 
-USA Volleyball's Resources for Coaches landing page is the top-level directory to all official coach-facing material. It organizes the ecosystem into six main channels: the Coach Academy (online learning aligned to the Development Model), member coach requirements (IMPACT plus SafeSport), Coach Tools (drills/competition/blogs/books/webinars), Lesson Plans (K-12 age-appropriate curricula), the Youth Hub for Coaches (free courses via the USOPC's Million Coaches Challenge — Connection Based Coaching, How to Coach Kids, Coaching Girls), the Growing the Game blog (John Kessel), and the Video Library.
+USA Volleyball's Resources for Coaches landing page is the top-level directory to all official coach-facing material. It organizes the ecosystem into six main channels: the Coach Academy (online learning aligned to the Development Model), member coach requirements (IMPACT plus SafeSport), Coach Tools (drills/competition/blogs/books/webinars), Lesson Plans (K-12 age-appropriate curricula), the Youth Hub for Coaches (free courses via the USOPC's Million Coaches Challenge: Connection Based Coaching, How to Coach Kids, Coaching Girls), the Growing the Game blog (John Kessel), and the Video Library.
 
-The page frames coaches — PE teachers, high school, club, and college — as foundational mentors and promises "a wealth of resources to improve your teaching and expand your coaching skills." Recent featured articles cover college recruiting preparation, coach self-care, shoulder-injury prevention, concussion awareness, and building athlete buy-in.
+The page frames coaches: PE teachers, high school, club, and college, as foundational mentors and promises "a wealth of resources to improve your teaching and expand your coaching skills." Recent featured articles cover college recruiting preparation, coach self-care, shoulder-injury prevention, concussion awareness, and building athlete buy-in.
 
 ## Key claims / ideas
 
@@ -47,4 +47,4 @@ The page frames coaches — PE teachers, high school, club, and college — as f
 ## Access
 - Raw file: `raw/usav/resources-for-coaches.md`
 - URL: https://usavolleyball.org/resources-for-coaches/
-- Trust tier: 1 — official USA Volleyball resource
+- Trust tier: 1, official USA Volleyball resource

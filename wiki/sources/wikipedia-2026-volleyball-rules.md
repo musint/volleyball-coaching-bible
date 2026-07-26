@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Volleyball (Wikipedia) — rules extract"
+title: "Volleyball (Wikipedia), rules extract"
 author: "Wikipedia contributors"
 year: 2026
 citation-key: wikipedia-2026-volleyball-rules
@@ -13,11 +13,11 @@ schools: []
 trust-tier: 2
 ---
 
-# Volleyball (Wikipedia) — rules extract
+# Volleyball (Wikipedia): rules extract
 
 ## Summary
 
-The Wikipedia entry on volleyball aggregates FIVB-aligned rules of the modern indoor game: court dimensions, net heights, contact rules, libero restrictions, rally scoring, serving rules, and net/centerline rules. It captures specific NCAA divergences where they exist — NCAA libero-serving (since 2004) vs. FIVB ban, dual-libero rule adoption (NCAA 2024, FIVB earlier), and the 2008 set-to-25 change. It is useful as a cross-check reference and for high-level claims about the modern rulebook, but citation-critical numerical values should be re-verified against the current USAV Indoor Rulebook and the NCAA Women's Volleyball Rules Book.
+The Wikipedia entry on volleyball aggregates FIVB-aligned rules of the modern indoor game: court dimensions, net heights, contact rules, libero restrictions, rally scoring, serving rules, and net/centerline rules. It captures specific NCAA divergences where they exist: NCAA libero-serving (since 2004) vs. FIVB ban, dual-libero rule adoption (NCAA 2024, FIVB earlier), and the 2008 set-to-25 change. It is useful as a cross-check reference and for high-level claims about the modern rulebook, but citation-critical numerical values should be re-verified against the current USAV Indoor Rulebook and the NCAA Women's Volleyball Rules Book.
 
 ## Key claims / ideas
 
@@ -53,4 +53,4 @@ The Wikipedia entry on volleyball aggregates FIVB-aligned rules of the modern in
 ## Access
 - Raw file: `raw/articles/wikipedia-2026-volleyball-rules.md`
 - URL: https://en.wikipedia.org/wiki/Volleyball
-- Trust tier: 2 — general reference; corroborate specific numerical values against the current USAV Indoor Rulebook and NCAA Women's Volleyball Rules Book before making citation-critical claims on other wiki pages.
+- Trust tier: 2, general reference; corroborate specific numerical values against the current USAV Indoor Rulebook and NCAA Women's Volleyball Rules Book before making citation-critical claims on other wiki pages.

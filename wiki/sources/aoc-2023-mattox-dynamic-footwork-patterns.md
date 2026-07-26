@@ -17,10 +17,10 @@ trust-tier: 2
 
 Tod Mattox builds a warmup block around volleyball-specific footwork rather than generic jogging. Four lines form at the back of the court and progress through four activities:
 
-1. **Serve-receive footwork** — forward step + shuffle from back line to net, both directions; then drop-step + shuffle back to the endline.
-2. **Hitter-blocker pairs** — 4-step phantom-swing approach behind the 10-foot line; blockers on the opposite side front the hitter, then roles swap. Variation: hitters take angles instead of going directly at the blocker.
-3. **Approach variations** — three lines run a 4-step left, 2-step middle, 3-step right, with hitters rotating lines after each approach.
-4. **Block jump patterns** — lateral hop, jump and penetrate, repeat opposite direction; variation uses swing-block mechanics.
+1. **Serve-receive footwork**: forward step + shuffle from back line to net, both directions; then drop-step + shuffle back to the endline.
+2. **Hitter-blocker pairs**: 4-step phantom-swing approach behind the 10-foot line; blockers on the opposite side front the hitter, then roles swap. Variation: hitters take angles instead of going directly at the blocker.
+3. **Approach variations**: three lines run a 4-step left, 2-step middle, 3-step right, with hitters rotating lines after each approach.
+4. **Block jump patterns**: lateral hop, jump and penetrate, repeat opposite direction; variation uses swing-block mechanics.
 
 The principle: warm up "doing the work we're going to do in a game."
 
@@ -41,7 +41,7 @@ The principle: warm up "doing the work we're going to do in a game."
 
 ## Where it's cited
 
-Forward-reference — to be cited on ``warm-up`` hub, ``dynamic-warmup``, ``footwork``, ``hitter-approach``, and `[[tod-mattox]]` profile.
+Forward-reference, to be cited on ``warm-up`` hub, ``dynamic-warmup``, ``footwork``, ``hitter-approach``, and `[[tod-mattox]]` profile.
 
 ## Access
 

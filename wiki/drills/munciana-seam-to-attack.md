@@ -18,7 +18,7 @@ variations: [munciana-triangle-passing-box-b]
 # Seam to Attack
 
 ## Setup
-Full half-court with passers, setter, outsides, middles, and a DS/libero. Coach feeds the entry serve or down-ball. Mike: "we'll set an equation in place with what we want to do today. Our outsides want to hit a two ball. Our middles want to hit the B" **[00:09:31]**. Today's combo: outsides move inside to hit a two, middles move outside to hit a B; Mike also runs the right-side mirror called "D2" — "a slide for our middle. The outside will wrap around and hit the inside two ball" **[00:10:51]**.
+Full half-court with passers, setter, outsides, middles, and a DS/libero. Coach feeds the entry serve or down-ball. Mike: "we'll set an equation in place with what we want to do today. Our outsides want to hit a two ball. Our middles want to hit the B" **[00:09:31]**. Today's combo: outsides move inside to hit a two, middles move outside to hit a B; Mike also runs the right-side mirror called "D2", "a slide for our middle. The outside will wrap around and hit the inside two ball" **[00:10:51]**.
 
 ## Execution
 1. Coach feeds; passers receive into the seam.
@@ -28,10 +28,10 @@ Full half-court with passers, setter, outsides, middles, and a DS/libero. Coach 
 5. Run on the left side, flip to the right (D2 mirror), run "multiple combinations off of this drill" **[00:10:19]**.
 
 ## Coaching points
-- "Cover low, cover low, cover low" **[00:10:25]** — every hit ends in low cover, not standing.
+- "Cover low, cover low, cover low" **[00:10:25]**: every hit ends in low cover, not standing.
 - The drill is a passing-to-attack chain; the seam pass is the gate, the called combo is the exit.
-- Outsides moving inside, middles moving out — body has to know the call before the pass crosses.
-- DS leaves on a middle kill, outside leaves on an outside kill — keeps the rotation honest and the line moving.
+- Outsides moving inside, middles moving out, body has to know the call before the pass crosses.
+- DS leaves on a middle kill, outside leaves on an outside kill, keeps the rotation honest and the line moving.
 
 ## Variations
 - Swap the called combo (two/B → 31/pipe → other Munciana combos) without changing the rotation rule.

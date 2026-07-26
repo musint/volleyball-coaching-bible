@@ -19,7 +19,7 @@ trust-tier: 2
 Colorado State coach Emily Kohan delivers a 4-part setting clinic for young players: hand positioning (ball on forehead, all 10 fingers, wrapped, elbows wide), footwork (balanced feet, not skinny, not too wide, off the heels), hand contact (cone-on-forehead tennis-ball drill), and live-pass progression (eliminate "Flintstone feet"). At-home drills and a staged progression of when to add hitters and more-complex decisions.
 
 ## Key claims / ideas
-- Priority 1 for a young setter: touch — ball on the forehead, all 10 fingers, fingers wrapped around the ball, elbows wide for leverage.
+- Priority 1 for a young setter: touch, ball on the forehead, all 10 fingers, fingers wrapped around the ball, elbows wide for leverage.
 - Footwork stop position: balanced feet, weight forward (not heels), avoid "skinny feet" and overly wide stance.
 - Hand-position drill: cone on forehead + partner-tossed tennis ball to catch, training feet-to-ball, square shoulders, balance.
 - "Flintstone feet" = too many small steps to the ball; inefficient and slows the setter.
@@ -31,7 +31,7 @@ Colorado State coach Emily Kohan delivers a 4-part setting clinic for young play
 - Hand positioning (10-finger contact, elbows wide)
 - Setter footwork and stop position
 - At-home setting drills
-- Setting progression order — when to add hitters, jump sets, reads
+- Setting progression order, when to add hitters, jump sets, reads
 
 ## Where it's cited
 *(populated as wiki pages cite this source)*
@@ -39,6 +39,5 @@ Colorado State coach Emily Kohan delivers a 4-part setting clinic for young play
 ## Access
 - Raw file: [[aoc-2023-kohan-setting-fundamentals-young]]
 - URL: https://www.theartofcoachingvolleyball.com/setting-teaching-the-fundamentals-to-a-young-player/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23
-</content>

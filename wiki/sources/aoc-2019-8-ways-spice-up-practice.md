@@ -19,12 +19,12 @@ Republished Championship Performance article laying out eight motor-learning pri
 
 ## Key claims / ideas
 
-- Practice does not make perfect — *purposeful* practice does.
+- Practice does not make perfect, *purposeful* practice does.
 - Reinforcement sandwich = positive reinforcement → informational/corrective feedback → positive reinforcement.
 - Distributed practice sessions (with rest between trials) outperform massed practice for new skill acquisition; massed practice is effective for retention and conditioning.
 - Fatigue practice produces habituated mistakes; don't mix conditioning with skill acquisition.
 - Whole-part-whole: introduce full skill, break into parts only if needed, reassemble.
-- "Staleness" is natural — plan rest, insight, and variety to break through it.
+- "Staleness" is natural, plan rest, insight, and variety to break through it.
 
 ## Topics covered
 

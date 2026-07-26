@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "Julio Velasco — The Thinker Of The Game"
+title: "Julio Velasco, The Thinker Of The Game"
 author: "Mark Lebedew (translating Ruben Wolochin, LA NACION interview)"
 year: 2015
 citation-key: lebedew-2015-velasco-thinker-of-game
@@ -13,7 +13,7 @@ schools: [italian-school]
 trust-tier: 2
 ---
 
-# Julio Velasco — The Thinker Of The Game
+# Julio Velasco: The Thinker Of The Game
 
 ## Summary
 
@@ -21,10 +21,10 @@ Mark Lebedew's 2015 blog post presenting Ruben Wolochin's English translation of
 
 ## Key claims / ideas
 
-- Velasco's diagnostic frame on underperforming teams: ask players directly, "Boys, could it be that we lose because we play badly?" — refusing external explanations.
-- The "Theory of Alibis" — the coach's first job is to strip out external blame (conditions, officials, opponents) so that the team owns outcomes. This is the precondition for a winning culture.
+- Velasco's diagnostic frame on underperforming teams: ask players directly, "Boys, could it be that we lose because we play badly?", refusing external explanations.
+- The "Theory of Alibis", the coach's first job is to strip out external blame (conditions, officials, opponents) so that the team owns outcomes. This is the precondition for a winning culture.
 - Players cannot blame poor conditions; they must overcome environment through proper technique and mental approach.
-- "The more established the method the lower the chance of conflict" — Velasco's frame on why explicit method reduces team friction.
+- "The more established the method the lower the chance of conflict", Velasco's frame on why explicit method reduces team friction.
 - Velasco rejected a reported Silvio Berlusconi offer to coach AC Milan, asserting that sport-specific specialization mattered more than charismatic portability.
 - Italian men's volleyball 1990-2005 is characterized as "the Golden Age Of Volleyball."
 - The language gap: Velasco's philosophies, theories, and working materials are almost entirely Italian- and Spanish-language; there is "virtually nothing" in English.
@@ -45,5 +45,5 @@ Mark Lebedew's 2015 blog post presenting Ruben Wolochin's English translation of
 
 - Raw file: [[lebedew-2015-velasco-thinker-of-game]]
 - URL: https://marklebedew.com/2015/02/26/julio-velasco-the-thinker-of-the-game/
-- Trust tier: 2 — credentialed coach blog translating a primary interview
+- Trust tier: 2, credentialed coach blog translating a primary interview
 - Ingested via: webfetch on 2026-04-24

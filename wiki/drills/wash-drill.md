@@ -22,20 +22,20 @@ Full 6v6 on a regulation court. Coach with a ball cart at the sideline. Whiteboa
 
 ## Execution
 1. Coach serves or enters a free ball to one team; play out the rally.
-2. If Team A wins, coach enters the next ball immediately — Team A must win again to score.
+2. If Team A wins, coach enters the next ball immediately: Team A must win again to score.
 3. If Team A wins the second rally, they bank one point. Reset to 0-0 in the current wash. Coach enters the next ball to Team B.
 4. If the sequence splits (A wins then B wins), both rallies wash out; nobody scores; coach enters next ball to the team that most recently won.
 5. Play to 10 (or 15) banked points. Losing team does a conditioning consequence.
 
 ## Coaching points
-- Wash rewards clutch — scoring is hard, so every possession matters.
+- Wash rewards clutch, scoring is hard, so every possession matters.
 - No "swing-outs" on the first rally because you were flustered from the second; each rally is independent at the body level but connected at the scoreboard.
 - Momentum is real; the team that just won the first rally must bring the same energy to the second or the wash erases the work.
-- Communication stays up during dead-ball — coach gives 3 seconds between rallies, no more.
+- Communication stays up during dead-ball, coach gives 3 seconds between rallies, no more.
 - Consequence is part of the drill; Rose-style accountability is what makes wash bite.
 
 ## Variations
-- **Three-in-a-row:** team must win three consecutive rallies to bank a point — harder.
+- **Three-in-a-row:** team must win three consecutive rallies to bank a point, harder.
 - **Entry variety:** alternate coach free-balls, coach down-balls, and live serves.
 - **Rotation wash:** losing team rotates on each wash.
 

@@ -17,7 +17,7 @@ trust-tier: 2
 
 ## Summary
 
-Wikipedia biographical article covering the career of Argentine-Italian coach Julio Velasco (b. 1952, La Plata), with extensive detail on his 1989-1996 Italy men's national team tenure that produced the "Generazione di Fenomeni" (Generation of Phenomena) — two FIVB World Championships (1990, 1994), three European titles, five World League titles, and 1996 Olympic silver. Covers subsequent national team postings (Italy women, Czech Republic, Spain, Iran, Argentina) and his 2024 return to Italy women that yielded Olympic gold, 2025 World Championship gold, and back-to-back VNL titles.
+Wikipedia biographical article covering the career of Argentine-Italian coach Julio Velasco (b. 1952, La Plata), with extensive detail on his 1989-1996 Italy men's national team tenure that produced the "Generazione di Fenomeni" (Generation of Phenomena): two FIVB World Championships (1990, 1994), three European titles, five World League titles, and 1996 Olympic silver. Covers subsequent national team postings (Italy women, Czech Republic, Spain, Iran, Argentina) and his 2024 return to Italy women that yielded Olympic gold, 2025 World Championship gold, and back-to-back VNL titles.
 
 ## Key claims / ideas
 
@@ -25,7 +25,7 @@ Wikipedia biographical article covering the career of Argentine-Italian coach Ju
 - Under Velasco, Italy won the 1989 European Championship (first official international title), then the 1990 FIVB World Championship in Brazil, defeating Cuba 3-1 in the final.
 - Italy won back-to-back World Championships (1990, 1994) and five World League titles (1990, 1991, 1992, 1994, 1995) during his tenure.
 - The 1996 Olympic silver is described as "a historic moment for the Italian Volleyball Federation."
-- Velasco "de-emphasized the specialization trend of the 1980s and introduce[d] the concept of the 'square' — team unity where the team was better than the sum of its players."
+- Velasco "de-emphasized the specialization trend of the 1980s and introduce[d] the concept of the 'square', team unity where the team was better than the sum of its players."
 - Key "Generazione di Fenomeni" players: Zorzi, Gardini, Giani, Bernardi, Gravina, Bracci, Tofoli, Lucchetta, Papi, Pasinato, Meoni.
 - Post-Italy-men appointments: Italy women (1996-97), Czech Republic (2001), Spain (2008-10), Iran (2011-14, two Asian Championships), Argentina (2014-18, 2015 Pan American Games gold).
 - Returned to Italy women in 2024 and won 2024 Olympic gold, 2025 World Championship gold, 2024/2025 VNL titles.
@@ -36,7 +36,7 @@ Wikipedia biographical article covering the career of Argentine-Italian coach Ju
 ## Topics covered
 
 - Velasco biographical career timeline (player, assistant coach, club coach, national team coach)
-- Italian school of volleyball — origin via "Generazione di Fenomeni"
+- Italian school of volleyball, origin via "Generazione di Fenomeni"
 - "Square" concept of team unity over specialization
 - National team portfolio: Italy, Argentina, Czech Republic, Spain, Iran
 - Italy women's resurgence 2024-2025
@@ -50,5 +50,5 @@ Wikipedia biographical article covering the career of Argentine-Italian coach Ju
 
 - Raw file: `velasco-wikipedia-bio`
 - URL: https://en.wikipedia.org/wiki/Julio_Velasco
-- Trust tier: 2 — Wikipedia, corroboration-required
+- Trust tier: 2: Wikipedia, corroboration-required
 - Ingested via: webfetch on 2026-04-23

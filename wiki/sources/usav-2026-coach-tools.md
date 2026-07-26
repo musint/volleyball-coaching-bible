@@ -19,7 +19,7 @@ trust-tier: 1
 
 The USA Volleyball Coach Tools page is the organization's toolbox hub, collecting drills, competition formats, educational materials, and expert recommendations for coaches at all levels. The resource library is organized into indoor drills (16 foundational plus 8 advanced), beach drills (12 sand-specific), and competition formats (Pools of Three, Round Robin All-Court, Competitive Cauldron, Variable Net Height, Family Volleyball, Mad Hatter, etc.).
 
-Educational anchors include four archived volumes of John Kessel's "Growing the Game" blog covering 2008–2015, the Minivolley Book in English, Spanish, and Italian, webinars on increasing contacts-per-hour and motor learning, and a Q&A with Karch Kiraly. The page's guiding principle, attributed to John Kessel, is "Does the drill use the environment my players are going to compete and read and anticipate in?" — focusing drill selection on game-realistic reading and anticipation.
+Educational anchors include four archived volumes of John Kessel's "Growing the Game" blog covering 2008 to 2015, the Minivolley Book in English, Spanish, and Italian, webinars on increasing contacts-per-hour and motor learning, and a Q&A with Karch Kiraly. The page's guiding principle, attributed to John Kessel, is "Does the drill use the environment my players are going to compete and read and anticipate in?", focusing drill selection on game-realistic reading and anticipation.
 
 ## Key claims / ideas
 
@@ -28,7 +28,7 @@ Educational anchors include four archived volumes of John Kessel's "Growing the 
 - Competitive Cauldron is a recommended competition/scoring format with supporting Excel tools.
 - Variable Net Height and Family Volleyball are endorsed competition formats for engagement.
 - The Minivolley Book is the recommended youth-volleyball instruction reference.
-- John Kessel's blog archives (2008–2015) are treated as canonical coaching reading.
+- John Kessel's blog archives (2008 to 2015) are treated as canonical coaching reading.
 
 ## Topics covered
 
@@ -46,4 +46,4 @@ Educational anchors include four archived volumes of John Kessel's "Growing the 
 ## Access
 - Raw file: `raw/usav/coach-tools.md`
 - URL: https://usavolleyball.org/resources-for-coaches/coaches-tools/
-- Trust tier: 1 — official USA Volleyball resource
+- Trust tier: 1, official USA Volleyball resource

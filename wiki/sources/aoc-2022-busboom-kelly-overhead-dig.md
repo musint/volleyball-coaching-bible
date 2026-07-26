@@ -16,7 +16,7 @@ trust-tier: 2
 # Overhead digging drill: Hands together & cup
 
 ## Summary
-Nebraska's Dani Busboom Kelly trains overhead digs as an emergency move — hands cup above forehead with thumbs behind, minimal movement, just pop it up for a teammate.
+Nebraska's Dani Busboom Kelly trains overhead digs as an emergency move, hands cup above forehead with thumbs behind, minimal movement, just pop it up for a teammate.
 
 ## Key claims / ideas
 - Overhead dig is an emergency technique when the ball is too fast to set.
@@ -35,5 +35,5 @@ Nebraska's Dani Busboom Kelly trains overhead digs as an emergency move — hand
 ## Access
 - Raw file: [[aoc-2022-busboom-kelly-overhead-dig]]
 - URL: https://www.theartofcoachingvolleyball.com/overhead-digging-drill/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

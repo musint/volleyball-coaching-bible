@@ -19,7 +19,7 @@ Tod Mattox (Bishop's School) walks through a specific 40-minute HS practice plan
 
 ## Key claims / ideas
 
-- Practice has an ebb and flow that coaches can design for, not just observe.
+- Practice has an ebb and flow that coaches can design for rather than observe.
 - A HS practice can be productive in 40 minutes if the sequence is well-chosen.
 - Opening with short-court/pepper warms technique; closing with hitting builds intensity where it matters most.
 

@@ -17,11 +17,11 @@ trust-tier: 3
 
 ## Summary
 
-Profile-level entry for The Art of Coaching Volleyball's Instagram account, captured 2026-04-23. Direct WebFetch returned only the Instagram login wall; no post captions, no verification badge status, and no follower count could be directly confirmed via fetch. Metadata in this source page is from WebSearch result snippets, not from the live profile. Serves as an entry-point stub so downstream wiki pages can link to the AoC IG feed by citation key; do not cite specific posts off this entry.
+Profile-level entry for The Art of Coaching Volleyball's Instagram account, captured 2026-04-23. Direct WebFetch returned only the Instagram login wall; no post captions, no verification badge status, and no follower count could be directly confirmed via fetch. Metadata in this source page is from WebSearch result snippets, not from the live profile. This is an entry-point stub so downstream wiki pages can link to the AoC IG feed by citation key; do not cite specific posts off this entry.
 
 ## Key claims / ideas
 
-- (None captured — fetch-blocked. Profile existence and organizational identity confirmed via multiple independent search result snippets.)
+- (None captured, fetch-blocked. Profile existence and organizational identity confirmed via multiple independent search result snippets.)
 
 ## Topics covered
 
@@ -35,5 +35,5 @@ Profile-level entry for The Art of Coaching Volleyball's Instagram account, capt
 
 - Raw file: `raw/instagram/artofcoachingvb-20260423-profile.md`
 - URL: https://www.instagram.com/artofcoachingvb/
-- Trust tier: 3 — verified-account; content blocked by IG login wall
+- Trust tier: 3, verified-account; content blocked by IG login wall
 - **Corroboration required before heavy use.** Individual posts must be verified and captured separately.

@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "ASICS Skill Series with Terry Liskevych – Blocking"
+title: "ASICS Skill Series with Terry Liskevych - Blocking"
 author: "Terry Liskevych"
 year: 2017
 citation-key: aoc-2017-liskevych-asics-blocking
@@ -13,7 +13,7 @@ schools: [art-of-coaching-volleyball, usa-volleyball-cap]
 trust-tier: 2
 ---
 
-# ASICS Skill Series with Terry Liskevych – Blocking
+# ASICS Skill Series with Terry Liskevych, Blocking
 
 ## Summary
 ASICS Skill Series instructional video with Liskevych on blocking technique.
@@ -35,5 +35,5 @@ ASICS Skill Series instructional video with Liskevych on blocking technique.
 ## Access
 - Raw file: [[aoc-2017-liskevych-asics-blocking]]
 - URL: https://www.theartofcoachingvolleyball.com/asics-skill-series-with-terry-liskevych-blocking/
-- Trust tier: 2 — AOC, Liskevych
+- Trust tier: 2: AOC, Liskevych
 - Ingested via: aoc-mcp on 2026-04-23

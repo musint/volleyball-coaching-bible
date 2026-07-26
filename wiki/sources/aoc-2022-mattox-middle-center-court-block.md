@@ -21,7 +21,7 @@ Tod Mattox drills running the middle from center-court sets with a live opposing
 ## Key claims / ideas
 - Approach cadence: soft right, hard left, step, close, jump, hit.
 - Setter pushes antenna-high set from mid-court to middle of net.
-- Live middle blocker forces hitters to solve the block, not just hit into air.
+- Live middle blocker forces hitters to solve the block instead of hitting into air.
 - Useful for center-court offense timing.
 
 ## Topics covered
@@ -35,5 +35,5 @@ Tod Mattox drills running the middle from center-court sets with a live opposing
 ## Access
 - Raw file: [[aoc-2022-mattox-middle-center-court-block]]
 - URL: https://www.theartofcoachingvolleyball.com/running-the-middle-from-center-court-with-a-block/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

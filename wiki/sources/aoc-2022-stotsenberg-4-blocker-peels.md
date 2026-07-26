@@ -17,7 +17,7 @@ trust-tier: 2
 # Blocking drill: 4 blocker peels
 
 ## Summary
-Wave Volleyball's Jed Stotsenberg drills blocker coordination — four blockers peel from inside/outside positions to the pin in unison, grooving the joint movement pattern without a ball.
+Wave Volleyball's Jed Stotsenberg drills blocker coordination, four blockers peel from inside/outside positions to the pin in unison, grooving the joint movement pattern without a ball.
 
 ## Key claims / ideas
 - "Moving together as a unit, grooving the pattern" is the drill's central cue.
@@ -36,5 +36,5 @@ Wave Volleyball's Jed Stotsenberg drills blocker coordination — four blockers 
 ## Access
 - Raw file: [[aoc-2022-stotsenberg-4-blocker-peels]]
 - URL: https://www.theartofcoachingvolleyball.com/4-blocker-peels/
-- Trust tier: 2 — AOC
+- Trust tier: 2: AOC
 - Ingested via: aoc-mcp on 2026-04-23

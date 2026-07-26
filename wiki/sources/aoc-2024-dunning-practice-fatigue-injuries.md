@@ -19,10 +19,10 @@ This is AOC curricular content; defer to qualified AT/CSCS/MD on programming spe
 
 ## Key claims / ideas
 
-- Jump counting per player is essential for volleyball injury management — Dunning adopted this mid-career after previously not tracking.
-- When a player hits her jump limit, she stops practicing — no negotiation.
+- Jump counting per player is essential for volleyball injury management: Dunning adopted this mid-career after previously not tracking.
+- When a player hits her jump limit, she stops practicing, no negotiation.
 - Practice duration target: 90 minutes to 2 hours (Liskevych).
-- Late-season practices should shrink — an hour may be enough as the season nears its end.
+- Late-season practices should shrink, an hour may be enough as the season nears its end.
 - Liskevych mantra: "Rest is best."
 
 ## Topics covered

@@ -34,5 +34,5 @@ Russ Rose shares three rules for club coaches at the start of the club season, e
 ## Access
 - Raw file: [[aoc-2023-rose-club-rules]]
 - URL: https://www.theartofcoachingvolleyball.com/russ-roses-rules-for-club-season/
-- Trust tier: 2 — AOC, Russ Rose
+- Trust tier: 2: AOC, Russ Rose
 - Ingested via: aoc-mcp on 2026-04-23

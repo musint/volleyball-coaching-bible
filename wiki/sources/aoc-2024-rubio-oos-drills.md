@@ -39,5 +39,5 @@ Dave Rubio (Arizona '92-'22) argues that college teams should train out-of-syste
 ## Access
 - Raw file: [[aoc-2024-rubio-oos-drills]]
 - URL: https://www.theartofcoachingvolleyball.com/in-system-out-of-system/
-- Trust tier: 2 — AOC, 30-year Arizona head coach
+- Trust tier: 2: AOC, 30-year Arizona head coach
 - Ingested via: aoc-mcp on 2026-04-23

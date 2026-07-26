@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "2025-26 NCAA Recruiting Calendar — Division I Women's Volleyball"
+title: "2025-26 NCAA Recruiting Calendar, Division I Women's Volleyball"
 author: "National Collegiate Athletic Association"
 year: 2025
 citation-key: ncaa-2025-26-d1-wvb-recruiting-calendar
@@ -13,11 +13,11 @@ schools: []
 trust-tier: 1
 ---
 
-# 2025-26 NCAA Recruiting Calendar — Division I Women's Volleyball
+# 2025-26 NCAA Recruiting Calendar: Division I Women's Volleyball
 
 ## Summary
 
-The NCAA's authoritative 2025-26 Division I women's volleyball recruiting calendar, published by the NCAA compliance office. The calendar is a scheduling overlay on top of NCAA Bylaw 13 legislation: it defines which segments of the August-2025-through-July-2026 year constitute contact periods (off-campus recruiting permitted), evaluation periods (assessment only, no contacts), quiet periods (on-campus contact only), dead periods (no contact or visits anywhere), and recruiting shutdowns. The PDF is published annually by NCAA compliance and distributed through NCAA.org's recruiting-calendars directory. It does not define **who** is a recruitable prospect — sport-specific floors for first permissible communication and first visit are governed by Bylaw 13.1.1 / 13.02, which for D1 women's volleyball sets June 15 after sophomore year for coach-initiated communication and August 1 before junior year for visits.
+The NCAA's authoritative 2025-26 Division I women's volleyball recruiting calendar, published by the NCAA compliance office. The calendar is a scheduling overlay on top of NCAA Bylaw 13 legislation: it defines which segments of the August-2025-through-July-2026 year constitute contact periods (off-campus recruiting permitted), evaluation periods (assessment only, no contacts), quiet periods (on-campus contact only), dead periods (no contact or visits anywhere), and recruiting shutdowns. The PDF is published annually by NCAA compliance and distributed through NCAA.org's recruiting-calendars directory. It does not define **who** is a recruitable prospect, sport-specific floors for first permissible communication and first visit are governed by Bylaw 13.1.1 / 13.02, which for D1 women's volleyball sets June 15 after sophomore year for coach-initiated communication and August 1 before junior year for visits.
 
 ## Key claims / ideas
 
@@ -28,7 +28,7 @@ The NCAA's authoritative 2025-26 Division I women's volleyball recruiting calend
 - The January 16 - July 31, 2026 spring contact period contains four quiet-period blocks: March 2-5 / 9-12 / 16-19 / 23-26, March 30 - April 2, April 6-9, and May 1-28 (these align with club-tournament weekends when evaluation-period alternatives exist elsewhere on the NCAA recruiting-calendar overlay).
 - The D1 championship dead period's one-day / 30-mile-radius evaluation exception specifies coaches from the same institution must attend the same event on the same day.
 - The AVCA awards banquet carve-out permits incidental contact with honored prospects only where no recruiting conversation occurs.
-- Five period types are formally defined in the PDF: quiet, dead, evaluation, contact, recruiting shutdown (the 2025-26 volleyball calendar does not use the recruiting-shutdown designation in any window — it is listed for completeness).
+- Five period types are formally defined in the PDF: quiet, dead, evaluation, contact, recruiting shutdown (the 2025-26 volleyball calendar does not use the recruiting-shutdown designation in any window, it is listed for completeness).
 
 ## Topics covered
 
@@ -40,10 +40,10 @@ The NCAA's authoritative 2025-26 Division I women's volleyball recruiting calend
 
 ## Where it's cited
 
-- `wiki/recruiting.md` — NCAA D1 recruiting-calendar architecture (contact / visit / dead windows)
+- `wiki/recruiting.md`: NCAA D1 recruiting-calendar architecture (contact / visit / dead windows)
 
 ## Access
 
 - Raw file: `raw/articles/ncaa-2025-26-d1-wvb-recruiting-calendar.md`
 - URL: https://ncaaorg.s3.amazonaws.com/compliance/recruiting/calendar/2025-26/2025-26D1Rec_WVBRecruitingCalendar.pdf (directory: https://www.ncaa.org/sports/2018/5/8/division-i-and-ii-recruiting-calendars.aspx)
-- Trust tier: 1 — official NCAA compliance publication
+- Trust tier: 1, official NCAA compliance publication

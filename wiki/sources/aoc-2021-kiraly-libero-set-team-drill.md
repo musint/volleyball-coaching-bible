@@ -19,9 +19,9 @@ trust-tier: 2
 A full-team drill that manufactures out-of-system reps by forcing the setter to dig and the libero to set a pin attacker. Designed to train the libero as offensive second-contact and make out-of-system finish-points routine.
 
 ## Key claims / ideas
-- Liberos are de-facto setters whenever the setter takes the first ball — but teams rarely train this explicitly.
+- Liberos are de-facto setters whenever the setter takes the first ball, but teams rarely train this explicitly.
 - Drill design: two teams play a normal rally, winner is fed a hard-driven ball so the setter must dig; libero sets a pin attacker.
-- Focus is comfort for the libero setting into offensive situations, not just emergency bump-sets.
+- Focus is comfort for the libero setting into offensive situations, beyond emergency bump-sets.
 - Requires two full teams, a court, a coach, and balls.
 
 ## Topics covered
@@ -36,5 +36,5 @@ A full-team drill that manufactures out-of-system reps by forcing the setter to 
 ## Access
 - Raw file: [[aoc-2021-kiraly-libero-set-team-drill]]
 - URL: https://www.theartofcoachingvolleyball.com/karch-team-drill/
-- Trust tier: 2 — AOC, Kiraly named
+- Trust tier: 2: AOC, Kiraly named
 - Ingested via: aoc-mcp on 2026-04-23

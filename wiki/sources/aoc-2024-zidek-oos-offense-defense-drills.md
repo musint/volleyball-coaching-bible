@@ -20,9 +20,9 @@ Marie Zidek (DePaul) shares two match-prep drills that pair out-of-system offens
 
 ## Key claims / ideas
 - Pinched-in blockers spread on a coach-initiated OOS dig, teaching positioning vs. OOS attack.
-- OOS dig drill converts libero into setter for the rep — simultaneously trains libero setting and blocker line-sealing.
+- OOS dig drill converts libero into setter for the rep, simultaneously trains libero setting and blocker line-sealing.
 - Second drill uses an intentionally off-the-net set to force OH high cut shots to zones 1 or 6.
-- OH targets the opposing setter in the back row with the cut shot — deliberate strategic choice.
+- OH targets the opposing setter in the back row with the cut shot, deliberate strategic choice.
 - Second-ball reward converts the rally to in-system front-row swing, so OH practices both modes.
 - Drills are especially valuable pre-match to bounce between OOS and in-system looks.
 
@@ -40,5 +40,5 @@ Marie Zidek (DePaul) shares two match-prep drills that pair out-of-system offens
 ## Access
 - Raw file: [[aoc-2024-zidek-oos-offense-defense-drills]]
 - URL: https://www.theartofcoachingvolleyball.com/out-of-system-offense-and-defense-drills/
-- Trust tier: 2 — AOC, D1 coach video
+- Trust tier: 2: AOC, D1 coach video
 - Ingested via: aoc-mcp on 2026-04-23

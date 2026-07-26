@@ -1,7 +1,7 @@
 ---
 type: source
 source-type: article
-title: "KOR W: Lavarini refuses new contract, his assistant appointed new Korea head coach — WorldOfVolley"
+title: "KOR W: Lavarini refuses new contract, his assistant appointed new Korea head coach, WorldOfVolley"
 author: "WorldOfVolley editorial"
 year: 2021
 citation-key: worldofvolley-2021-lavarini-departure
@@ -13,10 +13,10 @@ schools: [korean-school, italian-school]
 trust-tier: 3
 ---
 
-# Lavarini Refuses New Contract; Hernández Appointed New Korea HC — WorldOfVolley (Oct 29, 2021)
+# Lavarini Refuses New Contract; Hernández Appointed New Korea HC: WorldOfVolley (Oct 29, 2021)
 
 ## Summary
-News article documenting Lavarini's October 2021 decision to decline a contract renewal with Korea (preferring Europe-only work) and the immediate KVA appointment of his assistant, **César Hernández González** (Spain), as successor. Hernández's concurrent role as Giovanni Guidetti's assistant at VakıfBank Istanbul puts the Korean women's program inside the Italian-school post-Velasco coaching diaspora across two head-coach tenures. Tier 3 because WorldOfVolley aggregates from primary press without independent verification — corroborate with [[volleyballworld-2021-hernandez-korea-appointment]] (Tier 2) before deep claims.
+News article documenting Lavarini's October 2021 decision to decline a contract renewal with Korea (preferring Europe-only work) and the immediate KVA appointment of his assistant, **César Hernández González** (Spain), as successor. Hernández's concurrent role as Giovanni Guidetti's assistant at VakıfBank Istanbul puts the Korean women's program inside the Italian-school post-Velasco coaching diaspora across two head-coach tenures. Tier 3 because WorldOfVolley aggregates from primary press without independent verification, corroborate with [[volleyballworld-2021-hernandez-korea-appointment]] (Tier 2) before deep claims.
 
 ## Key claims / ideas
 - Lavarini tenure: roughly **2019-2021** (~3 years)
@@ -30,10 +30,10 @@ News article documenting Lavarini's October 2021 decision to decline a contract 
 - KVA federation decision-making
 
 ## Where it's cited
-- [[korean-school]] — sources the Italian-school continuity narrative across the Lavarini → Hernández transition
-- [[kva-korea]] — federation-stub coaching transitions
+- [[korean-school]]: sources the Italian-school continuity narrative across the Lavarini → Hernández transition
+- [[kva-korea]]: federation-stub coaching transitions
 
 ## Access
 - Raw file: `raw/articles/worldofvolley-2021-lavarini-departure.md`
 - URL: https://worldofvolley.com/latest_news/othercountries/305223/...
-- Trust tier: 3 — aggregator article; cross-corroborate with [[volleyballworld-2021-hernandez-korea-appointment]] (Tier 2).
+- Trust tier: 3, aggregator article; cross-corroborate with [[volleyballworld-2021-hernandez-korea-appointment]] (Tier 2).
