@@ -203,7 +203,7 @@ export default function DrillFilter({ drills }: Props) {
                   <td class="px-3 py-2 text-slate-700">{d.primary}</td>
                   <td class="px-3 py-2 text-slate-600">{d.phase}</td>
                   <td class="px-3 py-2 tabular-nums">{d.durationMin}</td>
-                  <td class="px-3 py-2 text-slate-600">{d.teamMin}–{d.teamMax}</td>
+                  <td class="px-3 py-2 text-slate-600">{d.teamMin} to {d.teamMax}</td>
                   <td class="px-3 py-2 hidden md:table-cell text-slate-500 text-xs">{d.levels.join(', ')}</td>
                 </tr>
               ))}

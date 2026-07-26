@@ -21,7 +21,7 @@ const sessions = practicePlans.filter(p => !p.data.scope || p.data.scope === 'si
   <section class="max-w-6xl mx-auto px-4 py-10">
     <h1 class="tracking-tight text-4xl font-semibold text-slate-900 mb-2">Coaching Standards Manual</h1>
     <p class="text-slate-600 max-w-2xl mb-8">
-      Per-age technical milestones, canonical cues, drill pick-lists, and tryout rubrics — the four-question loop your coaches use to keep skill training consistent across every age group.
+      Per-age technical milestones, canonical cues, drill pick-lists, and tryout rubrics: the four-question loop your coaches use to keep skill training consistent across every age group.
     </p>
 
     <div class="grid md:grid-cols-2 gap-6 mb-12">
@@ -43,7 +43,7 @@ const sessions = practicePlans.filter(p => !p.data.scope || p.data.scope === 'si
         <ul class="space-y-1">
           {ageGuides.map(a => (
             <li><a href={`${base}/manual/ages/${a.id}/`} class="block px-2 py-1 rounded hover:bg-slate-100 no-underline text-slate-800">
-              <span class="font-semibold">{a.data.age}</span> <span class="text-slate-500 text-sm">— {a.data.phase}</span>
+              <span class="font-semibold">{a.data.age}</span> <span class="text-slate-500 text-sm">· {a.data.phase}</span>
             </a></li>
           ))}
         </ul>

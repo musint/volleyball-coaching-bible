@@ -109,7 +109,7 @@ switch (collection) {
     if (data['duration-min'] != null) facts.push({ label: 'Duration', value: `${data['duration-min']} min`, kind: 'chip' });
     const tsMin = data['team-size-min'];
     const tsMax = data['team-size-max'];
-    if (tsMin != null && tsMax != null) facts.push({ label: 'Team size', value: `${tsMin}–${tsMax}`, kind: 'chip' });
+    if (tsMin != null && tsMax != null) facts.push({ label: 'Team size', value: `${tsMin} to ${tsMax}`, kind: 'chip' });
     const levels = arr(data.levels);
     if (levels.length) facts.push({ label: 'Levels', value: levels, kind: 'chip' });
     const equip = arr(data.equipment);

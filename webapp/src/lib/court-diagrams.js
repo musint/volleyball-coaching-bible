@@ -29,7 +29,7 @@ const C = {
   blocker: '#ef4444', // red-500
   blockerOff: '#fca5a5', // red-300 (off-blocker, pulls)
   defender: '#2563eb', // blue-600
-  defenderAnchor: '#1d4ed8', // blue-700 (the 6m middle anchor — distinguished)
+  defenderAnchor: '#1d4ed8', // blue-700 (the 6m middle anchor: distinguished)
   libero: '#facc15', // yellow-400
   liberoBorder: '#a16207', // yellow-700
   attackArrow: '#dc2626', // red-600
@@ -49,7 +49,7 @@ function makePlayer(id, x, y, label, color, role, opts = {}) {
     color,
     borderColor: opts.borderColor || color,
     role,
-    accent: opts.accent || false, // for the libero or anchor — gets a halo/star
+    accent: opts.accent || false, // for the libero or anchor: gets a halo/star
   };
 }
 
@@ -58,13 +58,13 @@ function makePlayer(id, x, y, label, color, role, opts = {}) {
 export const DEFENSE_CONFIGS = {
   // 1. Middle-Middle, libero-at-LB (user's preferred install)
   'middle-middle-libero-lb': {
-    title: 'Middle-Middle Defense — Libero at LB',
+    title: 'Middle-Middle Defense: Libero at LB',
     subtitle: 'Trinsey/GMS scheme · libero at zone 5 (line) · MB anchor at 6m middle',
     players: [
       makePlayer('LF', 200, NET_Y + 30, 'LF', C.blocker, 'Block (line side)'),
       makePlayer('MF', 450, NET_Y + 30, 'MF', C.blocker, 'Block (middle)'),
-      makePlayer('RF', 750, LINE_3M_Y, 'RF', C.blockerOff, 'Off-blocker — pulls to short cross/tip'),
-      makePlayer('LB', 200, NET_Y + 550, 'L', C.libero, 'Libero — line, deep-line cuts', { borderColor: C.liberoBorder, accent: true }),
+      makePlayer('RF', 750, LINE_3M_Y, 'RF', C.blockerOff, 'Off-blocker: pulls to short cross/tip'),
+      makePlayer('LB', 200, NET_Y + 550, 'L', C.libero, 'Libero: line, deep-line cuts', { borderColor: C.liberoBorder, accent: true }),
       makePlayer('MB', 450, NET_Y + 600, 'MB', C.defenderAnchor, '6m middle anchor (Trinsey 90-95% zone)', { accent: true }),
       makePlayer('RB', 750, NET_Y + 600, 'RB', C.defender, 'Cross side, deep cross + over-the-block'),
     ],
@@ -75,14 +75,14 @@ export const DEFENSE_CONFIGS = {
 
   // 2. Middle-Middle, libero-at-MB (Trinsey-canonical alternative)
   'middle-middle-libero-mb': {
-    title: 'Middle-Middle Defense — Libero at MB',
+    title: 'Middle-Middle Defense: Libero at MB',
     subtitle: 'Trinsey-canonical · libero anchors 6m middle directly',
     players: [
       makePlayer('LF', 200, NET_Y + 30, 'LF', C.blocker, 'Block (line side)'),
       makePlayer('MF', 450, NET_Y + 30, 'MF', C.blocker, 'Block (middle)'),
-      makePlayer('RF', 750, LINE_3M_Y, 'RF', C.blockerOff, 'Off-blocker — pulls to short cross/tip'),
+      makePlayer('RF', 750, LINE_3M_Y, 'RF', C.blockerOff, 'Off-blocker: pulls to short cross/tip'),
       makePlayer('LB', 200, NET_Y + 550, 'LB', C.defender, 'Line, deep-line cuts'),
-      makePlayer('MB', 450, NET_Y + 600, 'L', C.libero, 'Libero — 6m middle anchor', { borderColor: C.liberoBorder, accent: true }),
+      makePlayer('MB', 450, NET_Y + 600, 'L', C.libero, 'Libero: 6m middle anchor', { borderColor: C.liberoBorder, accent: true }),
       makePlayer('RB', 750, NET_Y + 600, 'RB', C.defender, 'Cross side, deep cross'),
     ],
     attackOrigin: { x: 750, y: 180 },
@@ -90,16 +90,16 @@ export const DEFENSE_CONFIGS = {
     attackerLabel: 'OH',
   },
 
-  // 3. Middle-Back (libero deep at end line — modern HS+/college default)
+  // 3. Middle-Back (libero deep at end line: modern HS+/college default)
   'middle-back': {
     title: 'Middle-Back Defense',
     subtitle: 'Libero deep at zone 6 (~8-9m, end line) · reads block seam · shifts seam-to-seam',
     players: [
       makePlayer('LF', 200, NET_Y + 30, 'LF', C.blocker, 'Block (line side)'),
       makePlayer('MF', 450, NET_Y + 30, 'MF', C.blocker, 'Block (middle)'),
-      makePlayer('RF', 750, LINE_3M_Y, 'RF', C.blockerOff, 'Off-blocker — pulls to short cross/tip'),
+      makePlayer('RF', 750, LINE_3M_Y, 'RF', C.blockerOff, 'Off-blocker: pulls to short cross/tip'),
       makePlayer('LB', 200, NET_Y + 700, 'LB', C.defender, 'Line, deep'),
-      makePlayer('MB', 450, NET_Y + 800, 'L', C.libero, 'Libero — deep middle, reads seam', { borderColor: C.liberoBorder, accent: true }),
+      makePlayer('MB', 450, NET_Y + 800, 'L', C.libero, 'Libero: deep middle, reads seam', { borderColor: C.liberoBorder, accent: true }),
       makePlayer('RB', 750, NET_Y + 700, 'RB', C.defender, 'Cross deep, over-the-block'),
     ],
     attackOrigin: { x: 750, y: 180 },
@@ -114,9 +114,9 @@ export const DEFENSE_CONFIGS = {
     players: [
       makePlayer('LF', 200, NET_Y + 30, 'LF', C.blocker, 'Block (line side)'),
       makePlayer('MF', 450, NET_Y + 30, 'MF', C.blocker, 'Block (middle)'),
-      makePlayer('RF', 750, LINE_3M_Y - 20, 'RF', C.blockerOff, 'Off-blocker — short cross / tip cover'),
+      makePlayer('RF', 750, LINE_3M_Y - 20, 'RF', C.blockerOff, 'Off-blocker: short cross / tip cover'),
       makePlayer('LB', 130, NET_Y + 750, 'LB', C.defender, 'Deep line corner (zone 5)'),
-      makePlayer('MB', 450, NET_Y + 820, 'L', C.libero, 'Libero — deep middle (zone 6)', { borderColor: C.liberoBorder, accent: true }),
+      makePlayer('MB', 450, NET_Y + 820, 'L', C.libero, 'Libero: deep middle (zone 6)', { borderColor: C.liberoBorder, accent: true }),
       makePlayer('RB', 770, NET_Y + 750, 'RB', C.defender, 'Deep cross corner (zone 1)'),
     ],
     attackOrigin: { x: 750, y: 180 },
@@ -124,16 +124,16 @@ export const DEFENSE_CONFIGS = {
     attackerLabel: 'OH',
   },
 
-  // 5. Up Defense / 6-Up / Setter-Up (Russ Rose's published variant — defender at 3m line)
+  // 5. Up Defense / 6-Up / Setter-Up (Russ Rose's published variant: defender at 3m line)
   'up-defense': {
     title: 'Up Defense (6-Up / Setter-Up)',
     subtitle: 'Russ Rose · back-row defender pulled to 3m line behind block · tip-priority',
     players: [
       makePlayer('LF', 200, NET_Y + 30, 'LF', C.blocker, 'Block (line side)'),
       makePlayer('MF', 450, NET_Y + 30, 'MF', C.blocker, 'Block (middle)'),
-      makePlayer('RF', 750, LINE_3M_Y - 20, 'RF', C.blockerOff, 'Off-blocker — short cross'),
+      makePlayer('RF', 750, LINE_3M_Y - 20, 'RF', C.blockerOff, 'Off-blocker: short cross'),
       makePlayer('LB', 200, NET_Y + 700, 'LB', C.defender, 'Line, deep'),
-      makePlayer('UP', 450, LINE_3M_Y - 20, 'UP', C.defenderAnchor, 'Up defender (libero or other) — 3m line behind block', { accent: true }),
+      makePlayer('UP', 450, LINE_3M_Y - 20, 'UP', C.defenderAnchor, 'Up defender (libero or other): 3m line behind block', { accent: true }),
       makePlayer('RB', 750, NET_Y + 700, 'RB', C.defender, 'Cross, deep'),
     ],
     attackOrigin: { x: 750, y: 180 },
@@ -181,7 +181,7 @@ function courtBackground() {
     <!-- side lines (opponent strip; lighter) -->
     <line x1="0" y1="0" x2="0" y2="${NET_Y}" stroke="${C.line}" stroke-width="2" stroke-opacity="0.4" />
     <line x1="${W}" y1="0" x2="${W}" y2="${NET_Y}" stroke="${C.line}" stroke-width="2" stroke-opacity="0.4" />
-    <!-- top of opponent strip (their endline edge — partial) -->
+    <!-- top of opponent strip (their endline edge: partial) -->
     <line x1="0" y1="0" x2="${W}" y2="0" stroke="${C.line}" stroke-width="2" stroke-opacity="0.4" />
     <!-- net band -->
     <rect x="0" y="${NET_Y - 14}" width="${W}" height="28" fill="url(#court-net)" stroke="${C.net}" stroke-width="2" />`;
