@@ -25,8 +25,8 @@ const payload = drills.map(d => ({
 <DefaultLayout title="Drill catalog" description="Filterable catalog of every drill in the manual.">
   <section class="max-w-6xl mx-auto px-4 py-8">
     <div class="mb-6">
-      <h1 class="font-serif text-3xl font-bold tracking-tight text-stone-900">Drill catalog</h1>
-      <p class="text-stone-600 mt-1">{drills.length} drills · filter by skill, phase, age level, duration, team size.</p>
+      <h1 class="tracking-tight text-3xl font-semibold tracking-tight text-slate-900">Drill catalog</h1>
+      <p class="text-slate-600 mt-1">{drills.length} drills · filter by skill, phase, age level, duration, team size.</p>
     </div>
     <DrillFilter client:load drills={payload} base={base} />
   </section>

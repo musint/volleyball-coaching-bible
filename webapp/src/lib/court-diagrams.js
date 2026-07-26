@@ -23,9 +23,9 @@ const END_Y = H;
 // Color palette tied to the site's theme.
 const C = {
   courtFill: '#fef9e7', // cream
-  courtFillFaded: '#fafaf9', // stone-50
+  courtFillFaded: '#f8fafc', // slate-50
   line: '#92400e', // amber-800
-  net: '#1c1917', // stone-900
+  net: '#0f172a', // slate-900
   blocker: '#ef4444', // red-500
   blockerOff: '#fca5a5', // red-300 (off-blocker, pulls)
   defender: '#2563eb', // blue-600
@@ -34,8 +34,8 @@ const C = {
   liberoBorder: '#a16207', // yellow-700
   attackArrow: '#dc2626', // red-600
   attackerOpponent: '#7f1d1d', // red-900 (faded opponent)
-  textDark: '#1c1917', // stone-900
-  textMuted: '#78716c', // stone-500
+  textDark: '#0f172a', // slate-900
+  textMuted: '#64748b', // slate-500
 };
 
 // Player roles used across configs.

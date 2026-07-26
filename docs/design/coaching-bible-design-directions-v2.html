@@ -1,0 +1,470 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coaching Bible — design directions v2 (research-grounded)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;510;600;700&family=Manrope:wght@400;600;800&family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --page-bg:#f2f1ee; --page-ink:#1c1d20; --page-mut:#66686e; --page-rule:#dbd9d3;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--page-bg);color:var(--page-ink);font:15px/1.55 "Inter",system-ui,sans-serif}
+  .wrap{max-width:1340px;margin:0 auto;padding:28px 20px}
+  h1{font:700 26px/1.2 "Inter",sans-serif;letter-spacing:-.02em;margin:0 0 6px}
+  .lede{color:var(--page-mut);max-width:76ch;margin:0 0 14px}
+  .receipts{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:0 0 26px}
+  @media (max-width:900px){.receipts{grid-template-columns:1fr}}
+  .receipt{background:#fff;border:1px solid var(--page-rule);border-radius:10px;padding:12px 14px;font-size:13px}
+  .receipt b{display:block;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#8a4b12;margin-bottom:4px}
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+  @media (max-width:1000px){.grid{grid-template-columns:1fr}}
+  .cell{background:#fff;border:1px solid var(--page-rule);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+  .cell.chosen{outline:3px solid #b34700;outline-offset:2px}
+  .cell-head{padding:14px 18px 10px}
+  .cell-head .name{font:700 18px "Inter",sans-serif;letter-spacing:-.01em}
+  .cell-head .refs{font:500 12px "JetBrains Mono",monospace;color:var(--page-mut);margin-top:2px}
+  .cell-head .tag{display:inline-block;margin-top:8px;font:600 11px "JetBrains Mono",monospace;letter-spacing:.03em;text-transform:uppercase;
+                  background:#f4ede2;color:#8a4b12;padding:3px 8px;border-radius:99px}
+  .cell-body{display:grid;grid-template-columns:320px 1fr;gap:16px;padding:6px 18px 16px;align-items:start}
+  @media (max-width:640px){.cell-body{grid-template-columns:1fr}}
+  .evidence{font-size:13px;line-height:1.55}
+  .evidence h4{margin:8px 0 4px;font:700 12px "Inter";letter-spacing:.05em;text-transform:uppercase;color:var(--page-mut)}
+  .evidence ul{margin:0;padding-left:18px}
+  .evidence li{margin:3px 0}
+  .evidence .plus{color:#1e6b3a}.evidence .minus{color:#a33327}
+  .pick{margin:0 18px 16px;padding:11px 14px;font:700 14px "Inter";border:2px solid var(--page-ink);background:#fff;
+        color:var(--page-ink);border-radius:9px;cursor:pointer;min-height:44px}
+  .pick:hover{background:var(--page-ink);color:#fff}
+  .cell.chosen .pick{background:#b34700;border-color:#b34700;color:#fff}
+  .pick:focus-visible,button:focus-visible,textarea:focus-visible{outline:3px solid #b34700;outline-offset:2px}
+
+  /* ===== phone frame skeleton ===== */
+  .phone{width:300px;border-radius:34px;padding:10px;background:#101114;box-shadow:0 10px 28px rgba(0,0,0,.22);justify-self:center}
+  .screen{border-radius:26px;overflow:hidden;height:590px;display:flex;flex-direction:column;font-size:13px;position:relative}
+  .sbar{display:flex;justify-content:space-between;font:600 11px "Inter";padding:8px 16px 4px;opacity:.85}
+  .appbar{display:flex;justify-content:space-between;align-items:center;padding:8px 14px 10px}
+  .appbar .t{font-weight:700;font-size:16px;letter-spacing:-.01em}
+  .agechip{font:700 13px "JetBrains Mono",monospace;padding:4px 10px;border-radius:99px}
+  .content{flex:1;overflow:hidden;padding:0 12px}
+  .hero{border-radius:14px;padding:14px;margin-bottom:10px}
+  .hero .hk{font:600 10px "Inter";letter-spacing:.09em;text-transform:uppercase;opacity:.7;margin-bottom:2px}
+  .bignum{font:700 44px/1 "JetBrains Mono",monospace;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+  .bignum small{font:600 12px "Inter";letter-spacing:0}
+  .rows{display:flex;flex-direction:column}
+  .row{padding:11px 2px;display:flex;flex-direction:column;gap:2px;min-height:48px;justify-content:center}
+  .row .c{font-weight:600;font-size:14px;line-height:1.3}
+  .row .p{font-size:10.5px;opacity:.62;display:flex;gap:6px;align-items:center}
+  .dot{width:7px;height:7px;border-radius:99px;display:inline-block}
+  .navbar{display:grid;grid-template-columns:repeat(5,1fr);padding:6px 4px 12px;font:600 9.5px "Inter";text-align:center}
+  .navbar span{display:flex;flex-direction:column;align-items:center;gap:3px;padding-top:5px;min-height:44px}
+  .ic{width:20px;height:20px;border-radius:6px;display:block}
+
+  /* ===== 1 · SCOREBOARD DARK ===== */
+  .p-dark .screen{background:oklch(16% .01 260);color:oklch(93% .01 260);font-family:"Inter",sans-serif}
+  .p-dark .appbar .t{color:#fff}
+  .p-dark .agechip{background:oklch(80% .17 75);color:oklch(20% .05 75)}
+  .p-dark .hero{background:oklch(21% .012 260);border:1px solid oklch(28% .012 260)}
+  .p-dark .bignum{color:oklch(80% .17 75)}
+  .p-dark .trend{color:oklch(75% .14 150);font:600 11px "Inter"}
+  .p-dark .row{border-bottom:1px solid oklch(26% .01 260)}
+  .p-dark .dot-g{background:oklch(72% .17 150)} .p-dark .dot-a{background:oklch(80% .17 75)}
+  .p-dark .navbar{background:oklch(19% .012 260);border-top:1px solid oklch(27% .01 260);color:oklch(70% .01 260)}
+  .p-dark .navbar .on{color:oklch(80% .17 75)}
+  .p-dark .ic{background:currentColor;opacity:.9;mask:radial-gradient(circle at 50% 40%,#000 55%,transparent 56%)}
+
+  /* ===== 2 · PRECISION LIGHT ===== */
+  .p-light .screen{background:#fafafa;color:#171717;font-family:"Inter",sans-serif}
+  .p-light .agechip{background:#171717;color:#fafafa}
+  .p-light .hero{background:#fff;border:1px solid #ebebeb;box-shadow:0 1px 1px #00000005,0 2px 2px #0000000a}
+  .p-light .hero .search{border:1px solid #ebebeb;border-radius:8px;padding:9px 10px;color:#8f8f8f;font-size:13px;background:#fafafa}
+  .p-light .eyebrow{font:500 10px "JetBrains Mono",monospace;letter-spacing:.08em;text-transform:uppercase;color:#666;margin:10px 2px 2px}
+  .p-light .row{border-bottom:1px solid #ebebeb}
+  .p-light .row .p{color:#666}
+  .p-light .navbar{background:#fff;border-top:1px solid #ebebeb;color:#666}
+  .p-light .navbar .on{color:#0070f3}
+  .p-light .ic{background:currentColor;opacity:.85;mask:radial-gradient(circle at 50% 40%,#000 55%,transparent 56%)}
+  .p-light .bignum{color:#171717;font-size:34px}
+
+  /* ===== 3 · READER + RAIL ===== */
+  .p-read .screen{background:#fcfaf6;color:#222;font-family:"Source Serif 4",serif}
+  .p-read .appbar .t{font-family:"Fraunces",serif;font-weight:650}
+  .p-read .agechip{background:#f1e8d8;color:#6f4a12;font-family:"JetBrains Mono",monospace}
+  .p-read .tocrail{display:flex;gap:6px;overflow:hidden;padding:2px 2px 10px;font:600 10.5px "Inter",sans-serif}
+  .p-read .tocrail span{border:1px solid #e2dccd;border-radius:99px;padding:5px 10px;white-space:nowrap;color:#555}
+  .p-read .tocrail .on{background:#26404f;color:#fff;border-color:#26404f}
+  .p-read .hero{background:transparent;padding:2px}
+  .p-read .hero .ht{font:650 21px/1.25 "Fraunces",serif;letter-spacing:-.01em}
+  .p-read .hero .hs{font:400 13.5px/1.6 "Source Serif 4",serif;color:#444;margin-top:6px}
+  .p-read .row{border-bottom:1px solid #eee7d8}
+  .p-read .row .c{font-family:"Source Serif 4",serif;font-weight:600}
+  .p-read .row .p{font-family:"Inter",sans-serif;color:#777}
+  .p-read .navbar{background:#fcfaf6;border-top:1px solid #e2dccd;color:#777;font-family:"Inter",sans-serif}
+  .p-read .navbar .on{color:#26404f}
+  .p-read .ic{background:currentColor;opacity:.8;mask:radial-gradient(circle at 50% 40%,#000 55%,transparent 56%)}
+
+  /* ===== 4 · FIELD CARD (M3 Expressive) ===== */
+  .p-field .screen{background:#f4f6f2;color:#1a1c19;font-family:"Manrope",sans-serif}
+  .p-field .agechip{background:#2a5434;color:#fff}
+  .p-field .hero{background:#2a5434;color:#fff;border-radius:20px;padding:16px}
+  .p-field .hero .hk{opacity:.85}
+  .p-field .cta{display:block;margin-top:10px;background:#ffd24d;color:#231a00;border:none;border-radius:14px;
+                padding:13px 14px;font:800 15px "Manrope";width:100%;text-align:center}
+  .p-field .row{background:#fff;border-radius:14px;margin-bottom:8px;padding:11px 12px;border:1px solid #e2e6de}
+  .p-field .row .p{color:#5a5f57}
+  .p-field .prov{font:600 9.5px "JetBrains Mono",monospace;color:#2a5434}
+  .p-field .navbar{background:#fff;border-top:1px solid #e2e6de;color:#5a5f57}
+  .p-field .navbar .on{color:#2a5434;font-weight:800}
+  .p-field .ic{background:currentColor;opacity:.85;mask:radial-gradient(circle at 50% 40%,#000 55%,transparent 56%)}
+  .p-field .dot-g{background:#3f8a50}.p-field .dot-a{background:#d99a1b}
+
+  /* footer / submit */
+  .actions{margin:22px 0 10px}
+  .actions .box{border:1px solid var(--page-rule);border-radius:12px;background:#fff;padding:16px;display:grid;gap:10px}
+  .actions label{font:600 13px "Inter"}
+  .actions textarea{width:100%;min-height:64px;padding:10px;border:1px solid var(--page-rule);border-radius:8px;font:14px "Inter";resize:vertical}
+  #submit{justify-self:start;padding:12px 22px;font:700 15px "Inter";background:#b34700;color:#fff;border:none;border-radius:9px;cursor:pointer;min-height:44px}
+  #status{font-size:13px;color:var(--page-mut)}
+  footer{color:var(--page-mut);font-size:12px;padding:8px 0 30px}
+  @media print{.pick,.actions{display:none}.cell{break-inside:avoid}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Design directions v2: research-grounded</h1>
+  <p class="lede">Round one leaned on themes. This round is built from three research passes (platform guidance and WCAG numbers, best-in-class product teardowns, 2026 trend evidence). Every direction below is a working product language with named references, shown as the same Courtside screen with real wiki content. All four share the non-negotiables the research fixed: five labeled bottom tabs, 44px+ targets, 4.5:1 contrast, no glassmorphism, no bento, motion only for wayfinding.</p>
+
+  <div class="receipts">
+    <div class="receipt"><b>Hierarchy evidence</b>Material 3 Expressive study (46 studies, 18k participants): one dominant, high-contrast primary element is spotted up to 4x faster. Every direction picks one thing to dominate.</div>
+    <div class="receipt"><b>Glance evidence</b>MIT/NN&#47;g glanceable-type data: bigger wins (p&lt;.01), condensed costs 11% more time, thin faces fail. Heroes here are large, regular-width, high-contrast.</div>
+    <div class="receipt"><b>Category gap</b>Hudl and TeamSnap are the incumbents and neither is a design reference. Meeting the WHOOP/Linear/Wikipedia bar reads as best-in-class in coaching tools.</div>
+  </div>
+
+  <div class="grid" id="grid">
+
+    <!-- 1 SCOREBOARD DARK -->
+    <section class="cell" data-key="1" data-title="Scoreboard Dark" data-tradeoff="max glance contrast; dark-first commitment">
+      <div class="cell-head">
+        <div class="name">1 · Scoreboard Dark</div>
+        <div class="refs">WHOOP × Apple Sports × Linear</div>
+        <span class="tag">max glance contrast; dark-first commitment</span>
+      </div>
+      <div class="cell-body">
+        <div class="phone p-dark"><div class="screen">
+          <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+          <div class="appbar"><span class="t">Courtside</span><span class="agechip">14s</span></div>
+          <div class="content">
+            <div class="hero">
+              <div class="hk">Team pass average · last 3 practices</div>
+              <div class="bignum">2.14 <small class="trend">▲ +0.11</small></div>
+            </div>
+            <div class="rows">
+              <div class="row"><span class="c">Drop the shoulder closest to the target</span><span class="p"><span class="dot dot-g"></span>Passing · Tilt · Munciana · 11s+</span></div>
+              <div class="row"><span class="c">Serving col 3: jump-float in rotation, float ≥60% to called zone</span><span class="p"><span class="dot dot-a"></span>Tryout rubric 14U · reviewed 2026-07</span></div>
+              <div class="row"><span class="c">Three P's: posture, position, passion</span><span class="p"><span class="dot dot-g"></span>Defense · Munciana 00:19:45</span></div>
+            </div>
+          </div>
+          <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span class="on"><i class="ic"></i>Courtside</span><span><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+        </div></div>
+        <div class="evidence">
+          <h4>The bet</h4>
+          Near-black OKLCH canvas, surface ladder + 1px hairlines (zero drop shadows), color is semantic only: green = on standard, amber = watch, red = risk. One oversized tabular numeral as the hero. Mono for numbers, grotesk for words.
+          <h4>Banks on</h4>
+          <ul><li>WHOOP's semantic-only palette and arm's-length hero numeral</li><li>Apple Sports density: variable width+weight numerals</li><li>Linear's hairline elevation keeping dense lists quiet</li></ul>
+          <h4>Verdict</h4>
+          <ul><li class="plus">+ Best 3-second read in a dim gym; OLED battery; data feels like instrumentation</li><li class="minus">− Needs a real light theme for sunlit courts and printing; dark-first is a commitment, not a toggle</li></ul>
+        </div>
+      </div>
+      <button class="pick" type="button">Pick 1 · Scoreboard Dark</button>
+    </section>
+
+    <!-- 2 PRECISION LIGHT -->
+    <section class="cell" data-key="2" data-title="Precision Light" data-tradeoff="quietest craft; least atmosphere">
+      <div class="cell-head">
+        <div class="name">2 · Precision Light</div>
+        <div class="refs">Linear × Vercel (Geist) × Things 3</div>
+        <span class="tag">quietest craft; least atmosphere</span>
+      </div>
+      <div class="cell-body">
+        <div class="phone p-light"><div class="screen">
+          <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+          <div class="appbar"><span class="t">Courtside</span><span class="agechip">14s</span></div>
+          <div class="content">
+            <div class="hero">
+              <div class="search">Search cues, drills, rubrics…</div>
+            </div>
+            <div class="eyebrow">PINNED · 14S</div>
+            <div class="rows">
+              <div class="row"><span class="c">Drop the shoulder closest to the target</span><span class="p">Passing · Tilt · Munciana · 11s+</span></div>
+              <div class="row"><span class="c">Serving col 3: jump-float in rotation, float ≥60% called zone</span><span class="p">Tryout rubric 14U · reviewed 2026-07</span></div>
+              <div class="row"><span class="c">Aim small, miss small: name the target before the serve</span><span class="p">Serving · Munciana · 10s+</span></div>
+              <div class="row"><span class="c">45-second rep windows; serve brackets every water break</span><span class="p">Practice design · Munciana</span></div>
+            </div>
+          </div>
+          <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span class="on"><i class="ic"></i>Courtside</span><span><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+        </div></div>
+        <div class="evidence">
+          <h4>The bet</h4>
+          Ink on paper, engineered: #171717 on #fafafa, hairlines and stacked 1-2px shadows for depth, weight capped at 600, negative tracking on display only, exactly one accent (link blue) and it never decorates. Mono only for eyebrows and numerals. Search is the hero.
+          <h4>Banks on</h4>
+          <ul><li>Vercel's near-monochrome discipline (ink does text AND buttons)</li><li>Linear's 4px base grid and single-accent restraint</li><li>Contrast evidence: highest-leverage single decision under gym glare</li></ul>
+          <h4>Verdict</h4>
+          <ul><li class="plus">+ Ages best; fastest to build honestly; long-form and dense tables both feel native</li><li class="minus">− Zero atmosphere; needs perfect spacing/type execution or it reads as unstyled</li></ul>
+        </div>
+      </div>
+      <button class="pick" type="button">Pick 2 · Precision Light</button>
+    </section>
+
+    <!-- 3 READER + RAIL -->
+    <section class="cell" data-key="3" data-title="Reader + Rail" data-tradeoff="best long-form; slowest glance">
+      <div class="cell-head">
+        <div class="name">3 · Reader + Rail</div>
+        <div class="refs">Wikipedia 2022 × NYT type roles × Stripe docs</div>
+        <span class="tag">best long-form; slowest glance</span>
+      </div>
+      <div class="cell-body">
+        <div class="phone p-read"><div class="screen">
+          <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+          <div class="appbar"><span class="t">14s age guide</span><span class="agechip">Ch. 5</span></div>
+          <div class="content">
+            <div class="tocrail"><span class="on">Serving</span><span>Passing</span><span>Blocking</span><span>Systems</span><span>Promotion</span></div>
+            <div class="hero">
+              <div class="ht">Jump-float in rotation is the headline milestone</div>
+              <div class="hs">Toss consistency is the gate, not the contact. The pro women's anchor: jump-float is 86% of elite serves; topspin waits for 16s.</div>
+            </div>
+            <div class="rows">
+              <div class="row"><span class="c">Standing-float retained as the in-zone fallback (≥60%)</span><span class="p">Mattox · Dunning · reviewed 2026-07</span></div>
+              <div class="row"><span class="c">Aim small, miss small: every serve has a named target</span><span class="p">Munciana camp tape · 00:25:23</span></div>
+            </div>
+          </div>
+          <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span><i class="ic"></i>Courtside</span><span class="on"><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+        </div></div>
+        <div class="evidence">
+          <h4>The bet</h4>
+          The wiki is a book; treat it like one. Serif prose (18px, 65-75ch measure), grotesk strictly for labels and chrome (the NYT role split), sticky pill TOC standing in for Wikipedia's persistent contents, source + reviewed-date under every claim as visible provenance.
+          <h4>Banks on</h4>
+          <ul><li>Wikipedia's cited 16-18px reading baseline and persistent TOC</li><li>NYT's role-per-typeface system scaled to two faces</li><li>Watch Duty's inline provenance as feature, not clutter</li></ul>
+          <h4>Verdict</h4>
+          <ul><li class="plus">+ Best study-night reading in the set; your 597-source citation discipline becomes visible design</li><li class="minus">− Serif hero is slower at a 3-second glance; courtside screens need the density dialed up separately</li></ul>
+        </div>
+      </div>
+      <button class="pick" type="button">Pick 3 · Reader + Rail</button>
+    </section>
+
+    <!-- 4 FIELD CARD -->
+    <section class="cell" data-key="4" data-title="Field Card" data-tradeoff="strongest hierarchy; boldest color commitment">
+      <div class="cell-head">
+        <div class="name">4 · Field Card</div>
+        <div class="refs">Watch Duty × Material 3 Expressive</div>
+        <span class="tag">strongest hierarchy; boldest color commitment</span>
+      </div>
+      <div class="cell-body">
+        <div class="phone p-field"><div class="screen">
+          <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+          <div class="appbar"><span class="t">Courtside</span><span class="agechip">14s</span></div>
+          <div class="content">
+            <div class="hero">
+              <div class="hk">Tonight · tryout re-check week 6</div>
+              <div style="font:800 19px/1.25 Manrope">Score the serving row for 12 athletes</div>
+              <button class="cta" type="button">Open 14U rubric →</button>
+            </div>
+            <div class="rows">
+              <div class="row"><span class="c">Drop the shoulder closest to the target</span><span class="p"><span class="dot dot-g"></span>Passing · Tilt <span class="prov">MUNCIANA · REV 2026-07</span></span></div>
+              <div class="row"><span class="c">Serving col 3: jump-float in rotation, ≥60% called zone</span><span class="p"><span class="dot dot-a"></span>Rubric 14U <span class="prov">REV 2026-07</span></span></div>
+            </div>
+          </div>
+          <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span class="on"><i class="ic"></i>Courtside</span><span><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+        </div></div>
+        <div class="evidence">
+          <h4>The bet</h4>
+          One decision per screen. The M3 Expressive playbook applied literally: a single dominant action block in the deepest brand color with a contrasting yellow CTA, everything else in quiet white cards. Provenance stamped in mono on every row, Watch Duty style.
+          <h4>Banks on</h4>
+          <ul><li>The 18k-participant Expressive result: dominant element spotted up to 4x faster, older users match younger</li><li>Watch Duty's "keep the decision legible under stacked info" discipline</li><li>Real coach context: between rotations you want the next action, not a menu</li></ul>
+          <h4>Verdict</h4>
+          <ul><li class="plus">+ Fastest "what do I do next"; friendliest to assistant coaches and parents; most forgiving of aging eyes</li><li class="minus">− Needs a smart "tonight" model to be honest; boldest color commitment to keep from feeling generic-Material</li></ul>
+        </div>
+      </div>
+      <button class="pick" type="button">Pick 4 · Field Card</button>
+    </section>
+
+  </div>
+
+  <div class="actions">
+    <div class="box">
+      <label for="rationale">Rationale, or a mix (e.g. "1 for Courtside screens, 3 for guide pages, shared tokens"). Dual-theme note: whichever you pick, the token system ships light + dark per the research.</label>
+      <textarea id="rationale" placeholder="What should the flagship surface be, and what must it never lose?"></textarea>
+      <button id="submit" type="button">Submit choice to Claude</button>
+      <span id="status">No direction picked yet.</span>
+    </div>
+  </div>
+
+  <footer>Generated 2026-07-26 · grounded in: NN/g glanceable type + hamburger studies, WCAG 2.2 numbers, Apple HIG (Liquid Glass revision), Material 3 Expressive research, WHOOP/Apple Sports/Linear/Vercel/Wikipedia/NYT/Stripe/Watch Duty teardowns, 2026 trend evidence (OKLCH, view transitions, anti-glass). Content frozen from the wiki.</footer>
+</div>
+
+<script>
+// Universal submit + clipboard handler for HTML skills in this plugin.
+(function () {
+  const SECRET_PATTERNS = [
+    ['private-key', /-----BEGIN [A-Z ]*PRIVATE KEY-----[\s\S]+?-----END [A-Z ]*PRIVATE KEY-----/g],
+    ['aws-key-id', /\bAKIA[0-9A-Z]{16}\b/g],
+    ['github-token', /\bgh[opsur]_[A-Za-z0-9]{20,}\b/g],
+    ['slack-token', /\bxox[abprse]-[A-Za-z0-9-]{10,}\b/g],
+    ['openai-key', /\bsk-[A-Za-z0-9_-]{20,}\b/g],
+    ['google-key', /\bAIza[0-9A-Za-z_-]{30,}\b/g],
+    ['jwt', /\beyJ[A-Za-z0-9_-]{8,}\.[A-Za-z0-9_-]{8,}\.[A-Za-z0-9_-]{8,}\b/g],
+    ['url-userinfo', /\b[a-z][a-z0-9+.-]*:\/\/[^\s/:@"']+:[^\s/@"']+@/gi],
+  ];
+  function redactKnownSecrets(json) {
+    let count = 0;
+    for (const pair of SECRET_PATTERNS) {
+      json = json.replace(pair[1], function (m) {
+        count++;
+        if (pair[0] === 'url-userinfo') return '{{REDACTED:url-userinfo}}';
+        return '{{REDACTED:' + pair[0] + ':…' + m.slice(-4) + '}}';
+      });
+    }
+    return { json: json, count: count };
+  }
+  async function submitToClaude(payload, opts) {
+    opts = opts || {};
+    let json = JSON.stringify(payload, null, 2);
+    let note = '';
+    if (opts.redactSecrets) {
+      const red = redactKnownSecrets(json);
+      if (red.count > 0) {
+        json = red.json;
+        note = ' (' + red.count + ' secret-looking value' + (red.count === 1 ? '' : 's') + ' redacted)';
+      }
+    }
+    const url = opts.url || window.__CLAUDE_SUBMIT_URL__;
+    if (url) {
+      try {
+        const r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: json });
+        if (r.ok) {
+          notify(opts, (opts.serverMessage || window.__CLAUDE_SERVER_MESSAGE__ || 'Submitted to Claude.') + note);
+          return 'server';
+        }
+      } catch (e) { /* fall through */ }
+    }
+    return clipboardSubmit(json, opts, note);
+  }
+  async function clipboardSubmit(json, opts, note) {
+    const msg = (opts.clipboardMessage || window.__CLAUDE_CLIPBOARD_MESSAGE__ || 'Copied to clipboard — paste back into Claude.') + (note || '');
+    return copyToClipboard(json, { ...opts, message: msg, returnTag: 'clipboard' });
+  }
+  async function copyToClipboard(text, opts) {
+    opts = opts || {};
+    const msg = opts.message || 'Copied to clipboard.';
+    if (await tryAsyncClipboard(text)) { notify(opts, msg); return opts.returnTag || 'copied'; }
+    if (copyViaExecCommand(text)) { notify(opts, msg); return opts.returnTag || 'copied'; }
+    showInlineFallback(text);
+    return 'manual';
+  }
+  async function tryAsyncClipboard(text) {
+    try { await navigator.clipboard.writeText(text); return true; } catch (e) { return false; }
+  }
+  function copyViaExecCommand(text) {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    Object.assign(ta.style, { position: 'fixed', top: '0', left: '0', width: '1px', height: '1px', opacity: '0' });
+    document.body.appendChild(ta);
+    ta.focus(); ta.select();
+    let ok = false;
+    try { ok = document.execCommand('copy'); } catch (e) {}
+    ta.remove();
+    return ok;
+  }
+  function notify(opts, msg) {
+    if (typeof opts.onResult === 'function') { opts.onResult(msg); return; }
+    const el = document.createElement('div');
+    el.textContent = msg;
+    el.setAttribute('role', 'status');
+    Object.assign(el.style, {
+      position: 'fixed', bottom: '16px', left: '50%', transform: 'translateX(-50%)',
+      background: '#111', color: '#fff', padding: '10px 14px', borderRadius: '8px',
+      font: '14px system-ui', zIndex: 99999, boxShadow: '0 4px 12px rgba(0,0,0,0.2)',
+    });
+    document.body.appendChild(el);
+    setTimeout(() => el.remove(), 3500);
+  }
+  function showInlineFallback(json) {
+    const wrap = document.createElement('div');
+    wrap.setAttribute('role', 'region');
+    wrap.setAttribute('aria-label', 'Manual copy required');
+    Object.assign(wrap.style, {
+      position: 'fixed', left: '50%', bottom: '12px', transform: 'translateX(-50%)',
+      width: 'min(720px, calc(100% - 24px))', background: '#111', color: '#fff',
+      borderRadius: '10px', padding: '10px 12px', boxShadow: '0 6px 24px rgba(0,0,0,0.3)',
+      zIndex: 99999, font: '13px system-ui, -apple-system, sans-serif',
+      display: 'grid', gridTemplateColumns: '1fr auto', columnGap: '8px', alignItems: 'start',
+    });
+    const main = document.createElement('div');
+    const msg = document.createElement('div');
+    msg.textContent = 'Auto-copy unavailable here. Press Ctrl+A then Ctrl+C in the box, then paste into Claude.';
+    msg.style.marginBottom = '6px';
+    main.appendChild(msg);
+    const ta = document.createElement('textarea');
+    ta.value = json;
+    ta.readOnly = true;
+    ta.spellcheck = false;
+    Object.assign(ta.style, {
+      width: '100%', minHeight: '60px', maxHeight: '160px', resize: 'vertical',
+      padding: '6px 8px', font: '12px ui-monospace, monospace', background: '#fff',
+      color: '#111', border: 'none', borderRadius: '6px', outline: 'none', boxSizing: 'border-box',
+    });
+    main.appendChild(ta);
+    const close = document.createElement('button');
+    close.type = 'button';
+    close.textContent = '×';
+    close.setAttribute('aria-label', 'Dismiss');
+    Object.assign(close.style, {
+      background: 'transparent', border: 'none', color: '#fff', fontSize: '18px',
+      cursor: 'pointer', lineHeight: '1', padding: '2px 4px', alignSelf: 'start',
+    });
+    close.addEventListener('click', () => wrap.remove());
+    wrap.append(main, close);
+    document.body.appendChild(wrap);
+    setTimeout(() => { ta.focus(); ta.select(); }, 0);
+  }
+  window.submitToClaude = submitToClaude;
+  window.copyToClipboard = copyToClipboard;
+})();
+</script>
+<script>
+window.__CLAUDE_SUBMIT_URL__ = 'http://127.0.0.1:52209/?t=5aac0b74a27bbb3013de1ecb7ec97073';
+
+(function () {
+  let chosen = null;
+  const grid = document.getElementById('grid');
+  const status = document.getElementById('status');
+  grid.addEventListener('click', (e) => {
+    const btn = e.target.closest('.pick');
+    if (!btn) return;
+    const cell = btn.closest('.cell');
+    grid.querySelectorAll('.cell').forEach((c) => c.classList.remove('chosen'));
+    cell.classList.add('chosen');
+    chosen = { key: cell.dataset.key, title: cell.dataset.title, tradeoff: cell.dataset.tradeoff };
+    status.textContent = 'Picked ' + chosen.key + ' (' + chosen.title + '). Add rationale or a mix, then Submit.';
+  });
+  document.getElementById('submit').addEventListener('click', async () => {
+    if (!chosen) { status.textContent = 'Pick a direction first (mixes welcome; pick the dominant one).'; return; }
+    await submitToClaude({
+      skill: 'html-brainstorm-grid',
+      kind: 'pick-one',
+      data: {
+        chosen: chosen.key,
+        title: chosen.title,
+        tradeoff_label: chosen.tradeoff,
+        rationale: document.getElementById('rationale').value || null,
+        candidates: ['1 Scoreboard Dark', '2 Precision Light', '3 Reader + Rail', '4 Field Card'],
+      },
+      version: 1,
+    });
+  });
+})();
+</script>
+</body>
+</html>

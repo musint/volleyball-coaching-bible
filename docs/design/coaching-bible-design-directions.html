@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coaching Bible — six design directions</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Caveat:wght@600&family=Oswald:wght@500;700&family=Archivo:wght@400;700&family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Source+Sans+3:wght@400;600&family=Space+Grotesk:wght@500;700&family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --page-bg:#eceae4; --page-ink:#26272b; --page-mut:#6d6e74; --page-rule:#d6d3ca;
+    --cell-r:10px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--page-bg);color:var(--page-ink);font:15px/1.5 "Archivo",system-ui,sans-serif}
+  header.page{max-width:1280px;margin:0 auto;padding:28px 20px 8px}
+  header.page h1{font:700 26px/1.2 "Space Grotesk",sans-serif;margin:0 0 6px}
+  header.page p{margin:0;color:var(--page-mut);max-width:72ch}
+  .grid{max-width:1280px;margin:18px auto 8px;padding:0 20px;display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  @media (max-width:1080px){.grid{grid-template-columns:repeat(2,1fr)}}
+  @media (max-width:700px){.grid{grid-template-columns:1fr}}
+  .cell{border:1px solid var(--page-rule);border-radius:var(--cell-r);background:#fff;display:flex;flex-direction:column;overflow:hidden}
+  .cell-head{padding:10px 14px;border-bottom:1px solid var(--page-rule);display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+  .cell-head .name{font:700 15px "Space Grotesk",sans-serif}
+  .cell-head .tag{font:600 11px "IBM Plex Mono",monospace;color:var(--page-mut);text-transform:uppercase;letter-spacing:.04em;text-align:right}
+  .mock{padding:16px;min-height:330px;flex:1}
+  .verdict{padding:10px 14px;border-top:1px dashed var(--page-rule);font-size:13px}
+  .verdict .plus{color:#1e6b3a}.verdict .minus{color:#a33327}
+  .verdict div{margin:2px 0}
+  .pick{margin:0 14px 14px;padding:10px 12px;font:700 13px "Space Grotesk",sans-serif;border:2px solid var(--page-ink);
+        background:#fff;color:var(--page-ink);border-radius:8px;cursor:pointer;min-height:44px}
+  .pick:hover{background:var(--page-ink);color:#fff}
+  .cell.chosen{outline:3px solid #2563eb;outline-offset:2px}
+  .cell.chosen .pick{background:#2563eb;border-color:#2563eb;color:#fff}
+  .pick:focus-visible,button:focus-visible,textarea:focus-visible{outline:3px solid #2563eb;outline-offset:2px}
+
+  /* ---- shared mockup skeleton (each direction re-skins it) ---- */
+  .m-brand{font-size:12px;letter-spacing:.08em;text-transform:uppercase;margin-bottom:10px;display:flex;justify-content:space-between;align-items:center}
+  .m-row{display:grid;grid-template-columns:44px repeat(4,1fr);gap:5px;margin-bottom:14px}
+  .m-age{display:flex;align-items:center;justify-content:center;font-weight:700}
+  .m-btn{display:flex;align-items:center;justify-content:center;padding:9px 2px;font-size:12px;font-weight:600;cursor:default}
+  .m-cue{padding:12px;margin-bottom:12px}
+  .m-cue .k{font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:5px;opacity:.75}
+  .m-cue .c{font-size:17px;line-height:1.3;font-weight:700}
+  .m-cue .meta{font-size:11px;margin-top:6px;opacity:.7}
+  .m-rub{font-size:12px;line-height:1.45}
+  .m-rub .rh{font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:4px;opacity:.75}
+  .m-rub table{border-collapse:collapse;width:100%}
+  .m-rub td{padding:6px 8px;vertical-align:top}
+  .m-rub td:first-child{font-weight:700;white-space:nowrap}
+
+  /* ================= A · SCOREBOOK ================= */
+  .d-scorebook{background:#f6f4ec;color:#17181a;font-family:"IBM Plex Mono",monospace}
+  .d-scorebook .m-brand{color:#c4322e;border-bottom:2px solid #17181a;padding-bottom:6px}
+  .d-scorebook .m-age{background:#17181a;color:#f6f4ec}
+  .d-scorebook .m-btn{border:1px solid #17181a;background:#fff}
+  .d-scorebook .m-cue{border:1px solid #17181a;background:#fff;box-shadow:3px 3px 0 #d8d4c6}
+  .d-scorebook .m-cue .c{font-size:15px}
+  .d-scorebook .m-cue .k{color:#c4322e}
+  .d-scorebook .m-rub td{border:1px solid #b9b5a6}
+  .d-scorebook .m-rub td:first-child{background:#eae7db}
+  .d-scorebook .m-age,.d-scorebook .m-btn{border-radius:0}
+
+  /* ================= B · CHALK TALK ================= */
+  .d-chalk{background:#22312b;color:#f2f0e4;font-family:"Space Grotesk",sans-serif;
+           background-image:radial-gradient(rgba(255,255,255,.05) 1px,transparent 1.4px);background-size:22px 22px}
+  .d-chalk .m-brand{color:#f7c948}
+  .d-chalk .m-age{border:2px dashed #f2f0e4;color:#f7c948;border-radius:6px}
+  .d-chalk .m-btn{border:1.6px solid rgba(242,240,228,.75);border-radius:6px;color:#f2f0e4}
+  .d-chalk .m-cue{border:2px dashed #f7c948;border-radius:8px}
+  .d-chalk .m-cue .c{font-family:"Caveat",cursive;font-size:26px;font-weight:600;color:#fff}
+  .d-chalk .m-cue .k{color:#f7c948}
+  .d-chalk .m-rub td{border-bottom:1px dashed rgba(242,240,228,.4)}
+  .d-chalk .m-rub td:first-child{color:#f7c948}
+
+  /* ================= C · FEDERATION POSTER ================= */
+  .d-fed{background:#0e1b3d;color:#fff;font-family:"Archivo",sans-serif;position:relative}
+  .d-fed::before{content:"";position:absolute;inset:0;background:linear-gradient(115deg,transparent 62%,#ffc82e 62%,#ffc82e 66%,transparent 66%);pointer-events:none}
+  .d-fed .m-brand{font-family:"Oswald",sans-serif;color:#ffc82e;font-size:13px}
+  .d-fed .m-age{background:#ffc82e;color:#0e1b3d;font-family:"Oswald",sans-serif;font-size:18px;clip-path:polygon(0 0,100% 0,88% 100%,0 100%)}
+  .d-fed .m-btn{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.35);text-transform:uppercase;font-family:"Oswald",sans-serif;letter-spacing:.05em}
+  .d-fed .m-cue{background:#fff;color:#0e1b3d;border-left:8px solid #ffc82e}
+  .d-fed .m-cue .c{font-family:"Oswald",sans-serif;text-transform:uppercase;font-size:18px}
+  .d-fed .m-rub td{border-bottom:1px solid rgba(255,255,255,.25)}
+  .d-fed .m-rub td:first-child{color:#ffc82e;font-family:"Oswald",sans-serif;text-transform:uppercase}
+
+  /* ================= D · EDITORIAL PLAYBOOK ================= */
+  .d-edit{background:#fbf7ef;color:#241f1a;font-family:"Source Sans 3",sans-serif}
+  .d-edit .m-brand{font-family:"Fraunces",serif;font-weight:700;color:#7a2e1d;letter-spacing:.02em;text-transform:none;font-size:14px}
+  .d-edit .m-age{font-family:"Fraunces",serif;font-size:20px;border-bottom:3px double #7a2e1d}
+  .d-edit .m-btn{border:none;border-bottom:1px solid #cbc2b2;color:#7a2e1d;font-weight:600}
+  .d-edit .m-cue{border:none;padding-left:16px;border-left:3px solid #7a2e1d}
+  .d-edit .m-cue .c{font-family:"Fraunces",serif;font-weight:700;font-size:21px;font-style:italic}
+  .d-edit .m-cue .k{color:#7a2e1d}
+  .d-edit .m-rub td{border-bottom:1px solid #e4dccb}
+  .d-edit .m-rub td:first-child{font-family:"Fraunces",serif}
+
+  /* ================= E · COURT TAPE ================= */
+  .d-tape{background:#e8d5b5;color:#141414;font-family:"Space Grotesk",sans-serif}
+  .d-tape .m-brand{background:#141414;color:#e8d5b5;padding:5px 8px;font-weight:700}
+  .d-tape .m-age{background:#e25822;color:#fff;border:3px solid #141414;font-size:17px}
+  .d-tape .m-btn{background:#fff;border:3px solid #141414;font-weight:700;font-size:13px;box-shadow:3px 3px 0 #141414}
+  .d-tape .m-cue{background:#fff;border:3px solid #141414;box-shadow:4px 4px 0 #141414}
+  .d-tape .m-cue .k{color:#e25822;font-weight:700}
+  .d-tape .m-cue .c{font-size:19px}
+  .d-tape .m-rub td{border:2px solid #141414;background:#fff}
+  .d-tape .m-rub td:first-child{background:#141414;color:#fff}
+  .d-tape .m-age,.d-tape .m-btn,.d-tape .m-cue{border-radius:0}
+
+  /* ================= F · NIGHT MATCH ================= */
+  .d-night{background:#0b0f1a;color:#e8ecf4;font-family:"Manrope",sans-serif}
+  .d-night .m-brand{color:#ffb454}
+  .d-night .m-age{background:#ffb454;color:#0b0f1a;border-radius:10px;font-weight:800;box-shadow:0 0 18px rgba(255,180,84,.45)}
+  .d-night .m-btn{background:#151c2e;border:1px solid #2a3550;border-radius:10px;color:#e8ecf4}
+  .d-night .m-cue{background:#111827;border:1px solid #2a3550;border-radius:12px}
+  .d-night .m-cue .k{color:#38bdf8}
+  .d-night .m-cue .c{color:#fff}
+  .d-night .m-rub td{border-bottom:1px solid #232d45}
+  .d-night .m-rub td:first-child{color:#ffb454}
+
+  /* ---- footer / submit ---- */
+  .actions{max-width:1280px;margin:10px auto 40px;padding:0 20px}
+  .actions .box{border:1px solid var(--page-rule);border-radius:10px;background:#fff;padding:16px;display:grid;gap:10px}
+  .actions label{font:600 13px "Space Grotesk",sans-serif}
+  .actions textarea{width:100%;min-height:64px;padding:10px;border:1px solid var(--page-rule);border-radius:8px;font:14px "Archivo",sans-serif;resize:vertical}
+  #submit{justify-self:start;padding:12px 22px;font:700 15px "Space Grotesk",sans-serif;background:#2563eb;color:#fff;border:none;border-radius:8px;cursor:pointer;min-height:44px}
+  #submit:hover{background:#1d4ed8}
+  #status{font-size:13px;color:var(--page-mut)}
+  footer.page{max-width:1280px;margin:0 auto;padding:0 20px 32px;color:var(--page-mut);font-size:12px}
+  @media print{
+    body{background:#fff}
+    .grid{grid-template-columns:repeat(2,1fr)}
+    .pick,.actions,#submit{display:none}
+    .cell{break-inside:avoid;border:1px solid #999}
+  }
+</style>
+</head>
+<body>
+<header class="page">
+  <h1>Coaching Bible: six design directions</h1>
+  <p><strong>Varied:</strong> palette, type, density, tone, shape language. <strong>Held constant:</strong> the content (the Courtside 14s row, a real Munciana tilt cue, the 14U rubric serving anchor) and the mobile-first structure you already shipped. Pick the direction that should drive the next restyle, or mix (say which cell drives color vs type in the rationale box).</p>
+</header>
+
+<div class="grid" id="grid">
+
+  <!-- A -->
+  <section class="cell" data-key="A" data-title="Scorebook" data-tradeoff="fastest to scan, zero decoration">
+    <div class="cell-head"><span class="name">A · Scorebook</span><span class="tag">fastest to scan, zero decoration</span></div>
+    <div class="mock d-scorebook">
+      <div class="m-brand"><span>Coaching Bible</span><span>SET 3 · 21-19</span></div>
+      <div class="m-row">
+        <span class="m-age">14s</span><span class="m-btn">Guide</span><span class="m-btn">Cues</span><span class="m-btn">Drills</span><span class="m-btn">Rubric</span>
+      </div>
+      <div class="m-cue">
+        <div class="k">Passing · Tilt</div>
+        <div class="c">Drop the shoulder closest to the target.</div>
+        <div class="meta">Munciana · introduced 11s</div>
+      </div>
+      <div class="m-rub">
+        <div class="rh">Tryout rubric · serving · col 3</div>
+        <table><tr><td>Serving</td><td>Jump-float in rotation; standing-float ≥60% to called zone; names her target before each serve.</td></tr></table>
+      </div>
+    </div>
+    <div class="verdict">
+      <div class="plus">+ Highest information density; tables and numbers feel native; prints perfectly.</div>
+      <div class="minus">− No warmth; long reading sessions feel like homework.</div>
+    </div>
+    <button class="pick" type="button">Pick A</button>
+  </section>
+
+  <!-- B -->
+  <section class="cell" data-key="B" data-title="Chalk Talk" data-tradeoff="the huddle whiteboard; personality over polish">
+    <div class="cell-head"><span class="name">B · Chalk Talk</span><span class="tag">huddle whiteboard; personality over polish</span></div>
+    <div class="mock d-chalk">
+      <div class="m-brand"><span>Coaching Bible</span><span>⏱ 45s</span></div>
+      <div class="m-row">
+        <span class="m-age">14s</span><span class="m-btn">Guide</span><span class="m-btn">Cues</span><span class="m-btn">Drills</span><span class="m-btn">Rubric</span>
+      </div>
+      <div class="m-cue">
+        <div class="k">Passing · Tilt</div>
+        <div class="c">Drop the shoulder closest to the target.</div>
+        <div class="meta">Munciana · introduced 11s</div>
+      </div>
+      <div class="m-rub">
+        <div class="rh">Tryout rubric · serving · col 3</div>
+        <table><tr><td>Serving</td><td>Jump-float in rotation; standing-float ≥60% to called zone; names her target before each serve.</td></tr></table>
+      </div>
+    </div>
+    <div class="verdict">
+      <div class="plus">+ Cues read like coach handwriting; unmistakable identity; great in dim gyms.</div>
+      <div class="minus">− Script face limits dense tables; novelty can wear on daily use.</div>
+    </div>
+    <button class="pick" type="button">Pick B</button>
+  </section>
+
+  <!-- C -->
+  <section class="cell" data-key="C" data-title="Federation Poster" data-tradeoff="tournament energy; more ink per screen">
+    <div class="cell-head"><span class="name">C · Federation Poster</span><span class="tag">tournament energy; more ink per screen</span></div>
+    <div class="mock d-fed">
+      <div class="m-brand"><span>Coaching Bible</span><span>COURT 12</span></div>
+      <div class="m-row">
+        <span class="m-age">14s</span><span class="m-btn">Guide</span><span class="m-btn">Cues</span><span class="m-btn">Drills</span><span class="m-btn">Rubric</span>
+      </div>
+      <div class="m-cue">
+        <div class="k">Passing · Tilt</div>
+        <div class="c">Drop the shoulder closest to the target.</div>
+        <div class="meta">Munciana · introduced 11s</div>
+      </div>
+      <div class="m-rub">
+        <div class="rh">Tryout rubric · serving · col 3</div>
+        <table><tr><td>Serving</td><td>Jump-float in rotation; standing-float ≥60% to called zone; names her target before each serve.</td></tr></table>
+      </div>
+    </div>
+    <div class="verdict">
+      <div class="plus">+ Motivating, athletic, poster-grade hierarchy; ages and numbers pop.</div>
+      <div class="minus">− Loud for long-form study; heavy ink on research pages.</div>
+    </div>
+    <button class="pick" type="button">Pick C</button>
+  </section>
+
+  <!-- D -->
+  <section class="cell" data-key="D" data-title="Editorial Playbook" data-tradeoff="reads like a book; slower courtside">
+    <div class="cell-head"><span class="name">D · Editorial Playbook</span><span class="tag">reads like a book; slower courtside</span></div>
+    <div class="mock d-edit">
+      <div class="m-brand"><span>Coaching Bible</span><span>Ch. 14</span></div>
+      <div class="m-row">
+        <span class="m-age">14s</span><span class="m-btn">Guide</span><span class="m-btn">Cues</span><span class="m-btn">Drills</span><span class="m-btn">Rubric</span>
+      </div>
+      <div class="m-cue">
+        <div class="k">Passing · Tilt</div>
+        <div class="c">Drop the shoulder closest to the target.</div>
+        <div class="meta">Munciana · introduced 11s</div>
+      </div>
+      <div class="m-rub">
+        <div class="rh">Tryout rubric · serving · col 3</div>
+        <table><tr><td>Serving</td><td>Jump-float in rotation; standing-float ≥60% to called zone; names her target before each serve.</td></tr></table>
+      </div>
+    </div>
+    <div class="verdict">
+      <div class="plus">+ The refined evolution of what you have; best long-read typography; source citations feel at home.</div>
+      <div class="minus">− Least differentiated from today; elegance costs urgency on a phone.</div>
+    </div>
+    <button class="pick" type="button">Pick D</button>
+  </section>
+
+  <!-- E -->
+  <section class="cell" data-key="E" data-title="Court Tape" data-tradeoff="legible at arm's length; blunt">
+    <div class="cell-head"><span class="name">E · Court Tape</span><span class="tag">legible at arm's length; blunt</span></div>
+    <div class="mock d-tape">
+      <div class="m-brand"><span>COACHING BIBLE</span><span>GYM B</span></div>
+      <div class="m-row">
+        <span class="m-age">14s</span><span class="m-btn">Guide</span><span class="m-btn">Cues</span><span class="m-btn">Drills</span><span class="m-btn">Rubric</span>
+      </div>
+      <div class="m-cue">
+        <div class="k">Passing · Tilt</div>
+        <div class="c">Drop the shoulder closest to the target.</div>
+        <div class="meta">Munciana · introduced 11s</div>
+      </div>
+      <div class="m-rub">
+        <div class="rh">Tryout rubric · serving · col 3</div>
+        <table><tr><td>Serving</td><td>Jump-float in rotation; standing-float ≥60% to called zone; names her target before each serve.</td></tr></table>
+      </div>
+    </div>
+    <div class="verdict">
+      <div class="plus">+ Biggest tap targets and boldest contrast of the six; unmissable buttons in a hurry.</div>
+      <div class="minus">− Blunt instrument; subtle content (schools-perspectives essays) fights the style.</div>
+    </div>
+    <button class="pick" type="button">Pick E</button>
+  </section>
+
+  <!-- F -->
+  <section class="cell" data-key="F" data-title="Night Match" data-tradeoff="dim-gym native; needs a light fallback">
+    <div class="cell-head"><span class="name">F · Night Match</span><span class="tag">dim-gym native; needs a light fallback</span></div>
+    <div class="mock d-night">
+      <div class="m-brand"><span>Coaching Bible</span><span>19:40</span></div>
+      <div class="m-row">
+        <span class="m-age">14s</span><span class="m-btn">Guide</span><span class="m-btn">Cues</span><span class="m-btn">Drills</span><span class="m-btn">Rubric</span>
+      </div>
+      <div class="m-cue">
+        <div class="k">Passing · Tilt</div>
+        <div class="c">Drop the shoulder closest to the target.</div>
+        <div class="meta">Munciana · introduced 11s</div>
+      </div>
+      <div class="m-rub">
+        <div class="rh">Tryout rubric · serving · col 3</div>
+        <table><tr><td>Serving</td><td>Jump-float in rotation; standing-float ≥60% to called zone; names her target before each serve.</td></tr></table>
+      </div>
+    </div>
+    <div class="verdict">
+      <div class="plus">+ Easiest on eyes at 6am and 9pm practices; OLED battery friendly; focus states glow.</div>
+      <div class="minus">− Dark-first means designing two themes well or printing badly.</div>
+    </div>
+    <button class="pick" type="button">Pick F</button>
+  </section>
+
+</div>
+
+<div class="actions">
+  <div class="box">
+    <label for="rationale">Why this one (optional): what should it fix or keep? Mixing is allowed, e.g. "E buttons on D reading pages".</label>
+    <textarea id="rationale" placeholder="e.g. B for cue cards, but keep the current paper background for long pages"></textarea>
+    <button id="submit" type="button">Submit choice to Claude</button>
+    <span id="status">No direction picked yet.</span>
+  </div>
+</div>
+
+<footer class="page">Generated 2026-07-25 · content frozen from wiki (14s guide, passing-cues, tryout-rubric-14u) · pick buttons select, Submit sends.</footer>
+
+<script>
+// Universal submit + clipboard handler for HTML skills in this plugin.
+(function () {
+  const SECRET_PATTERNS = [
+    ['private-key', /-----BEGIN [A-Z ]*PRIVATE KEY-----[\s\S]+?-----END [A-Z ]*PRIVATE KEY-----/g],
+    ['aws-key-id', /\bAKIA[0-9A-Z]{16}\b/g],
+    ['github-token', /\bgh[opsur]_[A-Za-z0-9]{20,}\b/g],
+    ['slack-token', /\bxox[abprse]-[A-Za-z0-9-]{10,}\b/g],
+    ['openai-key', /\bsk-[A-Za-z0-9_-]{20,}\b/g],
+    ['google-key', /\bAIza[0-9A-Za-z_-]{30,}\b/g],
+    ['jwt', /\beyJ[A-Za-z0-9_-]{8,}\.[A-Za-z0-9_-]{8,}\.[A-Za-z0-9_-]{8,}\b/g],
+    ['url-userinfo', /\b[a-z][a-z0-9+.-]*:\/\/[^\s/:@"']+:[^\s/@"']+@/gi],
+  ];
+  function redactKnownSecrets(json) {
+    let count = 0;
+    for (const pair of SECRET_PATTERNS) {
+      json = json.replace(pair[1], function (m) {
+        count++;
+        if (pair[0] === 'url-userinfo') return '{{REDACTED:url-userinfo}}';
+        return '{{REDACTED:' + pair[0] + ':…' + m.slice(-4) + '}}';
+      });
+    }
+    return { json: json, count: count };
+  }
+  async function submitToClaude(payload, opts) {
+    opts = opts || {};
+    let json = JSON.stringify(payload, null, 2);
+    let note = '';
+    if (opts.redactSecrets) {
+      const red = redactKnownSecrets(json);
+      if (red.count > 0) {
+        json = red.json;
+        note = ' (' + red.count + ' secret-looking value' + (red.count === 1 ? '' : 's') + ' redacted)';
+      }
+    }
+    const url = opts.url || window.__CLAUDE_SUBMIT_URL__;
+    if (url) {
+      try {
+        const r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: json });
+        if (r.ok) {
+          notify(opts, (opts.serverMessage || window.__CLAUDE_SERVER_MESSAGE__ || 'Submitted to Claude.') + note);
+          return 'server';
+        }
+      } catch (e) { /* fall through */ }
+    }
+    return clipboardSubmit(json, opts, note);
+  }
+  async function clipboardSubmit(json, opts, note) {
+    const msg = (opts.clipboardMessage || window.__CLAUDE_CLIPBOARD_MESSAGE__ || 'Copied to clipboard — paste back into Claude.') + (note || '');
+    return copyToClipboard(json, { ...opts, message: msg, returnTag: 'clipboard' });
+  }
+  async function copyToClipboard(text, opts) {
+    opts = opts || {};
+    const msg = opts.message || 'Copied to clipboard.';
+    if (await tryAsyncClipboard(text)) { notify(opts, msg); return opts.returnTag || 'copied'; }
+    if (copyViaExecCommand(text)) { notify(opts, msg); return opts.returnTag || 'copied'; }
+    showInlineFallback(text);
+    return 'manual';
+  }
+  async function tryAsyncClipboard(text) {
+    try { await navigator.clipboard.writeText(text); return true; } catch (e) { return false; }
+  }
+  function copyViaExecCommand(text) {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    Object.assign(ta.style, { position: 'fixed', top: '0', left: '0', width: '1px', height: '1px', opacity: '0' });
+    document.body.appendChild(ta);
+    ta.focus(); ta.select();
+    let ok = false;
+    try { ok = document.execCommand('copy'); } catch (e) {}
+    ta.remove();
+    return ok;
+  }
+  function notify(opts, msg) {
+    if (typeof opts.onResult === 'function') { opts.onResult(msg); return; }
+    const el = document.createElement('div');
+    el.textContent = msg;
+    el.setAttribute('role', 'status');
+    Object.assign(el.style, {
+      position: 'fixed', bottom: '16px', left: '50%', transform: 'translateX(-50%)',
+      background: '#111', color: '#fff', padding: '10px 14px', borderRadius: '8px',
+      font: '14px system-ui', zIndex: 99999, boxShadow: '0 4px 12px rgba(0,0,0,0.2)',
+    });
+    document.body.appendChild(el);
+    setTimeout(() => el.remove(), 3500);
+  }
+  function showInlineFallback(json) {
+    const wrap = document.createElement('div');
+    wrap.setAttribute('role', 'region');
+    wrap.setAttribute('aria-label', 'Manual copy required');
+    Object.assign(wrap.style, {
+      position: 'fixed', left: '50%', bottom: '12px', transform: 'translateX(-50%)',
+      width: 'min(720px, calc(100% - 24px))', background: '#111', color: '#fff',
+      borderRadius: '10px', padding: '10px 12px', boxShadow: '0 6px 24px rgba(0,0,0,0.3)',
+      zIndex: 99999, font: '13px system-ui, -apple-system, sans-serif',
+      display: 'grid', gridTemplateColumns: '1fr auto', columnGap: '8px', alignItems: 'start',
+    });
+    const main = document.createElement('div');
+    const msg = document.createElement('div');
+    msg.textContent = 'Auto-copy unavailable here. Press Ctrl+A then Ctrl+C in the box, then paste into Claude.';
+    msg.style.marginBottom = '6px';
+    main.appendChild(msg);
+    const ta = document.createElement('textarea');
+    ta.value = json;
+    ta.readOnly = true;
+    ta.spellcheck = false;
+    Object.assign(ta.style, {
+      width: '100%', minHeight: '60px', maxHeight: '160px', resize: 'vertical',
+      padding: '6px 8px', font: '12px ui-monospace, monospace', background: '#fff',
+      color: '#111', border: 'none', borderRadius: '6px', outline: 'none', boxSizing: 'border-box',
+    });
+    main.appendChild(ta);
+    const close = document.createElement('button');
+    close.type = 'button';
+    close.textContent = '×';
+    close.setAttribute('aria-label', 'Dismiss');
+    Object.assign(close.style, {
+      background: 'transparent', border: 'none', color: '#fff', fontSize: '18px',
+      cursor: 'pointer', lineHeight: '1', padding: '2px 4px', alignSelf: 'start',
+    });
+    close.addEventListener('click', () => wrap.remove());
+    wrap.append(main, close);
+    document.body.appendChild(wrap);
+    setTimeout(() => { ta.focus(); ta.select(); }, 0);
+  }
+  window.submitToClaude = submitToClaude;
+  window.copyToClipboard = copyToClipboard;
+})();
+</script>
+<script>
+window.__CLAUDE_SUBMIT_URL__ = 'http://127.0.0.1:52209/?t=5aac0b74a27bbb3013de1ecb7ec97073';
+
+(function () {
+  let chosen = null;
+  const grid = document.getElementById('grid');
+  const status = document.getElementById('status');
+
+  grid.addEventListener('click', (e) => {
+    const btn = e.target.closest('.pick');
+    if (!btn) return;
+    const cell = btn.closest('.cell');
+    grid.querySelectorAll('.cell').forEach((c) => c.classList.remove('chosen'));
+    cell.classList.add('chosen');
+    chosen = {
+      key: cell.dataset.key,
+      title: cell.dataset.title,
+      tradeoff: cell.dataset.tradeoff,
+    };
+    status.textContent = 'Picked ' + chosen.key + ' (' + chosen.title + '). Add rationale if you want, then Submit.';
+  });
+
+  document.getElementById('submit').addEventListener('click', async () => {
+    if (!chosen) { status.textContent = 'Pick a direction first (or write mixing notes and pick the dominant one).'; return; }
+    await submitToClaude({
+      skill: 'html-brainstorm-grid',
+      kind: 'pick-one',
+      data: {
+        chosen: chosen.key,
+        title: chosen.title,
+        tradeoff_label: chosen.tradeoff,
+        rationale: document.getElementById('rationale').value || null,
+        candidates: ['A Scorebook', 'B Chalk Talk', 'C Federation Poster', 'D Editorial Playbook', 'E Court Tape', 'F Night Match'],
+      },
+      version: 1,
+    });
+  });
+})();
+</script>
+</body>
+</html>

@@ -68,10 +68,10 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
 
   <!-- Hero -->
   <section class="max-w-5xl mx-auto px-4 pt-10 pb-6 md:pt-14 md:pb-8">
-    <h1 class="font-serif text-4xl md:text-5xl font-bold tracking-tight text-stone-900 mb-3">
+    <h1 class="text-4xl md:text-5xl font-semibold tracking-tight text-slate-900 mb-3">
       Coaching Bible
     </h1>
-    <p class="text-lg md:text-xl text-stone-700 max-w-3xl mb-0">
+    <p class="text-lg md:text-xl text-slate-700 max-w-3xl mb-0">
       Citation-disciplined coaching reference for <strong>top-club women's indoor 6s</strong>, 14U through college. 1100+ markdown pages of methodology, technique, schools-of-thought, drills, and operational templates — interlinked and source-anchored.
     </p>
   </section>
@@ -104,10 +104,10 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
     <h2 class="kicker mb-3">I want to…</h2>
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
       {taskTiles.map((t) => (
-        <a href={t.href} class="task-tile block p-5 rounded-lg border border-stone-200 bg-white hover:border-orange-400 hover:bg-orange-50/40 no-underline transition-colors">
+        <a href={t.href} class="task-tile block p-5 rounded-lg border border-slate-200 bg-white hover:border-blue-400 hover:bg-blue-50/40 no-underline transition-colors">
           <div class="kicker mb-2">{t.kicker}</div>
-          <h3 class="font-serif text-lg font-bold text-stone-900 mb-1 leading-tight">{t.title}</h3>
-          <p class="text-sm text-stone-600 leading-snug">{t.desc}</p>
+          <h3 class="tracking-tight text-lg font-semibold text-slate-900 mb-1 leading-tight">{t.title}</h3>
+          <p class="text-sm text-slate-600 leading-snug">{t.desc}</p>
         </a>
       ))}
     </div>
@@ -117,7 +117,7 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
   <section class="max-w-6xl mx-auto px-4 pb-8">
     <div class="flex items-baseline justify-between mb-3">
       <h2 class="kicker">By age</h2>
-      <a href={`${base}/manual/`} class="text-xs text-stone-500 hover:text-orange-700 no-underline">All ages →</a>
+      <a href={`${base}/manual/`} class="text-xs text-slate-500 hover:text-blue-700 no-underline">All ages →</a>
     </div>
     <div class="age-strip">
       {ages.map((a) => (
@@ -139,7 +139,7 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
   <section class="max-w-6xl mx-auto px-4 pb-10">
     <div class="flex items-baseline justify-between mb-3">
       <h2 class="kicker">By skill</h2>
-      <a href={`${base}/library/`} class="text-xs text-stone-500 hover:text-orange-700 no-underline">All techniques →</a>
+      <a href={`${base}/library/`} class="text-xs text-slate-500 hover:text-blue-700 no-underline">All techniques →</a>
     </div>
     <div class="skill-strip">
       {skills.map((s) => (
@@ -153,9 +153,9 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
     <h2 class="kicker mb-3">Methodology &amp; planning</h2>
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
       {methodHubs.map((m) => (
-        <a href={`${base}/${m.slug}/`} class="method-tile block p-4 rounded-md border border-stone-200 bg-stone-50 hover:bg-white hover:border-orange-300 no-underline transition-colors">
-          <h3 class="font-serif text-base font-bold text-stone-900 mb-1">{m.label}</h3>
-          <p class="text-sm text-stone-600 leading-snug">{m.desc}</p>
+        <a href={`${base}/${m.slug}/`} class="method-tile block p-4 rounded-md border border-slate-200 bg-slate-50 hover:bg-white hover:border-slate-300 no-underline transition-colors">
+          <h3 class="tracking-tight text-base font-semibold text-slate-900 mb-1">{m.label}</h3>
+          <p class="text-sm text-slate-600 leading-snug">{m.desc}</p>
         </a>
       ))}
     </div>
@@ -163,12 +163,12 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
 
   <!-- Sources & credibility footer -->
   <section class="max-w-5xl mx-auto px-4 pb-16">
-    <div class="border-t border-stone-200 pt-6">
+    <div class="border-t border-slate-200 pt-6">
       <h2 class="kicker mb-3">Sources &amp; method</h2>
-      <p class="text-sm text-stone-600 leading-relaxed">
+      <p class="text-sm text-slate-600 leading-relaxed">
         Built on 770+ cited sources, synthesized with neutral attribution across schools of thought. Coverage spans Karch Kiraly's <em>Championship Volleyball</em>, Hugh McCutcheon's <em>Championship Behaviors</em>, Mike Lingenfelter's Munciana camp library, the Art of Coaching Volleyball and Gold Medal Squared corpora, peer-reviewed sports-science research, and definitive coaching books.
       </p>
-      <p class="text-sm text-stone-600 leading-relaxed mt-3">
+      <p class="text-sm text-slate-600 leading-relaxed mt-3">
         Every claim resolves to a source page. Contested topics carry <strong>schools-perspectives</strong> sections that present rival positions side by side without resolving them — neutrality is a hard rule.
       </p>
     </div>

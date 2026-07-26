@@ -1,19 +1,28 @@
 @import "tailwindcss";
 
-/* Brand palette + base typography for the coaching manual.
-   Volleyball-court tan + slate; serif headings for the manual feel. */
+/* Design system: "Cool Slate + Stat Strip" (direction 2b, chosen 2026-07-26).
+   Precision-light grammar: slate ink on cool near-white, hairlines over
+   shadows, exactly one accent (electric blue) reserved for active states and
+   primary actions, JetBrains Mono for numerals/eyebrows, Inter for everything
+   else, display weight capped at 600. */
 :root {
-  --color-paper: #fafaf7;
-  --color-ink: #1a2030;
-  --color-accent: #b04a2a;       /* terracotta — court line color */
-  --color-accent-soft: #f3dcc4;
-  --color-rule: #e3e0d6;
-  --color-muted: #5a6373;
+  --color-paper: #f7f8fa;        /* cool near-white canvas */
+  --color-surface: #ffffff;      /* lifted card surface */
+  --color-ink: #1e293b;          /* slate ink */
+  --color-ink-strong: #0f172a;   /* display ink */
+  --color-accent: #2563eb;       /* electric blue — active states + links only */
+  --color-accent-strong: #1d4ed8;
+  --color-accent-soft: #eff6ff;  /* blue-50 wash for chips */
+  --color-rule: #e5e9f0;         /* hairline */
+  --color-muted: #64748b;        /* secondary text */
+  --color-table-head: #f1f5f9;   /* slate-100 */
+  --shadow-card: 0 1px 1px rgba(0,0,0,.02), 0 2px 2px rgba(0,0,0,.04);
 }
 
 @theme {
-  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --font-serif: ui-serif, Georgia, "Cambria", "Times New Roman", serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-serif: "Inter", ui-sans-serif, system-ui, sans-serif; /* legacy alias — display is sans in this system */
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
 
 html, body { height: 100%; }
@@ -22,84 +31,81 @@ body {
   color: var(--color-ink);
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
+  font-variant-numeric: tabular-nums;
 }
 
 a { color: var(--color-accent); text-decoration: underline; text-underline-offset: 2px; }
-a:hover { text-decoration-thickness: 2px; }
+a:hover { color: var(--color-accent-strong); text-decoration-thickness: 2px; }
 
-/* Prose container for markdown-rendered content.
-   Tuned for scannability: bigger body text, generous line-height, prominent
-   section headings, list items get vertical rhythm so bullets read like rows. */
+/* Prose container for markdown-rendered content. Precision reading: 17px
+   body, hairline section rules, sans display at weight 600 with tight
+   tracking, mono reserved for data. */
 .prose-bible {
   max-width: 72ch;
   font-family: var(--font-sans);
-  font-size: 1.0625rem;     /* 17px base — easier to scan than 16px on long pages */
+  font-size: 1.0625rem;
   line-height: 1.7;
 }
 .prose-bible h1, .prose-bible h2, .prose-bible h3, .prose-bible h4 {
-  font-family: var(--font-serif);
-  color: var(--color-ink);
-  letter-spacing: -0.015em;
+  font-family: var(--font-sans);
+  color: var(--color-ink-strong);
   margin-bottom: 0.5em;
-  font-weight: 700;
+  font-weight: 600;
 }
-.prose-bible h1 { font-size: 2.25rem; line-height: 1.15; margin-top: 0; }
+.prose-bible h1 { font-size: 2.1rem; line-height: 1.15; margin-top: 0; letter-spacing: -0.025em; }
 .prose-bible h2 {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
+  letter-spacing: -0.02em;
   margin-top: 2.25em;
   padding-bottom: 0.35em;
-  border-bottom: 2px solid var(--color-accent);
+  border-bottom: 1px solid var(--color-rule);
 }
 .prose-bible h3 {
-  font-size: 1.2rem;
+  font-size: 1.15rem;
+  letter-spacing: -0.01em;
   margin-top: 1.6em;
-  color: var(--color-accent);
 }
 .prose-bible h4 {
-  font-size: 1.05rem;
-  margin-top: 1.2em;
+  font-size: 0.8rem;
+  margin-top: 1.4em;
   color: var(--color-muted);
   text-transform: uppercase;
-  letter-spacing: 0.06em;
-  font-family: var(--font-sans);
+  letter-spacing: 0.07em;
+  font-family: var(--font-mono);
+  font-weight: 500;
 }
 .prose-bible p, .prose-bible ul, .prose-bible ol, .prose-bible blockquote, .prose-bible table {
   margin: 0.85em 0;
 }
-.prose-bible ul, .prose-bible ol {
-  padding-left: 1.5em;
-}
-.prose-bible ul li::marker { color: var(--color-accent); font-weight: 700; }
-.prose-bible ol li::marker { color: var(--color-accent); font-weight: 700; }
+.prose-bible ul, .prose-bible ol { padding-left: 1.5em; }
+.prose-bible ul li::marker { color: var(--color-muted); }
+.prose-bible ol li::marker { color: var(--color-muted); font-variant-numeric: tabular-nums; }
 .prose-bible li { margin: 0.55em 0; }
 .prose-bible li > p { margin: 0.3em 0; }
-.prose-bible li strong:first-child {
-  /* When a list item starts with a bold span (e.g. "**Passing:** ...") show
-     that as a label by giving it slightly more presence. */
-  display: inline-block;
-  margin-right: 0.25em;
-}
-.prose-bible strong { color: var(--color-ink); font-weight: 700; }
+.prose-bible li strong:first-child { display: inline-block; margin-right: 0.25em; }
+.prose-bible strong { color: var(--color-ink-strong); font-weight: 600; }
 .prose-bible code {
-  font-size: 0.9em;
+  font-family: var(--font-mono);
+  font-size: 0.85em;
   background: var(--color-accent-soft);
+  color: var(--color-ink-strong);
   padding: 0.05em 0.35em;
-  border-radius: 3px;
+  border-radius: 4px;
 }
 .prose-bible pre {
-  background: #f1ede4;
+  background: var(--color-surface);
+  border: 1px solid var(--color-rule);
   padding: 1em;
-  border-radius: 6px;
+  border-radius: 8px;
   overflow-x: auto;
   font-size: 0.85em;
   line-height: 1.5;
 }
 .prose-bible pre code { background: transparent; padding: 0; }
 .prose-bible blockquote {
-  border-left: 3px solid var(--color-accent);
+  border-left: 2px solid var(--color-rule);
   padding-left: 1em;
   color: var(--color-muted);
-  font-style: italic;
   margin: 1.2em 0;
 }
 .prose-bible table {
@@ -113,28 +119,31 @@ a:hover { text-decoration-thickness: 2px; }
   text-align: left;
   vertical-align: top;
 }
-.prose-bible th { background: #f1ede4; font-weight: 700; }
+.prose-bible th { background: var(--color-table-head); font-weight: 600; }
 .prose-bible hr { border: none; border-top: 1px solid var(--color-rule); margin: 2em 0; }
 
-/* Subtle "kicker" tag for frontmatter chips */
+/* Eyebrow chip for frontmatter metadata: mono, quiet. */
 .kicker {
   display: inline-block;
-  font-size: 0.7rem;
-  font-weight: 600;
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--color-muted);
-  background: var(--color-accent-soft);
+  background: var(--color-surface);
+  border: 1px solid var(--color-rule);
   padding: 0.2em 0.6em;
   border-radius: 999px;
 }
 
-/* Age-band chips inside cue dictionary entries. Each cue has at least an
-   "Introduced Xs" and may have "Refined Ys+" or "Lifelong" alongside. */
+/* Age-band chips inside cue dictionary entries. Blue = introduced here
+   (the active fact); outline = refined later; dark slate = lifelong. */
 .age-chip {
   display: inline-block;
-  font-size: 0.7rem;
-  font-weight: 600;
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  font-weight: 700;
   letter-spacing: 0.04em;
   padding: 0.1em 0.5em;
   border-radius: 999px;
@@ -142,51 +151,38 @@ a:hover { text-decoration-thickness: 2px; }
   white-space: nowrap;
   vertical-align: 0.05em;
 }
-.age-chip-intro {
-  background: var(--color-accent);
-  color: white;
-}
+.age-chip-intro { background: var(--color-accent); color: white; }
 .age-chip-refined {
   background: var(--color-accent-soft);
-  color: var(--color-accent);
+  color: var(--color-accent-strong);
   border: 1px solid var(--color-accent);
 }
-.age-chip-lifelong {
-  background: #2a4a2a;
-  color: white;
-}
+.age-chip-lifelong { background: var(--color-ink); color: white; }
 
-/* Cue entry row gets a subtle bg so they're distinct from regular paragraphs. */
+/* Cue entry rows: lifted surface + hairline, meta in mono via .kicker usage. */
 .prose-bible .cue-entry {
   margin-top: 0.6em;
   padding: 0.6em 0.8em;
-  border-left: 3px solid var(--color-accent-soft);
-  background: white;
-  border-radius: 0 4px 4px 0;
+  border: 1px solid var(--color-rule);
+  border-left: 3px solid var(--color-rule);
+  background: var(--color-surface);
+  border-radius: 0 6px 6px 0;
+  box-shadow: var(--shadow-card);
 }
-.prose-bible .cue-entry strong:first-child {
-  display: inline-block;
-  margin-right: 0.4em;
-}
-.prose-bible .cue-entry.cue-dim {
-  opacity: 0.35;
-}
+.prose-bible .cue-entry strong:first-child { display: inline-block; margin-right: 0.4em; }
+.prose-bible .cue-entry.cue-dim { opacity: 0.35; }
 
-/* ---- Mobile-first: tables ------------------------------------------------
-   .table-scroll is added around every markdown table by rehype-wrap-tables.
-   Wide tables (4+ cols, i.e. rubrics) additionally pin the first column so
-   the criterion name stays visible while the 1-5 anchors scroll under the
-   thumb. Edge fade hints that there is more table to the right. */
+/* ---- Mobile-first: tables ------------------------------------------------ */
 .table-scroll {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   margin: 0.85em 0;
-  border-radius: 6px;
+  border-radius: 8px;
   background:
     linear-gradient(to right, var(--color-paper) 30%, transparent),
     linear-gradient(to left, var(--color-paper) 30%, transparent) 100% 0,
-    radial-gradient(farthest-side at 0 50%, rgba(26,32,48,0.18), transparent),
-    radial-gradient(farthest-side at 100% 50%, rgba(26,32,48,0.18), transparent) 100% 0;
+    radial-gradient(farthest-side at 0 50%, rgba(15,23,42,0.16), transparent),
+    radial-gradient(farthest-side at 100% 50%, rgba(15,23,42,0.16), transparent) 100% 0;
   background-repeat: no-repeat;
   background-size: 44px 100%, 44px 100%, 16px 100%, 16px 100%;
   background-attachment: local, local, scroll, scroll;
@@ -197,7 +193,7 @@ a:hover { text-decoration-thickness: 2px; }
 .prose-bible .table-wide td:first-child {
   position: sticky;
   left: 0;
-  background: #f1ede4;
+  background: var(--color-table-head);
   z-index: 1;
   min-width: 8.5rem;
   box-shadow: 1px 0 0 var(--color-rule);
@@ -208,9 +204,7 @@ a:hover { text-decoration-thickness: 2px; }
 }
 
 /* ---- Mobile-first: bottom tab bar ---------------------------------------- */
-.tabbar {
-  padding-bottom: env(safe-area-inset-bottom, 0);
-}
+.tabbar { padding-bottom: env(safe-area-inset-bottom, 0); }
 .tabbar a {
   min-height: 44px;
   display: flex;
@@ -228,13 +222,42 @@ a:hover { text-decoration-thickness: 2px; }
   border-radius: 999px;
   background: var(--color-accent);
   color: white;
-  box-shadow: 0 2px 8px rgba(176, 74, 42, 0.4);
+  box-shadow: 0 2px 10px rgba(37, 99, 235, 0.35);
   justify-self: center;
 }
 .tabbar .tab-courtside svg { width: 26px; height: 26px; }
 .tabbar .tab-courtside[aria-current="true"] { color: white; outline: 3px solid var(--color-accent-soft); }
 
 /* ---- Courtside page ------------------------------------------------------ */
+.stat-strip {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin-bottom: 18px;
+}
+.stat-strip .stat {
+  background: var(--color-surface);
+  border: 1px solid var(--color-rule);
+  border-radius: 10px;
+  padding: 10px 12px;
+  box-shadow: var(--shadow-card);
+}
+.stat-strip .stat b {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--color-ink-strong);
+}
+.stat-strip .stat i {
+  font-style: normal;
+  font-size: 0.66rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-muted);
+}
 .courtside-row {
   display: grid;
   grid-template-columns: 3.4rem repeat(4, 1fr);
@@ -246,11 +269,11 @@ a:hover { text-decoration-thickness: 2px; }
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: var(--font-serif);
+  font-family: var(--font-mono);
   font-weight: 700;
-  font-size: 1.05rem;
+  font-size: 1rem;
   border-radius: 8px;
-  background: var(--color-ink);
+  background: var(--color-ink-strong);
   color: white;
 }
 .courtside-row a {
@@ -260,11 +283,12 @@ a:hover { text-decoration-thickness: 2px; }
   min-height: 46px;
   border: 1px solid var(--color-rule);
   border-radius: 8px;
-  background: white;
+  background: var(--color-surface);
   color: var(--color-ink);
   text-decoration: none;
   font-size: 0.85rem;
   font-weight: 600;
+  box-shadow: var(--shadow-card);
 }
 .courtside-row a:active { background: var(--color-accent-soft); }
 .courtside-row.courtside-current .courtside-age { background: var(--color-accent); }

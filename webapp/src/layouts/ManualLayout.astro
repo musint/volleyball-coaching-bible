@@ -15,14 +15,14 @@ const ages = ['10s','11s','12s','13s','14s','15s','16s','17s','18s'];
     <aside class="text-sm md:sticky md:top-20 md:self-start no-print">
       <div class="space-y-6">
         <div>
-          <h3 class="font-serif text-xs uppercase tracking-wider text-stone-500 mb-2">Age guides</h3>
+          <h3 class="tracking-tight text-xs uppercase tracking-wider text-slate-500 mb-2">Age guides</h3>
           <ul class="space-y-1">
             {ages.map(a => (
               <li>
                 <a
                   href={`${base}/manual/ages/${a}/`}
                   class:list={["block px-2 py-1 rounded no-underline",
-                    age === a ? "bg-orange-100 text-orange-900 font-semibold" : "text-stone-700 hover:bg-stone-100"]}
+                    age === a ? "bg-blue-50 text-blue-800 font-semibold" : "text-slate-700 hover:bg-slate-100"]}
                 >
                   {a}
                 </a>
@@ -31,21 +31,21 @@ const ages = ['10s','11s','12s','13s','14s','15s','16s','17s','18s'];
           </ul>
         </div>
         <div>
-          <h3 class="font-serif text-xs uppercase tracking-wider text-stone-500 mb-2">Cue dictionary</h3>
+          <h3 class="tracking-tight text-xs uppercase tracking-wider text-slate-500 mb-2">Cue dictionary</h3>
           <ul class="space-y-1">
-            <li><a href={`${base}/manual/cues/`} class="block px-2 py-1 rounded text-stone-700 hover:bg-stone-100 no-underline">All skills</a></li>
+            <li><a href={`${base}/manual/cues/`} class="block px-2 py-1 rounded text-slate-700 hover:bg-slate-100 no-underline">All skills</a></li>
             {['passing','setting','hitting','blocking','serving','defense','transition'].map(s => (
-              <li><a href={`${base}/manual/cues/${s}-cues/`} class="block px-2 py-1 rounded text-stone-700 hover:bg-stone-100 no-underline">{s}</a></li>
+              <li><a href={`${base}/manual/cues/${s}-cues/`} class="block px-2 py-1 rounded text-slate-700 hover:bg-slate-100 no-underline">{s}</a></li>
             ))}
           </ul>
         </div>
         <div>
-          <h3 class="font-serif text-xs uppercase tracking-wider text-stone-500 mb-2">More</h3>
+          <h3 class="tracking-tight text-xs uppercase tracking-wider text-slate-500 mb-2">More</h3>
           <ul class="space-y-1">
-            <li><a href={`${base}/manual/drill-picks/`} class="block px-2 py-1 rounded text-stone-700 hover:bg-stone-100 no-underline">Drill pick-lists</a></li>
-            <li><a href={`${base}/manual/tryouts/`} class="block px-2 py-1 rounded text-stone-700 hover:bg-stone-100 no-underline">Tryout rubrics</a></li>
-            <li><a href={`${base}/manual/practice-plans/`} class="block px-2 py-1 rounded text-stone-700 hover:bg-stone-100 no-underline">Practice plans</a></li>
-            <li><a href={`${base}/ops/`} class="block px-2 py-1 rounded text-stone-700 hover:bg-stone-100 no-underline">Operations</a></li>
+            <li><a href={`${base}/manual/drill-picks/`} class="block px-2 py-1 rounded text-slate-700 hover:bg-slate-100 no-underline">Drill pick-lists</a></li>
+            <li><a href={`${base}/manual/tryouts/`} class="block px-2 py-1 rounded text-slate-700 hover:bg-slate-100 no-underline">Tryout rubrics</a></li>
+            <li><a href={`${base}/manual/practice-plans/`} class="block px-2 py-1 rounded text-slate-700 hover:bg-slate-100 no-underline">Practice plans</a></li>
+            <li><a href={`${base}/ops/`} class="block px-2 py-1 rounded text-slate-700 hover:bg-slate-100 no-underline">Operations</a></li>
           </ul>
         </div>
       </div>

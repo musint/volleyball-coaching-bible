@@ -45,10 +45,10 @@ export default function CueAgeFilter() {
   }, [selected]);
 
   return (
-    <div class="not-prose mb-6 p-4 rounded-lg border-2 border-orange-200 bg-orange-50/60 no-print">
+    <div class="not-prose mb-6 p-4 rounded-lg border-2 border-slate-200 bg-white no-print">
       <div class="flex flex-wrap items-baseline gap-2 mb-2">
-        <span class="font-serif font-bold text-stone-900">Show cues for age:</span>
-        <span class="text-xs text-stone-500">
+        <span class="tracking-tight font-semibold text-slate-900">Show cues for age:</span>
+        <span class="text-xs text-slate-500">
           {selected
             ? <>cues introduced at <strong>{selected}</strong> or earlier (plus lifelong cues)</>
             : <>showing all cues</>}
@@ -57,12 +57,12 @@ export default function CueAgeFilter() {
       <div class="flex flex-wrap gap-1">
         <button
           onClick={() => setSelected(null)}
-          class={`px-3 py-1 text-sm rounded border ${selected === null ? 'bg-stone-700 text-white border-stone-700' : 'bg-white border-stone-300 text-stone-700 hover:bg-stone-100'}`}
+          class={`px-3 py-1 text-sm rounded border ${selected === null ? 'bg-slate-700 text-white border-slate-700' : 'bg-white border-slate-300 text-slate-700 hover:bg-slate-100'}`}
         >All ages</button>
         {AGES.map(a => (
           <button
             onClick={() => setSelected(a)}
-            class={`px-3 py-1 text-sm rounded border ${selected === a ? 'bg-orange-600 text-white border-orange-600' : 'bg-white border-stone-300 text-stone-700 hover:bg-orange-50 hover:border-orange-300'}`}
+            class={`px-3 py-1 text-sm rounded border ${selected === a ? 'bg-blue-600 text-white border-blue-600' : 'bg-white border-slate-300 text-slate-700 hover:bg-blue-50 hover:border-slate-300'}`}
           >{a}</button>
         ))}
       </div>

@@ -1,0 +1,552 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coaching Bible — design iterations v3 (Precision, Reader, Field)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;510;600;700&family=Manrope:wght@400;600;800&family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Newsreader:opsz,wght@6..72,400;6..72,600&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{ --page-bg:#f2f1ee; --page-ink:#1c1d20; --page-mut:#66686e; --page-rule:#dbd9d3; }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--page-bg);color:var(--page-ink);font:15px/1.55 "Inter",system-ui,sans-serif}
+  .wrap{max-width:1340px;margin:0 auto;padding:28px 20px}
+  h1{font:700 26px/1.2 "Inter";letter-spacing:-.02em;margin:0 0 6px}
+  .lede{color:var(--page-mut);max-width:78ch;margin:0 0 20px}
+  h2.fam{font:700 18px "Inter";letter-spacing:-.01em;margin:30px 0 4px}
+  p.famnote{color:var(--page-mut);font-size:13.5px;margin:0 0 14px;max-width:80ch}
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  .grid.two{grid-template-columns:repeat(2,1fr);max-width:900px}
+  @media (max-width:1080px){.grid{grid-template-columns:repeat(2,1fr)}}
+  @media (max-width:720px){.grid,.grid.two{grid-template-columns:1fr}}
+  .cell{background:#fff;border:1px solid var(--page-rule);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+  .cell.chosen{outline:3px solid #b34700;outline-offset:2px}
+  .cell-head{padding:12px 16px 8px}
+  .cell-head .name{font:700 15px "Inter"}
+  .cell-head .tag{display:block;margin-top:3px;font:600 10.5px "JetBrains Mono",monospace;letter-spacing:.03em;text-transform:uppercase;color:#8a4b12}
+  .mockwrap{padding:6px 12px 4px;display:flex;justify-content:center}
+  .delta{padding:8px 16px 4px;font-size:12.5px;line-height:1.5;color:#3d3e42}
+  .delta b{color:#1c1d20}
+  .pick{margin:10px 16px 14px;padding:10px 12px;font:700 13px "Inter";border:2px solid var(--page-ink);background:#fff;color:var(--page-ink);border-radius:9px;cursor:pointer;min-height:44px}
+  .pick:hover{background:var(--page-ink);color:#fff}
+  .cell.chosen .pick{background:#b34700;border-color:#b34700;color:#fff}
+  .pick:focus-visible,button:focus-visible,textarea:focus-visible{outline:3px solid #b34700;outline-offset:2px}
+
+  /* phone skeleton (shared) */
+  .phone{width:262px;border-radius:30px;padding:9px;background:#101114;box-shadow:0 8px 22px rgba(0,0,0,.2)}
+  .screen{border-radius:23px;overflow:hidden;height:520px;display:flex;flex-direction:column;font-size:12px;position:relative}
+  .sbar{display:flex;justify-content:space-between;font:600 10px "Inter";padding:7px 14px 3px;opacity:.85}
+  .appbar{display:flex;justify-content:space-between;align-items:center;padding:7px 12px 9px}
+  .appbar .t{font-weight:700;font-size:15px;letter-spacing:-.01em}
+  .agechip{font:700 12px "JetBrains Mono",monospace;padding:3px 9px;border-radius:99px}
+  .content{flex:1;overflow:hidden;padding:0 11px}
+  .hero{border-radius:12px;padding:12px;margin-bottom:9px}
+  .hero .hk{font:600 9px "Inter";letter-spacing:.09em;text-transform:uppercase;opacity:.7;margin-bottom:2px}
+  .bignum{font:700 34px/1 "JetBrains Mono",monospace;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+  .bignum small{font:600 11px "Inter";letter-spacing:0}
+  .rows{display:flex;flex-dire-column:column;flex-direction:column}
+  .row{padding:10px 2px;display:flex;flex-direction:column;gap:2px;min-height:44px;justify-content:center}
+  .row .c{font-weight:600;font-size:12.5px;line-height:1.3}
+  .row .p{font-size:9.5px;opacity:.64;display:flex;gap:5px;align-items:center;flex-wrap:wrap}
+  .navbar{display:grid;grid-template-columns:repeat(5,1fr);padding:5px 3px 10px;font:600 8.5px "Inter";text-align:center}
+  .navbar span{display:flex;flex-direction:column;align-items:center;gap:2px;padding-top:4px;min-height:40px}
+  .ic{width:17px;height:17px;display:block;background:currentColor;opacity:.85;mask:radial-gradient(circle at 50% 40%,#000 55%,transparent 56%)}
+  .eyebrow{font:500 9px "JetBrains Mono",monospace;letter-spacing:.08em;text-transform:uppercase;margin:8px 2px 2px}
+  .search{border-radius:8px;padding:8px 9px;font-size:12px}
+
+  /* ============ PRECISION FAMILY ============ */
+  /* 2a graphite + signal orange */
+  .p2a .screen{background:#fafafa;color:#171717}
+  .p2a .agechip{background:#171717;color:#fafafa}
+  .p2a .hero{background:#fff;border:1px solid #ebebeb;box-shadow:0 1px 1px #00000005,0 2px 2px #0000000a}
+  .p2a .search{border:1px solid #ebebeb;background:#fafafa;color:#8f8f8f}
+  .p2a .eyebrow{color:#c2410c}
+  .p2a .row{border-bottom:1px solid #ebebeb}
+  .p2a .row .p{color:#666}
+  .p2a .navbar{background:#fff;border-top:1px solid #ebebeb;color:#666}
+  .p2a .navbar .on{color:#c2410c}
+  /* 2b cool slate + court blue, numeric hero */
+  .p2b .screen{background:#f7f8fa;color:#1e293b}
+  .p2b .agechip{background:#1e293b;color:#f7f8fa}
+  .p2b .hero{background:#fff;border:1px solid #e5e9f0;box-shadow:0 1px 1px #0000000a}
+  .p2b .bignum{color:#1e293b}
+  .p2b .trend{color:#2563eb;font:600 10px "Inter"}
+  .p2b .statgrid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px;margin-top:8px;font-variant-numeric:tabular-nums}
+  .p2b .stat{border:1px solid #e5e9f0;border-radius:8px;padding:6px;background:#fbfcfe}
+  .p2b .stat b{display:block;font:700 14px "JetBrains Mono";letter-spacing:-.02em}
+  .p2b .stat i{font:500 8.5px "Inter";font-style:normal;color:#64748b;text-transform:uppercase;letter-spacing:.05em}
+  .p2b .row{border-bottom:1px solid #e5e9f0}
+  .p2b .row .p{color:#64748b}
+  .p2b .navbar{background:#fff;border-top:1px solid #e5e9f0;color:#64748b}
+  .p2b .navbar .on{color:#2563eb}
+  /* 2c warm paper precision (brand-continuous) */
+  .p2c .screen{background:#faf8f4;color:#201d1a}
+  .p2c .agechip{background:#9a3412;color:#fff}
+  .p2c .hero{background:#fff;border:1px solid #eae4d8;box-shadow:0 1px 1px #00000005,0 2px 2px #00000008}
+  .p2c .search{border:1px solid #eae4d8;background:#faf8f4;color:#94908a}
+  .p2c .eyebrow{color:#9a3412}
+  .p2c .row{border-bottom:1px solid #eee8dc}
+  .p2c .row .p{color:#7a756d}
+  .p2c .navbar{background:#fff;border-top:1px solid #eae4d8;color:#7a756d}
+  .p2c .navbar .on{color:#9a3412}
+
+  /* ============ READER FAMILY ============ */
+  /* 3a classic chapter */
+  .p3a .screen{background:#fcfaf6;color:#232019;font-family:"Source Serif 4",serif}
+  .p3a .appbar .t{font-family:"Fraunces",serif;font-weight:650}
+  .p3a .agechip{background:#f1e8d8;color:#6f4a12}
+  .p3a .tocrail{display:flex;gap:5px;overflow:hidden;padding:1px 1px 9px;font:600 9.5px "Inter",sans-serif}
+  .p3a .tocrail span{border:1px solid #e2dccd;border-radius:99px;padding:4px 9px;white-space:nowrap;color:#5a564d}
+  .p3a .tocrail .on{background:#9a3412;color:#fff;border-color:#9a3412}
+  .p3a .chnum{font:650 11px "Fraunces",serif;color:#9a3412;letter-spacing:.12em;text-transform:uppercase}
+  .p3a .ht{font:650 19px/1.25 "Fraunces",serif;letter-spacing:-.01em;margin:2px 0 5px}
+  .p3a .hs{font:400 12.5px/1.62 "Source Serif 4",serif;color:#46423a}
+  .p3a .row{border-bottom:1px solid #eee7d8}
+  .p3a .row .c{font-family:"Source Serif 4",serif}
+  .p3a .row .p{font-family:"Inter",sans-serif;color:#847e72}
+  .p3a .navbar{background:#fcfaf6;border-top:1px solid #e2dccd;color:#847e72;font-family:"Inter",sans-serif}
+  .p3a .navbar .on{color:#9a3412}
+  /* 3b cool journal, edge rail */
+  .p3b .screen{background:#fbfbf9;color:#1f2a3d;font-family:"Newsreader",serif}
+  .p3b .appbar .t{font-family:"Newsreader",serif;font-weight:600}
+  .p3b .agechip{background:#1f2a3d;color:#fbfbf9;font-family:"JetBrains Mono",monospace}
+  .p3b .contentwrap{display:grid;grid-template-columns:14px 1fr;gap:8px;flex:1;overflow:hidden;padding:0 11px}
+  .p3b .rail{display:flex;flex-direction:column;gap:6px;padding-top:6px}
+  .p3b .rail i{width:3px;flex:1;background:#e3e5e0;border-radius:2px}
+  .p3b .rail i.on{background:#3d6d8f}
+  .p3b .ht{font:600 19px/1.28 "Newsreader",serif;margin:2px 0 5px}
+  .p3b .hs{font:400 12.5px/1.65 "Newsreader",serif;color:#3d4657}
+  .p3b .kick{font:600 9px "Inter",sans-serif;letter-spacing:.1em;text-transform:uppercase;color:#3d6d8f}
+  .p3b .row{border-bottom:1px solid #e7e8e3}
+  .p3b .row .c{font-family:"Newsreader",serif;font-weight:600}
+  .p3b .row .p{font-family:"Inter",sans-serif;color:#76839a}
+  .p3b .navbar{background:#fbfbf9;border-top:1px solid #e3e5e0;color:#76839a;font-family:"Inter",sans-serif}
+  .p3b .navbar .on{color:#3d6d8f}
+  /* 3c field notes reader (ruled, sidenote provenance) */
+  .p3c .screen{background:#faf7f0;color:#26221b;font-family:"Source Serif 4",serif;
+    background-image:repeating-linear-gradient(to bottom,transparent 0 27px,#efe9db 27px 28px)}
+  .p3c .appbar{background:#faf7f0}
+  .p3c .appbar .t{font:700 12px "Inter",sans-serif;letter-spacing:.1em;text-transform:uppercase;color:#8a4b12}
+  .p3c .agechip{background:transparent;border:1.5px solid #8a4b12;color:#8a4b12}
+  .p3c .ht{font:600 19px/1.3 "Source Serif 4",serif;margin:0 0 4px}
+  .p3c .hs{font:400 12.5px/1.62 "Source Serif 4",serif;color:#4a453b}
+  .p3c .subhead{font:700 9.5px "Inter",sans-serif;letter-spacing:.1em;text-transform:uppercase;color:#8a4b12;margin:9px 0 2px}
+  .p3c .row{border:none;padding:7px 0 7px 10px;border-left:2.5px solid #e3d9c4}
+  .p3c .row .c{font-family:"Source Serif 4",serif}
+  .p3c .row .p{font:500 9px "JetBrains Mono",monospace;color:#8a4b12;opacity:1}
+  .p3c .navbar{background:#f4efe4;border-top:1px solid #e3d9c4;color:#7c7462;font-family:"Inter",sans-serif}
+  .p3c .navbar .on{color:#8a4b12}
+
+  /* ============ FIELD CARD RECOLORS ============ */
+  .p4 .screen{font-family:"Manrope",sans-serif}
+  .p4 .cta{display:block;margin-top:9px;border:none;border-radius:12px;padding:11px 12px;font:800 13.5px "Manrope";width:100%;text-align:center}
+  .p4 .row{border-radius:12px;margin-bottom:7px;padding:10px 11px}
+  .p4 .prov{font:600 8.5px "JetBrains Mono",monospace}
+  /* 4a ink + terracotta */
+  .p4a .screen{background:#f4f2ef;color:#1b1a18}
+  .p4a .agechip{background:#16181d;color:#fff}
+  .p4a .hero{background:#16181d;color:#fff;border-radius:16px;padding:14px}
+  .p4a .cta{background:#c2410c;color:#fff}
+  .p4a .row{background:#fff;border:1px solid #e5e1da}
+  .p4a .row .p{color:#6b665e}
+  .p4a .prov{color:#c2410c}
+  .p4a .navbar{background:#fff;border-top:1px solid #e5e1da;color:#6b665e}
+  .p4a .navbar .on{color:#c2410c;font-weight:800}
+  /* 4b slate + electric blue */
+  .p4b .screen{background:#f3f5f8;color:#182031}
+  .p4b .agechip{background:#1e293b;color:#fff}
+  .p4b .hero{background:#1e293b;color:#fff;border-radius:16px;padding:14px}
+  .p4b .cta{background:#3b82f6;color:#fff}
+  .p4b .row{background:#fff;border:1px solid #e2e7ef}
+  .p4b .row .p{color:#64748b}
+  .p4b .prov{color:#2563eb}
+  .p4b .navbar{background:#fff;border-top:1px solid #e2e7ef;color:#64748b}
+  .p4b .navbar .on{color:#2563eb;font-weight:800}
+
+  /* footer / submit */
+  .actions{margin:26px 0 10px}
+  .actions .box{border:1px solid var(--page-rule);border-radius:12px;background:#fff;padding:16px;display:grid;gap:10px}
+  .actions label{font:600 13px "Inter"}
+  .actions textarea{width:100%;min-height:64px;padding:10px;border:1px solid var(--page-rule);border-radius:8px;font:14px "Inter";resize:vertical}
+  #submit{justify-self:start;padding:12px 22px;font:700 15px "Inter";background:#b34700;color:#fff;border:none;border-radius:9px;cursor:pointer;min-height:44px}
+  #status{font-size:13px;color:var(--page-mut)}
+  footer{color:var(--page-mut);font-size:12px;padding:8px 0 30px}
+  @media print{.pick,.actions{display:none}.cell{break-inside:avoid}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Iterations v3: Precision, Reader, and Field recolors</h1>
+  <p class="lede">Three takes on Precision Light (what varies: temperature, accent, and what the hero is), three takes on Reader + Rail (what varies: serif voice, TOC form, and how provenance shows), and Field Card twice with the green and yellow gone. Everything still obeys the research floor: labeled five-tab bar, 44px+ targets, 4.5:1 contrast, one dominant element per screen.</p>
+
+  <h2 class="fam">Precision family — Linear/Vercel grammar, three temperatures</h2>
+  <p class="famnote">Same discipline in all three: hairlines over shadows, weight cap 600, mono for eyebrows and numerals, one accent that never decorates. The choice is temperature and hero.</p>
+  <div class="grid" id="grid-p">
+    <!-- 2a -->
+    <section class="cell" data-key="2a" data-title="Graphite + Signal" data-tradeoff="pure neutral; accent only speaks when tapped">
+      <div class="cell-head"><span class="name">2a · Graphite + Signal</span><span class="tag">pure neutral; accent only speaks when tapped</span></div>
+      <div class="mockwrap"><div class="phone p2a"><div class="screen">
+        <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+        <div class="appbar"><span class="t">Courtside</span><span class="agechip">14s</span></div>
+        <div class="content">
+          <div class="hero"><div class="search">Search cues, drills, rubrics…</div></div>
+          <div class="eyebrow">PINNED · 14S</div>
+          <div class="rows">
+            <div class="row"><span class="c">Drop the shoulder closest to the target</span><span class="p">Passing · Tilt · Munciana · 11s+</span></div>
+            <div class="row"><span class="c">Serving col 3: jump-float in rotation, ≥60% called zone</span><span class="p">Rubric 14U · reviewed 2026-07</span></div>
+            <div class="row"><span class="c">Aim small, miss small: name the target first</span><span class="p">Serving · Munciana · 10s+</span></div>
+            <div class="row"><span class="c">45-second rep windows; serve brackets water</span><span class="p">Practice design · Munciana</span></div>
+          </div>
+        </div>
+        <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span class="on"><i class="ic"></i>Courtside</span><span><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+      </div></div></div>
+      <div class="delta"><b>vs v2's take:</b> the accent moves from link blue to your court terracotta, used only for active states. Everything else stays achromatic. The most Vercel of the three.</div>
+      <button class="pick" type="button">Pick 2a</button>
+    </section>
+    <!-- 2b -->
+    <section class="cell" data-key="2b" data-title="Cool Slate + Stat Strip" data-tradeoff="numbers promoted to the hero; coolest cast">
+      <div class="cell-head"><span class="name">2b · Cool Slate + Stat Strip</span><span class="tag">numbers promoted to the hero; coolest cast</span></div>
+      <div class="mockwrap"><div class="phone p2b"><div class="screen">
+        <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+        <div class="appbar"><span class="t">Courtside</span><span class="agechip">14s</span></div>
+        <div class="content">
+          <div class="hero">
+            <div class="hk" style="color:#64748b">TEAM PASS AVG · LAST 3</div>
+            <div class="bignum">2.14 <small class="trend">▲ +0.11</small></div>
+            <div class="statgrid">
+              <div class="stat"><b>62%</b><i>FBSO</i></div>
+              <div class="stat"><b>8.4%</b><i>Aces</i></div>
+              <div class="stat"><b>12.1%</b><i>SErr</i></div>
+            </div>
+          </div>
+          <div class="rows">
+            <div class="row"><span class="c">Drop the shoulder closest to the target</span><span class="p">Passing · Tilt · Munciana · 11s+</span></div>
+            <div class="row"><span class="c">Serving col 3: jump-float in rotation, ≥60% zone</span><span class="p">Rubric 14U · reviewed 2026-07</span></div>
+          </div>
+        </div>
+        <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span class="on"><i class="ic"></i>Courtside</span><span><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+      </div></div></div>
+      <div class="delta"><b>vs v2's take:</b> borrows Scoreboard Dark's tabular stat hero onto the light precision canvas. Cool gray-blue cast, blue accent. The bridge option if you want direction 1's data feel without dark-first.</div>
+      <button class="pick" type="button">Pick 2b</button>
+    </section>
+    <!-- 2c -->
+    <section class="cell" data-key="2c" data-title="Warm Paper Precision" data-tradeoff="brand-continuous; least visually new">
+      <div class="cell-head"><span class="name">2c · Warm Paper Precision</span><span class="tag">brand-continuous; least visually new</span></div>
+      <div class="mockwrap"><div class="phone p2c"><div class="screen">
+        <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+        <div class="appbar"><span class="t">Courtside</span><span class="agechip">14s</span></div>
+        <div class="content">
+          <div class="hero"><div class="search">Search cues, drills, rubrics…</div></div>
+          <div class="eyebrow">PINNED · 14S</div>
+          <div class="rows">
+            <div class="row"><span class="c">Drop the shoulder closest to the target</span><span class="p">Passing · Tilt · Munciana · 11s+</span></div>
+            <div class="row"><span class="c">Serving col 3: jump-float in rotation, ≥60% called zone</span><span class="p">Rubric 14U · reviewed 2026-07</span></div>
+            <div class="row"><span class="c">Three P's: posture, position, passion</span><span class="p">Defense · Munciana 00:19:45</span></div>
+            <div class="row"><span class="c">Hands on the floor before the ball is caught</span><span class="p">Coverage · Munciana 00:34:19</span></div>
+          </div>
+        </div>
+        <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span class="on"><i class="ic"></i>Courtside</span><span><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+      </div></div></div>
+      <div class="delta"><b>vs v2's take:</b> the current site's warm paper and rust, rebuilt on Linear mechanics (hairlines, 4px grid, weight cap). Your existing brand, disciplined. Cheapest migration, least dramatic reveal.</div>
+      <button class="pick" type="button">Pick 2c</button>
+    </section>
+  </div>
+
+  <h2 class="fam">Reader family — three serif voices, three TOC forms</h2>
+  <p class="famnote">All three hold the reading floor (16-18px serif body, 65-75ch measure, grotesk chrome). The choice is voice: bookish warm, journal cool, or annotated field notes.</p>
+  <div class="grid" id="grid-r">
+    <!-- 3a -->
+    <section class="cell" data-key="3a" data-title="Classic Chapter" data-tradeoff="warmest, most bookish; pill TOC">
+      <div class="cell-head"><span class="name">3a · Classic Chapter</span><span class="tag">warmest, most bookish; pill TOC</span></div>
+      <div class="mockwrap"><div class="phone p3a"><div class="screen">
+        <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+        <div class="appbar"><span class="t">14s age guide</span><span class="agechip">Ch. 5</span></div>
+        <div class="content">
+          <div class="tocrail"><span class="on">Serving</span><span>Passing</span><span>Blocking</span><span>Systems</span><span>Promotion</span></div>
+          <div class="chnum">Serving · Milestones</div>
+          <div class="ht">Jump-float in rotation is the headline</div>
+          <div class="hs">Toss consistency is the gate, not the contact. Jump-float is 86% of elite women's serves; topspin waits for 16s.</div>
+          <div class="rows" style="margin-top:6px">
+            <div class="row"><span class="c">Standing-float retained as the in-zone fallback (≥60%)</span><span class="p">Mattox · Dunning · reviewed 2026-07</span></div>
+            <div class="row"><span class="c">Aim small, miss small: every serve has a named target</span><span class="p">Munciana tape · 00:25:23</span></div>
+          </div>
+        </div>
+        <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span><i class="ic"></i>Courtside</span><span class="on"><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+      </div></div></div>
+      <div class="delta"><b>What this iteration commits to:</b> Fraunces display with Source Serif body, warm cream, rust accents, chapter numbering as a structural device. The v2 cell, matured.</div>
+      <button class="pick" type="button">Pick 3a</button>
+    </section>
+    <!-- 3b -->
+    <section class="cell" data-key="3b" data-title="Cool Journal" data-tradeoff="quietest serif; edge-rail TOC saves a full line">
+      <div class="cell-head"><span class="name">3b · Cool Journal</span><span class="tag">quietest serif; edge-rail TOC saves a full line</span></div>
+      <div class="mockwrap"><div class="phone p3b"><div class="screen">
+        <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+        <div class="appbar"><span class="t">14s age guide</span><span class="agechip">§5</span></div>
+        <div class="contentwrap">
+          <div class="rail"><i></i><i class="on"></i><i></i><i></i><i></i></div>
+          <div style="overflow:hidden">
+            <div class="kick">Serving · Milestones</div>
+            <div class="ht">Jump-float in rotation is the headline milestone</div>
+            <div class="hs">Toss consistency is the gate, not the contact. The women's-game anchor: jump-float is 86% of elite serves.</div>
+            <div class="rows" style="margin-top:6px">
+              <div class="row"><span class="c">Standing-float retained as the in-zone fallback (≥60%)</span><span class="p">Mattox · Dunning · rev 2026-07</span></div>
+              <div class="row"><span class="c">Aim small, miss small: name the target</span><span class="p">Munciana · 00:25:23</span></div>
+            </div>
+          </div>
+        </div>
+        <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span><i class="ic"></i>Courtside</span><span class="on"><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+      </div></div></div>
+      <div class="delta"><b>What this iteration commits to:</b> Newsreader on cool near-white with a navy ink and steel-blue accent, NYT-adjacent. The TOC becomes a slim progress rail on the left edge, freeing a full text line on every screen.</div>
+      <button class="pick" type="button">Pick 3b</button>
+    </section>
+    <!-- 3c -->
+    <section class="cell" data-key="3c" data-title="Field Notes" data-tradeoff="provenance loudest; most textured page">
+      <div class="cell-head"><span class="name">3c · Field Notes</span><span class="tag">provenance loudest; most textured page</span></div>
+      <div class="mockwrap"><div class="phone p3c"><div class="screen">
+        <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+        <div class="appbar"><span class="t">14s · Serving</span><span class="agechip">Guide</span></div>
+        <div class="content">
+          <div class="ht">Jump-float in rotation is the headline</div>
+          <div class="hs">Toss consistency is the gate, not the contact. Topspin waits for 16s by program rule.</div>
+          <div class="subhead">Milestones</div>
+          <div class="rows">
+            <div class="row"><span class="c">Standing-float retained as the in-zone fallback (≥60%)</span><span class="p">MATTOX · DUNNING · REV 2026-07</span></div>
+            <div class="row"><span class="c">Aim small, miss small: every serve has a named target</span><span class="p">MUNCIANA 00:25:23 · TIER 2</span></div>
+            <div class="row"><span class="c">Serve brackets every water break, five-minute blocks</span><span class="p">MUNCIANA 00:31:05 · TIER 2</span></div>
+          </div>
+        </div>
+        <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span><i class="ic"></i>Courtside</span><span class="on"><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+      </div></div></div>
+      <div class="delta"><b>What this iteration commits to:</b> ruled baseline like a practice notebook, claims set off with margin rules, and provenance promoted to a mono stamp with trust tier on every claim. Watch Duty's provenance idea taken furthest.</div>
+      <button class="pick" type="button">Pick 3c</button>
+    </section>
+  </div>
+
+  <h2 class="fam">Field Card recolors — same hierarchy, no green, no yellow</h2>
+  <p class="famnote">Layout untouched from v2 (dominant action block, quiet white cards, provenance stamps). Only the palette changes.</p>
+  <div class="grid two" id="grid-f">
+    <!-- 4a -->
+    <section class="cell" data-key="4a" data-title="Field Card · Ink + Terracotta" data-tradeoff="brand-anchored; warmest of the pair">
+      <div class="cell-head"><span class="name">4a · Ink + Terracotta</span><span class="tag">brand-anchored; warmest of the pair</span></div>
+      <div class="mockwrap"><div class="phone p4 p4a"><div class="screen">
+        <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+        <div class="appbar"><span class="t">Courtside</span><span class="agechip">14s</span></div>
+        <div class="content">
+          <div class="hero">
+            <div class="hk">Tonight · tryout re-check week 6</div>
+            <div style="font:800 17px/1.25 Manrope">Score the serving row for 12 athletes</div>
+            <button class="cta" type="button">Open 14U rubric →</button>
+          </div>
+          <div class="rows">
+            <div class="row"><span class="c">Drop the shoulder closest to the target</span><span class="p">Passing · Tilt <span class="prov">MUNCIANA · REV 2026-07</span></span></div>
+            <div class="row"><span class="c">Serving col 3: jump-float in rotation, ≥60% zone</span><span class="p">Rubric 14U <span class="prov">REV 2026-07</span></span></div>
+          </div>
+        </div>
+        <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span class="on"><i class="ic"></i>Courtside</span><span><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+      </div></div></div>
+      <div class="delta"><b>Palette:</b> near-black ink hero, terracotta CTA and accents on warm gray. Reads as your existing brand grown up; pairs naturally with 2c or 3a if you want one family across modes.</div>
+      <button class="pick" type="button">Pick 4a</button>
+    </section>
+    <!-- 4b -->
+    <section class="cell" data-key="4b" data-title="Field Card · Slate + Electric" data-tradeoff="coolest, most product-neutral">
+      <div class="cell-head"><span class="name">4b · Slate + Electric</span><span class="tag">coolest, most product-neutral</span></div>
+      <div class="mockwrap"><div class="phone p4 p4b"><div class="screen">
+        <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+        <div class="appbar"><span class="t">Courtside</span><span class="agechip">14s</span></div>
+        <div class="content">
+          <div class="hero">
+            <div class="hk">Tonight · tryout re-check week 6</div>
+            <div style="font:800 17px/1.25 Manrope">Score the serving row for 12 athletes</div>
+            <button class="cta" type="button">Open 14U rubric →</button>
+          </div>
+          <div class="rows">
+            <div class="row"><span class="c">Drop the shoulder closest to the target</span><span class="p">Passing · Tilt <span class="prov">MUNCIANA · REV 2026-07</span></span></div>
+            <div class="row"><span class="c">Serving col 3: jump-float in rotation, ≥60% zone</span><span class="p">Rubric 14U <span class="prov">REV 2026-07</span></span></div>
+          </div>
+        </div>
+        <div class="navbar"><span><i class="ic"></i>Manual</span><span><i class="ic"></i>Drills</span><span class="on"><i class="ic"></i>Courtside</span><span><i class="ic"></i>Cues</span><span><i class="ic"></i>Search</span></div>
+      </div></div></div>
+      <div class="delta"><b>Palette:</b> deep slate hero, electric blue CTA on cool gray. Sits closest to 2b's temperature; pick this pair if the whole product should feel like one cool system.</div>
+      <button class="pick" type="button">Pick 4b</button>
+    </section>
+  </div>
+
+  <div class="actions">
+    <div class="box">
+      <label for="rationale">Your pick can be a system: e.g. "2c courtside + 3a guides + 4a for action screens". Say what wins per surface.</label>
+      <textarea id="rationale" placeholder="e.g. 2b as the base, 3b for the age guides, 4b hero blocks on tryout days"></textarea>
+      <button id="submit" type="button">Submit choice to Claude</button>
+      <span id="status">No pick yet. You can pick one cell as the dominant answer and describe the mix in the box.</span>
+    </div>
+  </div>
+
+  <footer>Generated 2026-07-26 · iterations of v2 directions 2, 3, 4 per request (no green/yellow in Field recolors) · same research floor as v2.</footer>
+</div>
+
+<script>
+// Universal submit + clipboard handler for HTML skills in this plugin.
+(function () {
+  const SECRET_PATTERNS = [
+    ['private-key', /-----BEGIN [A-Z ]*PRIVATE KEY-----[\s\S]+?-----END [A-Z ]*PRIVATE KEY-----/g],
+    ['aws-key-id', /\bAKIA[0-9A-Z]{16}\b/g],
+    ['github-token', /\bgh[opsur]_[A-Za-z0-9]{20,}\b/g],
+    ['slack-token', /\bxox[abprse]-[A-Za-z0-9-]{10,}\b/g],
+    ['openai-key', /\bsk-[A-Za-z0-9_-]{20,}\b/g],
+    ['google-key', /\bAIza[0-9A-Za-z_-]{30,}\b/g],
+    ['jwt', /\beyJ[A-Za-z0-9_-]{8,}\.[A-Za-z0-9_-]{8,}\.[A-Za-z0-9_-]{8,}\b/g],
+    ['url-userinfo', /\b[a-z][a-z0-9+.-]*:\/\/[^\s/:@"']+:[^\s/@"']+@/gi],
+  ];
+  function redactKnownSecrets(json) {
+    let count = 0;
+    for (const pair of SECRET_PATTERNS) {
+      json = json.replace(pair[1], function (m) {
+        count++;
+        if (pair[0] === 'url-userinfo') return '{{REDACTED:url-userinfo}}';
+        return '{{REDACTED:' + pair[0] + ':…' + m.slice(-4) + '}}';
+      });
+    }
+    return { json: json, count: count };
+  }
+  async function submitToClaude(payload, opts) {
+    opts = opts || {};
+    let json = JSON.stringify(payload, null, 2);
+    let note = '';
+    if (opts.redactSecrets) {
+      const red = redactKnownSecrets(json);
+      if (red.count > 0) {
+        json = red.json;
+        note = ' (' + red.count + ' secret-looking value' + (red.count === 1 ? '' : 's') + ' redacted)';
+      }
+    }
+    const url = opts.url || window.__CLAUDE_SUBMIT_URL__;
+    if (url) {
+      try {
+        const r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: json });
+        if (r.ok) {
+          notify(opts, (opts.serverMessage || window.__CLAUDE_SERVER_MESSAGE__ || 'Submitted to Claude.') + note);
+          return 'server';
+        }
+      } catch (e) { /* fall through */ }
+    }
+    return clipboardSubmit(json, opts, note);
+  }
+  async function clipboardSubmit(json, opts, note) {
+    const msg = (opts.clipboardMessage || window.__CLAUDE_CLIPBOARD_MESSAGE__ || 'Copied to clipboard — paste back into Claude.') + (note || '');
+    return copyToClipboard(json, { ...opts, message: msg, returnTag: 'clipboard' });
+  }
+  async function copyToClipboard(text, opts) {
+    opts = opts || {};
+    const msg = opts.message || 'Copied to clipboard.';
+    if (await tryAsyncClipboard(text)) { notify(opts, msg); return opts.returnTag || 'copied'; }
+    if (copyViaExecCommand(text)) { notify(opts, msg); return opts.returnTag || 'copied'; }
+    showInlineFallback(text);
+    return 'manual';
+  }
+  async function tryAsyncClipboard(text) {
+    try { await navigator.clipboard.writeText(text); return true; } catch (e) { return false; }
+  }
+  function copyViaExecCommand(text) {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    Object.assign(ta.style, { position: 'fixed', top: '0', left: '0', width: '1px', height: '1px', opacity: '0' });
+    document.body.appendChild(ta);
+    ta.focus(); ta.select();
+    let ok = false;
+    try { ok = document.execCommand('copy'); } catch (e) {}
+    ta.remove();
+    return ok;
+  }
+  function notify(opts, msg) {
+    if (typeof opts.onResult === 'function') { opts.onResult(msg); return; }
+    const el = document.createElement('div');
+    el.textContent = msg;
+    el.setAttribute('role', 'status');
+    Object.assign(el.style, {
+      position: 'fixed', bottom: '16px', left: '50%', transform: 'translateX(-50%)',
+      background: '#111', color: '#fff', padding: '10px 14px', borderRadius: '8px',
+      font: '14px system-ui', zIndex: 99999, boxShadow: '0 4px 12px rgba(0,0,0,0.2)',
+    });
+    document.body.appendChild(el);
+    setTimeout(() => el.remove(), 3500);
+  }
+  function showInlineFallback(json) {
+    const wrap = document.createElement('div');
+    wrap.setAttribute('role', 'region');
+    wrap.setAttribute('aria-label', 'Manual copy required');
+    Object.assign(wrap.style, {
+      position: 'fixed', left: '50%', bottom: '12px', transform: 'translateX(-50%)',
+      width: 'min(720px, calc(100% - 24px))', background: '#111', color: '#fff',
+      borderRadius: '10px', padding: '10px 12px', boxShadow: '0 6px 24px rgba(0,0,0,0.3)',
+      zIndex: 99999, font: '13px system-ui, -apple-system, sans-serif',
+      display: 'grid', gridTemplateColumns: '1fr auto', columnGap: '8px', alignItems: 'start',
+    });
+    const main = document.createElement('div');
+    const msg = document.createElement('div');
+    msg.textContent = 'Auto-copy unavailable here. Press Ctrl+A then Ctrl+C in the box, then paste into Claude.';
+    msg.style.marginBottom = '6px';
+    main.appendChild(msg);
+    const ta = document.createElement('textarea');
+    ta.value = json;
+    ta.readOnly = true;
+    ta.spellcheck = false;
+    Object.assign(ta.style, {
+      width: '100%', minHeight: '60px', maxHeight: '160px', resize: 'vertical',
+      padding: '6px 8px', font: '12px ui-monospace, monospace', background: '#fff',
+      color: '#111', border: 'none', borderRadius: '6px', outline: 'none', boxSizing: 'border-box',
+    });
+    main.appendChild(ta);
+    const close = document.createElement('button');
+    close.type = 'button';
+    close.textContent = '×';
+    close.setAttribute('aria-label', 'Dismiss');
+    Object.assign(close.style, {
+      background: 'transparent', border: 'none', color: '#fff', fontSize: '18px',
+      cursor: 'pointer', lineHeight: '1', padding: '2px 4px', alignSelf: 'start',
+    });
+    close.addEventListener('click', () => wrap.remove());
+    wrap.append(main, close);
+    document.body.appendChild(wrap);
+    setTimeout(() => { ta.focus(); ta.select(); }, 0);
+  }
+  window.submitToClaude = submitToClaude;
+  window.copyToClipboard = copyToClipboard;
+})();
+</script>
+<script>
+window.__CLAUDE_SUBMIT_URL__ = 'http://127.0.0.1:52209/?t=5aac0b74a27bbb3013de1ecb7ec97073';
+
+(function () {
+  let chosen = null;
+  const status = document.getElementById('status');
+  ['grid-p','grid-r','grid-f'].forEach((id) => {
+    const grid = document.getElementById(id);
+    grid.addEventListener('click', (e) => {
+      const btn = e.target.closest('.pick');
+      if (!btn) return;
+      const cell = btn.closest('.cell');
+      document.querySelectorAll('.cell').forEach((c) => c.classList.remove('chosen'));
+      cell.classList.add('chosen');
+      chosen = { key: cell.dataset.key, title: cell.dataset.title, tradeoff: cell.dataset.tradeoff };
+      status.textContent = 'Picked ' + chosen.key + ' (' + chosen.title + '). Describe the mix if you want, then Submit.';
+    });
+  });
+  document.getElementById('submit').addEventListener('click', async () => {
+    if (!chosen) { status.textContent = 'Pick a dominant cell first; describe the full mix in the box.'; return; }
+    await submitToClaude({
+      skill: 'html-brainstorm-grid',
+      kind: 'pick-one',
+      data: {
+        chosen: chosen.key,
+        title: chosen.title,
+        tradeoff_label: chosen.tradeoff,
+        rationale: document.getElementById('rationale').value || null,
+        candidates: ['2a Graphite + Signal', '2b Cool Slate + Stat Strip', '2c Warm Paper Precision', '3a Classic Chapter', '3b Cool Journal', '3c Field Notes', '4a Ink + Terracotta', '4b Slate + Electric'],
+      },
+      version: 1,
+    });
+  });
+})();
+</script>
+</body>
+</html>
