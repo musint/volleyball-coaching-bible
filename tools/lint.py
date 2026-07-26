@@ -368,7 +368,16 @@ def render_report(findings, report_path: Path):
         if len(items) > 40:
             lines.append(f"- ...and {len(items) - 40} more")
         lines.append("")
-    report_path.write_text("\n".join(lines), encoding="utf-8")
+    new_text = "\n".join(lines)
+    # Skip the write when findings are unchanged (timestamp-only delta).
+    # The pre-commit hook runs this after staging, so an unconditional write
+    # left the report permanently dirty by one generation timestamp.
+    if report_path.exists():
+        strip_ts = lambda t: "\n".join(
+            l for l in t.splitlines() if not l.startswith("Generated:"))
+        if strip_ts(report_path.read_text(encoding="utf-8")) == strip_ts(new_text):
+            return
+    report_path.write_text(new_text, encoding="utf-8")
 
 
 def main(argv=None):
