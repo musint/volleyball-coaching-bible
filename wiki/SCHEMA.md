@@ -476,6 +476,7 @@ Every source page's frontmatter has `trust-tier: 1|2|3`. Lint flags any claim in
 - **Medical / S&C disclaimers:** never give medical advice; always defer to qualified professionals (athletic trainers, CSCSs, physicians) on injury, nutrition, or programming specifics outside general coaching purview.
 - **Neutrality on school disagreements:** present both views, attribute each to a school and a source, do not resolve. Use the `## Schools-perspectives` mechanism on technique pages for this.
 - **Voice:** direct and coach-to-coach. Assume the reader is a coach, not a beginner player. Skip introductory fluff.
+- **No em or en dashes.** House rule as of 2026-07-26 (full-corpus humanizer pass): use colons, commas, periods, or parentheses instead; list-item separators use the colon form (\[\[page\]\]: summary); ranges use the word to (12 to 15 reps, 1985 to 1996). Hyphens in compound words are fine.
 - **Term consistency:** define a term once (typically on the first hub that introduces it) and wikilink to that page everywhere else rather than redefining.
 
 ---
