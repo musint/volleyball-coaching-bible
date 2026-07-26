@@ -66,18 +66,46 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
 ---
 <DefaultLayout title="Volleyball Coaching Bible" description="Citation-disciplined coaching reference for top-club women's indoor 6s, 14U through college.">
 
-  <!-- Hero -->
-  <section class="max-w-5xl mx-auto px-4 pt-10 pb-6 md:pt-14 md:pb-8">
-    <h1 class="text-4xl md:text-5xl font-semibold tracking-tight text-slate-900 mb-3">
-      Coaching Bible
-    </h1>
-    <p class="text-lg md:text-xl text-slate-700 max-w-3xl mb-0">
-      Citation-disciplined coaching reference for <strong>top-club women's indoor 6s</strong>, 14U through college. 1100+ markdown pages of methodology, technique, schools-of-thought, drills, and operational templates — interlinked and source-anchored.
-    </p>
+  <!-- Hero band: dusk court treatment; drops in a real photo when
+       webapp/public/hero-photo.jpg exists (cleared for publication). -->
+  <section class="hero-band no-print" style={`--hero-photo:url('${base}/hero-photo.jpg')`}>
+    <svg class="hero-court" viewBox="0 0 1200 480" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+      <g stroke="#dbeafe" stroke-width="2" fill="none">
+        <rect x="150" y="70" width="900" height="360" rx="2"/>
+        <line x1="600" y1="70" x2="600" y2="430"/>
+        <line x1="450" y1="70" x2="450" y2="430" stroke-dasharray="6 10" opacity=".6"/>
+        <line x1="750" y1="70" x2="750" y2="430" stroke-dasharray="6 10" opacity=".6"/>
+      </g>
+    </svg>
+    <div class="hero-inner max-w-6xl mx-auto px-4">
+      <span class="hero-eyebrow">NorCal · girls indoor 6s · 10s through 18s</span>
+      <h1>A sourced coaching manual for girls indoor volleyball</h1>
+      <p class="hero-sub">
+        Age-by-age skill standards, canonical cues, tryout rubrics, and 100+ drills, with every claim traced to the coach or study it came from.
+      </p>
+      <div class="hero-ctas">
+        <a class="hero-pill hero-pill-solid" href={`${base}/courtside/`}>Open Courtside</a>
+        <a class="hero-pill hero-pill-ghost" href={`${base}/manual/`}>Browse the manual</a>
+      </div>
+      <div class="hero-trust">
+        <div><b>787</b><i>Cited sources</i></div>
+        <div><b>102</b><i>Drills</i></div>
+        <div><b>9</b><i>Age guides</i></div>
+        <div><b>73</b><i>Coach profiles</i></div>
+      </div>
+      <a class="hero-note" href="#coach-note">
+        <span class="hero-note-avatar" aria-hidden="true">CS</span>
+        <span>
+          <span class="hero-note-eyebrow">A note from the coach</span>
+          "I started this as my own coaching notebook. It's public because I wanted to give back to the community that's been so generous with me."
+          <span class="hero-note-more">Read the full note ↓</span>
+        </span>
+      </a>
+    </div>
   </section>
 
   <!-- Preamble: a note from the coach -->
-  <section class="max-w-5xl mx-auto px-4 pb-10">
+  <section id="coach-note" class="max-w-5xl mx-auto px-4 pb-10 pt-10">
     <aside class="preamble">
       <div class="kicker mb-3">A note from the coach</div>
       <p>
@@ -166,7 +194,7 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
     <div class="border-t border-slate-200 pt-6">
       <h2 class="kicker mb-3">Sources &amp; method</h2>
       <p class="text-sm text-slate-600 leading-relaxed">
-        Built on 770+ cited sources, synthesized with neutral attribution across schools of thought. Coverage spans Karch Kiraly's <em>Championship Volleyball</em>, Hugh McCutcheon's <em>Championship Behaviors</em>, Mike Lingenfelter's Munciana camp library, the Art of Coaching Volleyball and Gold Medal Squared corpora, peer-reviewed sports-science research, and definitive coaching books.
+        Built on 787 cited sources, synthesized with neutral attribution across schools of thought. Coverage spans Karch Kiraly's <em>Championship Volleyball</em>, Hugh McCutcheon's <em>Championship Behaviors</em>, Mike Lingenfelter's Munciana camp library, the Art of Coaching Volleyball and Gold Medal Squared corpora, peer-reviewed sports-science research, and definitive coaching books.
       </p>
       <p class="text-sm text-slate-600 leading-relaxed mt-3">
         Every claim resolves to a source page. Contested topics carry <strong>schools-perspectives</strong> sections that present rival positions side by side without resolving them — neutrality is a hard rule.
@@ -177,6 +205,94 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
 </DefaultLayout>
 
 <style>
+  /* Hero band: slate dusk gradient + court lines; the --hero-photo layer
+     paints only when webapp/public/hero-photo.jpg exists. */
+  .hero-band {
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    background-image:
+      radial-gradient(120% 90% at 78% 12%, rgba(59, 130, 246, 0.28), transparent 55%),
+      radial-gradient(90% 70% at 15% 95%, rgba(147, 111, 60, 0.30), transparent 60%),
+      linear-gradient(105deg, rgba(11, 21, 38, 0.92) 30%, rgba(11, 21, 38, 0.55) 62%, rgba(18, 35, 61, 0.45)),
+      var(--hero-photo, none);
+    background-color: #0b1526;
+    background-size: auto, auto, auto, cover;
+    background-position: center;
+  }
+  .hero-court { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0.22; pointer-events: none; }
+  .hero-inner { position: relative; padding-top: 3.5rem; padding-bottom: 2.2rem; }
+  .hero-eyebrow {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #93c5fd;
+    margin-bottom: 0.9rem;
+  }
+  .hero-band h1 {
+    font-size: clamp(2.1rem, 5.5vw, 3.4rem);
+    line-height: 1.06;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    margin: 0 0 0.9rem;
+    max-width: 17ch;
+    text-wrap: balance;
+    color: #fff;
+  }
+  .hero-sub { max-width: 54ch; color: #cbd5e1; font-size: 1.05rem; line-height: 1.6; margin: 0 0 1.4rem; }
+  .hero-ctas { display: flex; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 1.6rem; }
+  .hero-pill {
+    display: inline-flex; align-items: center; min-height: 44px;
+    border-radius: 9999px; padding: 0.7rem 1.5rem;
+    font-weight: 600; font-size: 0.95rem; text-decoration: none;
+  }
+  .hero-pill-solid { background: var(--color-accent); color: #fff; }
+  .hero-pill-solid:hover { background: var(--color-accent-strong); color: #fff; }
+  .hero-pill-ghost { background: rgba(255, 255, 255, 0.08); color: #fff; border: 1px solid rgba(255, 255, 255, 0.35); }
+  .hero-pill-ghost:hover { background: rgba(255, 255, 255, 0.16); color: #fff; }
+  .hero-trust {
+    display: flex; gap: 1.8rem; flex-wrap: wrap;
+    border-top: 1px solid rgba(255, 255, 255, 0.16);
+    padding-top: 1rem;
+  }
+  .hero-trust b {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 1.35rem; font-weight: 700; letter-spacing: -0.02em;
+    color: #fff; font-variant-numeric: tabular-nums;
+  }
+  .hero-trust i {
+    font-style: normal; font-size: 0.66rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.07em; color: #94a3b8;
+  }
+  .hero-note {
+    position: absolute; right: 1rem; bottom: 5.4rem; width: 260px;
+    display: none; gap: 0.6rem;
+    background: rgba(255, 255, 255, 0.97); color: var(--color-ink);
+    border-radius: 12px; padding: 0.85rem;
+    font-size: 0.8rem; line-height: 1.5; text-decoration: none;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+  }
+  @media (min-width: 1024px) { .hero-note { display: flex; } }
+  .hero-note:hover { color: var(--color-ink); }
+  .hero-note-avatar {
+    flex: none; width: 36px; height: 36px; border-radius: 9999px;
+    display: flex; align-items: center; justify-content: center;
+    background: var(--color-accent-soft) var(--coach-photo, none) center 15% / cover;
+    color: var(--color-accent-strong);
+    font-family: var(--font-mono); font-weight: 700; font-size: 0.75rem;
+  }
+  .hero-note-eyebrow {
+    display: block;
+    font-family: var(--font-mono); font-size: 0.62rem; font-weight: 500;
+    letter-spacing: 0.09em; text-transform: uppercase; color: var(--color-accent);
+    margin-bottom: 0.25rem;
+  }
+  .hero-note-more { display: block; margin-top: 0.35rem; font-weight: 600; color: var(--color-accent); font-size: 0.72rem; }
+
   /* Preamble block — short personal note under the hero */
   .preamble {
     border-left: 4px solid var(--color-accent);
@@ -242,8 +358,8 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
     color: white;
   }
   .age-pill-primary:hover {
-    background: #962d18;
-    border-color: #962d18;
+    background: var(--color-accent-strong);
+    border-color: var(--color-accent-strong);
     color: white;
   }
   .age-pill-badge {

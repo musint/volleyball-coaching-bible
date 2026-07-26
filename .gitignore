@@ -49,3 +49,6 @@ webapp/.astro/
 webapp/.env
 webapp/.env.local
 node_modules/
+
+# Private practice/tournament photos (minors' faces) — never push without media-release check
+docs/design/assets/local/

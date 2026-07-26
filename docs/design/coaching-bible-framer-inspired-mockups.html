@@ -1,0 +1,483 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coaching Bible — Framer-template-inspired mockups (on 2b tokens)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    /* 2b system tokens */
+    --paper:#f7f8fa; --surface:#fff; --ink:#1e293b; --ink-strong:#0f172a;
+    --accent:#2563eb; --accent-strong:#1d4ed8; --accent-soft:#eff6ff;
+    --rule:#e5e9f0; --muted:#64748b; --thead:#f1f5f9;
+    --shadow:0 1px 1px rgba(0,0,0,.02),0 2px 2px rgba(0,0,0,.04);
+    /* dusk photo-layer tokens (hero surfaces only) */
+    --dusk-1:#0b1526; --dusk-2:#12233d; --dusk-glow:#3b82f6;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.55 "Inter",system-ui,sans-serif}
+  .wrap{max-width:1240px;margin:0 auto;padding:28px 20px 40px}
+  h1{font:600 26px/1.2 "Inter";letter-spacing:-.02em;margin:0 0 6px;color:var(--ink-strong)}
+  .lede{color:var(--muted);max-width:80ch;margin:0 0 18px}
+  .mock{background:var(--surface);border:1px solid var(--rule);border-radius:14px;overflow:hidden;margin:0 0 26px}
+  .mock.chosen{outline:3px solid var(--accent);outline-offset:2px}
+  .mock-head{display:flex;flex-wrap:wrap;justify-content:space-between;gap:6px;align-items:baseline;padding:12px 18px;border-bottom:1px solid var(--rule)}
+  .mock-head .name{font:600 16px "Inter";color:var(--ink-strong)}
+  .mock-head .borrow{font:500 11px "JetBrains Mono",monospace;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+  .mock-note{padding:10px 18px;font-size:13px;color:#3d4657;border-top:1px dashed var(--rule)}
+  .pick{margin:0 18px 14px;padding:10px 14px;font:600 13px "Inter";border:2px solid var(--ink-strong);background:#fff;color:var(--ink-strong);border-radius:9px;cursor:pointer;min-height:44px}
+  .pick:hover{background:var(--ink-strong);color:#fff}
+  .mock.chosen .pick{background:var(--accent);border-color:var(--accent);color:#fff}
+  .pick:focus-visible,button:focus-visible,textarea:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+
+  /* shared pieces */
+  .eyebrow{font:500 11px "JetBrains Mono",monospace;letter-spacing:.1em;text-transform:uppercase}
+  .pill{display:inline-flex;align-items:center;gap:8px;border-radius:999px;padding:12px 22px;font:600 14px "Inter";text-decoration:none;min-height:44px}
+  .pill-solid{background:var(--accent);color:#fff}
+  .pill-ghost{background:rgba(255,255,255,.08);color:#fff;border:1px solid rgba(255,255,255,.35);backdrop-filter:none}
+  .pill-tag{background:#0f172a;color:#fff;padding:7px 14px;font:600 12px "Inter";border-radius:999px}
+  .photo-cred{position:absolute;right:12px;bottom:10px;font:500 9px "JetBrains Mono",monospace;color:rgba(255,255,255,.45);letter-spacing:.08em;text-transform:uppercase}
+
+  /* photo surfaces: real placeholder photos (Unsplash, free license) under a
+     slate duotone wash so type stays 4.5:1 and the 2b palette holds. Swap the
+     url() for real practice photos; the gradient fallback renders if missing. */
+  .gymphoto{position:relative;overflow:hidden;background:
+    radial-gradient(120% 90% at 78% 12%, rgba(59,130,246,.28), transparent 55%),
+    radial-gradient(90% 70% at 15% 95%, rgba(147,111,60,.35), transparent 60%),
+    linear-gradient(160deg, var(--dusk-1), var(--dusk-2) 55%, #1d3050)}
+  .gymphoto .court{position:absolute;inset:0;opacity:.28}
+  .ph{background-size:cover;background-position:center}
+  .ph-hero{background-image:
+    linear-gradient(105deg, rgba(11,21,38,.86) 30%, rgba(11,21,38,.45) 62%, rgba(18,35,61,.35)),
+    url('assets/local/hero-celebration.jpg')}
+  .ph-attack{background-image:
+    linear-gradient(150deg, rgba(11,21,38,.84) 30%, rgba(11,21,38,.42)),
+    url('assets/local/coach-courtside.jpg');background-position:center 22%}
+  .ph-band{background-image:
+    linear-gradient(160deg, rgba(11,21,38,.82) 30%, rgba(18,35,61,.45)),
+    url('assets/local/coach-clipboard.jpg');background-position:center 18%}
+  .ph-net{background-image:
+    linear-gradient(160deg, rgba(11,21,38,.55), rgba(18,35,61,.35)),
+    url('assets/net-play.jpg')}
+  .ph-jersey{background-image:
+    linear-gradient(160deg, rgba(21,27,38,.5), rgba(42,33,24,.35)),
+    url('assets/jersey.jpg')}
+  .ph-yellow{background-image:
+    linear-gradient(160deg, rgba(14,26,36,.55), rgba(20,50,74,.35)),
+    url('assets/action-yellow.jpg')}
+
+  /* ===== MOCKUP A: homepage hero ===== */
+  .heroA{color:#fff;padding:0}
+  .heroA .inner{padding:26px 34px 30px;display:flex;flex-direction:column;min-height:480px;position:relative;z-index:1}
+  .heroA nav{display:flex;justify-content:space-between;align-items:center;margin-bottom:auto}
+  .heroA nav .brand{font:600 17px "Inter";letter-spacing:-.01em}
+  .heroA nav .links{display:flex;gap:22px;font:500 13px "Inter";color:#cbd5e1}
+  .heroA nav .links b{color:#fff;font-weight:600}
+  .heroA .kicker{color:#93c5fd;margin-bottom:14px}
+  .heroA h2{font:600 clamp(38px,6vw,64px)/1.04 "Inter";letter-spacing:-.03em;margin:0 0 14px;max-width:14ch;text-wrap:balance;color:#fff}
+  .heroA .sub{max-width:52ch;color:#cbd5e1;font-size:16px;line-height:1.6;margin:0 0 22px}
+  .heroA .ctas{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:26px}
+  .heroA .trust{display:flex;gap:26px;flex-wrap:wrap;border-top:1px solid rgba(255,255,255,.16);padding-top:16px}
+  .heroA .trust div b{display:block;font:700 22px "JetBrains Mono",monospace;letter-spacing:-.02em;color:#fff}
+  .heroA .trust div i{font:500 10.5px "Inter";font-style:normal;color:#94a3b8;text-transform:uppercase;letter-spacing:.07em}
+  .heroA .notecard{position:absolute;right:34px;bottom:96px;width:250px;background:rgba(255,255,255,.97);color:var(--ink);border-radius:12px;padding:14px;font-size:12.5px;line-height:1.5;box-shadow:0 10px 30px rgba(0,0,0,.35)}
+  .heroA .notecard .eyebrow{color:var(--accent);display:block;margin-bottom:6px}
+  @media (max-width:900px){.heroA .notecard{display:none}}
+
+  /* ===== MOCKUP B: age program page ===== */
+  .progB .band{margin:18px;border-radius:16px;color:#fff;padding:26px 28px;position:relative;min-height:250px;display:flex;flex-direction:column;justify-content:flex-end}
+  .progB .tags{position:absolute;top:18px;right:18px;display:flex;flex-direction:column;gap:8px;align-items:flex-end}
+  .progB .kicker{color:#93c5fd;margin-bottom:8px}
+  .progB h2{font:600 clamp(28px,4vw,44px)/1.05 "Inter";letter-spacing:-.03em;margin:0 0 6px;color:#fff}
+  .progB .sub{color:#cbd5e1;max-width:60ch;margin:0}
+  .progB .quick{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;padding:0 18px}
+  @media (max-width:760px){.progB .quick{grid-template-columns:repeat(2,1fr)}}
+  .progB .quick a{display:block;border:1px solid var(--rule);border-radius:10px;background:var(--surface);padding:12px;text-decoration:none;color:var(--ink);box-shadow:var(--shadow);min-height:44px}
+  .progB .quick a b{display:block;font:500 10px "JetBrains Mono",monospace;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:3px}
+  .progB .quick a span{font:600 14px "Inter";color:var(--ink-strong)}
+  .progB .props{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;padding:20px 18px 22px}
+  @media (max-width:760px){.progB .props{grid-template-columns:repeat(2,1fr)}}
+  .progB .props .eyebrow{color:var(--accent);display:block;margin-bottom:6px}
+  .progB .props p{margin:0;font-size:13px;line-height:1.55;color:#3d4657}
+
+  /* ===== MOCKUP C: coaches grid ===== */
+  .coachC{padding:22px 18px}
+  .coachC .headrow{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:14px;flex-wrap:wrap;gap:8px}
+  .coachC h2{font:600 24px "Inter";letter-spacing:-.02em;margin:0;color:var(--ink-strong)}
+  .coachC .headrow .eyebrow{color:var(--muted)}
+  .coachC .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  @media (max-width:860px){.coachC .grid{grid-template-columns:repeat(2,1fr)}}
+  @media (max-width:560px){.coachC .grid{grid-template-columns:1fr}}
+  .coachC .card{border:1px solid var(--rule);border-radius:12px;overflow:hidden;background:var(--surface);box-shadow:var(--shadow)}
+  .coachC .portrait{height:150px;position:relative;display:flex;align-items:flex-end;padding:12px}
+  .coachC .portrait .pill-tag{font-size:11px;padding:5px 11px}
+  .coachC .meta{padding:12px 14px 14px}
+  .coachC .meta b{display:block;font:600 15px "Inter";color:var(--ink-strong);letter-spacing:-.01em}
+  .coachC .meta .role{font-size:12.5px;color:#3d4657;margin:2px 0 8px}
+  .coachC .meta .prov{font:500 10px "JetBrains Mono",monospace;color:var(--accent);text-transform:uppercase;letter-spacing:.06em}
+  .p1{background:radial-gradient(100% 90% at 30% 20%,rgba(59,130,246,.4),transparent 60%),linear-gradient(150deg,#101c31,#1c2f4e)}
+  .p2{background:radial-gradient(100% 90% at 70% 25%,rgba(180,83,9,.45),transparent 60%),linear-gradient(160deg,#151b26,#2a2118)}
+  .p3{background:radial-gradient(100% 90% at 50% 15%,rgba(16,120,90,.4),transparent 60%),linear-gradient(155deg,#0e1a24,#14324a)}
+
+  /* ===== MOCKUP D: phone courtside w/ photo band ===== */
+  .phoneD{display:grid;grid-template-columns:300px 1fr;gap:18px;padding:18px;align-items:start}
+  @media (max-width:700px){.phoneD{grid-template-columns:1fr}}
+  .phone{width:280px;border-radius:32px;padding:10px;background:#101114;box-shadow:0 10px 28px rgba(0,0,0,.22);justify-self:center}
+  .screen{border-radius:24px;overflow:hidden;height:560px;display:flex;flex-direction:column;background:var(--paper);color:var(--ink);font-size:12px}
+  .sbar{display:flex;justify-content:space-between;font:600 10px "Inter";padding:8px 15px 4px;color:var(--ink)}
+  .band-m{margin:8px 10px;border-radius:14px;color:#fff;padding:14px;min-height:120px;display:flex;flex-direction:column;justify-content:flex-end;position:relative}
+  .band-m .tags{position:absolute;top:10px;right:10px;display:flex;flex-direction:column;gap:5px;align-items:flex-end}
+  .band-m .pill-tag{font-size:9.5px;padding:4px 9px}
+  .band-m .eyebrow{color:#93c5fd;font-size:8.5px;margin-bottom:3px}
+  .band-m b{font:600 16px/1.2 "Inter";letter-spacing:-.02em}
+  .stat-m{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;padding:2px 10px 8px}
+  .stat-m .s{background:var(--surface);border:1px solid var(--rule);border-radius:9px;padding:7px 9px;box-shadow:var(--shadow)}
+  .stat-m .s b{display:block;font:700 15px "JetBrains Mono",monospace;color:var(--ink-strong)}
+  .stat-m .s i{font:600 7.5px "Inter";font-style:normal;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+  .crow{display:grid;grid-template-columns:2.6rem repeat(4,1fr);gap:4px;padding:0 10px;margin-bottom:4px}
+  .crow .age{display:flex;align-items:center;justify-content:center;font:700 12px "JetBrains Mono",monospace;border-radius:7px;background:var(--ink-strong);color:#fff}
+  .crow.cur .age{background:var(--accent)}
+  .crow a{display:flex;align-items:center;justify-content:center;min-height:38px;border:1px solid var(--rule);border-radius:7px;background:var(--surface);color:var(--ink);text-decoration:none;font:600 10.5px "Inter"}
+  .crow.cur a{border-color:var(--accent)}
+  .navm{margin-top:auto;display:grid;grid-template-columns:repeat(5,1fr);padding:6px 4px 12px;font:600 8.5px "Inter";text-align:center;background:var(--surface);border-top:1px solid var(--rule);color:var(--muted)}
+  .navm span{display:flex;flex-direction:column;align-items:center;gap:2px;min-height:40px;padding-top:4px}
+  .navm .on{color:var(--accent)}
+  .navm .dot{width:17px;height:17px;border-radius:6px;background:currentColor;opacity:.85}
+  .phoneD .why{font-size:13.5px;line-height:1.6;color:#3d4657}
+  .phoneD .why h3{font:600 15px "Inter";color:var(--ink-strong);margin:0 0 6px}
+  .phoneD .why ul{margin:8px 0 0;padding-left:18px}
+  .phoneD .why li{margin:5px 0}
+
+  /* footer / submit */
+  .actions .box{border:1px solid var(--rule);border-radius:12px;background:var(--surface);padding:16px;display:grid;gap:10px}
+  .actions label{font:600 13px "Inter"}
+  .actions textarea{width:100%;min-height:64px;padding:10px;border:1px solid var(--rule);border-radius:8px;font:14px "Inter";resize:vertical}
+  #submit{justify-self:start;padding:12px 22px;font:600 15px "Inter";background:var(--accent);color:#fff;border:none;border-radius:9px;cursor:pointer;min-height:44px}
+  #status{font-size:13px;color:var(--muted)}
+  footer{color:var(--muted);font-size:12px;padding:14px 0 30px}
+  @media print{.pick,.actions{display:none}.mock{break-inside:avoid}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Framer-template moves, applied to the Coaching Bible</h1>
+  <p class="lede">From the eight templates you sent, five moves worth stealing: photography as the canvas (every template leads with a dimmed photo under type), pill grammar for actions and floating tags, mono eyebrows labeling sections (Goalz), trust strips with real numbers, and people rendered as cards. Their sixth move, sloganized imperative headlines, is deliberately NOT carried over: this is a teaching manual, so every headline below names the content and scope, and the photography alone carries the warmth. All mockups render on your shipped 2b tokens (slate, blue, Inter, mono numerals). The hero, age-guide band, and phone band now carry YOUR photos (NorCal League 3, kept in a gitignored local folder) under the slate duotone wash; coach cards still use Unsplash atmosphere stand-ins pending headshot rights. Before any of your photos go to the live public site, confirm media-release coverage for the athletes pictured.</p>
+
+  <!-- ===== A ===== -->
+  <section class="mock" data-key="A" data-title="Homepage hero">
+    <div class="mock-head"><span class="name">A · Homepage hero</span><span class="borrow">borrows: RIMZ cinematic type-on-photo · Goalz mono eyebrows · FitFlow trust badge · Cyclix stat strip</span></div>
+    <div class="heroA gymphoto ph ph-hero">
+      <svg class="court" viewBox="0 0 1200 480" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+        <g stroke="#dbeafe" stroke-width="2" fill="none" opacity=".8">
+          <rect x="150" y="70" width="900" height="360" rx="2"/>
+          <line x1="600" y1="70" x2="600" y2="430"/>
+          <line x1="450" y1="70" x2="450" y2="430" stroke-dasharray="6 10" opacity=".6"/>
+          <line x1="750" y1="70" x2="750" y2="430" stroke-dasharray="6 10" opacity=".6"/>
+          <line x1="590" y1="40" x2="610" y2="40"/><line x1="600" y1="20" x2="600" y2="60" opacity=".5"/>
+        </g>
+      </svg>
+      <div class="inner">
+        <nav>
+          <span class="brand">Coaching Bible</span>
+          <span class="links"><b>Courtside</b><span>Manual</span><span>Drills</span><span>Coaches</span><span>Search</span></span>
+        </nav>
+        <span class="eyebrow kicker">NORCAL · GIRLS INDOOR 6S · 10S THROUGH 18S</span>
+        <h2>A sourced coaching manual for girls indoor volleyball</h2>
+        <p class="sub">Age-by-age skill standards, canonical cues, tryout rubrics, and 100+ drills, with every claim traced to the coach or study it came from.</p>
+        <div class="ctas">
+          <a class="pill pill-solid" href="#">Open Courtside</a>
+          <a class="pill pill-ghost" href="#">Browse the manual</a>
+        </div>
+        <div class="trust">
+          <div><b>787</b><i>Cited sources</i></div>
+          <div><b>102</b><i>Drills</i></div>
+          <div><b>9</b><i>Age guides</i></div>
+          <div><b>15</b><i>Coaching traditions</i></div>
+        </div>
+        <div class="notecard">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px"><span style="width:36px;height:36px;border-radius:999px;background:url('assets/local/coach-clipboard.jpg') center 12%/cover;flex:none"></span><span class="eyebrow" style="margin:0">A note from the coach</span></div>
+          "I started this as my own coaching notebook. It's public because I wanted to give back to the community that's been so generous with me."
+          <div style="margin-top:6px;font:500 10px 'JetBrains Mono',monospace;color:var(--muted)">— COACH SONG · NORCAL</div>
+        </div>
+      </div>
+      <span class="photo-cred">NorCal · League 3 · your photo</span>
+    </div>
+    <div class="mock-note"><b>Why it works here:</b> the visual warmth the site currently lacks, without breaking 2b or the manual voice: same slate/blue/mono tokens, the headline states what the manual is, photography carries all the feeling, and the trust strip turns your citation discipline into the credibility badge FitFlow fakes with a star rating.</div>
+    <button class="pick" type="button">Ship A · Homepage hero</button>
+  </section>
+
+  <!-- ===== B ===== -->
+  <section class="mock" data-key="B" data-title="Age guide as program page">
+    <div class="mock-head"><span class="name">B · Age guide as a program page (14s)</span><span class="borrow">borrows: Goalz academy framing · Cyclix floating tags · Yachtera inset photo frame</span></div>
+    <div class="progB">
+      <div class="band gymphoto ph ph-attack">
+        <div class="tags">
+          <span class="pill-tag">5-1 default</span>
+          <span class="pill-tag">Jump-float in rotation</span>
+          <span class="pill-tag">Middle-middle D</span>
+        </div>
+        <span class="eyebrow kicker" style="color:#93c5fd">AGE GUIDE · 14S</span>
+        <h2>14s age guide: late fundamentals into specialization onset</h2>
+        <p class="sub">Skill milestones, systems repertoire, promotion criteria, and season operations for the year fundamentals are consolidated under tournament pressure while position identity emerges.</p>
+        <span class="photo-cred">NorCal · League 3 · your photo</span>
+      </div>
+      <div class="quick">
+        <a href="#"><b>Drill picks</b><span>14s must-do list →</span></a>
+        <a href="#"><b>Tryout rubric</b><span>8×5 scoring grid →</span></a>
+        <a href="#"><b>Cues</b><span>Canonical, by skill →</span></a>
+        <a href="#"><b>Season ops</b><span>Week 6 + 12 checks →</span></a>
+      </div>
+      <div class="props">
+        <div><span class="eyebrow">SERVING</span><p>Jump-float in rotation; the toss is the gate, not the contact. Topspin waits for 16s by program rule.</p></div>
+        <div><span class="eyebrow">BLOCKING</span><p>Full swing-block emerging for middles; pins stay footwork-only with the jump-add at late 15s.</p></div>
+        <div><span class="eyebrow">SYSTEMS</span><p>5-1 expected default with a clearly-dominant setter; 6-2 fallback; middle-middle stays program identity.</p></div>
+        <div><span class="eyebrow">THE GATE</span><p>Coachability is non-negotiable: below 3, no promotion, regardless of skill scores.</p></div>
+      </div>
+    </div>
+    <div class="mock-note"><b>Why it works here:</b> Goalz proves an age program reads best as a mission page. The floating tags surface the three identity decisions a visiting coach or parent asks about first, and the four mono-labeled props are lifted verbatim from the real 14s guide.</div>
+    <button class="pick" type="button">Ship B · Program-page age guides</button>
+  </section>
+
+  <!-- ===== C ===== -->
+  <section class="mock" data-key="C" data-title="Coaches as people cards">
+    <div class="mock-head"><span class="name">C · Coaches page: people are the content</span><span class="borrow">borrows: people-first grids across all 8 · Equistra portrait warmth · Goalz mono labels</span></div>
+    <div class="coachC">
+      <div class="headrow">
+        <h2>The voices behind the manual</h2>
+        <span class="eyebrow">73 COACHES · 50 TRADITIONS · EVERY QUOTE SOURCED</span>
+      </div>
+      <div class="grid">
+        <div class="card">
+          <div class="portrait p1 gymphoto ph ph-net"><span class="pill-tag">USA · Reading-first</span><span class="photo-cred">Unsplash placeholder · not the coach pictured</span></div>
+          <div class="meta"><b>Karch Kiraly</b><div class="role">Three-time Olympic gold; USA Women's NT 2012-2024. The four passing keys and read-everything doctrine.</div><span class="prov">13 sources · 41 citations</span></div>
+        </div>
+        <div class="card">
+          <div class="portrait p2 gymphoto ph ph-jersey"><span class="pill-tag">Munciana · Club</span><span class="photo-cred">Unsplash placeholder · not the coach pictured</span></div>
+          <div class="meta"><b>Mike Lingenfelter</b><div class="role">Munciana co-director. Tilt passing, the Three P's, aim-small serving, 45-second drill windows: this program's working voice.</div><span class="prov">7 sources · 60+ citations</span></div>
+        </div>
+        <div class="card">
+          <div class="portrait p3 gymphoto ph ph-yellow"><span class="pill-tag">Penn State · Standards</span><span class="photo-cred">Unsplash placeholder · not the coach pictured</span></div>
+          <div class="meta"><b>Russ Rose</b><div class="role">Seven NCAA titles across 42 seasons. "Everything matters": stat discipline and competitive standards.</div><span class="prov">9 sources · 22 citations</span></div>
+        </div>
+      </div>
+    </div>
+    <div class="mock-note"><b>Why it works here:</b> every template makes humans the navigation object; your coach pages already have the depth, they just render as text lists. Cards with a tradition tag and a sourced-quotes count make the research feel like a roster.</div>
+    <button class="pick" type="button">Ship C · People-card coach pages</button>
+  </section>
+
+  <!-- ===== D ===== -->
+  <section class="mock" data-key="D" data-title="Courtside photo band (mobile)">
+    <div class="mock-head"><span class="name">D · Courtside with a photo band (mobile)</span><span class="borrow">borrows: Cyclix floating tags · Equistra inset frame · kept: your stat strip + age rows</span></div>
+    <div class="phoneD">
+      <div class="phone"><div class="screen">
+        <div class="sbar"><span>6:47</span><span>◦◦◦ 82%</span></div>
+        <div class="band-m gymphoto ph ph-band">
+          <div class="tags"><span class="pill-tag">Week 6 re-check</span><span class="pill-tag">Serving row</span></div>
+          <span class="eyebrow">TONIGHT · 14S</span>
+          <b>14s reference: guide, cues, drills, rubric</b>
+          <span class="photo-cred" style="font-size:7.5px">Your photo</span>
+        </div>
+        <div class="stat-m">
+          <div class="s"><b>9</b><i>Age guides</i></div>
+          <div class="s"><b>102</b><i>Drills</i></div>
+          <div class="s"><b>787</b><i>Sources</i></div>
+        </div>
+        <div class="crow"><span class="age">13s</span><a href="#">Guide</a><a href="#">Cues</a><a href="#">Drills</a><a href="#">Rubric</a></div>
+        <div class="crow cur"><span class="age">14s</span><a href="#">Guide</a><a href="#">Cues</a><a href="#">Drills</a><a href="#">Rubric</a></div>
+        <div class="crow"><span class="age">15s</span><a href="#">Guide</a><a href="#">Cues</a><a href="#">Drills</a><a href="#">Rubric</a></div>
+        <div class="crow"><span class="age">16s</span><a href="#">Guide</a><a href="#">Cues</a><a href="#">Drills</a><a href="#">Rubric</a></div>
+        <div class="navm"><span><span class="dot"></span>Manual</span><span><span class="dot"></span>Drills</span><span class="on"><span class="dot"></span>Courtside</span><span><span class="dot"></span>Cues</span><span><span class="dot"></span>Search</span></div>
+      </div></div>
+      <div class="why">
+        <h3>What changed vs the live page</h3>
+        A compact photo band tops the page with the age's identity line and two floating tags for tonight's focus, then everything utilitarian stays exactly as shipped: stat strip, age rows, tab bar.
+        <ul>
+          <li>The band is 120px: warmth without costing a single tap of reach.</li>
+          <li>Tags rotate seasonally (tryout week, tournament week, testing week) from the season-ops layer.</li>
+          <li>With no photo set, the band renders the court-line gradient, so it ships before you take a single picture.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="mock-note"><b>Why it works here:</b> this is the smallest possible dose of the Framer energy applied to the surface you use most, and it degrades gracefully until real photos exist.</div>
+    <button class="pick" type="button">Ship D · Courtside photo band</button>
+  </section>
+
+  <div class="actions">
+    <div class="box">
+      <label for="rationale">Pick any combination (buttons toggle). Notes, constraints, or photo plans:</label>
+      <textarea id="rationale" placeholder="e.g. ship A and D now, hold B until I have real photos, C after headshot rights are sorted"></textarea>
+      <button id="submit" type="button">Submit picks to Claude</button>
+      <span id="status">Nothing picked yet. Buttons toggle; pick as many as you want.</span>
+    </div>
+  </div>
+
+  <footer>Generated 2026-07-26 · inspiration: RIMZ, FitFlow, Yogus, Momentus, Goalz, Cyclix, Yachtera, Equistra (Framer templates, screenshots reviewed) · all mockups render on the shipped 2b token system · photo areas are placeholders awaiting real practice photos.</footer>
+</div>
+
+<script>
+// Universal submit + clipboard handler for HTML skills in this plugin.
+(function () {
+  const SECRET_PATTERNS = [
+    ['private-key', /-----BEGIN [A-Z ]*PRIVATE KEY-----[\s\S]+?-----END [A-Z ]*PRIVATE KEY-----/g],
+    ['aws-key-id', /\bAKIA[0-9A-Z]{16}\b/g],
+    ['github-token', /\bgh[opsur]_[A-Za-z0-9]{20,}\b/g],
+    ['slack-token', /\bxox[abprse]-[A-Za-z0-9-]{10,}\b/g],
+    ['openai-key', /\bsk-[A-Za-z0-9_-]{20,}\b/g],
+    ['google-key', /\bAIza[0-9A-Za-z_-]{30,}\b/g],
+    ['jwt', /\beyJ[A-Za-z0-9_-]{8,}\.[A-Za-z0-9_-]{8,}\.[A-Za-z0-9_-]{8,}\b/g],
+    ['url-userinfo', /\b[a-z][a-z0-9+.-]*:\/\/[^\s/:@"']+:[^\s/@"']+@/gi],
+  ];
+  function redactKnownSecrets(json) {
+    let count = 0;
+    for (const pair of SECRET_PATTERNS) {
+      json = json.replace(pair[1], function (m) {
+        count++;
+        if (pair[0] === 'url-userinfo') return '{{REDACTED:url-userinfo}}';
+        return '{{REDACTED:' + pair[0] + ':…' + m.slice(-4) + '}}';
+      });
+    }
+    return { json: json, count: count };
+  }
+  async function submitToClaude(payload, opts) {
+    opts = opts || {};
+    let json = JSON.stringify(payload, null, 2);
+    let note = '';
+    if (opts.redactSecrets) {
+      const red = redactKnownSecrets(json);
+      if (red.count > 0) {
+        json = red.json;
+        note = ' (' + red.count + ' secret-looking value' + (red.count === 1 ? '' : 's') + ' redacted)';
+      }
+    }
+    const url = opts.url || window.__CLAUDE_SUBMIT_URL__;
+    if (url) {
+      try {
+        const r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: json });
+        if (r.ok) {
+          notify(opts, (opts.serverMessage || window.__CLAUDE_SERVER_MESSAGE__ || 'Submitted to Claude.') + note);
+          return 'server';
+        }
+      } catch (e) { /* fall through */ }
+    }
+    return clipboardSubmit(json, opts, note);
+  }
+  async function clipboardSubmit(json, opts, note) {
+    const msg = (opts.clipboardMessage || window.__CLAUDE_CLIPBOARD_MESSAGE__ || 'Copied to clipboard — paste back into Claude.') + (note || '');
+    return copyToClipboard(json, { ...opts, message: msg, returnTag: 'clipboard' });
+  }
+  async function copyToClipboard(text, opts) {
+    opts = opts || {};
+    const msg = opts.message || 'Copied to clipboard.';
+    if (await tryAsyncClipboard(text)) { notify(opts, msg); return opts.returnTag || 'copied'; }
+    if (copyViaExecCommand(text)) { notify(opts, msg); return opts.returnTag || 'copied'; }
+    showInlineFallback(text);
+    return 'manual';
+  }
+  async function tryAsyncClipboard(text) {
+    try { await navigator.clipboard.writeText(text); return true; } catch (e) { return false; }
+  }
+  function copyViaExecCommand(text) {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    Object.assign(ta.style, { position: 'fixed', top: '0', left: '0', width: '1px', height: '1px', opacity: '0' });
+    document.body.appendChild(ta);
+    ta.focus(); ta.select();
+    let ok = false;
+    try { ok = document.execCommand('copy'); } catch (e) {}
+    ta.remove();
+    return ok;
+  }
+  function notify(opts, msg) {
+    if (typeof opts.onResult === 'function') { opts.onResult(msg); return; }
+    const el = document.createElement('div');
+    el.textContent = msg;
+    el.setAttribute('role', 'status');
+    Object.assign(el.style, {
+      position: 'fixed', bottom: '16px', left: '50%', transform: 'translateX(-50%)',
+      background: '#111', color: '#fff', padding: '10px 14px', borderRadius: '8px',
+      font: '14px system-ui', zIndex: 99999, boxShadow: '0 4px 12px rgba(0,0,0,0.2)',
+    });
+    document.body.appendChild(el);
+    setTimeout(() => el.remove(), 3500);
+  }
+  function showInlineFallback(json) {
+    const wrap = document.createElement('div');
+    wrap.setAttribute('role', 'region');
+    wrap.setAttribute('aria-label', 'Manual copy required');
+    Object.assign(wrap.style, {
+      position: 'fixed', left: '50%', bottom: '12px', transform: 'translateX(-50%)',
+      width: 'min(720px, calc(100% - 24px))', background: '#111', color: '#fff',
+      borderRadius: '10px', padding: '10px 12px', boxShadow: '0 6px 24px rgba(0,0,0,0.3)',
+      zIndex: 99999, font: '13px system-ui, -apple-system, sans-serif',
+      display: 'grid', gridTemplateColumns: '1fr auto', columnGap: '8px', alignItems: 'start',
+    });
+    const main = document.createElement('div');
+    const msg = document.createElement('div');
+    msg.textContent = 'Auto-copy unavailable here. Press Ctrl+A then Ctrl+C in the box, then paste into Claude.';
+    msg.style.marginBottom = '6px';
+    main.appendChild(msg);
+    const ta = document.createElement('textarea');
+    ta.value = json;
+    ta.readOnly = true;
+    ta.spellcheck = false;
+    Object.assign(ta.style, {
+      width: '100%', minHeight: '60px', maxHeight: '160px', resize: 'vertical',
+      padding: '6px 8px', font: '12px ui-monospace, monospace', background: '#fff',
+      color: '#111', border: 'none', borderRadius: '6px', outline: 'none', boxSizing: 'border-box',
+    });
+    main.appendChild(ta);
+    const close = document.createElement('button');
+    close.type = 'button';
+    close.textContent = '×';
+    close.setAttribute('aria-label', 'Dismiss');
+    Object.assign(close.style, {
+      background: 'transparent', border: 'none', color: '#fff', fontSize: '18px',
+      cursor: 'pointer', lineHeight: '1', padding: '2px 4px', alignSelf: 'start',
+    });
+    close.addEventListener('click', () => wrap.remove());
+    wrap.append(main, close);
+    document.body.appendChild(wrap);
+    setTimeout(() => { ta.focus(); ta.select(); }, 0);
+  }
+  window.submitToClaude = submitToClaude;
+  window.copyToClipboard = copyToClipboard;
+})();
+</script>
+<script>
+window.__CLAUDE_SUBMIT_URL__ = 'http://127.0.0.1:56067/?t=1c7cde9d8d2a3e9c5febbdadc6404831';
+
+(function () {
+  const picked = new Set();
+  const status = document.getElementById('status');
+  document.querySelectorAll('.mock').forEach((mock) => {
+    mock.querySelector('.pick').addEventListener('click', () => {
+      const key = mock.dataset.key;
+      if (picked.has(key)) { picked.delete(key); mock.classList.remove('chosen'); }
+      else { picked.add(key); mock.classList.add('chosen'); }
+      status.textContent = picked.size
+        ? 'Picked: ' + Array.from(picked).sort().join(', ') + '. Add notes, then Submit.'
+        : 'Nothing picked yet. Buttons toggle; pick as many as you want.';
+    });
+  });
+  document.getElementById('submit').addEventListener('click', async () => {
+    if (!picked.size) { status.textContent = 'Toggle at least one mockup first.'; return; }
+    await submitToClaude({
+      skill: 'html-brainstorm-grid',
+      kind: 'pick-one',
+      data: {
+        chosen: Array.from(picked).sort().join('+'),
+        title: 'Framer-inspired surfaces to ship',
+        tradeoff_label: 'photo-layer surfaces on 2b tokens',
+        rationale: document.getElementById('rationale').value || null,
+        candidates: ['A Homepage hero', 'B Program-page age guides', 'C People-card coaches', 'D Courtside photo band'],
+      },
+      version: 1,
+    });
+  });
+})();
+</script>
+</body>
+</html>
