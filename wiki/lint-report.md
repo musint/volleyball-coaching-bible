@@ -1,11 +1,10 @@
 # Wiki Lint Report
 
-Generated: 2026-07-26T16:24:45
+Generated: 2026-07-26T16:25:47
 
 ## Broken wikilinks
-Broken wikilinks: 1
+Broken wikilinks: 0
 
-- wiki\SCHEMA.md: [[page]]
 
 ## Cross-link invariant violations
 Violations: 0
