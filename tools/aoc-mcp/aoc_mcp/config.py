@@ -7,7 +7,9 @@ from pathlib import Path
 
 # AOC site
 AOC_BASE_URL = "https://www.theartofcoachingvolleyball.com"
-AOC_LOGIN_URL = f"{AOC_BASE_URL}/login"
+# /login stopped serving a form in mid-2026 (redirects to the homepage);
+# the live login is the standard WordPress route.
+AOC_LOGIN_URL = f"{AOC_BASE_URL}/wp-login.php"
 
 # User-Agent: a recent Chrome UA. Update manually when it ages. Matching the UA
 # used during headed login (Playwright-Chromium) reduces fingerprint mismatch.
