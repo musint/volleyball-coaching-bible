@@ -465,6 +465,8 @@ Priority-ordered; cite accordingly.
 
 Every source page's frontmatter has `trust-tier: 1|2|3`. Lint flags any claim in the wiki whose only supporting citation is Tier 3 without corroboration.
 
+**Overlap precedence (program rule, 2026-07-27).** When Smarter Volley (Trinsey), Gold Medal Squared, and AOC cover the same ground and disagree, neutrality still governs presentation (all positions shown, attributed, unresolved). Precedence applies only to practical-synthesis lines and program defaults: Smarter Volley first, then GMS, then AOC Premium.
+
 ---
 
 ## 8. Voice & style guide
