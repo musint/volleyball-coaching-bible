@@ -25,7 +25,7 @@ Reading is what you do before the hit; pursuit is what you do while the ball tra
 
 ## Schools of thought
 
-Defense is one of the most contested skills in volleyball methodology. All four major schools agree defense matters; they disagree on what kind of thing defense is and therefore how to train it. The four-way contest is covered in detail on [[defense-reading]]: the framing mirrors here at the skill-hub level.
+Defense is one of the most contested skills in volleyball methodology. All four major schools agree defense matters, and they disagree on what kind of thing it is, which drives how each trains it. [[defense-reading]] carries the four-way contest in detail; the framing mirrors here at the skill-hub level.
 
 - **[[art-of-coaching-volleyball]]**: reading-first, standalone perceptual skill with explicit cues and named coaching frames (B-S-B-H eye-work, look-see-decide). Kiraly, Liskevych, McCutcheon, Stone, Rockwell, and Josephson all work this line. Controlling the dig, platform angle as a function of body position, is the operational centerpiece. Strong bias toward live-hitter feeds over coach-tossed digs.
 - **[[gold-medal-squared]]**: defense emerges from random-and-variable practice at game-like intensity. Reading is real but develops as a by-product of the right practice architecture, not via decoupled reading drills. Skill simplification plus high-repetition game-like reps does the work.
@@ -60,7 +60,7 @@ Four bands, one progression: courage, then control, then command. Single-year re
 ### 15-16: Refinement
 
 - **Introduce.** [[defense-rotation]] reads (libero in 6) as a 15s curriculum item, with full execution expected at 16s. [[defense-middle-back]] as the HS-transition scheme, chosen per roster and per opponent. The up-defense look for short-roll-shot programs [aoc-2026-up-defense].
-- **Develop.** Block-defense coordination, the seam this hub shares with [[blocking]]. The block's shape tells the defender where to pre-commit her platform angle, the integration McCutcheon and Liskevych treat as the heart of team defense [aoc-2015-liskevych-mccutcheon-defense-blocking], and bunch-read moves the defender's assignment as much as it moves the blocker's [aoc-2026-bunch-read-blocking]. One measurement caution while you coach it: a block touch that keeps a ball playable is not stat-kept the way a dig is, which GMS raises as an open question with a study pending [gms-2025-block-touches-vs-digs-stat].
+- **Develop.** Block-defense coordination, the seam this hub shares with [[blocking]]. The block's shape tells the defender where to pre-commit her platform angle, the integration McCutcheon and Liskevych treat as the heart of team defense [aoc-2015-liskevych-mccutcheon-defense-blocking], and bunch-read moves the defender's assignment as much as the blocker's [aoc-2026-bunch-read-blocking]. Measurement caution: a block touch that keeps a ball playable is not stat-kept the way a dig is, which GMS raises as an open question with a study pending [gms-2025-block-touches-vs-digs-stat].
 - **Refine.** The emergency inventory becomes four distinct techniques (forearm, overhead, sprawl, pancake) instead of one desperate reach [aoc-2025-hofer-bowling-defense], plus the run-through on balls that cannot be stopped at. Double Knee Down and Shin Dig move from named to reliable [aoc-2022-emergency-moves-passing-defense].
 - **Year gates.** **15s:** [[defense-middle-middle]] remains the base and this year does not retire it; the libero-at-left-back landmark is the constant that lets an athlete move between schemes without relearning her zone identity [gms-nd-middle-middle-defense]. **16s:** middle-back with libero in 6 is the modern default, rotation defense the alternative for sophisticated teams, [[defense-perimeter]] the simpler-rule fallback, up-defense a scouted option [aoc-2026-up-defense].
 - **Observable promotion criterion (16s).** She reads the hitter's approach and arm instead of chasing the ball, and chains two contacts inside one sequence: dig, recover to her feet, play the next ball. Full row at [[16s]] and [[tryout-rubric-16u]].
@@ -82,19 +82,18 @@ New to coaching defense, or upgrading how you teach it? Read in this order:
 1. **[[defense-reading]]**: start here. Reading is the highest-leverage part of defense and the most commonly under-taught. Josephson's look-see-decide plus Kiraly's B-S-B-H eye-work are the operational frames.
 2. **[[defense-platform]]**: the controlling-the-dig frame: late platform, quiet hands, body position drives angle. Stone's platform management plus Liskevych's ASICS defense material are the anchors.
 3. **[[defense-pursuit]]**: "shuffle instead of reach" is the most durable early teaching point in back-row defense. Emergency-move inventory builds on normal footwork.
-4. **[[systems]]** and the team-defense pages: [[defense-perimeter]], [[defense-rotation]], [[defense-middle-back]], [[defense-man-back]]. Individual skill feeds team system; team system creates the reading context for individual skill.
-5. **Teaching by age band** above, then your age-lens overlay: [[age-lens-14u]], [[age-lens-hs]], [[age-lens-college]].
+4. **Teaching by age band** above, then the team-defense layer on [[systems]], then your age-lens overlay: [[age-lens-14u]], [[age-lens-hs]], [[age-lens-college]].
 
-Drill entry points: [[digging-lines]] and [[six-player-defense]] for foundational work; [[perimeter-coverage]] for team integration; [[emergency-pursuit]] for the emergency-move inventory; [[pepper]] and [[queen-of-the-court]] for high-rep game-like integration. Dataview will expand the full drill catalog for this skill once retrofit lands.
+Drill entry points: [[digging-lines]] and [[six-player-defense]] for foundational work; [[perimeter-coverage]] for team integration; [[emergency-pursuit]] for the emergency-move inventory; [[pepper]] and [[queen-of-the-court]] for high-rep game-like integration.
 
 ## Related areas
 
 - **[[passing]]**: the passing hub. Platform mechanics share everything with serve-receive; the framing differs on time window and pre-form timing.
 - **[[blocking]]**: the block-defense seam. Reading the block's shape tells the defender where platform angle should pre-commit; the band-by-band treatment is under Teaching by age band above.
 - **[[systems]]** and the team-defense systems, [[defense-perimeter]], [[defense-rotation]], [[defense-middle-back]], [[defense-man-back]]. Individual defense works **inside** a team system; the system determines where you start and where the block leaves you responsible.
-- **[[transition]]**: the dig is the first contact of transition offense. A dig too close to the net, too far off the net, or to the wrong zone kills the transition attack before it starts. The dig-target question is a defense question and a transition question both.
+- **[[transition]]**: the dig is the first contact of transition offense, so the dig-target question belongs to both hubs. A dig too close to the net, too far off it, or to the wrong zone kills the transition attack before it starts.
 - **[[libero]]**: the primary defender on most modern teams; every defensive read and emergency-move variant scales up on the libero. [[defensive-specialist]] carries the same skill load without the jersey.
-- **[[outside-hitter]]**, **[[opposite]]**, **[[middle-blocker]]**, **[[setter]]**: all read and dig when they are back-row; the setter's back-row defense is a specific sub-case covered on the setter page.
+- **[[outside-hitter]]**, **[[opposite]]**, **[[middle-blocker]]**, **[[setter]]**: all read and dig when they are back-row; the setter's case is on the setter page.
 - **[[practice-planning]]**: defense belongs in every practice, every day, integrated into hitting and blocking reps rather than siloed.
 - **[[mental]]**: pursuit after fatigue is a mental skill; the dig-everything ethic is a cultural install.
 

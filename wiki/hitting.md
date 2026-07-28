@@ -22,19 +22,15 @@ None of those skills carries the hitter alone; the ceiling of an
 attack is set by the weakest link in the chain.
 
 Modern hitting teaching has converged on a handful of shared
-anchors. The approach uses a **right-left last two steps** for
-right-handers (left-right for left-handers), with deliberate
-acceleration on those final two, start slow, explode into the
-plant, producing a two-foot takeoff and a rotation that points the
-non-hitting shoulder at the target. The arm swing is a **two-arm
-action**: both arms lift during the plant to store elastic energy
-through the shoulder girdle, the hitting arm draws back in a
-"bow-and-arrow" position, and the torso uncoils through contact with
-the **contact point high and slightly in front** of the hitting
-shoulder. Shot selection adds a read layer: the hitter scans the
-block during the approach and chooses between hard cross, hard line,
-tip, roll, tool, and high-seam based on what the block and defense
-give her.
+anchors. The approach runs **right-left on the last two steps** for
+right-handers (left-right for left-handers) with deliberate
+acceleration on those two, producing a two-foot takeoff and a
+rotation that points the non-hitting shoulder at the target. The arm
+swing is a **two-arm action** into a "bow-and-arrow" draw, with the
+**contact point high and slightly in front** of the hitting
+shoulder. Shot selection adds a read layer on top: hard cross, hard
+line, tip, roll, tool, and high-seam, chosen off what the block and
+defense give her.
 
 This hub orients you to all four subskills plus the schools of
 thought that disagree on emphasis. For the mechanics themselves, go
@@ -51,7 +47,7 @@ game, come back here.
 - **[[hitting-arm-swing]]**: the arm and torso sequence from plant
   through contact. Double-arm lift, bow-and-arrow draw, torso
   rotation, high-and-in-front contact, wrist snap for topspin.
-  Power comes from torque, not from the arm alone.
+  Torque supplies the power the arm alone cannot.
 - **[[hitting-shot-selection]]**: the decision layer on top of the
   swing. Toolbox (cross, line, tip, roll, tool, high-seam), block
   reading, hitter-type self-awareness. Genuinely contested across
@@ -63,7 +59,7 @@ game, come back here.
   [[age-lens-college]] offenses.
 
 Hitting also interacts heavily with [[setting]] (the hitter-setter
-connection is a deliberate training target, not an emergent
+connection is a deliberate training target rather than an emergent
 property) and [[transition]] (attacking out of transition
 differentiates elite hitters from clean-pass hitters). Drills live
 under the `drills/` folder, filter `primary-skill: hitting` via
@@ -112,11 +108,12 @@ footwork pattern plus a contact shape.
   [zahradnik-2014-block-landing-grf-valgus].
 - **Year gates:** 10s milestone is the down-ball with no jump, with
   the three-step introduced late season only for athletes whose
-  two-step is already rhythmic. 11s keeps the two-step as workhorse
-  and asks for at least three three-step attempts across an
+  two-step is already rhythmic
+  [aoc-2024-kids-attacking-fundamentals]. 11s keeps the two-step as
+  workhorse and asks for at least three three-step attempts across an
   evaluation, form not yet expected
   [aoc-2024-kids-attacking-fundamentals]. 12s shot selection is big
-  cross only.
+  cross only (see [[12s]]).
 - **Go to:** [[11s-drills]], [[12s-drills]], [[pass-set-hit]],
   [[approach-and-swing]], [[hitting-approach]].
 
@@ -164,10 +161,6 @@ maturity bands inside the roster
   [aoc-2023-barnard-aggressive-approach][aoc-2023-skinner-broad-jump-elimination].
   Pipe enters match play at late 14s as a high-ball variation
   [aoc-2023-back-row-attacking-basics].
-- **Health thread:** stick or step-back landing is the default from
-  14s, run-back is recovery-only
-  [zahradnik-2014-block-landing-grf-valgus]. Jump-load programming
-  lives at [[physical]].
 - **Go to:** [[13s-drills]], [[14s-drills]], [[age-lens-14u]],
   [[tryout-rubric-14u]], [[hitting-arm-swing]].
 
@@ -205,13 +198,6 @@ move to the shot menu and to position-specific attacks.
   the offense [aoc-2023-back-row-attacking-basics]. At 16s the
   outside calls her shot before the swing
   [aoc-2025-sealy-hitting-range].
-- **Health thread:** swing volume scales hard here, and adolescent
-  female outside hitters carry the highest position-specific ACL
-  incidence in the literature
-  [sassi-2025-acl-volleyball-systematic-review]. Posterior-shoulder
-  mobility and rotator-cuff work belong in the [[arm-care-routine]]
-  from 15s [kugler-1996-shoulder-pain-volleyball-attackers].
-  Programming at [[physical]].
 - **Go to:** [[15s-drills]], [[16s-drills]], [[age-lens-hs]],
   [[tryout-rubric-15s]], [[tryout-rubric-16u]], [[hitting-vs-block]],
   [[tip-and-roll]], [[hitting-shot-selection]].
@@ -250,51 +236,62 @@ decision before she leaves the floor.
   [aoc-2025-liskevych-back-row-attack-young]. At 18s middle-tempo
   attack (quick, 31, slide) is reliable for middles where the setter
   connection supports it [aoc-2026-lingenfelter-middle-attack-tempo].
-- **Health thread:** attackers are 78.8 percent of volleyball ACL
-  injuries against 54.7 percent of a matched control population,
-  overwhelmingly non-contact spike landing
-  [smith-2025-acl-return-to-play-volleyball]. Audit landings on
-  video; programming at [[physical]].
 - **Go to:** [[17s-drills]], [[18s-drills]], [[age-lens-college]],
   [[out-of-system-to-attack]], [[transition-hitting]],
   [[hitting-back-row-attack]], [[recruiting]].
 
+### Health threads
+
+Landing mechanics and shoulder care run through every band. Load
+programming, neuromuscular work, and jump-count management live at
+[[physical]]; the band-specific coaching calls are these.
+
+- **From 14s:** stick or step-back landing is the default and
+  run-back is a recovery-only pattern
+  [zahradnik-2014-block-landing-grf-valgus].
+- **From 15s:** swing volume scales hard, adolescent female outside
+  hitters carry the highest position-specific ACL incidence in the
+  volleyball literature
+  [sassi-2025-acl-volleyball-systematic-review], and
+  posterior-shoulder mobility plus rotator-cuff work belong in the
+  [[arm-care-routine]]
+  [kugler-1996-shoulder-pain-volleyball-attackers].
+- **At 17-18:** attackers are 78.8 percent of volleyball ACL injuries
+  against 54.7 percent of a matched control population,
+  overwhelmingly non-contact spike landing
+  [smith-2025-acl-return-to-play-volleyball]. Audit landings on video
+  through the season.
+
 ### Contested cells
 
-- **Back-row attack entry band. Program default pending.** Liskevych
-  argues back-row attacking is a teaching device for younger players
-  precisely because it forces contact on the back of the ball, a
-  habit that transfers to every swing once the athlete grows into the
-  net, and his progression starts with no jump at all
+- **Back-row entry band. Program default pending.** Liskevych argues
+  back-row attacking is a teaching device for younger players
+  because it forces contact on the back of the ball, and his
+  progression starts with no jump at all
   [aoc-2025-liskevych-back-row-attack-young]. The program ladder
-  currently enters back-row at top-club [[13s]] as a tactical skill
+  enters back-row at top-club [[13s]] as a tactical skill
   [aoc-2023-back-row-attacking-basics]. Whether the standing no-jump
-  back-row swing belongs in the Foundation band as an arm-mechanics
-  device is unresolved.
+  back-row swing belongs in Foundation as an arm-mechanics device is
+  unresolved.
 - **When the shot menu gets named. Program default pending.** AOC
-  teaches an explicit expanding menu plus a read layer, with the
-  hitter classifying her own type
-  [aoc-2018-dunning-hitter-types][aoc-2025-sealy-hitting-range]. GMS
+  teaches an explicit expanding menu plus a read layer
+  [aoc-2018-dunning-hitter-types][aoc-2025-sealy-hitting-range]; GMS
   holds that shot selection emerges from varied game-like reps and
-  cannot be drilled as a skill separate from execution
-  [gms-2018-clinic-report]. Both agree on the practice architecture
-  (varied block fronts, varied set locations, scored reps), so the
-  live question is whether the menu is named to a 13s or 14s athlete
-  or left implicit until 15s. See [[#Schools of thought]].
-- **Tip heuristic, attributed both ways.** [[hitting-cues]] carries
-  the block read: tip when the block is up, swing when it is down.
-  Flick-Williams inverts the adjacent system-based heuristic, arguing
-  you tip when the opponent expects a swing (in system) and swing
-  when the opponent expects a free ball (out of system)
-  [aoc-2023-flick-williams-hitting-myths]. Both are read-driven and
-  they read different objects; teach the block read first and add the
-  expectation read at the Performance band.
-- **Approach step count, resolved as a ladder.** Barnard prefers the
-  four-step as the default for most hitters
-  [aoc-2023-barnard-aggressive-approach] and Skinner treats three and
-  four as a tradeoff with different teaching payoffs
-  [aoc-2023-skinner-broad-jump-elimination]. The program resolution
-  is the ladder in the cells above rather than a single answer.
+  cannot be drilled separately from execution [gms-2018-clinic-report].
+  Both agree on the practice architecture, so the live question is
+  whether the menu is named to a 13s or 14s athlete or left implicit
+  until 15s. See [[#Schools of thought]].
+- **Tip heuristic, both attributed.** [[hitting-cues]] carries the
+  block read: tip when the block is up, swing when it is down.
+  Flick-Williams inverts the system-based heuristic, tipping when the
+  opponent expects a swing and swinging when the opponent expects a
+  free ball [aoc-2023-flick-williams-hitting-myths]. Teach the block
+  read first and add the expectation read at Performance.
+- **Step count, resolved as a ladder.** Barnard prefers the four-step
+  as default for most hitters [aoc-2023-barnard-aggressive-approach];
+  Skinner treats three and four as a tradeoff with different teaching
+  payoffs [aoc-2023-skinner-broad-jump-elimination]. The program
+  resolution is the ladder in the cells above.
 
 ## Schools of thought
 
@@ -322,7 +319,7 @@ below mirrors the `schools-perspectives` frame on
 - **[[russian-school]]: pressure-hitting.** The Soviet lineage
   teaches hitting as a power-first discipline. The primary shot
   is hard-driven and in the court; finesse shots are specialized
-  tools, not defaults. A hitter who tips too often is leaking
+  tools rather than defaults. A hitter who tips too often is leaking
   pressure, keep the ball in and make the defense beat you.
   Practice emphasizes repetition of hard swings against live
   block-and-defense with strict in/out accounting.

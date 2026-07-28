@@ -9,16 +9,14 @@ subtopics: [transition-attack, transition-out-of-system]
 
 ## Overview
 
-Transition is the phase between the end of one offensive sequence and the start of the next, the moments between dig and approach, between block and plant, between setter scramble and hitter swing. It is where elite programs pull away from developing ones, where most rallies past the first ball are decided, and where the single largest block of unexploited improvement lives at club and HS. A team that sides out cleanly on first contact but cannot transition is at the mercy of its serve receive; a team that transitions cleanly converts every defensive touch into offense.
-
-Two subskills live under this hub, described below. At 14U, out-of-system rallies are often over 40% of all contacts, which makes the out-of-system phase arguably the highest-leverage skill in the age bracket.
+Transition is the phase between the end of one offensive sequence and the start of the next: the moments between dig and approach, between block and plant, between setter scramble and hitter swing. It decides most rallies past the first ball, and it holds the largest block of unexploited improvement at club and HS. A team that sides out cleanly on first contact and cannot transition is at the mercy of its serve receive. At 14U, out-of-system rallies are often over 40% of all contacts, which makes the out-of-system phase arguably the highest-leverage skill in the age bracket.
 
 Transition touches every position. Front-row hitters ([[outside-hitter]], [[opposite]], [[middle-blocker]]) run block-to-approach recovery on every defended rally, and a middle who hits a quick off her own block is a silent driver of non-first-ball offense. The [[setter]] carries the out-of-system load: when the pass is off, her bail decision decides whether the rally continues as offense or as survival. [[libero]] and [[defensive-specialist]] carry dig-to-approach and second-ball setting, since modern indoor treats the libero as a trained second setter rather than a last resort. Level overlays sit on [[age-lens-14u]], [[age-lens-hs]], and [[age-lens-college]]; the year-by-year placement is in the age-band section below.
 
 ## Major subtopics
 
-- **[[transition-attack]]**: mechanics and tempo of the transition swing. Clear-then-approach for blockers, dig-to-approach for back-row, free-ball conversion, scramble adjustment, and the tempo maintenance that separates Italian and Brazilian transition games from slower traditions.
-- **[[transition-out-of-system]]**: the phase where the first contact never reached the setter cleanly enough to run the called offense. Detect and call, setter bails to a pin, libero or non-setter takes the second contact when the setter took the first, hitter adjusts approach and shot selection, convert. Highest-leverage phase at 14U and HS.
+- **[[transition-attack]]**: mechanics and tempo of the transition swing. Clear-then-approach for blockers, dig-to-approach for back-row, free-ball conversion, scramble adjustment, tempo maintenance at higher levels.
+- **[[transition-out-of-system]]**: the phase where the first contact never reached the setter cleanly enough to run the called offense. Detect and call, setter bails to a pin, libero or non-setter takes the second contact when the setter took the first, hitter adjusts approach and shot selection, convert.
 
 ## Teaching by age band
 
@@ -44,7 +42,7 @@ Transition is a connective category: it owns no contact of its own, it owns the 
 ### 15-16: Refinement
 
 - **Introduce.** Out of system as an organized phase with named roles: detect, call, bail, adjust, convert. At [[15s]] detect, call, and bail-to-pin are introduced with consistency deferred to 16s. At [[16s]] [[transition-out-of-system]] is the active install priority while in-system transition off a clean dig is expected mature. Rosen's transition corpus is the band's drill methodology of record [aoc-2016-rosen-training-transition-in-out-system][aoc-2017-rosen-training-transitions].
-- **Develop.** Hitter coverage, paid off as a debt. The U13 game teaches players to skip covering because the ball almost never gets blocked; by U17 it gets blocked more often than it gets dug over, so coverage has to be retrained on purpose, and the same shift moves your own free ball off deep zone 1 and into the short seam [trinsey-2026-incomplete-mastery-limits-transfer].
+- **Develop.** Hitter coverage, paid off as a debt. The U13 game teaches players to skip covering because the ball almost never gets blocked; by U17 it gets blocked more often than it gets dug over, so coverage has to be retrained on purpose [trinsey-2026-incomplete-mastery-limits-transfer]. This is the band where the Foundation-era habits listed above come due.
 - **Refine.** Transition footwork under load. [[transition-hitting]] arrives at 15s and is the year's highest-leverage repetition for pins ([[15s-drills]]); [[six-player-defense]] and [[queen-of-the-court]] supply urgency without a full 6v6 install. The read driving the transition decision is one your blockers already train: at this level the Off and On read becomes in-system versus out-of-system [trinsey-2026-bsbh-variations]. See [[defense-reading]].
 - **Year gates.** 15s: block-to-approach and dig-to-approach become trained patterns rather than happy accidents ([[tryout-rubric-15s]]). 16s: outside-hitter bail-to-pin and pin-attack-off-a-bad-pass are expected reliable, setter second-ball protocol is installed, and block-to-approach becomes an explicit three-step teach (stick, recover, plant) with the controlled landing non-negotiable [zahradnik-2014-block-landing-grf-valgus] ([[tryout-rubric-16u]], [[16s-drills]], [[offense-high-ball]]).
 - **Promotion criterion (observable).** In a wash block where you deliberately degrade the first contact, the out-of-system call lands before the second ball leaves anyone's hands, and every non-attacking player has hands on the floor inside the 3-meter line before the hitter contacts. Score the call and the coverage separately from the point.
@@ -57,7 +55,7 @@ Transition is a connective category: it owns no contact of its own, it owns the 
 - **Year gates.** 17s: [[transition-out-of-system]] is the marker separating HS-ceiling players from college-bridge players ([[tryout-rubric-17s]], [[age-lens-hs]]). 18s: the libero's overhead set from behind the 3-meter line is toolkit rather than improvisation, and dig-to-approach decisions are made before the dig is contacted ([[tryout-rubric-18u]], [[age-lens-college]]).
 - **Promotion criterion (observable).** In an extended wash rally, on the third and later transition contacts she completes a full approach from her transition mark instead of arm-swinging from a standstill. A team that runs a clean in-system play and then falls apart on the third transition rally is not college-ready ([[18s]]).
 
-### Contested cells
+Two cells in the matrix above are contested on band placement, and neither has a program rule yet.
 
 **Isolated transition footwork before integration.** [[art-of-coaching-volleyball]]'s transition line (Shymansky, Hoag, Rosen) drills block-to-approach and dig-to-approach as named patterns before re-integrating them, which is the placement the age-guides currently use at [[12s]] and [[14s]]. [[gold-medal-squared]] and [[ecological-dynamics]] hold that the pattern should form inside representative rallies, because decomposition destroys the perceptual information that drives the movement [gms-nd-structure-practice]. Trinsey sits between them: being able to do the thing in an easy context while failing in a hard one is a developmental step he does not think you can skip, so he asks for the skill in game context first and drops to a coach toss only when the game context discourages the action he wants [trinsey-2026-incomplete-mastery-limits-transfer]. Program default pending.
 
@@ -67,15 +65,15 @@ Transition is a connective category: it owns no contact of its own, it owns the 
 
 No reviewed lineage disputes that transition matters or that club and HS programs undertrain it. The live disagreement is about *how* it gets drilled: how many isolated block-to-approach and dig-to-approach reps precede integrated team transition inside full rallies, and how early aggressive tempo options enter the repertoire.
 
-**[[gold-medal-squared]]** trains transition patterns inside random, variable, game-like work: wash drills, rally-continuation drills, scrimmage with transition touches scored separately. The theoretical anchors are the contextual-interference effect and the specificity-of-practice principle. A pattern rehearsed in an isolated line to a coach's toss transfers poorly into a live rally where the hitter reads setter, ball, and block at once, so GMS builds the movement inside the representative task.
+**[[gold-medal-squared]]** trains transition patterns inside random, variable, game-like work: wash drills, rally-continuation drills, scrimmage with transition touches scored separately. The anchors are the contextual-interference effect and the specificity-of-practice principle. A pattern rehearsed in an isolated line to a coach's toss transfers poorly into a live rally where the hitter reads setter, ball, and block at once.
 
-**[[art-of-coaching-volleyball]]** is pedagogically eclectic and heavily transition-focused across its library: Rosen's transition-in-and-out-of-system corpus, Hoag's transition drill series, Shymansky's outside-hitter footwork, Johnson-Lynch's passing-setting-transition integration, and Lupo and Ludwig's box-block and free-ball series. The shared framing treats transition as a set of trained, named patterns that can be isolated before re-integration. AOC is less skeptical than GMS of moderate-intensity specific drilling, particularly for footwork targets. Both camps agree the integrated scrimmage is where the pattern has to live in game time.
+**[[art-of-coaching-volleyball]]** is heavily transition-focused across its library: Rosen's in-and-out-of-system corpus, Hoag's transition drill series, Shymansky's outside-hitter footwork, Johnson-Lynch's passing-setting-transition integration, Lupo and Ludwig's box-block and free-ball series. The shared framing treats transition as trained, named patterns that can be isolated before re-integration, and AOC is less skeptical than GMS of moderate-intensity specific drilling, particularly for footwork targets.
 
-**[[ecological-dynamics]]** frames transition as perception-action coupling under time pressure. The transition hitter adjusts an approach in real time to the evolving positions of setter, ball, and block, so the constraints-led coach designs information-rich reps (degraded first contacts, varied ball locations, moving blockers) and lets the pattern self-organize. This camp is the most skeptical of decomposed footwork drills and the most committed to representative learning design.
+**[[ecological-dynamics]]** frames transition as perception-action coupling under time pressure. The constraints-led coach designs information-rich reps (degraded first contacts, varied ball locations, moving blockers) and lets the pattern self-organize. This camp is the most skeptical of decomposed footwork drills.
 
-**[[japanese-training]]** weights transition inside a defense-first, dig-everything identity. A dig becomes an attack, and the dig-to-attack transition is drilled with volume until automatic. The Daimatsu-era model built transition precision through sheer repetition and leaned more blocked than GMS; modern Japanese youth practice has moved toward integrated competitive work while keeping the precision standard.
+**[[japanese-training]]** weights transition inside a defense-first, dig-everything identity, drilled with volume until automatic. The Daimatsu-era model built precision through sheer repetition and leaned more blocked than GMS; modern Japanese youth practice has moved toward integrated competitive work while keeping the precision standard.
 
-**Italian and Brazilian lineages** ([[italian-school]], [[brazilian-school]]) built their identity on transition tempo itself, the speed across multiple rally contacts that keeps a defense reactive. Their framing centers tempo maintenance as a deliberate outcome, including aggressive back-row attack in transition as a default option.
+**Italian and Brazilian lineages** ([[italian-school]], [[brazilian-school]]) built their identity on transition tempo itself, the speed across multiple rally contacts that keeps a defense reactive, with aggressive back-row attack in transition as a default option.
 
 Practical reconciliation: train both formats, and score transition-phase conversion separately from first-ball conversion so the gap becomes visible.
 
@@ -83,23 +81,22 @@ Practical reconciliation: train both formats, and score transition-phase convers
 
 If you are upgrading how you train transition, read in this order:
 
-1. [[transition-attack]]: the mechanics and teaching progression, including block-to-approach, dig-to-approach, free-ball, and tempo-maintenance layers.
-2. [[transition-out-of-system]]: the OOS phase, the highest-leverage training target at 14U and HS.
-3. Your age-lens page, [[age-lens-14u]] for the developmental floor on what transition demands can include, [[age-lens-hs]] for formation and tempo expectations, [[age-lens-college]] for the elite standard.
-4. The position pages for the roles that carry the transition load: [[setter]] (OOS setting), [[outside-hitter]], [[opposite]], [[middle-blocker]] (block-to-approach), [[libero]] and [[defensive-specialist]] (dig-to-approach and libero-as-setter).
-5. [[practice-planning]]: where transition emphasis fits in session design, and how wash-style drills score transition conversion separately from first-ball conversion.
+1. [[transition-attack]]: mechanics and teaching progression for block-to-approach, dig-to-approach, free ball, and tempo maintenance.
+2. [[transition-out-of-system]]: the out-of-system phase, the highest-leverage training target at 14U and HS.
+3. The age band above matching your roster, then the age-lens overlay ([[age-lens-14u]], [[age-lens-hs]], [[age-lens-college]]).
+4. The position pages carrying the load: [[setter]], [[outside-hitter]], [[opposite]], [[middle-blocker]], [[libero]], [[defensive-specialist]].
+5. [[practice-planning]]: where transition emphasis fits in session design.
 
 Drill entry is on the two subskill pages. [[transition-hitting]], [[transition-rally]], [[free-ball-to-offense]], and [[wash-drill]] handle the transition-attack side; [[out-of-system-to-attack]] and [[out-of-system-setting]] handle the OOS side.
 
 ## Related areas
 
-- [[practice-planning]]: the meaningful-touches-per-hour frame and the random-vs-blocked discussion anchor how transition gets scheduled inside a session.
-- [[systems]]: team offensive and defensive systems that change what transition patterns are available.
-- [[defense]]: individual defense feeds transition; a dig not converted to an attack is a wasted defensive touch.
-- [[age-lens-14u]]: the developmental floor for transition demands, and why OOS is the single highest-leverage emphasis at this level.
-- [[age-lens-hs]]: tempo expectations and formation constraints at HS varsity.
-- [[age-lens-college]]: the standard of transition indistinguishable from first-ball offense.
-- [[mental]]: transition as a composure test; teams that fall apart in long rallies usually lose on transition contacts, not first-ball contacts.
+- [[practice-planning]]: the meaningful-touches-per-hour frame and the random-versus-blocked discussion anchor how transition gets scheduled inside a session.
+- [[systems]]: team offensive and defensive systems change which transition patterns are available.
+- [[defense]]: individual defense feeds transition; a dig that never becomes an attack is a wasted defensive touch.
+- [[physical]]: transition reps are the most fatiguing block in practice, which makes their volume a load-management decision.
+- [[mental]]: transition as a composure test; teams that come apart in long rallies usually come apart on transition contacts.
+- [[age-lens-14u]], [[age-lens-hs]], [[age-lens-college]]: level overlays on transition demands, from the 14U developmental floor through the college standard of transition indistinguishable from first-ball offense.
 
 ## Drill catalog
 

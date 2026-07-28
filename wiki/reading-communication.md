@@ -29,7 +29,7 @@ Communication has no standalone technique page by design. Calling standards live
 
 ### 10-12: Foundation
 
-**Introduce** the two earliest reads: watch the server before contact (toss height, arm speed), and read ball flight once it crosses. Trinsey's beginner ladder sequences this. Start with the single question "is it coming over?" using deliberately obvious visual cues from the coach, and layer the Off / On / Over distinction only once that read is reliable [trinsey-2026-bsbh-variations]. **Develop** the two Foundation calls, "mine" and "out," inside [[serve-receive-4-player]]. **Refine** nothing yet; the eye-sequence layer is deferred.
+**Introduce** the two earliest reads: watch the server before contact (toss height, arm speed), and read ball flight once it crosses. Trinsey's beginner ladder gives the sequencing. Start with the single question "is it coming over?" using deliberately obvious visual cues from the coach, and layer the Off / On / Over distinction only once that read is reliable [trinsey-2026-bsbh-variations]. **Develop** the two Foundation calls, "mine" and "out," inside [[serve-receive-4-player]]. **Refine** nothing yet; the eye-sequence layer is deferred.
 
 *In-band year gates.* At **11s**, the standard is calling "free" or "hit" before the ball crosses the net on 6 of 10 coach-fed balls, and calling "hands" or "platform" on 8 of 10 balls fed above and below the shoulders [[11s]]. At **12s**, mine / yours / out is expected inside the four-player formation and look / see / decide enters as drill language for top-club rosters; B-S-B-H as a separate diagnostic stays 13s and up [[12s]].
 
@@ -68,7 +68,7 @@ Communication has no standalone technique page by design. Calling standards live
 
 Two cells stay open. **Program default pending** on the second handoff: Trinsey reports the ball-to-hitter transition as genuinely contested, some coaches holding blockers on the ball longer to line up with it and others moving to the hitter earlier, and leaves it unresolved [trinsey-2026-bsbh-variations]. **Program default pending** on the promotion gate: the age-guide standard at [[15s]] is unprompted verbalization of B-S-B-H, while this page grades movement only. They coexist as a coach diagnostic and a promotion gate, and the program has yet to pick one instrument.
 
-A note all four schools survive: scripted reps are easier rather than better. They remove a decision so attention can go elsewhere, and live reps are what they feed [trinsey-2026-bsbh-variations].
+One practical note survives all four schools: scripted reps are easier rather than better. They remove a decision so attention can go elsewhere, and live reps are what they feed [trinsey-2026-bsbh-variations].
 
 ## Getting started
 

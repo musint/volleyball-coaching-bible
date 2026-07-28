@@ -13,7 +13,7 @@ Serving is the only skill in volleyball you execute with no defender and full co
 
 The modern high-level women's and men's games have diverged sharply on how to generate that disruption. In the women's game from 14U to the senior national team, the **standing float and jump-float dominate**: the ball's unpredictability (drop, drift, knuckle) is harder for a passer to read than pure pace, and the mechanical cost of serving thousands of floaters across a season is much lower on the shoulder. In the modern men's game at the international/pro level, **jump-topspin dominates**: servers willingly accept a higher error rate to generate spike-level pace from behind the end line. The US program under [[karch-kiraly|Karch Kiraly]] shows both: the women's team built around jump-float with tactical depth and zone-2 targeting, the men's team (which Kiraly also now oversees) playing the jump-topspin-first game. See [[serving-topspin]] for the contested methodology and [[serving-hybrid]] for how elite servers of both genders mix types in-match.
 
-For 14U club and HS programs the split tells you what to invest in: standing float for every server first, jump-float layered on for confident servers, topspin at 16s for the most advanced. The band matrix below sequences it. The arm-swing carry-over Nelson identifies belongs in hitting work.
+For 14U club and HS programs the split tells you what to invest in, and the band matrix below sequences it. The arm-swing carry-over Nelson identifies belongs in hitting work.
 
 ## Major subtopics
 
@@ -24,7 +24,7 @@ For 14U club and HS programs the split tells you what to invest in: standing flo
 
 ## Teaching by age band
 
-Each cell names what enters the band, what gets grooved, and what shows up in a rep block before a server moves up. Single-year precision lives in the age-guides.
+Each cell names what enters, what gets grooved, and what shows up in a rep block before a server moves up. Single-year precision lives in the age-guides.
 
 ### 10-12: Foundation
 
@@ -34,7 +34,7 @@ Each cell names what enters the band, what gets grooved, and what shows up in a 
 
 **Year gate (11s).** Distance is earned: attack line first, back roughly 1 m per session while contact stays clean, ending 2 to 3 feet inside the end line for most athletes.
 
-**Promotion criteria (observable).** 11s: 8 of 10 tosses land in a 2-foot box in front of the hitting shoulder with the swing withheld, and 3 of 10 overhand attempts produce clean contact from her current line. 12s: 6 of 10 serves land in a half-court target box by season's end [aoc-2024-kids-serving-fundamentals]. Jump float and topspin stay out of the band. See [[10s]], [[11s]], [[12s]].
+**Promotion criteria (observable).** 11s: 8 of 10 tosses land in a 2-foot box in front of the hitting shoulder, swing withheld, and 3 of 10 overhand attempts produce clean contact from her current line. 12s: 6 of 10 serves land in a half-court target box by season's end [aoc-2024-kids-serving-fundamentals]. Jump float and topspin stay out of the band. See [[10s]], [[11s]], [[12s]].
 
 ### 13-14: Rebuild
 
@@ -80,12 +80,11 @@ Each cell names what enters the band, what gets grooved, and what shows up in a 
 
 If you are building a serving curriculum from scratch, the sequence is:
 
-1. **Toss quality first.** Read [[serving-float]] Step 1. A player who cannot put the toss on target without a swing will never serve well from the end line. Isolate the toss.
+1. **Toss quality first.** Read [[serving-float]] Step 1. A player who cannot put the toss on target without a swing will never serve well from the end line.
 2. **Standing float to the service line.** Build the full Lift-Step-Swing motion at graduated distances. Target deep-middle first, corners second. For 14U girls, this is 60-80% of your serving practice time.
 3. **Serving under pressure.** Heckling, serve-to-win games, fatigue blocks at the end of practice. Build the ritual alongside the pressure.
-4. **Jump-float for your best servers.** Once the standing float is stable under pressure. Not before.
-5. **Topspin as a change-up at 16s.** Standing-topspin first; jump-topspin only for players with the shoulder durability to handle spike-level load repeatedly. The 11-15U arm-swing carry-over is captured in hitting reps.
-6. **Serve selection and in-match management.** Read [[serving-hybrid]]. The tactical layer separates servers who can disrupt from servers who merely land the ball.
+4. **Jump-float, then topspin.** Jump-float once the standing float is stable under pressure. Topspin at 16s, standing variant first, with jump-topspin reserved for players who can carry spike-level shoulder load. The band matrix above holds the gates.
+5. **Serve selection and in-match management.** Read [[serving-hybrid]]. The tactical layer separates servers who can disrupt from servers who merely land the ball.
 
 Age-lens overlays: [[age-lens-14u]] (toss and standing float are the whole job), [[age-lens-hs]] (jump-float weapon, topspin change-up), [[age-lens-college]] (full menu, zone targeting, in-match serve selection).
 
