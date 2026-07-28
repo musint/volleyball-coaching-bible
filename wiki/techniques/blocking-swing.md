@@ -18,6 +18,8 @@ sources:
 
 # Blocking swing
 
+Part of the [[blocking]] skill spine.
+
 ## Overview
 Swing blocking is the individual blocking technique in which the blocker's
 arms swing back and forward through the lateral close (like a sprinter's

@@ -25,6 +25,8 @@ sources:
 
 # Blocking footwork
 
+Part of the [[blocking]] skill spine.
+
 ## Overview
 Blocking footwork is how the blocker, middle, outside, or opposite, travels
 from ready position along the net to the point of attack without sacrificing

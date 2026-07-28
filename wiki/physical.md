@@ -1,6 +1,7 @@
 ---
 type: hub
 area: physical
+spine: connective
 subtopics: [strength-conditioning-foundations, jump-training, mobility-flexibility, injury-prevention, load-management, sport-specific-conditioning, youth-scaling]
 ---
 
@@ -25,6 +26,87 @@ The modern stance is explicit: **most sport-specific physical preparation is not
 - **Youth scaling**: *(medical disclaimer applies; youth programming should not be over-loaded or over-specialized)*. USAV LTAD is clear: **multi-sport exposure, movement play, and age-appropriate court/ball/net scaling** beat early specialization [usav-2026-simplified-youth-rules][usav-2026-growing-kids-volleyball]. The injury-epidemiology case is direct: in matched basketball/soccer/volleyball youth comparisons, specialization significantly raised overuse-injury risk **only in volleyball** (OR ~2.3), and >8-month-per-year volleyball participation OR ~2.0 [post-2019-specialization-overuse-volleyball]. At 14U: extensive small-sided games, minimal formal "conditioning," body-weight/balance work only when prescribed, landing-mechanics emphasis as jump volume ramps. The "iY" generational-fitness frame, declining baseline fitness on arrival, reinforces loading patiently [aoc-2018-coaching-iy-generation]. Practitioner-knowledge research finds the LTAD framework is widely known but **inconsistently and incompletely implemented**: only 2.7% of practitioners incorporated all four required components of "athleticism," and three pillars showed weak adherence, accommodating individualized non-linear development, monitoring/assessment tools, and systematic progression [till-2022-ltad-practitioner-knowledge]. The implication for coaches: maturity-status assessment, individualized loading, and explicit progression frameworks are the underused levers.
 
 - **Female-athlete fueling and RED-S**: *(medical disclaimer applies; defer to RDs and physicians for nutritional and medical assessment)*. Volleyball's leanness pressure makes Female Athlete Triad and Relative Energy Deficiency in Sport (RED-S) coach-relevant. The clinical operational definition: **low energy availability** below ~30 kcal/kg fat-free-mass per day damages metabolic rate, immunity, protein synthesis, GI, cardiovascular, growth, and psychological function, i.e., LEA is a performance problem as much as a health problem; performance impact includes reduced endurance, strength, training response, coordination, judgment, and increased injury risk [coelho-2021-female-athlete-triad-reds]. The IOC RED-S Clinical Assessment Tool (CAT) is the screening instrument; first-line treatment is nutritional rehabilitation (300-600 kcal/day above current intake) plus interdisciplinary care. Coaches see meal patterns and practice intensity that nutritionists never see, recognition is the coach's share, prescription is not.
+
+## Teaching by age band
+
+The athletic foundation differs from the six contact skills in one structural way: most of what belongs in it is prescribed by someone other than you. USA Volleyball's Coach Academy scopes the coach's share through the **Body pillar** as *recognize, modulate, collaborate* [usav-2026-coach-academy]. Read every cell inside that scope. Programming load, prescribing plyometrics, writing lifting blocks, managing injury and return to play, and setting nutrition targets belong to a **CSCS**, an **athletic trainer**, a **physician**, or a **registered dietitian** at all four bands. Yours at all four bands: movement quality, rep-count discipline, warm-up design, and the judgment to send an athlete to a professional. Nothing below is a program. Single-year detail lives in the age-guides these cells link.
+
+### 10-12: Foundation
+
+**Introduce.** General athleticism through play. Movement Discovery games (tag, hopscotch, balance challenges, foam-noodle work) are the unit of athletic-development work at this band [usav-2026-youth-volleyball-tips], and pair-based play over a net or rope keeps every athlete moving instead of standing in a line [usav-2026-growing-kids-volleyball].
+
+**Develop.** Two-foot takeoff and two-foot landing shape inside every approach rep, ankle and knee tracking, multi-directional ready-position footwork. Practice density carries the conditioning load at this band: enter the next ball fast, because beginners recover quickly between rallies and the between-rally window is mostly wasted on them [trinsey-2026-beginners-v-advanced-25].
+
+**Refine.** Hold this word for later bands. Trinsey's position is that young athletes need *less* technical training rather than more, because most have not yet built the sub-optimal habits technical training exists to correct, and because prepubescent bodies sit far enough from their adult proportions that hand-shape and platform work has little claim on the teenager's body. A 4'10" athlete grooving the habit that guarantees a technically perfect platform at 5'10" is solving a problem that will not exist [trinsey-2026-summer-camp-part-1]. The two technical items he still teaches young: how to stand, toss, and step into a serve, and how to take an approach and jump off two feet [trinsey-2026-summer-camp-part-1]. Both are physical-spine items, which is the point.
+
+**Warm-up standard.** Judge every dynamic warm-up against simply jogging a few laps. The operative criterion for being warm is sweating or near-sweating, and at U12s starting straight into playing volleyball is defensible [trinsey-2026-beginners-v-advanced-part-2].
+
+**Cue caution.** A multi-site youth replication of the external-focus paradigm on jumping and sprinting found no significant differences between external, internal, analogy, and neutral-control cues, and neutral control beat internal cueing on vertical jump [moran-2023-verbal-coaching-cues-youth]. Rep volume and a consistent vocabulary outweigh cue-type optimization here. See [[hitting-cues]].
+
+**In-band year gates.**
+- **10s:** no formal lifting, no plyometric programming, no jump-volume targets; endurance is rally-based rather than sprint-based [post-2019-specialization-overuse-volleyball]. See [[10s]].
+- **11s:** multi-sport play becomes the evidence-backed injury-prevention lever, with high volleyball specialization at OR ~2.3 for overuse injury and >8 months per year at OR ~2.0 [post-2019-specialization-overuse-volleyball]. See [[11s]].
+- **12s:** the last clean install window for landing mechanics before growth destabilizes coordination. Stick or step-back landing is the default and run-back landings carry the highest knee-valgus moments, so keep run-back as a recovery-only pattern [zahradnik-2014-block-landing-grf-valgus]. See [[12s]], [[12s-drills]], [[tryout-rubric-12s]].
+
+**Observable promotion criterion.** In a hitting-line rep block, watched from behind, the athlete takes off from two feet and lands on two feet inside roughly the square foot of floor she left, knees tracking over toes, no backward lean, on 8 of 10 reps, with no verbal reminder in the preceding rep. See [[hitting-approach]] and [[practice-planning]].
+
+### 13-14: Rebuild
+
+**Introduce.** Landing mechanics as injury prevention rather than as technique, and maturity-status thinking as a roster-management habit. Growth velocity peaks somewhere inside this band for most girls, and the between-athlete spread is wide enough that you manage the individual rather than the birth year. Maturity-status screening, individualized loading, and explicit progression frameworks are the three levers practitioners themselves name as understood and underused [till-2022-ltad-practitioner-knowledge].
+
+**Develop.** Re-coordination on a changing body. Treat a mid-season mechanics re-install as maintenance for any athlete who grew several inches since fall; [[14s]] carries the protocol and this page does not restate it. The season itself is a developmental window at this age, because a club athlete is roughly 6% older by season's end and the training stimulus shapes how she adapts [trinsey-2026-beginners-v-advanced-part-2].
+
+**Refine.** Approach velocity, penultimate-step length, and plant angle, all of which stay yours while load stays with the CSCS. Women approach at slower speeds and use shorter penultimate steps than men in matched-elite samples, and strength and power do not fully explain the gap, which makes these coachable from cue rather than gated behind the weight room [fuchs-2019-male-female-spike-biomechanics]. See [[hitting-approach]] and [[hitting]].
+
+**Injury-prevention entry point.** Volleyball ACL injury is overwhelmingly a non-contact spike-landing event (97% non-contact, ~62% during landing after an attack), female athletes carry 2 to 4 times the male rate, adolescent HS-age female players show the greatest vulnerability, and the supported prevention dose is a 15 to 20 minute neuromuscular program 2 to 3 times per week progressing bilateral to unilateral with spike-landing simulations [sassi-2025-acl-volleyball-systematic-review]. This band is where it enters the warm-up. [[15s]] is where it becomes standing curriculum.
+
+**Fueling recognition.** Female Athlete Triad and RED-S recognition is coach-relevant from early adolescence. Menstrual irregularity, stress fractures, unexplained weight loss, mood change, and restrictive eating route to a physician and a registered dietitian [coelho-2021-female-athlete-triad-reds]. Recognition is the coach's share and prescription is outside it.
+
+**In-band year gates.**
+- **13s:** the plyometric dose ceiling (~2,000 jumps over 8 weeks at 2 sessions per week, pooled d = 0.82 on volleyball vertical jump) is a ceiling rather than a target at this age, and only under CSCS programming [ramirez-campillo-2020-plyometric-meta-analysis]. See [[13s]].
+- **14s:** the year parents start asking for vertical-jump programs, which makes the boundary firmest here. Defer the load question and keep the landing question. See [[14s]], [[14s-drills]], [[age-lens-14u]].
+
+**Contested cell: conditioning as a tryout instrument.** *Program default pending.* Rudiger (Fort Collins HS) argues that a conditioning block inside tryouts measures work ethic reliably, that the coach scores observed maximum effort rather than finishing order because effort and fitness are separate readings, and that reintroducing skill drills afterward shows technique under fatigue [aoc-2021-rudiger-conditioning-tryouts]. This wiki's rubrics score work ethic through coachability behavior inside skill blocks and warn against the physical-projection and growth-spurt biases a mile run loads directly ([[tryout-rubric-14u]]). Rudiger writes from a high school tryout with a large, fitness-heterogeneous pool; the confound is sharper at 12s to 14s. Both claim the same construct through different evidence, and this page leaves it open.
+
+**Observable promotion criteria.** In a live blocking-and-transition block, the athlete lands from 9 of 10 blocks in a stick or step-back pattern, with run-back landings appearing only when she is genuinely chasing a ball behind her [zahradnik-2015-block-landing-acl-risk]. Second criterion: she completes the team's neuromuscular warm-up in correct order without a coach walking her through it, twice in the same week. See [[blocking-footwork]] and [[blocking]].
+
+### 15-16: Refinement
+
+**Introduce.** Structured strength, under a CSCS, and jump-load accounting as a weekly coach habit. This is HS varsity entry, which usually means a credentialed strength coach and an athletic trainer are reachable for the first time. Your job shifts toward communicating sport demands and owning court-side load.
+
+**Develop.** Intensity-weighted jump caps. High-intensity jumps (Jumps 50+) drive next-day fatigue more than total jump count, mechanical drift shows up as force decreasing while velocity rises at the same jump height, and front-row players accumulate more high-intensity jumps than back-row, so caps are intensity-weighted and position-specific [sanders-2025-early-season-jump-load-d1-volleyball]. The supported monitoring stack is daily session-RPE, daily jump count, weekly countermovement jump, and daily Hooper Index [rebelo-2024-training-stress-fatigue-wellbeing].
+
+**Refine.** Speed and horizontal power, both CSCS-programmed. Broad jump and bounding are the highest-leverage power targets for change of direction, vertical jump alone will not carry early acceleration, and most court movement happens in 3 to 5 m windows [lockie-2020-power-speed-cod-volleyball]. Trinsey's measured junior-team sprint results give the realistic yield: a median just under 1 mph of improvement (about 6%) with a hand-timed U17 group one season and 1.8 mph (about 13%) with a U16 group the next, though he declines to credit method because the younger cohort has a steeper improvement curve [trinsey-2026-summer-camp-part-2].
+
+**Calibrate what a test change means.** Power development is slower than the variance around it. Four inches of jump gain in a calendar year is excellent progress and works out to roughly 1/24 inch per practice, about a credit card's thickness, which is why coaches watching week to week conclude speed is genetic [trinsey-2026-summer-camp-part-2]. A small test change may mean nothing beyond test fuzziness or a better breakfast, a moderate consistent change likely means real underlying improvement that still will not move competition, and only a large change shows up in play: outside observers volunteered comments about the athletes who gained 0.2+ seconds in the 20 m fly and 8 mph in max spike velocity [trinsey-2026-incomplete-mastery-limits-transfer].
+
+**Silent overuse.** Junior-elite cohorts (ages 15 to 19) show jumper's-knee structural change with neovascularization in symptomatic tendons and in 10 of 57 asymptomatic ones, so absence of pain does not certify absence of load damage [gisslen-2005-jumpers-knee-elite-junior-volleyball]. Playing-shoulder adaptations (depression, scapular lateralization, posterior-capsule tightness, rotator-cuff imbalance) are detectable below the symptom threshold, making posterior-shoulder mobility plus rotator-cuff strengthening a daily item from this band onward [kugler-1996-shoulder-pain-volleyball-attackers]. See [[arm-care-routine]].
+
+**In-band year gates.**
+- **15s:** the neuromuscular ACL program becomes standing curriculum for female teams at 15 to 20 minutes, 2 to 3 times per week [sassi-2025-acl-volleyball-systematic-review]. See [[15s]], [[15s-drills]], [[tryout-rubric-15s]].
+- **16s:** jump-load monitoring enters the weekly routine, and the moderate-volume plyometric block (~2,000 jumps over 8 weeks at 2 sessions per week) is the appropriate S&C shape for the year [ramirez-campillo-2020-plyometric-meta-analysis][sanders-2025-early-season-jump-load-d1-volleyball]. See [[16s]], [[16s-drills]], [[age-lens-hs]].
+
+**Contested cell: does power work belong inside practice.** *Program default pending.* Trinsey names the tension inside his own affiliation. Instructing at GMS clinics he tells coaches to skip power work at practice and simply train volleyball at high intensity, because misapplied speed, strength, and power work gives athletes dead legs, shin splints, and sore shoulders. With his own teams, where he has room to explain it properly, he runs Tony Holler's Atomic Speed Workout as "10 in 10 and 2 in 6" at the start of practice, reasoning that power develops best fresh and two maximal sprints prime the nervous system for the competitive block [trinsey-2026-summer-camp-part-2]. Kiraly's training-efficiency frame sits on the clinic side: make the warm-up and the practice itself carry the conditioning load [aoc-2024-kiraly-training-efficiently].
+
+**Observable promotion criteria.** Across a tracked week, the athlete completes her arm-care set on at least four of five sessions with no coach prompt, verified by the coach deliberately not naming it and watching whether it still happens [[arm-care-routine]]. Second criterion: she logs her own session-RPE within 30 minutes of every session for a full week without being chased [rebelo-2024-training-stress-fatigue-wellbeing]. See [[season-planning]].
+
+### 17-18: Performance
+
+**Introduce.** Full periodized programming and an athlete-owned arm-care and recovery system. Programming runs through a CSCS with sports-medicine oversight, which is the same boundary that governs [[age-lens-hs]] and [[age-lens-college]] [usav-2026-coach-academy].
+
+**Develop.** Autonomy over the daily routine, plus enough literacy to talk to a strength coach without overstepping. Periodization model is a smaller lever than consistency: 8-week block and linear periodization produced equivalent gains on jump, agility, power, and aerobic endurance in a matched RCT, with block winning narrowly only on arm and grip strength, though that cohort was junior male and reads across with care [tavakkoli-2022-block-vs-traditional-periodization]. Concurrent-training interference is real and manageable: 2 sessions per week of 20 to 30 minute endurance work is more strength-friendly than 3 or more of 50 to 60 minutes, HIIT avoids the steady-state penalty, and resistance before endurance with 6 to 24 hours between modes reduces interference [wang-2024-concurrent-training-strength-endurance].
+
+**Refine.** Taper and the late-match risk window, both coach-side. In an elite women's club microcycle, external load decreases from MD-4 to MD-1 across nearly all variables with moderate to large effect sizes, and position load differs materially, with middle blockers carrying notably lower workload than outsides, opposites, and liberos [akyildiz-2022-within-week-training-load]. Fatigue plus surface instability shifts women toward higher knee-valgus angles while men drift the other way, making late-set exposure a distinct risk window on a women's roster [prieske-2017-fatigue-instability-jump]. On recovery, nutrition and sleep carry strong volleyball-specific evidence while cold-water immersion and laser therapy show promise without it [closs-2020-recovery-after-volleyball].
+
+**Bring to the CSCS as a question.** Vastus lateralis cross-sectional area and lateral gastrocnemius fascicle length are the highest-leverage muscle-architectural targets for attack jump (R² = 0.73 combined with training age), and attack jump is biomechanically distinct from generic CMJ, SJ, and DJ testing [jiang-2024-muscle-structure-jump-prediction].
+
+**Return-to-play literacy.** ACL prognosis in women's collegiate volleyball is favorable in absolute terms (93.1% return, 65.7% playing 35 or more sets), and attackers make up 78.8% of injuries against 54.7% of the control population, mirroring the spike-landing mechanism [smith-2025-acl-return-to-play-volleyball]. Clearance is a physician and athletic-trainer decision at every step; your share is understanding the timeline well enough to plan a season around it.
+
+**In-band year gates.**
+- **17s:** college-bridge physical markers (approach jump touch, standing reach, broad jump, lateral shuffle) get tracked with explicit progression targets toward 18s. See [[17s]] and [[recruiting]].
+- **18s:** the recruiting physical card is five measured numbers with an invariant measurement protocol, and the tier table lives on [[18s]]. See also [[18s-drills]] and [[age-lens-college]].
+
+**Observable promotion criteria.** Across a full tournament weekend the athlete runs her own pre-match preparation and post-match arm care with no staff involvement, and her load-monitoring entries are complete for every match. Second criterion, filmed: in the third match of a tournament day, her landing pattern on the last ten attack reps looks like her landing pattern on the first ten [prieske-2017-fatigue-instability-jump]. Compare the two clips side by side rather than relying on your memory of the morning. See [[transition]], [[defense]], and [[mental]] for the non-physical half of what fades in that same window, and [[reading-communication]] for the read-quality drop that travels with it.
 
 ## Schools of thought
 
@@ -58,6 +140,13 @@ If you are new to the physical-preparation side of coaching and want to get the 
 - [[usav-2026-growing-kids-volleyball]]
 - [[usav-2026-coach-tools]]
 - [[usav-2026-simplified-youth-rules]]
+- [[usav-2026-youth-volleyball-tips]]
+- [[trinsey-2026-summer-camp-part-1]]
+- [[trinsey-2026-summer-camp-part-2]]
+- [[trinsey-2026-beginners-v-advanced-part-2]]
+- [[trinsey-2026-beginners-v-advanced-25]]
+- [[trinsey-2026-incomplete-mastery-limits-transfer]]
+- [[aoc-2021-rudiger-conditioning-tryouts]]
 - [[aoc-2017-liskevych-asics-defense]]
 - [[aoc-2024-kiraly-training-efficiently]]
 - [[aoc-2019-nine-reasons-teams-fail]]
@@ -86,6 +175,9 @@ If you are new to the physical-preparation side of coaching and want to get the 
 - [[lockie-2020-power-speed-cod-volleyball]]
 - [[wang-2024-concurrent-training-strength-endurance]]
 - [[prieske-2017-fatigue-instability-jump]]
+- [[fuchs-2019-male-female-spike-biomechanics]]
+- [[akyildiz-2022-within-week-training-load]]
+- [[moran-2023-verbal-coaching-cues-youth]]
 - [[jiang-2024-muscle-structure-jump-prediction]]
 - [[till-2022-ltad-practitioner-knowledge]]
 - [[keoliya-2024-volleyball-training-interventions]]

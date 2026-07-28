@@ -29,6 +29,8 @@ sources:
 
 # Serving: Topspin
 
+Part of the [[serving]] skill spine.
+
 ## Overview
 The topspin serve is the power end of the serving spectrum. The server contacts the ball with a snapping, rolling motion, heel of the hand through the low-back of the ball, fingers rolling over the top, that imparts forward rotation. Topspin makes the ball drop faster than a float and accelerate into the court on a clear arc, which trades the unpredictability of a float for raw pace and depth control.
 

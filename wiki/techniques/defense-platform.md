@@ -19,6 +19,8 @@ sources:
 
 # Defense: Platform
 
+Part of the [[defense]] skill spine.
+
 ## Overview
 
 The defensive platform is the two-arm contact used to dig an attacked ball. Mechanically it shares almost everything with [[passing-forearm]]: flat forearms, angled to target, legs providing cushion, but the surrounding conditions are harsher. The ball arrives harder, the contact point is lower, the time to set the angle is a fraction of what a passer has, and the platform often forms around the ball rather than in front of it. The modern teaching frame treats platform as the last of three things: **posture**, **pursuit**, **platform**, in that order. Get feet set and body low first; then let the platform form in the narrow window the attacker leaves you.

@@ -30,6 +30,8 @@ sources:
 
 # Defense: Reading
 
+Part of the [[defense]] skill spine.
+
 ## Overview
 
 Reading is the perceptual skill that tells a defender where the ball is likely to go before it is hit, so the feet, posture, and platform are committed early enough to survive the speed of the attack. It is what separates elite defenders from merely athletic ones. Digging is easy when you are in the right place early; it is impossible when you are not.

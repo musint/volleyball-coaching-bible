@@ -26,6 +26,8 @@ sources:
 
 # Setting: Out-of-System
 
+Part of the [[setting]] skill spine.
+
 ## Overview
 
 An **out-of-system (OOS)** second contact is any set where the receiver fails to deliver a pass that lets the designated setter run the planned offense: the pass is off the net, too low, too high, moving laterally, or the setter took the first ball and someone else has to set. The rate at which a team finishes out-of-system points is one of the highest-leverage performance differentiators at the HS varsity level and above, the quality of in-system kills is converging across competitive levels, but out-of-system conversion still has a long tail.

@@ -20,6 +20,8 @@ sources:
 
 # Transition: Attack
 
+Part of the [[transition]] skill spine.
+
 ## Overview
 
 Transition attack is the offensive contact that follows a defensive play. It is where most rallies past serve-receive are won or lost, and where the speed gap between elite programs and developing ones is most visible. A team that sides out on first-ball attack but cannot transition relies entirely on its serve receive; a team that transitions cleanly converts every dig into an attack. At the international men's level, transition speed is the dominant offensive variable; at the club and 14U level, transition is the most undertrained phase of the game.

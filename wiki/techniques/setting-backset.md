@@ -16,6 +16,8 @@ sources:
 
 # Setting: Back Set
 
+Part of the [[setting]] skill spine.
+
 ## Overview
 
 The back set, delivering the ball to an attacker behind the setter, is the distribution tool that makes a balanced 5-1 offense possible. Without a credible back set the opposite and the right-side quick disappear as attack options, the block commits cross-court, and the offense becomes one-pin predictable. A modern lead setter must deliver the back set at multiple tempos (standing, jump, quick behind) and must do it without telegraphing, blockers who can read back-versus-front from the setter's body position get a free half-second, which at the college and professional level is the whole game.

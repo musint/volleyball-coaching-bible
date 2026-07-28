@@ -196,7 +196,7 @@ export const collections = {
                'mental.md','physical.md','match-prep.md','rules.md','recruiting.md',
                'passing.md','setting.md','hitting.md','blocking.md','serving.md',
                'defense.md','transition.md','cues.md','mental-skills-curriculum.md',
-               'practice-ratios.md'],
+               'practice-ratios.md','reading-communication.md'],
       base: WIKI,
     }),
     schema: z.object({

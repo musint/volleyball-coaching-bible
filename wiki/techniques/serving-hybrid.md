@@ -21,6 +21,8 @@ sources:
 
 # Serving: Hybrid / Tactical Mix
 
+Part of the [[serving]] skill spine.
+
 ## Overview
 "Hybrid serving" names the **pitcher-style** approach to the service line rather than a separate serve type. A server who can credibly deliver more than one serve (float and jump-float; float and standing-topspin; jump-float and jump-topspin at the upper end) and who chooses between them based on opponent, rotation, game state, and personal fatigue is hybrid-serving. The opposite is one-dimensional serving, the same serve to roughly the same zone every time, which a prepared opponent neutralizes inside a set.
 

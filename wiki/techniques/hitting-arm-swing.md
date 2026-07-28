@@ -23,6 +23,8 @@ sources:
 
 # Hitting Arm Swing
 
+Part of the [[hitting]] skill spine.
+
 ## Overview
 
 The arm swing is the sequence that converts jump height and torso rotation

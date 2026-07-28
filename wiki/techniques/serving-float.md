@@ -25,6 +25,8 @@ sources:
 
 # Serving: Standing Float
 
+Part of the [[serving]] skill spine.
+
 ## Overview
 The float serve is the modern default in women's volleyball from 14U through the college and international levels, and it remains a core tool in the men's game alongside jump-topspin. The ball travels with little or no spin so that small imperfections in the seams, airflow, and micro-rotations produce an unpredictable flight, dropping, drifting, or knuckling late, that is hard for a passer to read. Trajectory analysis quantifies what the passer experiences: vertical residuals from the parabolic flight path are roughly twice the magnitude of horizontal residuals, with anticipation errors up to ~1.5 m vertically [reiser-2020-float-serve-effect]. Done well, a flat, knuckling float keeps passers guessing about depth and makes the setter's first-ball job materially harder; done poorly, it is the easiest serve in the game to pass. Compared with the jump-topspin or hard spike, the float serve carries notably lower shoulder kinetic load, a meaningful tradeoff for managing-shoulder seasons or recovering athletes [reeser-2010-upper-limb-serve-spike].
 

@@ -8,27 +8,34 @@ One-line summary per page; see the page itself for detail.
 - [[log]]: chronological operations log
 - [[unsourced-queue]]: claims awaiting citation backfill
 
+## Skill spine (2026-07-27)
+
+The wiki's primary axis: ten skills crossed with four age bands (10-12 Foundation, 13-14 Rebuild, 15-16 Refinement, 17-18 Performance). Each hub carries a teaching-by-age-band matrix with observable promotion criteria; see SCHEMA §3.1a.
+
+### Contact skills
+- [[serving]]: spine hub + entry into 4 serving subskills; float-dominant curriculum, topspin gate at 16s
+- [[passing]]: serve receive spine hub + entry into 4 passing subskills; pass anchors + movement-before-contact contest
+- [[setting]]: spine hub + entry into 4 setting subskills; setter-specialization ladder; hand-hinge era
+- [[hitting]]: attacking spine hub + entry into 4 hitting subskills; PHV arm-swing rebuild
+- [[blocking]]: spine hub + entry into 4 blocking subskills; bunch-read entry band contested (program default pending)
+- [[defense]]: floor-defense spine hub + entry into 3 defense subskills; reading-centric
+
+### Connective skills
+- [[transition]]: spine hub + entry into 2 transition subskills; freeball conversion as the youth point-decider
+- [[reading-communication]]: vision, anticipation, and calling standards as trainable skills; eyework progressions by band
+- [[physical]] (W5.2): athletic foundation spine hub; S&C foundations, jump, mobility, injury-prevention (with medical disclaimers)
+- [[mental]] (W5.1): mental spine hub; culture, pressure, leadership, motivation, adversity, post-game
+
 ## Hub pages
 - [[practice-planning]] (W4.1): session design, periodization, microcycle, practice ratios, game-like-training, competing-in-practice
 - [[season-planning]] (W4.2): preseason/in-season/tournament-prep; US club calendar; 14U arc
 - [[philosophy]] (W5.6): meta-hub for schools + coaches + key methodological divergences
 - [[systems]] (W5.7): entry to systems-detail; age-appropriate system stacks
-- [[mental]] (W5.1): culture, pressure, leadership, motivation, adversity, post-game
-- [[physical]] (W5.2): S&C foundations, jump, mobility, injury-prevention (with medical disclaimers)
 - [[match-prep]] (W5.3): scouting, stats, video, in-match adjustments
 - [[rules]] (W5.4): USAV + NCAA + scholastic + tournament formats
 - [[recruiting]] (W5.5): college pathway, NCAA timeline, tournaments, film, camps
 - [[practice-ratios]]: age × season-phase matrix of blocked / small-group / 6v6 percentages with per-age trajectories and phase-transition criteria
 - [[mental-skills-curriculum]] (W7: 2026-04-26): operational coach-deliverable mental-skills curriculum mapped per age band; synthesis of 10 sport-psych research sources into per-age what-to-do
-
-## Skill hubs
-- [[passing]]: overview + entry into 4 passing subskills; schools-perspectives meta
-- [[setting]]: overview + entry into 4 setting subskills; hand-hinge era
-- [[hitting]]: overview + entry into 4 hitting subskills
-- [[blocking]]: overview + entry into 4 blocking subskills; swing-vs-shuffle meta
-- [[serving]]: overview + entry into 4 serving subskills
-- [[defense]]: overview + entry into 3 defense subskills; reading-centric
-- [[transition]]: overview + entry into 2 transition subskills
 
 ## Coaches
 ### USA (W2.1)

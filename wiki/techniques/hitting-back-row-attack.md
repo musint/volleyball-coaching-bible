@@ -14,6 +14,8 @@ sources:
 
 # Hitting Back-Row Attack
 
+Part of the [[hitting]] skill spine.
+
 ## Overview
 
 The back-row attack is a front-row-tempo swing launched from behind the

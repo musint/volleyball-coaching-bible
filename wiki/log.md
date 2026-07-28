@@ -1729,3 +1729,7 @@ full), followed by a four-agent fix pass. Highlights:
 - **Open for Song:** confirm 11s local competition format (4v4 vs 6v6) — see
   tryout-rubric-11s session-design note; orphan-source backfill (111) still
   queued; transcript layer beyond Munciana still stubs (10 of 11).
+
+## [2026-07-27] restructure | skill spine: 10 hubs x 4 age bands
+
+Reoriented the bible around the skill spine: six contact skills (serving, passing/serve receive, setting, hitting/attacking, blocking, defense/floor defense) and four connective skills (transition, reading-communication NEW, physical/athletic foundation, mental). Each hub now carries a "Teaching by age band" matrix over 10-12 Foundation / 13-14 Rebuild / 15-16 Refinement / 17-18 Performance, with observable promotion criteria and in-band year gates. SCHEMA 3.1a codifies the contract; single-year precision stays in age-guides, tryout rubrics, and system ladders. 26 technique pages gained spine backlinks; index.md leads with the spine; webapp homepage gained the contact/connective spine section. Contested cells (bunch-read entry band, 12s libero, movement-before-contact) present both positions, program default pending. Lint: 0 broken wikilinks, 0 unresolved citations.

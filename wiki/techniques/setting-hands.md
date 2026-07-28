@@ -18,6 +18,8 @@ sources:
 
 # Setting: Hands (Overhead Two-Hand Set)
 
+Part of the [[setting]] skill spine.
+
 ## Overview
 
 The overhead two-hand set is the primary setting technique and the core deliverable of the setter position. Executed well, it produces a clean, stable, rule-legal second contact that gives the attacker an exploitable ball at the correct tempo, height, and location on the net. Every other setting subskill, [[setting-jump]], [[setting-backset]], [[setting-out-of-system]]: builds on the same hands, contact, and release pattern.

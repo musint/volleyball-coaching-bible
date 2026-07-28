@@ -10,6 +10,8 @@ sources: [aoc-2026-rose-no-free-balls, aoc-2020-passing-principles, aoc-2023-kir
 
 # Passing, free ball
 
+Part of the [[passing]] skill spine.
+
 ## Overview
 
 A free ball is any ball the opponent sends over the net that is not an attack, a sloppy third contact, a desperate reach, an emergency overhand push. The free-ball pass is the back-row's first contact on that ball, handled in transition from base defense rather than from a serve-receive formation. It is a tempo-setting contact: a well-placed free-ball pass lets the setter run the full offense at full speed; a mis-played one burns the offensive opportunity a free ball is supposed to hand the receiving team. This page focuses on the individual-and-team contact; the systemic "free balls are always point-scoring opportunities" frame (Rose: *no free balls go over from my team*) lives on the offensive-systems pages.

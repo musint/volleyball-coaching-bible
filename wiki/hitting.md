@@ -1,6 +1,7 @@
 ---
 type: hub
 area: hitting
+spine: contact
 subtopics: [hitting-approach, hitting-arm-swing, hitting-shot-selection, hitting-back-row-attack]
 ---
 
@@ -79,6 +80,221 @@ D-balls). On a 14U roster, favor rotating every athlete through
 hitting progressions regardless of likely position, the overlap
 with serving mechanics means every player benefits from the arm
 swing anyway.
+
+## Teaching by age band
+
+Four bands, one skill. Single-year precision lives in the
+age-guides and tryout rubrics; the cells below say what changes and
+when.
+
+### 10-12: Foundation
+
+Every athlete hits, whatever position she ends up playing. A
+footwork pattern plus a contact shape.
+
+- **Introduce:** down-ball swing from the puppet position at [[10s]],
+  two-step "Flamingo" stance at [[11s]]
+  [aoc-2024-kids-attacking-fundamentals], and the
+  start-slow-accelerate-the-last-two gradient from the first approach
+  rep [aoc-2024-attack-approach].
+- **Develop:** the three-step approach (right-left plant for
+  right-handers) as the roster-wide install by mid-[[12s]]
+  [aoc-2021-teach-spiking][aoc-2024-kids-attacking-fundamentals],
+  plus the big approach arm swing and bow-and-arrow load from
+  [[hitting-cues]].
+- **Refine:** one shot. Big cross, timed, hit hard. Ask "what were
+  you trying to do there?" and treat an answer about her feet as
+  intention drifting toward playing the way she is supposed to play
+  [trinsey-2026-good-intentions].
+- **Observable promotion criterion:** on 10 coach-tossed sets at
+  [[12s]], a visible slow-then-explosive last two steps and a
+  controlled two-foot landing on 7 of them, no run-through
+  [zahradnik-2014-block-landing-grf-valgus].
+- **Year gates:** 10s milestone is the down-ball with no jump, with
+  the three-step introduced late season only for athletes whose
+  two-step is already rhythmic. 11s keeps the two-step as workhorse
+  and asks for at least three three-step attempts across an
+  evaluation, form not yet expected
+  [aoc-2024-kids-attacking-fundamentals]. 12s shot selection is big
+  cross only.
+- **Go to:** [[11s-drills]], [[12s-drills]], [[pass-set-hit]],
+  [[approach-and-swing]], [[hitting-approach]].
+
+### 13-14: Rebuild
+
+Peak height velocity moves limb length, mass, and jump timing inside
+one season, so the approach she grooved at 12s stops timing out on
+the body she now has. Re-teach what you already taught, and train
+maturity bands inside the roster
+[till-2022-ltad-practitioner-knowledge].
+
+- **Introduce:** shot vocabulary at [[13s]] (big cross, line, and tip
+  named, no in-rotation reliability expected)
+  [aoc-2024-kids-attacking-fundamentals]; back-row attack at
+  top-club 13s via Barnard's minimal drill, setter leads the hitter,
+  takeoff behind the 10-foot line, land in the front row
+  [aoc-2023-back-row-attacking-basics]; the four-step's directional
+  first step at late [[14s]] for top-club hitters
+  [aoc-2023-barnard-aggressive-approach].
+- **Develop:** the arm swing, rebuilt from the floor up. Skinner's
+  kneeling-to-dynamic progression grooves elbow alignment, wrist
+  position, and relaxed-hand snap before the jump returns
+  [aoc-2023-skinner-arm-swing-progression]; Licata's amplitude frame
+  keeps both arms through full range so the gesture stays fluid
+  across the new levers [aoc-2025-licata-motor-patterns-hitting];
+  torque-and-high-hand replaces surviving wrist-snap teaching
+  [aoc-2024-attack-arm-mechanics].
+- **Refine:** three-step reliability off in-system passes with
+  visible deceleration then explosion on the penultimate step
+  [aoc-2024-attack-approach]. Approach velocity and penultimate-step
+  length are cue-coachable levers here, since strength and power do
+  not fully explain the female spike-jump gap
+  [fuchs-2019-male-female-spike-biomechanics].
+- **Observable promotion criterion:** across a live hitting block at
+  [[14s]], elbow-lead and high-hand contact on most swings with no
+  flat sidearm, and at least two of big cross, line, and tip landing
+  in court [aoc-2024-attack-arm-mechanics]. When the approach breaks
+  in 6v6, score it off a coach toss instead: an athlete who cannot
+  approach correctly off a toss will rarely take the correct steps in
+  a game [trinsey-2026-incomplete-mastery-limits-transfer].
+- **Year gates:** 13s runs the clean three-step, shot names in
+  vocabulary only. 14s holds the three-step as teaching default all
+  year and layers the four-step late season for top-club hitters on
+  high-ball outside sets, keeping the three-step as pressure fallback
+  [aoc-2023-barnard-aggressive-approach][aoc-2023-skinner-broad-jump-elimination].
+  Pipe enters match play at late 14s as a high-ball variation
+  [aoc-2023-back-row-attacking-basics].
+- **Health thread:** stick or step-back landing is the default from
+  14s, run-back is recovery-only
+  [zahradnik-2014-block-landing-grf-valgus]. Jump-load programming
+  lives at [[physical]].
+- **Go to:** [[13s-drills]], [[14s-drills]], [[age-lens-14u]],
+  [[tryout-rubric-14u]], [[hitting-arm-swing]].
+
+### 15-16: Refinement
+
+Specialization consolidates. The approach is settled, so the minutes
+move to the shot menu and to position-specific attacks.
+
+- **Introduce:** [[offense-quick]] and [[offense-slide]] middle
+  tempos, live at [[16s]] where the setter-middle connection holds
+  [aoc-2026-lingenfelter-middle-attack-tempo][aoc-2026-lingenfelter-middle-tempo];
+  one-foot landing recovery off awkward sets, taught explicitly at
+  16s because it happens in matches whether or not you train it
+  [aoc-2019-dunning-one-foot-landing][aoc-2024-macdonald-one-leg-landing];
+  hitter-type self-classification as the athlete's own development
+  frame [aoc-2018-dunning-hitter-types].
+- **Develop:** cross, line, angle, tip, and roll at [[15s]], chosen
+  off what the block gives [aoc-2021-rosen-oh-shots-based-on-block],
+  with cut and off-the-block added at 16s
+  [aoc-2025-sealy-hitting-range][aoc-2026-booth-outside-shot-work].
+  Back-row attack moves from variation to staple.
+- **Refine:** four-step with closed heel and full extension, arm
+  mechanics maturing on torque-and-high-hand
+  [aoc-2024-attack-approach][aoc-2024-attack-arm-mechanics].
+- **Observable promotion criterion:** at [[15s]], three shots landing
+  in court off live sets across a wash block (cross, line, plus one
+  of angle, tip, or roll), with a pipe attempt inside the same block
+  [aoc-2021-rosen-oh-shots-based-on-block]. At [[16s]], back-row
+  attack converting at 30 percent or better against a single block
+  across a scored block [aoc-2025-back-row-attack-by-rotation].
+- **Year gates:** 15s makes the four-step the default with the
+  three-step as pressure fallback
+  [aoc-2023-barnard-aggressive-approach], and back-row becomes a
+  mid-set staple for top rosters with pipe and Zone 1 called inside
+  the offense [aoc-2023-back-row-attacking-basics]. At 16s the
+  outside calls her shot before the swing
+  [aoc-2025-sealy-hitting-range].
+- **Health thread:** swing volume scales hard here, and adolescent
+  female outside hitters carry the highest position-specific ACL
+  incidence in the literature
+  [sassi-2025-acl-volleyball-systematic-review]. Posterior-shoulder
+  mobility and rotator-cuff work belong in the [[arm-care-routine]]
+  from 15s [kugler-1996-shoulder-pain-volleyball-attackers].
+  Programming at [[physical]].
+- **Go to:** [[15s-drills]], [[16s-drills]], [[age-lens-hs]],
+  [[tryout-rubric-15s]], [[tryout-rubric-16u]], [[hitting-vs-block]],
+  [[tip-and-roll]], [[hitting-shot-selection]].
+
+### 17-18: Performance
+
+The full toolbox, run against a scout, with the hitter owning the
+decision before she leaves the floor.
+
+- **Introduce:** pre-contact intention as the differentiator,
+  approaching to hit the seam left of the middle blocker's outside
+  hand [aoc-2026-flick-williams-mental-hitting]; power-tip and
+  off-speed shots in the catalogue
+  [aoc-2026-hodge-power-tip][aoc-2026-henchy-off-speed-shots]; the
+  block's edges trained deliberately as a scoring tool
+  [aoc-2023-flick-williams-hitting-myths].
+- **Develop:** range catalogued per pin and per opponent block style
+  [aoc-2025-sealy-hitting-range], and out-of-system swing quality.
+  You are out of system roughly 80 percent of the time, and an 18s
+  hitter who can only swing in system is not college ready
+  [munciana-2022-camp-drills].
+- **Refine:** everything upstream. [[hitting-cues]] vocabulary runs
+  as in-rep reminders at this band; coach the read and the intention.
+- **Observable promotion criterion:** at [[17s]], hitting efficiency
+  of 0.200 or better in match play with cut, line, angle, tip, roll,
+  and high-line all called before the swing across a scored block. At
+  [[18s]], out-of-system swing quality matching her in-system swing
+  quality across a transition block, the college-ready column on
+  [[tryout-rubric-18u]].
+- **Year gates:** 17s working approach-jump-touch baseline is
+  standing reach plus 24 inches, reach plus 28 above band, reach plus
+  32 the college-bridge marker, on the protocol at
+  [[tryout-rubric-17s]]. Back-row from Zone 6 (pipe) and Zone 1 (D)
+  is required of outsides and opposites at 17s, on groundwork
+  Liskevych lays years earlier
+  [aoc-2025-liskevych-back-row-attack-young]. At 18s middle-tempo
+  attack (quick, 31, slide) is reliable for middles where the setter
+  connection supports it [aoc-2026-lingenfelter-middle-attack-tempo].
+- **Health thread:** attackers are 78.8 percent of volleyball ACL
+  injuries against 54.7 percent of a matched control population,
+  overwhelmingly non-contact spike landing
+  [smith-2025-acl-return-to-play-volleyball]. Audit landings on
+  video; programming at [[physical]].
+- **Go to:** [[17s-drills]], [[18s-drills]], [[age-lens-college]],
+  [[out-of-system-to-attack]], [[transition-hitting]],
+  [[hitting-back-row-attack]], [[recruiting]].
+
+### Contested cells
+
+- **Back-row attack entry band. Program default pending.** Liskevych
+  argues back-row attacking is a teaching device for younger players
+  precisely because it forces contact on the back of the ball, a
+  habit that transfers to every swing once the athlete grows into the
+  net, and his progression starts with no jump at all
+  [aoc-2025-liskevych-back-row-attack-young]. The program ladder
+  currently enters back-row at top-club [[13s]] as a tactical skill
+  [aoc-2023-back-row-attacking-basics]. Whether the standing no-jump
+  back-row swing belongs in the Foundation band as an arm-mechanics
+  device is unresolved.
+- **When the shot menu gets named. Program default pending.** AOC
+  teaches an explicit expanding menu plus a read layer, with the
+  hitter classifying her own type
+  [aoc-2018-dunning-hitter-types][aoc-2025-sealy-hitting-range]. GMS
+  holds that shot selection emerges from varied game-like reps and
+  cannot be drilled as a skill separate from execution
+  [gms-2018-clinic-report]. Both agree on the practice architecture
+  (varied block fronts, varied set locations, scored reps), so the
+  live question is whether the menu is named to a 13s or 14s athlete
+  or left implicit until 15s. See [[#Schools of thought]].
+- **Tip heuristic, attributed both ways.** [[hitting-cues]] carries
+  the block read: tip when the block is up, swing when it is down.
+  Flick-Williams inverts the adjacent system-based heuristic, arguing
+  you tip when the opponent expects a swing (in system) and swing
+  when the opponent expects a free ball (out of system)
+  [aoc-2023-flick-williams-hitting-myths]. Both are read-driven and
+  they read different objects; teach the block read first and add the
+  expectation read at the Performance band.
+- **Approach step count, resolved as a ladder.** Barnard prefers the
+  four-step as the default for most hitters
+  [aoc-2023-barnard-aggressive-approach] and Skinner treats three and
+  four as a tradeoff with different teaching payoffs
+  [aoc-2023-skinner-broad-jump-elimination]. The program resolution
+  is the ladder in the cells above rather than a single answer.
 
 ## Schools of thought
 
@@ -183,10 +399,38 @@ SORT phase ASC, duration-min ASC
 - [[aoc-2024-attack-approach]]
 - [[aoc-2024-attack-arm-mechanics]]
 - [[aoc-2021-teach-spiking]]
+- [[aoc-2024-kids-attacking-fundamentals]]
+- [[aoc-2023-barnard-aggressive-approach]]
+- [[aoc-2023-skinner-broad-jump-elimination]]
+- [[aoc-2023-skinner-arm-swing-progression]]
+- [[aoc-2025-licata-motor-patterns-hitting]]
 - [[aoc-2014-dunning-hitter-setter-connection]]
 - [[aoc-2018-dunning-hitter-types]]
+- [[aoc-2019-dunning-one-foot-landing]]
+- [[aoc-2024-macdonald-one-leg-landing]]
+- [[aoc-2021-rosen-oh-shots-based-on-block]]
+- [[aoc-2025-sealy-hitting-range]]
+- [[aoc-2026-booth-outside-shot-work]]
+- [[aoc-2026-hodge-power-tip]]
+- [[aoc-2026-henchy-off-speed-shots]]
+- [[aoc-2023-flick-williams-hitting-myths]]
+- [[aoc-2026-flick-williams-mental-hitting]]
+- [[aoc-2023-back-row-attacking-basics]]
+- [[aoc-2025-back-row-attack-by-rotation]]
+- [[aoc-2025-liskevych-back-row-attack-young]]
+- [[aoc-2026-lingenfelter-middle-attack-tempo]]
+- [[aoc-2026-lingenfelter-middle-tempo]]
 - [[aoc-2017-liskevych-asics-hitting]]
 - [[aoc-2020-reading-every-skill]]
+- [[trinsey-2026-good-intentions]]
+- [[trinsey-2026-incomplete-mastery-limits-transfer]]
+- [[fuchs-2019-male-female-spike-biomechanics]]
+- [[zahradnik-2014-block-landing-grf-valgus]]
+- [[sassi-2025-acl-volleyball-systematic-review]]
+- [[smith-2025-acl-return-to-play-volleyball]]
+- [[kugler-1996-shoulder-pain-volleyball-attackers]]
+- [[till-2022-ltad-practitioner-knowledge]]
+- [[munciana-2022-camp-drills]]
 - [[kiraly-1997-championship-volleyball]]
 - [[gms-2018-clinic-report]]
 - [[aoc-2018-rose-offensive-systems]]

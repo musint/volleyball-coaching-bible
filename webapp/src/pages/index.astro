@@ -6,14 +6,20 @@ const PRIMARY_AGE = '14s';
 
 const ages: string[] = ['10s', '11s', '12s', '13s', '14s', '15s', '16s', '17s', '18s'];
 
-const skills: Array<{ slug: string; label: string }> = [
-  { slug: 'passing', label: 'Passing' },
-  { slug: 'setting', label: 'Setting' },
-  { slug: 'hitting', label: 'Hitting' },
-  { slug: 'blocking', label: 'Blocking' },
+const contactSkills: Array<{ slug: string; label: string }> = [
   { slug: 'serving', label: 'Serving' },
-  { slug: 'defense', label: 'Defense' },
+  { slug: 'passing', label: 'Serve receive' },
+  { slug: 'setting', label: 'Setting' },
+  { slug: 'hitting', label: 'Attacking' },
+  { slug: 'blocking', label: 'Blocking' },
+  { slug: 'defense', label: 'Floor defense' },
+];
+
+const connectiveSkills: Array<{ slug: string; label: string }> = [
   { slug: 'transition', label: 'Transition' },
+  { slug: 'reading-communication', label: 'Reading & communication' },
+  { slug: 'physical', label: 'Athletic foundation' },
+  { slug: 'mental', label: 'Mental' },
 ];
 
 const taskTiles: Array<{ kicker: string; title: string; desc: string; href: string }> = [
@@ -58,8 +64,6 @@ const taskTiles: Array<{ kicker: string; title: string; desc: string; href: stri
 const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
   { slug: 'practice-planning', label: 'Practice planning', desc: 'Periodization, session design, microcycle planning, practice ratios.' },
   { slug: 'season-planning', label: 'Season planning', desc: 'Preseason / in-season / pre-tournament / taper arc; tournament prep.' },
-  { slug: 'mental', label: 'Mental skills', desc: 'Culture, leadership, pressure, motivation, self-talk, IZOF, choking.' },
-  { slug: 'physical', label: 'Physical preparation', desc: 'S&C, jump training, mobility, ACL prevention, RED-S, arm care.' },
   { slug: 'match-prep', label: 'Match prep', desc: 'Scouting, stats, video analysis, in-match adjustments, halftime framework.' },
   { slug: 'recruiting', label: 'Recruiting', desc: 'NCAA calendar, college pathway, film prep, list management.' },
 ];
@@ -163,15 +167,25 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
     </div>
   </section>
 
-  <!-- By skill -->
+  <!-- The skill spine -->
   <section class="max-w-6xl mx-auto px-4 pb-10">
-    <div class="flex items-baseline justify-between mb-3">
-      <h2 class="kicker">By skill</h2>
+    <div class="flex items-baseline justify-between mb-1">
+      <h2 class="kicker">The skill spine</h2>
       <a href={`${base}/library/`} class="text-xs text-slate-500 hover:text-blue-700 no-underline">All techniques →</a>
     </div>
-    <div class="skill-strip">
-      {skills.map((s) => (
+    <p class="text-sm text-slate-600 leading-snug mb-3 max-w-3xl">
+      Ten skills crossed with four age bands (10-12, 13-14, 15-16, 17-18). Each hub carries a teaching-by-age-band matrix with observable promotion criteria.
+    </p>
+    <div class="spine-group-label">Contact skills</div>
+    <div class="skill-strip mb-3">
+      {contactSkills.map((s) => (
         <a href={`${base}/${s.slug}/`} class="skill-pill">{s.label}</a>
+      ))}
+    </div>
+    <div class="spine-group-label">Connective skills</div>
+    <div class="skill-strip">
+      {connectiveSkills.map((s) => (
+        <a href={`${base}/${s.slug}/`} class="skill-pill skill-pill-connective">{s.label}</a>
       ))}
     </div>
   </section>
@@ -377,6 +391,19 @@ const methodHubs: Array<{ slug: string; label: string; desc: string }> = [
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
+  }
+  .spine-group-label {
+    font-family: var(--font-mono);
+    font-size: 0.66rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #64748b;
+    margin-bottom: 0.4rem;
+  }
+  .skill-pill-connective {
+    background: #f8fafc;
+    border-style: dashed;
   }
   .skill-pill {
     display: inline-block;

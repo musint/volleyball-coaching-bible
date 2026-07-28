@@ -16,6 +16,8 @@ sources:
 
 # Setting: Jump Setting
 
+Part of the [[setting]] skill spine.
+
 ## Overview
 
 Jump setting is an in-system setting option where the setter leaves the ground to contact the ball above the top of the net. Done well, it compresses the hitter's decision window for the block, raises the net-cross height of every set (meaning faster arrival at the hitter's contact point), and gives the setter a credible second-contact attack threat that must be defended. It is a modern-era expectation at HS varsity and above for a lead setter, and an appropriate training target for a strong 14U setter once baseline [[setting-hands]] mechanics are stable.

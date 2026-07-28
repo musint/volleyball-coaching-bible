@@ -20,6 +20,8 @@ sources:
 
 # Hitting Shot Selection
 
+Part of the [[hitting]] skill spine.
+
 ## Overview
 
 Shot selection is the decision layer on top of the swing, what the hitter

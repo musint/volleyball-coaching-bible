@@ -95,6 +95,22 @@ Ten page types. Basenames are globally unique, so Obsidian `\[\[wikilinks\]\]` r
 - **Citation weight:** Light (hub pages are entry points; claims belong on subordinate pages).
 - **Cross-link rules:** Every hub links to its high-volume subfolder(s) and to at least one related hub. Orphan hubs fail lint.
 
+### 3.1a Skill-spine hubs (variant of Hub, 2026-07-27)
+
+The wiki's primary organizing axis is the **skill spine**: ten skill hubs crossed with four age bands. Six contact skills ([[serving]], [[passing]] (serve receive), [[setting]], [[hitting]] (attacking), [[blocking]], [[defense]] (floor defense)) and four connective skills ([[transition]], [[reading-communication]], [[physical]] (athletic foundation), [[mental]]). Systems, stats, and practice design remain separate layers; the spine is about players, those are about teams.
+
+- **Frontmatter additions (on top of the Hub contract):** `spine: contact | connective`.
+- **Required body section:** `## Teaching by age band` with exactly four subsections:
+  - `### 10-12: Foundation` (all prepubescent; learn all contacts; athleticism over polish; minimal specialization)
+  - `### 13-14: Rebuild` (peak height velocity window; re-teach mechanics on a changing body; specialization begins, not locked)
+  - `### 15-16: Refinement` (HS varsity entry; specialization consolidates; late-band gates marked, e.g. topspin serve at 16s)
+  - `### 17-18: Performance` (full adult toolkit; autonomy; college preparation)
+- **Cell contract:** each band subsection carries (a) what to introduce / develop / refine, (b) at least one **observable promotion criterion**, behavior visible in a rep block, never "explains" or "verbalizes" (understanding is not intention [trinsey-2026-good-intentions]), (c) **in-band year gates** with their year stamps where a specific age matters (banding never deletes a year-precise fact), (d) wikilinks into the relevant age-guides, cue dictionaries, drill pick-lists, and techniques.
+- **Citation weight:** age-gate and developmental claims are heavy-cited inline; navigational text stays light.
+- **Contested cells:** where schools disagree on band placement (e.g. bunch-read entry), present both attributed positions per §9 and mark `program default pending` until the program rule is set.
+- **Target length:** spine hubs may run to 1800 words (matrix included); keep cells telegraphic and link-dense.
+- **Single-year resolution lives elsewhere:** age-guides, tryout rubrics, and system ladders keep per-year precision and point into spine cells; spine cells do not restate their content.
+
 ### 3.2 Coach profiles
 - **Folder / filename:** `coaches/<firstname-lastname>.md` (kebab-case; ASCII only)
 - **Required frontmatter:** `type: coach`, `name`, `country`, `era`, `roles`, `schools` (≥1), `sources` (≥1). Optional: `tags`.

@@ -13,6 +13,8 @@ sources: [aoc-2024-kiraly-serve-receive-unit, aoc-2024-setting-hand-hinge, aoc-2
 
 # Passing, overhead
 
+Part of the [[passing]] skill spine.
+
 ## Overview
 
 The overhead pass is a two-hand contact used to receive a serve or play a free-ball that is arriving above the shoulders or dropping deep. It is the faster and more accurate first-contact option on balls the passer can get to with time, hands deliver the ball to the setter more precisely than a platform does because the hands are closer to the eyes and the contact point is the passer's own choice rather than a forced platform-angle solution. Its use has expanded in the modern game as floater serves have gotten deeper, shorter, and more variable; teams that pass only with platforms give away receptions they could have had with hands.

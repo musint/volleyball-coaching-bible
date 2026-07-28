@@ -24,6 +24,8 @@ sources:
 
 # Blocking read
 
+Part of the [[blocking]] skill spine.
+
 ## Overview
 Reading is the perceptual skill that decides where and when the blocker
 moves. It is the primary input that drives footwork, hand position, and jump

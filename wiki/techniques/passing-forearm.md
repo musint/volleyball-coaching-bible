@@ -15,6 +15,8 @@ sources: [aoc-2013-kiraly-4-keys-forearm-pass, aoc-2023-kiraly-precision-passing
 
 # Passing, forearm
 
+Part of the [[passing]] skill spine.
+
 ## Overview
 
 The forearm pass is the two-arm platform contact used on most serve-receive balls below the shoulders, most first-contact defensive digs, and most free-ball transitions. It is the first-contact skill that determines whether your offense gets to run, in modern women's indoor volleyball, passing quality is one of the two or three variables that correlates most tightly with sideout percentage, and at the 14U and high-school levels it is the single biggest determinant of whether a team can compete with more physical opponents. This page covers the individual technique; [[passing-serve-receive]] covers the team/tactical layer.

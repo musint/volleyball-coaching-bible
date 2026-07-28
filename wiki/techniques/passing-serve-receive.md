@@ -14,6 +14,8 @@ sources: [aoc-2024-kiraly-serve-receive-unit, aoc-2023-kiraly-precision-passing,
 
 # Passing, serve receive
 
+Part of the [[passing]] skill spine.
+
 ## Overview
 
 Serve receive is the integrated individual-plus-team skill of receiving the opponent's serve and delivering a pass to the setter that lets the offense run. It is the first of three contacts in the sideout sequence and the one that most directly caps the team's ceiling, a team that passes 1.8+ on a 3-point scale keeps every offensive option open; a team that passes 1.5 and under is forced to high-ball outside or loses the rally before the offense begins. This page covers the team/tactical layer: who receives, where they stand, how the unit communicates, and how the individual passing technique from [[passing-forearm]] and [[passing-overhead]] is organized into a repeatable serve-receive system.

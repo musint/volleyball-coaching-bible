@@ -33,6 +33,8 @@ sources:
 
 # Setting: Distribution and Decision-Making
 
+Part of the [[setting]] skill spine.
+
 ## Overview
 
 Distribution is the cognitive and tactical layer of setting, the decision of *which hitter, what tempo, what location* the setter delivers to on any given pass. It sits on top of the mechanical layer covered in [[setting-hands]] (the overhead two-hand set), [[setting-jump]] (jump-set tempo execution), [[setting-backset]] (the back-set), and [[setting-out-of-system]] (broken-pass tools). A setter with elite hand mechanics and no distribution framework runs whatever play was called pre-rally; a setter with distribution mastery reads the pass-block-hitter triangle in real time and converts marginal information into terminal attacks.

@@ -25,6 +25,8 @@ sources:
 
 # Hitting Approach
 
+Part of the [[hitting]] skill spine.
+
 ## Overview
 
 The approach is the footwork pattern a hitter uses to convert horizontal

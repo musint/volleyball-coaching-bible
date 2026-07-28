@@ -16,6 +16,8 @@ sources:
 
 # Blocking hand position
 
+Part of the [[blocking]] skill spine.
+
 ## Overview
 Hand position at the block decides whether the blocker stuffs the ball,
 deflects it to an easy dig, or gets tooled out of bounds. Modern coaching is

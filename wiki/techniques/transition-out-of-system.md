@@ -24,6 +24,8 @@ sources:
 
 # Transition: Out of System
 
+Part of the [[transition]] skill spine.
+
 ## Overview
 
 Out-of-system (OOS) is the phase where the pass or the dig does not reach the setter cleanly enough for the intended offense to run, setter off the net, setter took the first contact, ball to a non-setter, pass deep. At 14U often over 40% of total contacts happen OOS, and the gap between teams that practice it and teams that do not is one of the largest compounding edges at club and HS.

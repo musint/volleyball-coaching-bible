@@ -18,6 +18,8 @@ sources:
 
 # Defense: Pursuit
 
+Part of the [[defense]] skill spine.
+
 ## Overview
 
 Pursuit is the movement skill that gets a defender from the read to the ball. The platform is useless if the body is not behind the ball; the read is wasted if the feet cannot cash it in. Modern teaching treats pursuit as the middle leg of **posture → pursuit → platform**, with the caveat that defensive time windows are shorter than serve-receive and the emergency-move inventory is larger.
